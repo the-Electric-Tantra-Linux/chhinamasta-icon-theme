@@ -1,19 +1,18 @@
 [Icon Theme]
 Name=Chhinamasta
-Comment=Chhinamasta icon theme
-Inherits=Flat-Remix-Blue
-
+Comment=Chhinamasta icon theme, part of the Electric Tantra Linux UI
+Inherits=Delta, eSuru++, Flat-Remix-Blue
 Example=folder
 
 FollowsColorScheme=true
 
-DesktopDefault=48
+DesktopDefault=64
 DesktopSizes=16,22,24,32,48,64
 ToolbarDefault=22
 ToolbarSizes=16,22,24,32,48
-MainToolbarDefault=22
+MainToolbarDefault=36
 MainToolbarSizes=16,22,24,32,48
-SmallDefault=16
+SmallDefault=24
 SmallSizes=16,22,24,32,48
 PanelDefault=48
 PanelSizes=16,22,24,32,48,64
