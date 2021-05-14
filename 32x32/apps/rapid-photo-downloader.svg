@@ -41,6 +41,6 @@
   <rect width="1" height="2" x="6" y="5"/>
   <rect width="1" height="3" x="8" y="4"/>
  </g>
- <path style="fill:#8b9cbe;opacity:0.1" d="M 15 2 C 14.446 2 14 2.446 14 3 L 14 4 C 14 3.446 14.446 3 15 3 L 27 3 L 30 6 L 30 5 L 27 2 L 15 2 z"/>
- <path style="fill:#8b9cbe;opacity:0.1" d="M 3 10 C 2.446 10 2 10.446 2 11 L 2 12 C 2 11.446 2.446 11 3 11 L 15 11 L 18 14 L 18 13 L 15 10 L 3 10 z"/>
+ <path style="fill:#f4f4f7;opacity:0.1" d="M 15 2 C 14.446 2 14 2.446 14 3 L 14 4 C 14 3.446 14.446 3 15 3 L 27 3 L 30 6 L 30 5 L 27 2 L 15 2 z"/>
+ <path style="fill:#f4f4f7;opacity:0.1" d="M 3 10 C 2.446 10 2 10.446 2 11 L 2 12 C 2 11.446 2.446 11 3 11 L 15 11 L 18 14 L 18 13 L 15 10 L 3 10 z"/>
 </svg>

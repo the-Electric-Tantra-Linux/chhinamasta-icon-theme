@@ -17,8 +17,8 @@
  </g>
  <rect style="opacity:0.2" width="18" height="24" x="7" y="5" rx="1.25" ry="1.25"/>
  <rect style="fill:#4f4f4f" width="18" height="24" x="7" y="4" rx="1.25" ry="1.25"/>
- <path style="opacity:0.1;fill:#8b9cbe" d="M 8.25,4 C 7.5575,4 7,4.5575 7,5.25 V 6.25 C 7,5.5575 7.5575,5 8.25,5 H 23.75 C 24.442,5 25,5.5575 25,6.25 V 5.25 C 25,4.5575 24.442,4 23.75,4 Z"/>
- <g style="opacity:0.4;fill:#8b9cbe">
+ <path style="opacity:0.1;fill:#f4f4f7" d="M 8.25,4 C 7.5575,4 7,4.5575 7,5.25 V 6.25 C 7,5.5575 7.5575,5 8.25,5 H 23.75 C 24.442,5 25,5.5575 25,6.25 V 5.25 C 25,4.5575 24.442,4 23.75,4 Z"/>
+ <g style="opacity:0.4;fill:#f4f4f7">
   <rect width="1" height="3" x="12" y="7"/>
   <rect width="1" height="3" x="12" y="11"/>
   <rect width="1" height="6" x="12" y="15"/>

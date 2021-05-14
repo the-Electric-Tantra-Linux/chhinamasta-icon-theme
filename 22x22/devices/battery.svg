@@ -1,9 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <rect style="opacity:0.2" width="16" height="18" x="3" y="3.5" rx="1" ry="1"/>
- <rect style="fill:#4f4f4f" width="16" height="18" x="3" y="3" rx="1" ry="1"/>
- <rect style="fill:#8e8e8e" width="10" height="2" x="6" y="1"/>
- <path style="opacity:0.2" d="m 5,5.5 v 4 h 12 v -4 z m 0,5 v 4 h 12 v -4 z m 0,5 v 4 h 12 v -4 z"/>
- <path style="fill:#c0f957" d="M 5,5 V 9 H 17 V 5 Z m 0,5 v 4 h 12 v -4 z m 0,5 v 4 h 12 v -4 z"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 6,1 V 1.5 H 16 V 1 Z"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 5,5 V 5.5 H 17 V 5 Z m 0,5 v 0.5 H 17 V 10 Z m 0,5 v 0.5 H 17 V 15 Z"/>
+<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#555e70; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="m9 4v1h4v-1zm-2.156 2c-0.281 0.047-0.844 0.25-0.844 1v10c0 1 1 1 1 1h8c1 0 1-1 1-1v-10s0-1-1-1h-8s-0.063-0.016-0.156 0zm0.156 1h8v10h-8zm1 1v8h6v-8z" fill="currentColor"/>
 </svg>

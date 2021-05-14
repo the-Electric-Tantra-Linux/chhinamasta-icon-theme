@@ -10,7 +10,7 @@
  <path fill="#fff" opacity=".2" d="m6 3v1h20v-1h-20z"/>
  <circle style="opacity:.2" cx="24.5" cy="24.5" r="7.5"/>
  <circle style="fill:#3cd240" cx="24.5" cy="23.5" r="7.5"/>
- <path style="fill:#8b9cbe" d="m21 24 3.5 4 3.5-4h-2v-5h-3v5z"/>
+ <path style="fill:#f4f4f7" d="m21 24 3.5 4 3.5-4h-2v-5h-3v5z"/>
  <rect style="opacity:.5" width="5" height="3" x="8" y="5"/>
  <rect style="opacity:.5" width="5" height="3" x="19" y="5"/>
 </svg>

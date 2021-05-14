@@ -9,8 +9,8 @@
  <path style="fill:none;stroke:#bfecbf;stroke-width:2.74285722" d="M 33.939033,34.774511 A 14.658777,14.659705 0 0 1 13.24788,33.963217"/>
  <path style="fill:#bfecbf" d="m 11.047619,16.380952 3.047619,-9.9047614 1.52381,5.3333334 4.571428,3.047619 z"/>
  <path style="fill:#bfecbf" d="m 36.952381,31.619048 -3.047619,9.904762 -1.52381,-5.333334 -4.571428,-3.047619 z"/>
- <circle style="fill:#8b9cbe" cx="24" cy="19.5" r="4.5"/>
- <circle style="fill:#8b9cbe" cx="28.5" cy="24.5" r="4.5"/>
- <circle style="fill:#8b9cbe" cx="19.5" cy="24.5" r="4.5"/>
- <rect style="fill:#8b9cbe" width="2" height="10.133" x="23" y="21.87"/>
+ <circle style="fill:#f4f4f7" cx="24" cy="19.5" r="4.5"/>
+ <circle style="fill:#f4f4f7" cx="28.5" cy="24.5" r="4.5"/>
+ <circle style="fill:#f4f4f7" cx="19.5" cy="24.5" r="4.5"/>
+ <rect style="fill:#f4f4f7" width="2" height="10.133" x="23" y="21.87"/>
 </svg>

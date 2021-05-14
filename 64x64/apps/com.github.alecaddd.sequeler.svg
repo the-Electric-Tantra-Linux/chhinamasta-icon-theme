@@ -29,5 +29,5 @@
  <path style="opacity:0.5;fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round" d="m 34,11 4,6"/>
  <circle style="opacity:0.2" cx="-9.5" cy="11.5" r="2.5" transform="scale(-1,1)"/>
  <circle style="fill:#ffcd40" cx="-9.5" cy="10.5" r="2.5" transform="scale(-1,1)"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 57.5,5 C 58.885,5 60,6.115 60,7.5 l 0,1 C 60,7.115 58.885,6 57.5,6 L 6.5,6 C 5.115,6 4,7.115 4,8.5 l 0,-1 C 4,6.115 5.115,5 6.5,5 Z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 57.5,5 C 58.885,5 60,6.115 60,7.5 l 0,1 C 60,7.115 58.885,6 57.5,6 L 6.5,6 C 5.115,6 4,7.115 4,8.5 l 0,-1 C 4,6.115 5.115,5 6.5,5 Z"/>
 </svg>

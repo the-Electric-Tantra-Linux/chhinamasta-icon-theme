@@ -31,7 +31,7 @@
  <rect style="fill:#f75f5f" width="2" height="15" x="15" y="23"/>
  <rect style="fill:#f75f5f" width="8" height="4" x="12" y="22"/>
  <path style="opacity:0.2" d="M 12,26 V 27 H 20 V 26 Z M 15,38 V 39 H 17 V 38 Z"/>
- <path style="fill:#8b9cbe;opacity:0.2" d="M 27 10 L 27 11 L 36 11 L 36 10 L 27 10 z M 29 15 L 29 16 L 31 18 L 31 17 L 29 15 z M 34 18 L 34 19 L 36 19 L 36 18 L 34 18 z M 31 20 L 31 21 L 34 21 L 34 20 L 31 20 z"/>
- <path style="fill:#8b9cbe;opacity:0.2" d="M 27 26 L 27 27 L 36 27 L 36 26 L 27 26 z M 29 31 L 29 32 L 31 34 L 31 33 L 29 31 z M 34 34 L 34 35 L 36 35 L 36 34 L 34 34 z M 31 36 L 31 37 L 34 37 L 34 36 L 31 36 z"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 12,22 V 23 H 20 V 22 Z"/>
+ <path style="fill:#f4f4f7;opacity:0.2" d="M 27 10 L 27 11 L 36 11 L 36 10 L 27 10 z M 29 15 L 29 16 L 31 18 L 31 17 L 29 15 z M 34 18 L 34 19 L 36 19 L 36 18 L 34 18 z M 31 20 L 31 21 L 34 21 L 34 20 L 31 20 z"/>
+ <path style="fill:#f4f4f7;opacity:0.2" d="M 27 26 L 27 27 L 36 27 L 36 26 L 27 26 z M 29 31 L 29 32 L 31 34 L 31 33 L 29 31 z M 34 34 L 34 35 L 36 35 L 36 34 L 34 34 z M 31 36 L 31 37 L 34 37 L 34 36 L 31 36 z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 12,22 V 23 H 20 V 22 Z"/>
 </svg>

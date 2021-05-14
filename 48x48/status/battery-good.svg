@@ -6,6 +6,6 @@
  <path style="opacity:0.35" d="m 11,12 v 8 h 26 v -8 z"/>
  <path style="fill:#c0f957" d="m 11,22 v 8 h 26 v -8 z"/>
  <path style="fill:#c0f957" d="m 11,32 v 8 h 26 v -8 z"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="m14 4v1h20v-1h-20z"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="m 11,22 v 1 h 26 v -1 z m 0,10 v 1 h 26 v -1 z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="m14 4v1h20v-1h-20z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="m 11,22 v 1 h 26 v -1 z m 0,10 v 1 h 26 v -1 z"/>
 </svg>

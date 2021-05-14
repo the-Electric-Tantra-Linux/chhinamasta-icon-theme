@@ -9,5 +9,5 @@
  <rect style="fill:#6eca60" width="18" height="18" x="23" y="31" rx="1.385" ry="1.385"/>
  <rect style="opacity:0.1" width="18" height="18" x="19" y="28" rx="1.385" ry="1.385"/>
  <rect style="fill:#ffd748" width="18" height="18" x="19" y="27" rx="1.385" ry="1.385"/>
- <path style="opacity:0.1;fill:#8b9cbe" d="M 12.8125,4 C 11.254375,4 10,5.2495813 10,6.8007812 v 1 C 10,6.2495812 11.254375,5 12.8125,5 H 38 V 4 Z"/>
+ <path style="opacity:0.1;fill:#f4f4f7" d="M 12.8125,4 C 11.254375,4 10,5.2495813 10,6.8007812 v 1 C 10,6.2495812 11.254375,5 12.8125,5 H 38 V 4 Z"/>
 </svg>

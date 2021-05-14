@@ -7,5 +7,5 @@
  <rect style="fill:#929292" width="8" height="4" x="20" y="-6" rx="1" ry="1" transform="rotate(90)"/>
  <rect style="opacity:0.2" width="8" height="4" x="21" y="-46" rx="1" ry="1" transform="rotate(90)"/>
  <rect style="fill:#929292" width="8" height="4" x="20" y="-46" rx="1" ry="1" transform="rotate(90)"/>
- <path style="fill:#8b9cbe;opacity:0.1" d="M 12 10 C 7.568 10 4 13.568 4 18 L 4 19 C 4 14.568 7.568 11 12 11 L 36 11 C 40.432 11 44 14.568 44 19 L 44 18 C 44 13.568 40.432 10 36 10 L 12 10 z"/>
+ <path style="fill:#f4f4f7;opacity:0.1" d="M 12 10 C 7.568 10 4 13.568 4 18 L 4 19 C 4 14.568 7.568 11 12 11 L 36 11 C 40.432 11 44 14.568 44 19 L 44 18 C 44 13.568 40.432 10 36 10 L 12 10 z"/>
 </svg>

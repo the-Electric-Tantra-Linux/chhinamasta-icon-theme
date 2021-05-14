@@ -9,5 +9,5 @@
  <path style="fill:#ec7537" transform="matrix(0.2,0,0,0.2,10,14)" d="M 30.1,29.9 60,0 H 30.1 L 0,31.7 V 60 Z"/>
  <path style="opacity:0.1" transform="matrix(0.2,0,0,0.2,10,15)" d="M 0,32.5 V 0 h 30.1 z"/>
  <path style="fill:#00a1e6" transform="matrix(0.2,0,0,0.2,10,14)" d="M 30.1,0 0,32.5 V 0 Z"/>
- <path style="opacity:0.1;fill:#8b9cbe" d="M 6.375,2 C 5.61325,2 5,2.6247906 5,3.4003906 v 1 C 5,3.6247906 5.61325,3 6.375,3 H 19 V 2 Z"/>
+ <path style="opacity:0.1;fill:#f4f4f7" d="M 6.375,2 C 5.61325,2 5,2.6247906 5,3.4003906 v 1 C 5,3.6247906 5.61325,3 6.375,3 H 19 V 2 Z"/>
 </svg>

@@ -10,5 +10,5 @@
  <rect transform="scale(1,-1)" x="13" y="-30" width="6" height="6" style="fill:#28acfe"/>
  <path d="m13 9v5h-5.0000002v6h5.0000002v5.000001h6v-5.000001h5v-6h-5v-5z" style="opacity:.2"/>
  <path d="m13.000001 7.9999989v5.0000001h-5.0000002v6h5.0000002v5.000001h6v-5.000001h5v-6h-5v-5.0000001z" style="fill:#fdf0e8"/>
- <path d="m13 2v1h6v-1h-6zm-5 6v1h5v-1h-5zm11 0v1h5v-1h-5zm-17 5v1h6v-1h-6zm22 0v1h6v-1h-6z" style="fill:#8b9cbe;opacity:.2"/>
+ <path d="m13 2v1h6v-1h-6zm-5 6v1h5v-1h-5zm11 0v1h5v-1h-5zm-17 5v1h6v-1h-6zm22 0v1h6v-1h-6z" style="fill:#f4f4f7;opacity:.2"/>
 </svg>

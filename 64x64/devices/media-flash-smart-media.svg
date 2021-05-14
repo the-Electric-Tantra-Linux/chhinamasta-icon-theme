@@ -13,5 +13,5 @@
   <rect width="3" height="8" x="19" y="9"/>
   <rect width="3" height="4" x="15" y="13"/>
  </g>
- <path style="opacity:0.1;fill:#8b9cbe" d="M 20 4 L 10 14 L 10 15 L 20 5 L 51.5 5 C 52.885 5 54 6.115 54 7.5 L 54 6.5 C 54 5.115 52.885 4 51.5 4 L 20 4 z"/>
+ <path style="opacity:0.1;fill:#f4f4f7" d="M 20 4 L 10 14 L 10 15 L 20 5 L 51.5 5 C 52.885 5 54 6.115 54 7.5 L 54 6.5 C 54 5.115 52.885 4 51.5 4 L 20 4 z"/>
 </svg>

@@ -16,9 +16,9 @@
   <rect style="fill:#009072" width="4" height="2" x="11" y="1054.98"/>
   <rect style="fill:#009072" width="4" height="2" x="18" y="1054.98"/>
   <rect style="fill:#009072" width="4" height="2" x="25" y="1054.98"/>
-  <path style="opacity:0.1;fill:#8b9cbe" transform="translate(0,1026.9764)" d="M 3.4492188 1 C 2.6459187 1 2 1.6459187 2 2.4492188 L 2 3.4492188 C 2 2.6459187 2.6459187 2 3.4492188 2 L 29.550781 2 C 30.354081 2 31 2.6459187 31 3.4492188 L 31 2.4492188 C 31 1.6459187 30.354081 1 29.550781 1 L 3.4492188 1 z"/>
+  <path style="opacity:0.1;fill:#f4f4f7" transform="translate(0,1026.9764)" d="M 3.4492188 1 C 2.6459187 1 2 1.6459187 2 2.4492188 L 2 3.4492188 C 2 2.6459187 2.6459187 2 3.4492188 2 L 29.550781 2 C 30.354081 2 31 2.6459187 31 3.4492188 L 31 2.4492188 C 31 1.6459187 30.354081 1 29.550781 1 L 3.4492188 1 z"/>
   <rect style="fill:#07e9ff" width="3" height="25" x="15.05" y="1027.98"/>
   <rect style="opacity:0.2" width="29" height="1" x="2" y="1052.98"/>
-  <path style="fill:#8b9cbe;opacity:0.2" transform="translate(0,1026.9764)" d="M 4 3 L 4 4 L 13 4 L 13 3 L 4 3 z M 20 3 L 20 4 L 29 4 L 29 3 L 20 3 z M 4 9 L 4 10 L 13 10 L 13 9 L 4 9 z M 20 9 L 20 10 L 29 10 L 29 9 L 20 9 z M 4 15 L 4 16 L 13 16 L 13 15 L 4 15 z M 20 15 L 20 16 L 29 16 L 29 15 L 20 15 z M 4 21 L 4 22 L 13 22 L 13 21 L 4 21 z M 20 21 L 20 22 L 29 22 L 29 21 L 20 21 z"/>
+  <path style="fill:#f4f4f7;opacity:0.2" transform="translate(0,1026.9764)" d="M 4 3 L 4 4 L 13 4 L 13 3 L 4 3 z M 20 3 L 20 4 L 29 4 L 29 3 L 20 3 z M 4 9 L 4 10 L 13 10 L 13 9 L 4 9 z M 20 9 L 20 10 L 29 10 L 29 9 L 20 9 z M 4 15 L 4 16 L 13 16 L 13 15 L 4 15 z M 20 15 L 20 16 L 29 16 L 29 15 L 20 15 z M 4 21 L 4 22 L 13 22 L 13 21 L 4 21 z M 20 21 L 20 22 L 29 22 L 29 21 L 20 21 z"/>
  </g>
 </svg>

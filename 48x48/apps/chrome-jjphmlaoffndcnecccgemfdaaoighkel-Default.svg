@@ -7,6 +7,6 @@
  <g>
   <circle style="opacity:0.2" cx="36" cy="37" r="11"/>
   <circle style="fill:#03a9f4" cx="36" cy="36" r="11"/>
-  <path style="fill:#8b9cbe" d="m 38,30 5,5 h -2 l -3,3 c 2,2 0,3 0,3 L 35.5,38.5 32,42 H 31 V 41 L 34.5,37.5 32,35 c 0,0 1,-2 3,0 l 3,-3 z"/>
+  <path style="fill:#f4f4f7" d="m 38,30 5,5 h -2 l -3,3 c 2,2 0,3 0,3 L 35.5,38.5 32,42 H 31 V 41 L 34.5,37.5 32,35 c 0,0 1,-2 3,0 l 3,-3 z"/>
  </g>
 </svg>

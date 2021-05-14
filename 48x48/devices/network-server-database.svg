@@ -40,6 +40,6 @@
   <circle style="fill:#76ff03" cx="30" cy="9" r="2"/>
   <circle style="fill:#ffff00" cx="35" cy="9" r="2"/>
   <circle style="fill:#ffcd40" cx="40" cy="9" r="2"/>
-  <path style="opacity:0.2;fill:#8b9cbe" d="M 6,5 C 4.892,5 4,5.892 4,7 V 8 C 4,6.892 4.892,6 6,6 H 42 C 43.108,6 44,6.892 44,8 V 7 C 44,5.892 43.108,5 42,5 Z"/>
+  <path style="opacity:0.2;fill:#f4f4f7" d="M 6,5 C 4.892,5 4,5.892 4,7 V 8 C 4,6.892 4.892,6 6,6 H 42 C 43.108,6 44,6.892 44,8 V 7 C 44,5.892 43.108,5 42,5 Z"/>
  </g>
 </svg>

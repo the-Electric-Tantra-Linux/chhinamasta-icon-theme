@@ -1,8 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#323a41; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#555e70;
+      }</style>
  </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 12.037109 1.2070312 C 11.942282 1.2077977 11.880859 1.21875 11.880859 1.21875 L 2.0371094 2.96875 C 1.0522994 3.1424 1.2246094 4.125 1.2246094 4.125 L 1.7246094 7 L 13.912109 7 L 13.037109 2.03125 C 12.906872 1.2926425 12.321591 1.204732 12.037109 1.2070312 z M 1 8 L 1 9 L 2 9 L 2 8 L 1 8 z M 3 8 L 3 9 L 4 9 L 4 8 L 3 8 z M 5 8 L 5 9 L 6 9 L 6 8 L 5 8 z M 7 8 L 7 9 L 8 9 L 8 8 L 7 8 z M 9 8 L 9 9 L 10 9 L 10 8 L 9 8 z M 11 8 L 11 9 L 12 9 L 12 8 L 11 8 z M 13 8 L 13 9 L 14 9 L 14 8 L 13 8 z M 15 8 L 15 9 L 16 9 L 16 8 L 15 8 z M 2.25 10 L 2.96875 13.96875 C 3.1424 14.95356 4.125 14.78125 4.125 14.78125 L 13.96875 13.03125 C 13.96875 13.03125 14.9549 12.85976 14.78125 11.875 L 14.441406 10 L 2.2519531 10 L 2.25 10 z" transform="translate(4 4)"/>
+ <g class="ColorScheme-Text" fill="currentColor" transform="matrix(.99144 .13053 -.13053 .99144 30.019 2.0988)">
+  <path class="ColorScheme-Text" fill="currentColor" transform="rotate(-7.5 -1.0014 230.05)" d="m4.9512 1.5039c-0.66918 0.049324-1.2413 0.56695-1.332 1.2559l-1.084 8.2402h1.0078l1.0684-8.1094c0.0336-0.25522 0.24674-0.42032 0.50195-0.38672l15.996 2.1055c0.25522 0.0336 0.42032 0.24869 0.38672 0.50391l-0.77539 5.8867h1.0098l0.75781-5.7559c0.10365-0.78733-0.46072-1.5213-1.248-1.625l-15.996-2.1074c-0.098416-0.012957-0.19737-0.014859-0.29297-0.0078126zm-2.8105 12.496-0.62695 4.7559c-0.10365 0.78733 0.45877 1.5213 1.2461 1.625l15.996 2.1055c0.78733 0.10365 1.5233-0.46072 1.627-1.248l0.95313-7.2383h-1.0098l-0.93555 7.1094c-0.0336 0.25522-0.24869 0.42032-0.50391 0.38672l-15.996-2.1074c-0.25522-0.0336-0.41837-0.24869-0.38477-0.50391l0.64258-4.8848h-1.0078z"/>
+ </g>
+ <rect class="ColorScheme-Text" fill="currentColor" transform="scale(-1)" x="-23" y="-13" width="2" height="1"/>
+ <rect class="ColorScheme-Text" fill="currentColor" transform="scale(-1)" x="-19" y="-13" width="3" height="1"/>
+ <rect class="ColorScheme-Text" fill="currentColor" transform="scale(-1)" x="-14" y="-13" width="3" height="1"/>
+ <rect class="ColorScheme-Text" fill="currentColor" transform="scale(-1)" x="-9" y="-13" width="3" height="1"/>
+ <rect class="ColorScheme-Text" fill="currentColor" x="1" y="12" width="3" height="1"/>
 </svg>

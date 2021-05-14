@@ -10,12 +10,12 @@
  <path style="fill:#deddda" d="m 8,29 h 7 v 2 H 8 Z m 0,0"/>
  <path style="fill:#17191e" d="M 24.000722,8.0000046 V 39.999995 H 38 V 36 h 6 V 12 H 38 V 8.0000046 Z"/>
  <path style="opacity:0.15" d="m 26,24 h 6 v 6 h -6 z m 0,0"/>
- <path style="fill:#8b9cbe;opacity:0.2" d="m 32,24 h 6.000001 v 6 H 32 Z m 0,0"/>
- <path style="fill:#8b9cbe;opacity:0.2" d="m 26,30 h 6 v 6 h -6 z m 0,0"/>
+ <path style="fill:#f4f4f7;opacity:0.2" d="m 32,24 h 6.000001 v 6 H 32 Z m 0,0"/>
+ <path style="fill:#f4f4f7;opacity:0.2" d="m 26,30 h 6 v 6 h -6 z m 0,0"/>
  <path style="opacity:0.15" d="m 32,30 h 6.000001 v 6 H 32 Z m 0,0"/>
  <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round" d="m 24,6.999515 v 36"/>
- <path style="fill:none;stroke:#b2bfd9;stroke-width:4;stroke-linecap:round" d="M 24,6 V 42"/>
+ <path style="fill:none;stroke:#f4f4f7;stroke-width:4;stroke-linecap:round" d="M 24,6 V 42"/>
  <rect style="opacity:0.2" width="7" height="1" x="8" y="31"/>
  <rect style="opacity:0.2" width="12" height="1" x="8" y="36"/>
- <path style="fill:#8b9cbe;opacity:0.1" d="M 6.8691406 8 A 2.8626769 2.9018174 0 0 0 4 10.908203 L 4 11.908203 A 2.8626769 2.9018174 0 0 1 6.8691406 9 L 24 9 L 24.628906 9 L 38 9 L 38 8 L 24.628906 8 L 24 8 L 6.8691406 8 z M 38 12 L 38 13 L 44 13 L 44 12 L 38 12 z"/>
+ <path style="fill:#f4f4f7;opacity:0.1" d="M 6.8691406 8 A 2.8626769 2.9018174 0 0 0 4 10.908203 L 4 11.908203 A 2.8626769 2.9018174 0 0 1 6.8691406 9 L 24 9 L 24.628906 9 L 38 9 L 38 8 L 24.628906 8 L 24 8 L 6.8691406 8 z M 38 12 L 38 13 L 44 13 L 44 12 L 38 12 z"/>
 </svg>

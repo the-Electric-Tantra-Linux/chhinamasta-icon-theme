@@ -1,3 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#323a41" d="M 8,0 5.5,4 H 7 V 9 H 4 V 7.7305 C 4.62,7.3705 5,6.71 5,6 5,4.9 4.1,4 3,4 1.9,4 1,4.9 1,6 1,6.71 1.38,7.3705 2,7.7305 V 9 C 2,11 4,11 4,11 H 7 V 12.27 C 6.38,12.63 6,13.29 6,14 6,15.1 6.9,16 8,16 9.1,16 10,15.1 10,14 10,13.29 9.62,12.63 9,12.27 V 11 H 12 C 12,11 14,11 14,9 V 8 C 14.554,8 15,7.554 15,7 V 5 C 15,4.446 14.554,4 14,4 H 12 C 11.446,4 11,4.446 11,5 V 7 C 11,7.554 11.446,8 12,8 V 9 H 9 V 4 H 10.5 Z"/>
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" color-interpolation-filters="sRGB">
+   <feBlend in2="BackgroundImage" mode="darken"/>
+  </filter>
+ </defs>
+ <g transform="translate(-383 117.19)" filter="url(#a)">
+  <path d="m390.5-112.57v1.7576l-2.3125 1.1875-0.1875 0.0625v0.86716h-0.5v1.5078h2v-1.5078h-0.5v-0.55466l1.5-0.78125v3.8438h-1.5l2 2 2-2h-1.5v-4.4688l1.5 0.75v1.1544h1v-1.4357l-0.1875-0.0937-2.3125-1.1875v-1.1013z" fill="#5d656b"/>
+ </g>
+ <g fill="#5d656b">
+  <path d="m3 0c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2zm0 1h10c0.554 0 1 0.446 1 1v12c0 0.554-0.446 1-1 1h-10c-0.554 0-1-0.446-1-1v-12c0-0.554 0.446-1 1-1z" color="#5d656b"/>
+  <rect x="3" y="2" width="1" height="1" ry=".5" color="#5d656b"/>
+  <rect x="12" y="2" width="1" height="1" ry=".5" color="#5d656b"/>
+  <rect x="3" y="13" width="1" height="1" ry=".5" color="#5d656b"/>
+  <rect x="12" y="13" width="1" height="1" ry=".5" color="#5d656b"/>
+  <circle cx="8" cy="4" r="1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <circle cx="10.5" cy="8.8725" r=".87246" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7449"/>
+ </g>
 </svg>

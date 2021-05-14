@@ -4,6 +4,6 @@
  <ellipse style="fill:#ffd428" cx="10" cy="11.25" rx="1" ry=".75"/>
  <ellipse style="fill:#72ba3e" cx="12" cy="9.75" rx="1" ry=".75"/>
  <ellipse style="fill:#17191e" cx="8" cy="9" rx="2" ry="1"/>
- <path style="fill:none;stroke:#b2bfd9;stroke-width:2;stroke-linecap:round" d="M 8,8 V 3.2"/>
+ <path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round" d="M 8,8 V 3.2"/>
  <circle style="fill:#e33d43" cx="8" cy="3" r="3"/>
 </svg>

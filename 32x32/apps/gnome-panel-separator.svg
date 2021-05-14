@@ -5,7 +5,7 @@
  <path fill="#fff" style="opacity:0.2" d="m3.5 2c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h25c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-25z"/>
  <path opacity=".2" d="m2 28.5v1c0 0.831 0.669 1.5 1.5 1.5h25c0.831 0 1.5-0.669 1.5-1.5v-1c0 0.831-0.669 1.5-1.5 1.5h-25c-0.831 0-1.5-0.669-1.5-1.5z"/>
  <path style="fill:#b3e5fc" d="M 4,16 8,13 V 15 H 12 V 17 H 8 V 19 Z"/>
- <rect style="opacity:0.2;fill:#8b9cbe" width="2" height="24" x="15" y="5" rx=".5" ry=".5"/>
+ <rect style="opacity:0.2;fill:#f4f4f7" width="2" height="24" x="15" y="5" rx=".5" ry=".5"/>
  <rect style="fill:#253951" width="2" height="24" x="15" y="4" rx=".5" ry=".5"/>
  <path style="fill:#b3e5fc" d="M 28,16 24,13 V 15 H 20 V 17 H 24 V 19 Z"/>
 </svg>

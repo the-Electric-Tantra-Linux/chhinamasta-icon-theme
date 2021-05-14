@@ -4,7 +4,7 @@
  <path fill="#fff" opacity=".1" d="m8 4c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h32c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2z"/>
  <path opacity=".2" d="m6 42v1c0 1.108 0.892 2 2 2h32c1.108 0 2-0.892 2-2v-1c0 1.108-0.892 2-2 2h-32c-1.108 0-2-0.892-2-2z"/>
  <path style="fill:#c3c3c3" d="M 13 8 C 11.338 8 10 9.338 10 11 L 10 20 L 10 23 L 10 26 L 13 26 L 35 26 L 38 26 L 38 23 L 38 20 L 38 11 C 38 9.338 36.662 8 35 8 L 13 8 z M 13 11 L 35 11 L 35 20 L 35 23 L 13 23 L 13 20 L 13 11 z"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 13 8 C 11.338 8 10 9.338 10 11 L 10 12 C 10 10.338 11.338 9 13 9 L 35 9 C 36.662 9 38 10.338 38 12 L 38 11 C 38 9.338 36.662 8 35 8 L 13 8 z M 13 23 L 13 24 L 35 24 L 35 23 L 13 23 z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 13 8 C 11.338 8 10 9.338 10 11 L 10 12 C 10 10.338 11.338 9 13 9 L 35 9 C 36.662 9 38 10.338 38 12 L 38 11 C 38 9.338 36.662 8 35 8 L 13 8 z M 13 23 L 13 24 L 35 24 L 35 23 L 13 23 z"/>
  <rect style="fill:#a4a4a4" width="2" height="9" x="23" y="25"/>
  <path style="fill:none;stroke:#c3c3c3;stroke-width:2;stroke-linecap:round" d="m 21.002874,27 1,-5"/>
  <path style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round" d="m 19.002874,28.000032 1,-5"/>

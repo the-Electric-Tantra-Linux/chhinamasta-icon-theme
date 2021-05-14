@@ -10,14 +10,14 @@
   <path style="opacity:0.2" d="m 7,1018.9764 v 4 h 12 v -4 z m 22,0 v 4 h 12 v -4 z m -22,8 v 4 h 12 v -4 z m 22,0 v 4 h 12 v -4 z m -22,8 v 4 h 12 v -4 z m 22,0 v 4 h 12 v -4 z m -22,8 v 4 h 12 v -4 z m 22,0 v 4 h 12 v -4 z"/>
   <rect style="fill:#07e9ff" width="4" height="34" x="22" y="1014.98"/>
   <rect style="fill:#ffff00" width="12" height="4" x="7" y="1017.98"/>
-  <path style="opacity:0.1;fill:#8b9cbe" d="m 6,1014.9764 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 36 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z"/>
+  <path style="opacity:0.1;fill:#f4f4f7" d="m 6,1014.9764 c -1.108,0 -2,0.892 -2,2 v 1 c 0,-1.108 0.892,-2 2,-2 h 36 c 1.108,0 2,0.892 2,2 v -1 c 0,-1.108 -0.892,-2 -2,-2 z"/>
   <rect style="fill:#07e9ff" width="4" height="12" x="1025.98" y="-19" transform="rotate(90)"/>
   <rect style="fill:#07e9ff" width="4" height="12" x="1033.98" y="-19" transform="rotate(90)"/>
   <rect style="fill:#07e9ff" width="4" height="12" x="1041.98" y="-19" transform="rotate(90)"/>
   <rect style="fill:#ffff00" width="12" height="4" x="29" y="1017.98"/>
   <rect style="fill:#07e9ff" width="4" height="12" x="1025.98" y="-41" transform="rotate(90)"/>
   <rect style="fill:#07e9ff" width="4" height="12" x="1033.98" y="-41" transform="rotate(90)"/>
-  <path style="opacity:0.2;fill:#8b9cbe" d="m 7,1017.9764 v 1 h 12 v -1 z m 22,0 v 1 h 12 v -1 z m -22,8 v 1 h 12 v -1 z m 22,0 v 1 h 12 v -1 z m -22,8 v 1 h 12 v -1 z m 22,0 v 1 h 12 v -1 z m -22,8 v 1 h 12 v -1 z m 22,0 v 1 h 12 v -1 z"/>
+  <path style="opacity:0.2;fill:#f4f4f7" d="m 7,1017.9764 v 1 h 12 v -1 z m 22,0 v 1 h 12 v -1 z m -22,8 v 1 h 12 v -1 z m 22,0 v 1 h 12 v -1 z m -22,8 v 1 h 12 v -1 z m 22,0 v 1 h 12 v -1 z m -22,8 v 1 h 12 v -1 z m 22,0 v 1 h 12 v -1 z"/>
   <rect style="opacity:0.2" width="40" height="1" x="4" y="1048.98"/>
   <rect style="fill:#07e9ff" width="4" height="12" x="1041.98" y="-41" transform="rotate(90)"/>
  </g>

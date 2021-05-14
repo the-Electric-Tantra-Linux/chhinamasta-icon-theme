@@ -82,5 +82,5 @@
  <rect style="fill:#785439" width="6" height="6" x="35" y="35" ry="0"/>
  <rect style="fill:#583c28" width="6" height="6" x="53" y="-41" ry="0" transform="scale(1,-1)"/>
  <rect style="fill:#785439" width="6" height="6" x="41" y="-53" ry="0" transform="scale(1,-1)"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 11 5 C 7.676 5 5 7.676 5 11 L 5 12 C 5 8.676 7.676 6 11 6 L 53 6 C 56.324 6 59 8.676 59 12 L 59 11 C 59 7.676 56.324 5 53 5 L 11 5 z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 11 5 C 7.676 5 5 7.676 5 11 L 5 12 C 5 8.676 7.676 6 11 6 L 53 6 C 56.324 6 59 8.676 59 12 L 59 11 C 59 7.676 56.324 5 53 5 L 11 5 z"/>
 </svg>

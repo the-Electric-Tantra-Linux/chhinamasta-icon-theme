@@ -10,7 +10,7 @@
  <rect style="fill:#1a5fb4" width="3" height="3" x="33" y="10"/>
  <rect style="fill:#1a5fb4" width="3" height="1" x="33" y="21"/>
  <rect style="fill:#1a5fb4" width="3" height=".5" x="33" y="19.5"/>
- <rect style="fill:#8b9cbe" width="3" height="13" x="-39" y="10" transform="scale(-1,1)"/>
+ <rect style="fill:#f4f4f7" width="3" height="13" x="-39" y="10" transform="scale(-1,1)"/>
  <rect style="fill:#ff7800" width="3" height="5" x="-39" y="18" transform="scale(-1,1)"/>
  <rect style="fill:#ff7800" width="3" height="1" x="-39" y="16" transform="scale(-1,1)"/>
  <path style="fill:#ed333b" d="m 24.000001,7.9999154 c -0.517949,0 -1.035898,0.020637 -1.499999,0.061259 -0.927466,0.081132 -1.499149,0.2310226 -1.5,0.3932863 V 22.999916 H 27 V 8.4544609 C 26.999143,8.2921972 26.427467,8.1423063 25.500002,8.0611745 25.0359,8.020584 24.51795,7.9999157 24.000001,7.9999154 Z"/>
@@ -40,7 +40,7 @@
  <rect style="fill:#5e5c64" width="3" height="2" x="-12" y="29" transform="scale(-1,1)"/>
  <rect style="fill:#5e5c64" width="3" height="1" x="-12" y="39" transform="scale(-1,1)"/>
  <rect style="fill:#5e5c64" width="3" height=".5" x="-12" y="37.5" transform="scale(-1,1)"/>
- <rect style="fill:#8b9cbe" width="3" height="12" x="12" y="29"/>
+ <rect style="fill:#f4f4f7" width="3" height="12" x="12" y="29"/>
  <rect style="fill:#c061cb" width="3" height="4" x="12" y="37"/>
  <rect style="fill:#c061cb" width="3" height="1" x="12" y="35"/>
  <rect style="fill:#3584e4" width="2" height="14" x="30" y="27"/>
@@ -52,8 +52,8 @@
  <rect style="fill:#ed333b" width="3" height="12" x="27" y="29"/>
  <rect style="fill:#a51d2d" width="1" height="4" x="28" y="34"/>
  <rect style="fill:#a51d2d" width="3" height="1" x="27" y="31"/>
- <path style="fill:#8b9cbe;opacity:0.2" d="M 9.2734375 4 C 7.4603576 4 6 5.3715565 6 7.0761719 L 6 8.0761719 C 6 6.3715565 7.4603576 5 9.2734375 5 L 38.726562 5 C 40.539642 5 42 6.3715565 42 8.0761719 L 42 7.0761719 C 42 5.3715565 40.539642 4 38.726562 4 L 9.2734375 4 z"/>
+ <path style="fill:#f4f4f7;opacity:0.2" d="M 9.2734375 4 C 7.4603576 4 6 5.3715565 6 7.0761719 L 6 8.0761719 C 6 6.3715565 7.4603576 5 9.2734375 5 L 38.726562 5 C 40.539642 5 42 6.3715565 42 8.0761719 L 42 7.0761719 C 42 5.3715565 40.539642 4 38.726562 4 L 9.2734375 4 z"/>
  <rect style="opacity:0.2" width="30" height="1" x="9" y="7"/>
  <rect style="opacity:0.2" width="30" height="1" x="9" y="26"/>
- <rect style="opacity:0.2;fill:#8b9cbe" width="30" height="1" x="9" y="23"/>
+ <rect style="opacity:0.2;fill:#f4f4f7" width="30" height="1" x="9" y="23"/>
 </svg>

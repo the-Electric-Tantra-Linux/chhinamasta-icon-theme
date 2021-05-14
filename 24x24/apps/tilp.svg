@@ -11,13 +11,13 @@
  <rect style="fill:#ff45ea" width="1.184" height=".789" x="14.2" y="5.89" transform="rotate(30)"/>
  <rect style="fill:#6771f2" width="1.184" height=".789" x="16.18" y="5.89" transform="rotate(30)"/>
  <rect style="fill:#6771f2" width="1.184" height=".789" x="18.15" y="5.89" transform="rotate(30)"/>
- <rect style="opacity:0.4;fill:#8b9cbe" width="1.184" height=".789" x="12.23" y="7.47" transform="rotate(30)"/>
- <rect style="opacity:0.4;fill:#8b9cbe" width="1.184" height=".789" x="14.2" y="7.47" transform="rotate(30)"/>
- <rect style="opacity:0.4;fill:#8b9cbe" width="1.184" height=".789" x="16.18" y="7.47" transform="rotate(30)"/>
- <rect style="opacity:0.4;fill:#8b9cbe" width="1.184" height=".789" x="18.15" y="7.47" transform="rotate(30)"/>
- <rect style="opacity:0.4;fill:#8b9cbe" width="1.184" height=".789" x="12.23" y="9.05" transform="rotate(30)"/>
- <rect style="opacity:0.4;fill:#8b9cbe" width="1.184" height=".789" x="14.2" y="9.05" transform="rotate(30)"/>
- <rect style="opacity:0.4;fill:#8b9cbe" width="1.184" height=".789" x="16.18" y="9.05" transform="rotate(30)"/>
- <rect style="opacity:0.4;fill:#8b9cbe" width="1.184" height=".789" x="18.15" y="9.05" transform="rotate(30)"/>
- <path style="fill:#8b9cbe;opacity:0.1" d="M 11.380859 2 C 10.95424 1.9950251 10.484111 2.2923372 10.197266 2.7949219 L 7.2070312 8.0371094 L 4.2148438 13.279297 L 3.5253906 14.488281 C 3.1169061 15.203988 2.9653308 15.986621 3.0234375 16.732422 C 3.0554425 16.142821 3.2075572 15.545158 3.5253906 14.988281 L 4.2148438 13.779297 L 7.2070312 8.5371094 L 10.197266 3.2949219 C 10.579727 2.624809 11.288324 2.3192087 11.785156 2.609375 L 19.556641 7.1484375 C 19.783439 7.2808959 19.915322 7.5208392 19.966797 7.7988281 C 20.05057 7.3120886 19.911659 6.8557814 19.556641 6.6484375 L 11.785156 2.109375 C 11.660948 2.0368334 11.523066 2.0016583 11.380859 2 z"/>
+ <rect style="opacity:0.4;fill:#f4f4f7" width="1.184" height=".789" x="12.23" y="7.47" transform="rotate(30)"/>
+ <rect style="opacity:0.4;fill:#f4f4f7" width="1.184" height=".789" x="14.2" y="7.47" transform="rotate(30)"/>
+ <rect style="opacity:0.4;fill:#f4f4f7" width="1.184" height=".789" x="16.18" y="7.47" transform="rotate(30)"/>
+ <rect style="opacity:0.4;fill:#f4f4f7" width="1.184" height=".789" x="18.15" y="7.47" transform="rotate(30)"/>
+ <rect style="opacity:0.4;fill:#f4f4f7" width="1.184" height=".789" x="12.23" y="9.05" transform="rotate(30)"/>
+ <rect style="opacity:0.4;fill:#f4f4f7" width="1.184" height=".789" x="14.2" y="9.05" transform="rotate(30)"/>
+ <rect style="opacity:0.4;fill:#f4f4f7" width="1.184" height=".789" x="16.18" y="9.05" transform="rotate(30)"/>
+ <rect style="opacity:0.4;fill:#f4f4f7" width="1.184" height=".789" x="18.15" y="9.05" transform="rotate(30)"/>
+ <path style="fill:#f4f4f7;opacity:0.1" d="M 11.380859 2 C 10.95424 1.9950251 10.484111 2.2923372 10.197266 2.7949219 L 7.2070312 8.0371094 L 4.2148438 13.279297 L 3.5253906 14.488281 C 3.1169061 15.203988 2.9653308 15.986621 3.0234375 16.732422 C 3.0554425 16.142821 3.2075572 15.545158 3.5253906 14.988281 L 4.2148438 13.779297 L 7.2070312 8.5371094 L 10.197266 3.2949219 C 10.579727 2.624809 11.288324 2.3192087 11.785156 2.609375 L 19.556641 7.1484375 C 19.783439 7.2808959 19.915322 7.5208392 19.966797 7.7988281 C 20.05057 7.3120886 19.911659 6.8557814 19.556641 6.6484375 L 11.785156 2.109375 C 11.660948 2.0368334 11.523066 2.0016583 11.380859 2 z"/>
 </svg>

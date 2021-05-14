@@ -10,7 +10,7 @@
  <circle style="fill:#f6f5f4" cx="16" cy="11" r="1"/>
  <rect style="fill:#949390" width="5" height="2" x="9" y="10"/>
  <path style="opacity:0.5;fill:#424048" d="m 9,10 v 2 h 1.898661 c 0.06736,-0.329076 0.101383,-0.664101 0.101562,-1 -0.0018,-0.336064 -0.03745,-0.671091 -0.106445,-1 z"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 2.5,4 C 1.669,4 1,4.669 1,5.5 V 6 C 1,5.169 1.669,4.5 2.5,4.5 h 18 C 21.331,4.5 22,5.169 22,6 V 5.5 C 22,4.669 21.331,4 20.5,4 Z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 2.5,4 C 1.669,4 1,4.669 1,5.5 V 6 C 1,5.169 1.669,4.5 2.5,4.5 h 18 C 21.331,4.5 22,5.169 22,6 V 5.5 C 22,4.669 21.331,4 20.5,4 Z"/>
  <rect style="opacity:0.2" width="5" height=".5" x="9" y="10"/>
  <rect style="opacity:0.3" width="13" height="1" x="5" y="18"/>
  <rect style="opacity:0.2" width="17" height=".5" x="3" y="16"/>

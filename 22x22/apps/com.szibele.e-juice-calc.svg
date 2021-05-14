@@ -7,7 +7,7 @@
  <rect style="fill:#b7b7b7" width="4" height="4" x="9" y="8"/>
  <path style="fill:#c77640" d="m 7,9 v 3 h 8 V 9 Z"/>
  <rect style="opacity:0.2" width="8" height=".5" x="7" y="8"/>
- <rect style="opacity:0.2;fill:#8b9cbe" width="8" height=".5" x="7" y="9"/>
- <path style="opacity:0.1;fill:#8b9cbe" d="M 6,6 C 5.446,6 5,6.446 5,7 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 10 c 0.554,0 1,0.446 1,1 V 7 C 17,6.446 16.554,6 16,6 Z"/>
- <rect style="opacity:0.2;fill:#8b9cbe" width="2" height=".5" x="12" y="1"/>
+ <rect style="opacity:0.2;fill:#f4f4f7" width="8" height=".5" x="7" y="9"/>
+ <path style="opacity:0.1;fill:#f4f4f7" d="M 6,6 C 5.446,6 5,6.446 5,7 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 10 c 0.554,0 1,0.446 1,1 V 7 C 17,6.446 16.554,6 16,6 Z"/>
+ <rect style="opacity:0.2;fill:#f4f4f7" width="2" height=".5" x="12" y="1"/>
 </svg>

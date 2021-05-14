@@ -18,6 +18,6 @@
   <rect style="opacity:0.5" width="5" height="1" x="13" y="-9" transform="scale(1,-1)"/>
   <rect style="opacity:0.5" width="6" height="1" x="13" y="-6" transform="scale(1,-1)"/>
   <path style="fill:#ff5959" d="m 8,3 h 3 v 8 L 9.5,9 8,11 Z"/>
-  <path style="opacity:0.2;fill:#8b9cbe" d="M 3,3 C 2.446,3 2,3.446 2,4 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 4 C 22,3.446 21.554,3 21,3 Z"/>
+  <path style="opacity:0.2;fill:#f4f4f7" d="M 3,3 C 2.446,3 2,3.446 2,4 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 18 c 0.554,0 1,0.446 1,1 V 4 C 22,3.446 21.554,3 21,3 Z"/>
  </g>
 </svg>

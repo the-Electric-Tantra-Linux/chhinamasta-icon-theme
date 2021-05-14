@@ -12,7 +12,7 @@
  <path style="fill:#5d472e" d="m 33,15 -9,9 h 4.5 z"/>
  <path style="fill:#d8cbb8" d="m 15,33 9,-9 v 4.5 z"/>
  <path style="fill:#5d472e" d="m 15,33 9,-9 h -4.5 z"/>
- <path style="opacity:0.1;fill:#8b9cbe" d="M 24,4 A 20,20 0 0 0 4,24 20,20 0 0 0 4.0196,24.586 20,20 0 0 1 24,5 20,20 0 0 1 43.98,24.414 20,20 0 0 0 44,24 20,20 0 0 0 24,4 Z"/>
+ <path style="opacity:0.1;fill:#f4f4f7" d="M 24,4 A 20,20 0 0 0 4,24 20,20 0 0 0 4.0196,24.586 20,20 0 0 1 24,5 20,20 0 0 1 43.98,24.414 20,20 0 0 0 44,24 20,20 0 0 0 24,4 Z"/>
  <path style="fill:#d8cbb8" d="M 24,8 V 24 L 20,20 Z"/>
  <path style="fill:#5d472e" d="m 24,8 v 16 l 4,-4 z"/>
  <path style="fill:#d8cbb8" d="M 24,40 V 24 l 4,4 z"/>

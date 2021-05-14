@@ -11,7 +11,7 @@
  <rect style="fill:#949390" width="10" height="4" x="19" y="21"/>
  <path style="opacity:0.5;fill:#424048" d="M 19 21 L 19 25 L 23.796875 25 A 10 10 0 0 0 24 23 A 10 10 0 0 0 23.787109 21 L 19 21 z"/>
  <rect style="opacity:0.2" width="36" height="1" x="6" y="32"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 6,8 C 4.338,8 3,9.338 3,11 v 1 C 3,10.338 4.338,9 6,9 h 36 c 1.662,0 3,1.338 3,3 V 11 C 45,9.338 43.662,8 42,8 Z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 6,8 C 4.338,8 3,9.338 3,11 v 1 C 3,10.338 4.338,9 6,9 h 36 c 1.662,0 3,1.338 3,3 V 11 C 45,9.338 43.662,8 42,8 Z"/>
  <rect style="opacity:0.2" width="10" height="1" x="19" y="21"/>
  <rect style="opacity:0.3" width="24" height="2" x="12" y="37"/>
 </svg>

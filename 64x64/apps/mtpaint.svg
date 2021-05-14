@@ -17,8 +17,8 @@
  <path style="opacity:.2" d="m49.5 5-4.25 7h8.5z"/>
  <path style="fill:#4f82ea" d="m49.5 4-4.25 7h8.5z"/>
  <rect style="opacity:.1" width="5" height="42" x="47" y="18"/>
- <path style="fill:#8b9cbe;opacity:.2" d="m32.5 4-4.25 7h0.607422l3.642578-6 3.642578 6h0.607422l-4.25-7z"/>
- <path style="fill:#8b9cbe;opacity:.2" d="m15.5 4-4.25 7h0.607422l3.642578-6 3.642578 6h0.607422l-4.25-7z"/>
- <path style="fill:#8b9cbe;opacity:.2" d="m49.5 4-4.25 7h0.607422l3.642578-6 3.642578 6h0.607422l-4.25-7z"/>
- <rect style="fill:#8b9cbe;opacity:.2" width="51" height="1" x="7" y="18"/>
+ <path style="fill:#f4f4f7;opacity:.2" d="m32.5 4-4.25 7h0.607422l3.642578-6 3.642578 6h0.607422l-4.25-7z"/>
+ <path style="fill:#f4f4f7;opacity:.2" d="m15.5 4-4.25 7h0.607422l3.642578-6 3.642578 6h0.607422l-4.25-7z"/>
+ <path style="fill:#f4f4f7;opacity:.2" d="m49.5 4-4.25 7h0.607422l3.642578-6 3.642578 6h0.607422l-4.25-7z"/>
+ <rect style="fill:#f4f4f7;opacity:.2" width="51" height="1" x="7" y="18"/>
 </svg>

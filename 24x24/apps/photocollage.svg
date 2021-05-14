@@ -4,9 +4,9 @@
  <path style="fill:#5fb319" d="m 14,2 0,7 8,0 0,-6 C 22,2.446 21.554,2 21,2 l -7,0 z"/>
  <path style="fill:#e74b4b" d="m 10,9.5 0,12.5 11,0 c 0.554,0 1,-0.446 1,-1 l 0,-11.5 -12,0 z"/>
  <path style="fill:#35abe4" d="M 2,9.5 2,21 c 0,0.554 0.446,1 1,1 l 6.5,0 0,-12.5 -7.5,0 z"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 2,3.5 2,3 C 2,2.446 2.446,2 3,2 l 18,0 c 0.554,0 1,0.446 1,1 l 0,0.5 c 0,-0.554 -0.446,-1 -1,-1 l -18,0 c -0.554,0 -1,0.446 -1,1 z"/>
- <rect style="fill:#8b9cbe" width="14" height="2" x="8" y="-11" transform="matrix(0,1,-1,0,0,0)"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 2,3.5 2,3 C 2,2.446 2.446,2 3,2 l 18,0 c 0.554,0 1,0.446 1,1 l 0,0.5 c 0,-0.554 -0.446,-1 -1,-1 l -18,0 c -0.554,0 -1,0.446 -1,1 z"/>
+ <rect style="fill:#f4f4f7" width="14" height="2" x="8" y="-11" transform="matrix(0,1,-1,0,0,0)"/>
  <rect style="opacity:0.2" width="20" height="2" x="2" y="8.5"/>
- <rect style="fill:#8b9cbe" width="20" height="2" x="2" y="8"/>
- <rect style="fill:#8b9cbe" width="8" height="2" x="2" y="-15" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#f4f4f7" width="20" height="2" x="2" y="8"/>
+ <rect style="fill:#f4f4f7" width="8" height="2" x="2" y="-15" transform="matrix(0,1,-1,0,0,0)"/>
 </svg>

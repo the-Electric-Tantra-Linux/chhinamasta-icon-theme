@@ -13,5 +13,5 @@
  <circle r="1" style="fill:#4f4f4f" cx="9.5" cy="12"/>
  <circle r="1" style="opacity:.1" cx="12.5" cy="12.5"/>
  <circle r="1" style="fill:#4f4f4f" cx="12.5" cy="12"/>
- <path style="opacity:.2;fill:#8b9cbe" d="m7 1c-3.324 0-6 2.676-6 6v0.5c0-3.324 2.676-6 6-6h8c3.324 0 6 2.676 6 6v-0.5c0-3.324-2.676-6-6-6h-8z"/>
+ <path style="opacity:.2;fill:#f4f4f7" d="m7 1c-3.324 0-6 2.676-6 6v0.5c0-3.324 2.676-6 6-6h8c3.324 0 6 2.676 6 6v-0.5c0-3.324-2.676-6-6-6h-8z"/>
 </svg>

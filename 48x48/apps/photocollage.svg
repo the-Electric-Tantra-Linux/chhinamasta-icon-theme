@@ -5,8 +5,8 @@
  <path style="fill:#e74b4b" d="M 20 19 L 20 44 L 42 44 C 43.108 44 44 43.108 44 42 L 44 19 L 20 19 z"/>
  <path style="fill:#35abe4" d="M 4 19 L 4 42 C 4 43.108 4.892 44 6 44 L 19 44 L 19 19 L 4 19 z"/>
  <path fill="#fff" opacity=".2" d="m4 7v-1c0-1.108 0.892-2 2-2h36c1.108 0 2 0.892 2 2v1c0-1.108-0.892-2-2-2h-36c-1.108 0-2 0.892-2 2z"/>
- <rect style="fill:#8b9cbe" width="28" height="4" x="16" y="-22" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#f4f4f7" width="28" height="4" x="16" y="-22" transform="matrix(0,1,-1,0,0,0)"/>
  <rect style="opacity:0.2" width="40" height="4" x="4" y="17"/>
- <rect style="fill:#8b9cbe" width="40" height="4" x="4" y="16"/>
- <rect style="fill:#8b9cbe" width="16" height="4" x="4" y="-30" transform="matrix(0,1,-1,0,0,0)"/>
+ <rect style="fill:#f4f4f7" width="40" height="4" x="4" y="16"/>
+ <rect style="fill:#f4f4f7" width="16" height="4" x="4" y="-30" transform="matrix(0,1,-1,0,0,0)"/>
 </svg>

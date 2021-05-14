@@ -4,6 +4,6 @@
  <rect style="fill:#8e8e8e" width="10" height="2" x="7" y="2"/>
  <path style="opacity:0.2" d="m 6,6.5 v 4 h 12 v -4 z m 0,5 v 4 h 12 v -4 z m 0,5 v 4 h 12 v -4 z"/>
  <path style="fill:#c0f957" d="M 6 6 L 6 10 L 18 10 L 18 6 L 6 6 z M 6 11 L 6 15 L 18 15 L 18 11 L 6 11 z M 6 16 L 6 20 L 18 20 L 18 16 L 6 16 z"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 7,2 7,2.5 17,2.5 17,2 7,2 Z"/>
- <path style="fill:#8b9cbe;opacity:0.2" d="M 6 6 L 6 6.5 L 18 6.5 L 18 6 L 6 6 z M 6 11 L 6 11.5 L 18 11.5 L 18 11 L 6 11 z M 6 16 L 6 16.5 L 18 16.5 L 18 16 L 6 16 z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 7,2 7,2.5 17,2.5 17,2 7,2 Z"/>
+ <path style="fill:#f4f4f7;opacity:0.2" d="M 6 6 L 6 6.5 L 18 6.5 L 18 6 L 6 6 z M 6 11 L 6 11.5 L 18 11.5 L 18 11 L 6 11 z M 6 16 L 6 16.5 L 18 16.5 L 18 16 L 6 16 z"/>
 </svg>

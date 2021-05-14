@@ -1,12 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <path style="opacity:0.2" d="M 2,9.23 V 29.400391 C 2,30.287391 2.7132094,31 3.5996093,31 H 30 V 9.23 Z"/>
- <path style="fill:#b2bfd9" d="M 2,8.23 V 28.400391 C 2,29.287391 2.7132094,30 3.5996093,30 H 30 V 8.23 Z"/>
- <path style="fill:#636e73" d="M 3.5996093,2 C 2.7132094,2 2,2.7126094 2,3.5996093 V 10 H 30 V 2 Z"/>
- <circle style="opacity:0.2" cx="6" cy="7" r="2"/>
- <circle style="fill:#8b9cbe" cx="6" cy="6" r="2"/>
- <circle style="opacity:0.2" cx="12" cy="7" r="2"/>
- <circle style="fill:#8b9cbe" cx="12" cy="6" r="2"/>
- <circle style="opacity:0.2" cx="18" cy="7" r="2"/>
- <circle style="fill:#8b9cbe" cx="18" cy="6" r="2"/>
- <path style="fill:#8b9cbe;opacity:0.1" d="M 3.5996094 2 C 2.7132095 2 2 2.7126095 2 3.5996094 L 2 4.5996094 C 2 3.7126095 2.7132095 3 3.5996094 3 L 30 3 L 30 2 L 3.5996094 2 z"/>
+<svg version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1,0,0,-1,0,32)">
+  <rect transform="scale(1,-1)" x="1.165e-5" y="-31" width="32" height="30" rx="2" ry="2" opacity=".25" stroke-width="1.0351"/>
+  <rect transform="scale(1,-1)" x="1" y="-30" width="30" height="28" rx="1" ry="1" fill="#eee" stroke-width=".96825"/>
+  <path d="m2 30c-0.55402 0-1-0.44599-1-1v-3h30v3c0 0.55401-0.44599 1-1 1z" fill="#e4e4e4" stroke-width="1.1859"/>
+  <path d="m16 30v-5h15v4c0 0.55401-0.44599 1-1 1z" fill="#556" stroke-width="1.1859"/>
+ </g>
+ <rect x="27" y="3" width="2" height="2" rx="1" fill="#f9f9f9"/>
+ <rect x="1" y="6" width="30" height="1" ry="0" opacity=".25"/>
+ <rect x="3" y="3" width="2" height="2" rx="1" fill="#999"/>
 </svg>

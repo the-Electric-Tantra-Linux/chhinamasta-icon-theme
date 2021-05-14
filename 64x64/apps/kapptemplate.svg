@@ -11,7 +11,7 @@
  <rect style="fill:#ffce29" width="12" height="12" x="32" y="38"/>
  <rect style="fill:#ffce29" width="12" height="12" x="20" y="50"/>
  <path style="fill:#ffce29" d="m 44,50 v 12 h 9 c 1.662,0 3,-1.338 3,-3 v -9 z"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 11 2 C 9.338 2 8 3.338 8 5 L 8 6 C 8 4.338 9.338 3 11 3 L 53 3 C 54.662 3 56 4.338 56 6 L 56 5 C 56 3.338 54.662 2 53 2 L 11 2 z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 11 2 C 9.338 2 8 3.338 8 5 L 8 6 C 8 4.338 9.338 3 11 3 L 53 3 C 54.662 3 56 4.338 56 6 L 56 5 C 56 3.338 54.662 2 53 2 L 11 2 z"/>
  <rect style="opacity:0.2" width="12" height="1" x="20" y="14"/>
  <rect style="opacity:0.2" width="12" height="1" x="44" y="14"/>
  <rect style="opacity:0.2" width="12" height="1" x="8" y="26"/>

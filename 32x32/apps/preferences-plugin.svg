@@ -1,5 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <path opacity=".2" d="m14 2c-1.662 0-3 1.338-3 3v3h-7c-1.108 0-2 0.892-2 2v6h3c1.662 0 3 1.338 3 3s-1.338 3-3 3h-3v7c0 1.108 0.892 2 2 2h7v-2c0-1.662 1.338-3 3-3s3 1.338 3 3v2h6c1.108 0 2-0.892 2-2v-7h3c1.662 0 3-1.338 3-3s-1.338-3-3-3h-3v-6c0-1.108-0.892-2-2-2h-6v-3c0-1.662-1.338-3-3-3z"/>
- <path fill="#2279bf" d="m14 1c-1.662 0-3 1.338-3 3v3h-7c-1.108 0-2 0.892-2 2v6h3c1.662 0 3 1.338 3 3s-1.338 3-3 3h-3v7c0 1.108 0.892 2 2 2h7v-2c0-1.662 1.338-3 3-3s3 1.338 3 3v2h6c1.108 0 2-0.892 2-2v-7h3c1.662 0 3-1.338 3-3s-1.338-3-3-3h-3v-6c0-1.108-0.892-2-2-2h-6v-3c0-1.662-1.338-3-3-3z"/>
- <path fill="#fff" opacity=".1" d="m14 1c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3s3 1.338 3 3v-1c0-1.662-1.338-3-3-3zm-10 6c-1.108 0-2 0.892-2 2v1c0-1.108 0.892-2 2-2h7v-1h-7zm13 0v1h6c1.108 0 2 0.892 2 2v-1c0-1.108-0.892-2-2-2h-6zm8 8v1h3c1.4904 0 2.7112 1.0793 2.9492 2.5 0.028-0.164 0.051-0.328 0.051-0.5 0-1.662-1.338-3-3-3h-3zm-17.051 3.5c-0.238 1.42-1.459 2.5-2.949 2.5h-3v1h3c1.662 0 3-1.338 3-3 0-0.172-0.0234-0.336-0.0508-0.5z"/>
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#555e70;
+      }</style>
+ </defs>
+ <g transform="translate(-384.57 -515.8)">
+  <rect transform="scale(1,-1)" x="387.57" y="-544.8" width="26" height="26" rx="1.615" ry="1.615" color="#000000" fill="#f2f2f2" overflow="visible"/>
+  <rect x="387.07" y="518.3" width="27" height="27" rx="2.16" ry="2.16" color="#000000" fill="none" opacity=".35" overflow="visible" stroke="#555761" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="ColorScheme-Text" d="m394.57 524.8v2h-2v12h16v-12h-2v-2h-4v2h-4v-2h-4" fill="#76e58c" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".25"/>
+ </g>
 </svg>

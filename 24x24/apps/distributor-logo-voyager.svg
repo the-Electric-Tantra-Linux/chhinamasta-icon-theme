@@ -2,8 +2,8 @@
  <g transform="translate(1,1)">
   <rect x="1" y="1.5" width="20" height="20" rx="1" ry="1" style="opacity:.2"/>
   <rect x="1" y="1" width="20" height="20" rx="1" ry="1" style="fill:#f6531c"/>
-  <path d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z" style="fill:#8b9cbe;opacity:.2"/>
+  <path d="m2 1c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z" style="fill:#f4f4f7;opacity:.2"/>
   <path d="m10 1.5v14h11v-1h-9v-13z" style="opacity:.2"/>
-  <path d="m10 1v14h11v-1h-9v-13z" style="fill:#8b9cbe"/>
+  <path d="m10 1v14h11v-1h-9v-13z" style="fill:#f4f4f7"/>
  </g>
 </svg>

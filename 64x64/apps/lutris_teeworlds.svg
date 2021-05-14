@@ -9,5 +9,5 @@
  <ellipse style="fill:#414141" cx="28" cy="26" rx="4" ry="6"/>
  <ellipse style="opacity:0.1" cx="40" cy="27" rx="4" ry="6"/>
  <ellipse style="fill:#414141" cx="40" cy="26" rx="4" ry="6"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 32 4 A 26 26 0 0 0 6 30 A 26 26 0 0 0 6.0214844 30.40625 A 26 26 0 0 1 32 5 A 26 26 0 0 1 57.978516 30.576172 A 26 26 0 0 0 58 30 A 26 26 0 0 0 32 4 z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 32 4 A 26 26 0 0 0 6 30 A 26 26 0 0 0 6.0214844 30.40625 A 26 26 0 0 1 32 5 A 26 26 0 0 1 57.978516 30.576172 A 26 26 0 0 0 58 30 A 26 26 0 0 0 32 4 z"/>
 </svg>

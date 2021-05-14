@@ -42,7 +42,7 @@
  <rect style="fill:#fe8b55" width="2" height="2" x="7" y="14"/>
  <rect style="fill:#fe8b55" width="2" height="2" x="11" y="12"/>
  <rect style="fill:#fe8b55" width="2" height="2" x="15" y="12"/>
- <path style="opacity:0.1;fill:#8b9cbe" d="m 11,2 v 0.5 h 2 2 V 2 H 13 Z M 7,4 v 0.5 h 2 2 V 4 H 9 Z m 8,0 v 0.5 h 2 V 4 Z M 5,6 V 6.5 H 7 V 6 Z m 12,0 v 0.5 h 2 V 6 Z M 3,10 v 0.5 H 5 V 10 Z m 16,0 v 0.5 h 2 V 10 Z"/>
+ <path style="opacity:0.1;fill:#f4f4f7" d="m 11,2 v 0.5 h 2 2 V 2 H 13 Z M 7,4 v 0.5 h 2 2 V 4 H 9 Z m 8,0 v 0.5 h 2 V 4 Z M 5,6 V 6.5 H 7 V 6 Z m 12,0 v 0.5 h 2 V 6 Z M 3,10 v 0.5 H 5 V 10 Z m 16,0 v 0.5 h 2 V 10 Z"/>
  <path style="fill:none" d="M -9 0 L -9 2 L -11 2 L -13 2 L -13 4 L -15 4 L -15 6 L -15 8 L -17 8 L -17 14 L -15 14 L -15 16 L -13 16 L -13 18 L -11 18 L -11 20 L -9 20 L -7 20 L -5 20 L -5 18 L -3 18 L -3 16 L -1 16 L -1 14 L 1 14 L 1 8 L -1 8 L -1 6 L -1 4 L -3 4 L -3 2 L -5 2 L -5 0 L -7 0 L -9 0 z"/>
  <path style="opacity:0.2" d="m 11,6 v 0.5 h 4 V 6 Z M 7,8 v 0.5 h 4 V 8 Z m 8,0 v 0.5 h 2 V 8 Z m -8,4 v 0.5 H 9 V 12 Z m 4,2 v 0.5 h 2 V 14 Z m 4,0 v 0.5 h 2 V 14 Z M 5,16 v 0.5 H 7 9 V 16 H 7 Z m 12,0 v 0.5 h 2 V 16 Z M 7,18 v 0.5 H 9 V 18 Z m 8,0 v 0.5 h 2 V 18 Z m -6,2 v 0.5 h 6 V 20 Z"/>
 </svg>

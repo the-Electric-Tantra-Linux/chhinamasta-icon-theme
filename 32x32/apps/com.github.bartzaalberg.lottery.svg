@@ -7,5 +7,5 @@
  <circle style="fill:#ffe15b" cx="7" cy="13" r="1"/>
  <circle style="fill:#ffe15b" cx="25" cy="13" r="1"/>
  <circle style="fill:#ffe15b" cx="16" cy="10.024" r="2"/>
- <path style="fill:#8b9cbe;opacity:0.2" d="M 16 2 A 14 14 0 0 0 2 16 A 14 14 0 0 0 2.0214844 16.585938 A 14 14 0 0 1 16 3 A 14 14 0 0 1 29.978516 16.414062 A 14 14 0 0 0 30 16 A 14 14 0 0 0 16 2 z"/>
+ <path style="fill:#f4f4f7;opacity:0.2" d="M 16 2 A 14 14 0 0 0 2 16 A 14 14 0 0 0 2.0214844 16.585938 A 14 14 0 0 1 16 3 A 14 14 0 0 1 29.978516 16.414062 A 14 14 0 0 0 30 16 A 14 14 0 0 0 16 2 z"/>
 </svg>

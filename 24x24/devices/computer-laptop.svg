@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <rect style="opacity:0.2" width="2" height="22" x="-20.5" y="-23" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#8e8e8e" width="2" height="22" x="-20" y="-23" rx="1" ry="1" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="opacity:0.2" width="20" height="14" x="2" y="4.5" rx="1" ry="1"/>
- <rect style="fill:#4f4f4f" width="20" height="14" x="2" y="4" rx="1" ry="1"/>
- <rect style="fill:#333333" width="16" height="10" x="4" y="6"/>
- <path style="opacity:0.1;fill:#8b9cbe" d="M 3,4 C 2.446,4 2,4.446 2,5 V 5.5 C 2,4.946 2.446,4.5 3,4.5 H 21 C 21.554,4.5 22,4.946 22,5.5 V 5 C 22,4.446 21.554,4 21,4 Z"/>
- <rect style="opacity:0.1;fill:#8b9cbe" width="16" height=".5" x="4" y="16"/>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#555e70; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+ <path class="ColorScheme-Text" d="M 5.002,6 C 4.447,6 4,6.487 4,7.092 v 9.816 C 4,17.513 4.447,18 5.002,18 H 18.998 C 19.553,18 20,17.513 20,16.908 V 7.092 C 20,6.487 19.553,6 18.998,6 Z m 0.51,1 H 18.488 C 18.772,7 19,7.22 19,7.494 v 9.012 A 0.502,0.502 0 0 1 18.488,17 H 5.512 A 0.502,0.502 0 0 1 5,16.506 V 7.494 C 5,7.221 5.228,7 5.512,7 Z" fill="currentColor"/>
+ <rect class="ColorScheme-Text" x="4" y="18" width="16" height="1" rx="0" ry="0" fill="currentColor"/>
 </svg>

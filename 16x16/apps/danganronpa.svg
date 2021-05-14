@@ -2,7 +2,7 @@
  <circle cx="12" cy="4" r="3" style="fill:#17191e"/>
  <path d="m8 2v14a8 7 0 0 0 8-7 8 7 0 0 0-8-7z" style="fill:#4f4f4f"/>
  <circle cx="4" cy="4" r="3" style="fill:#c9c9c9"/>
- <path d="m8 2a8 7 0 0 0-8 7 8 7 0 0 0 8 7v-14z" style="fill:#b2bfd9"/>
+ <path d="m8 2a8 7 0 0 0-8 7 8 7 0 0 0 8 7v-14z" style="fill:#f4f4f7"/>
  <rect x="7" y="11" width="1" height="2" style="fill:#17191e"/>
  <circle cx="5" cy="7" r="1" style="fill:#17191e"/>
  <path d="m8 11v2c4 0 6-3 6-3s-2 1-6 1z" style="fill:#f4f4f7"/>

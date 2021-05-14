@@ -16,5 +16,5 @@
  <path style="fill:none;stroke:#ffffe0;stroke-width:0.25;stroke-linecap:round" d="M 9.999998,10 11.033674,7.7476805"/>
  <path style="fill:none;stroke:#ffffe0;stroke-width:0.25;stroke-linecap:round" d="M 8.4999982,10 7.5237803,8.283615"/>
  <path style="fill:none;stroke:#ffffe0;stroke-width:0.25;stroke-linecap:round" d="M 9.207367,9 9.311692,5.905727"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 1.5,2 C 0.669,2 0,2.6897167 0,3.5458985 v 0.5 C 0,3.1897166 0.669,2.5 1.5,2.5 h 19 c 0.831,0 1.5,0.6897166 1.5,1.5458985 v -0.5 C 22,2.6897167 21.331,2 20.5,2 Z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 1.5,2 C 0.669,2 0,2.6897167 0,3.5458985 v 0.5 C 0,3.1897166 0.669,2.5 1.5,2.5 h 19 c 0.831,0 1.5,0.6897166 1.5,1.5458985 v -0.5 C 22,2.6897167 21.331,2 20.5,2 Z"/>
 </svg>

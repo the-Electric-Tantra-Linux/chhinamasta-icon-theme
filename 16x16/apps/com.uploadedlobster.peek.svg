@@ -8,5 +8,5 @@
   <path d="M 12.5,8.5 V 6.5 H 10.5"/>
   <path d="M 3.5,8.5 V 6.5 H 5.5"/>
  </g>
- <rect style="fill:#b2bfd9" width="4" height="1" x="6" y="2" rx=".5" ry=".5"/>
+ <rect style="fill:#f4f4f7" width="4" height="1" x="6" y="2" rx=".5" ry=".5"/>
 </svg>

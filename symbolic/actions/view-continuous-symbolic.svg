@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="opacity:0.3;fill:#323a41" d="M -12,10 H -4 V 12 H -12 Z" transform="scale(-1,1)"/>
- <path style="opacity:0.3;fill:#323a41" d="M -12,4 H -4 V 6 H -12 Z" transform="scale(-1,1)"/>
- <path style="fill:#323a41" d="M -14,7 H -2 V 9 H -14 Z" transform="scale(-1,1)"/>
- <path style="opacity:0.3;fill:#323a41" d="M -10,13 H -6 V 14 H -10 Z" transform="scale(-1,1)"/>
- <path style="opacity:0.3;fill:#323a41" d="M -10,2 H -6 V 3 H -10 Z" transform="scale(-1,1)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" enable-background="new"><defs><filter id="a" color-interpolation-filters="sRGB"><feBlend mode="darken" in2="BackgroundImage"/></filter></defs><g transform="matrix(-1 0 0 1 -393 -83.997)" color="#5d656b" fill="#5d656b"><rect y="94.997" x="-405" width="8" style="marker:none" ry="0" rx="0" height="1" overflow="visible" opacity=".35"/><rect y="85.997" x="-405" width="8" style="marker:none" ry="0" rx="0" height="1" overflow="visible" opacity=".35"/><rect y="97.997" x="-405" width="8" style="marker:none" ry="0" rx="0" height="1" overflow="visible" opacity=".35"/><rect y="88.997" x="-405" width="8" style="marker:none" ry="0" rx="0" height="1" overflow="visible" opacity=".35"/><path style="marker:none" overflow="visible" d="M-407 91.997h12v1h-12z"/></g></svg>

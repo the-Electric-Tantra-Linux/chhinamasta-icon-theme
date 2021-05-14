@@ -5,7 +5,7 @@
  <circle style="opacity:0.2" cx="11.5" cy="13" r="5.5"/>
  <circle style="fill:#9499b2" cx="11.5" cy="12.5" r="5.5"/>
  <rect style="opacity:0.1" width="2" height="8" x="15.66" y="-2.2" rx="1" ry=".889" transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"/>
- <rect style="fill:#8b9cbe" width="2" height="8" x="15.41" y="-2.64" rx="1" ry=".889" transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"/>
+ <rect style="fill:#f4f4f7" width="2" height="8" x="15.41" y="-2.64" rx="1" ry=".889" transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)"/>
  <rect style="opacity:0.1" width="1" height="2" x="11" y="4.5"/>
  <rect style="fill:#9499b2" width="1" height="2" x="11" y="4"/>
  <rect style="fill:#9499b2" width="1" height="2" x="11" y="19"/>
@@ -13,5 +13,5 @@
  <rect style="fill:#9499b2" width="1" height="2" x="12" y="-20" transform="matrix(0,1,-1,0,0,0)"/>
  <rect style="opacity:0.1" width="1" height="2" x="12.5" y="-5" transform="matrix(0,1,-1,0,0,0)"/>
  <rect style="fill:#9499b2" width="1" height="2" x="12" y="-5" transform="matrix(0,1,-1,0,0,0)"/>
- <path style="fill:#8b9cbe;opacity:0.1" d="M 11.5 3 A 9.5 9.5 0 0 0 2 12.5 A 9.5 9.5 0 0 0 2.0097656 12.707031 A 9.5 9.5 0 0 1 11.5 3.5 A 9.5 9.5 0 0 1 20.990234 12.792969 A 9.5 9.5 0 0 0 21 12.5 A 9.5 9.5 0 0 0 11.5 3 z"/>
+ <path style="fill:#f4f4f7;opacity:0.1" d="M 11.5 3 A 9.5 9.5 0 0 0 2 12.5 A 9.5 9.5 0 0 0 2.0097656 12.707031 A 9.5 9.5 0 0 1 11.5 3.5 A 9.5 9.5 0 0 1 20.990234 12.792969 A 9.5 9.5 0 0 0 21 12.5 A 9.5 9.5 0 0 0 11.5 3 z"/>
 </svg>

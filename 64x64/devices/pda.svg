@@ -7,5 +7,5 @@
  <circle style="fill:#4d4d4d" cx="44" cy="52" r="3"/>
  <rect style="fill:#4d4d4d" width="4" height="4" x="42" y="2"/>
  <circle style="fill:#4d4d4d" cx="32" cy="54" r="4"/>
- <path style="fill:#8b9cbe;opacity:0.2" d="M 13 2 C 10.23 2 8 4.23 8 7 L 8 8 C 8 5.23 10.23 3 13 3 L 51 3 C 53.77 3 56 5.23 56 8 L 56 7 C 56 4.23 53.77 2 51 2 L 13 2 z"/>
+ <path style="fill:#f4f4f7;opacity:0.2" d="M 13 2 C 10.23 2 8 4.23 8 7 L 8 8 C 8 5.23 10.23 3 13 3 L 51 3 C 53.77 3 56 5.23 56 8 L 56 7 C 56 4.23 53.77 2 51 2 L 13 2 z"/>
 </svg>

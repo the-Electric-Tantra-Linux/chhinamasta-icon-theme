@@ -9,6 +9,6 @@
   <rect width="4" height="4" x="36" y="-20"/>
   <rect width="4" height="4" x="42" y="-20"/>
  </g>
- <path style="fill:#8b9cbe;opacity:0.2" d="M 8 8 C 5.784 8 4 9.784 4 12 L 4 13 C 4 10.784 5.784 9 8 9 L 56 9 C 58.216 9 60 10.784 60 13 L 60 12 C 60 9.784 58.216 8 56 8 L 8 8 z"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 12,44 V 45 H 20 L 24,49 H 40 L 44,45 H 52 V 44 H 44 L 40,48 H 24 L 20,44 Z"/>
+ <path style="fill:#f4f4f7;opacity:0.2" d="M 8 8 C 5.784 8 4 9.784 4 12 L 4 13 C 4 10.784 5.784 9 8 9 L 56 9 C 58.216 9 60 10.784 60 13 L 60 12 C 60 9.784 58.216 8 56 8 L 8 8 z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 12,44 V 45 H 20 L 24,49 H 40 L 44,45 H 52 V 44 H 44 L 40,48 H 24 L 20,44 Z"/>
 </svg>

@@ -13,12 +13,12 @@
   <circle cx="17" cy="9" r="2"/>
  </g>
  <g transform="scale(2)">
-  <circle style="fill:#8b9cbe" cx="7" cy="16" r="2"/>
-  <circle style="fill:#8b9cbe" cx="14" cy="16" r="2"/>
-  <circle style="fill:#8b9cbe" cx="21" cy="16" r="2"/>
-  <circle style="fill:#8b9cbe" cx="17" cy="23" r="2"/>
-  <circle style="fill:#8b9cbe" cx="24" cy="23" r="2"/>
-  <circle style="fill:#8b9cbe" cx="17" cy="9" r="2"/>
+  <circle style="fill:#f4f4f7" cx="7" cy="16" r="2"/>
+  <circle style="fill:#f4f4f7" cx="14" cy="16" r="2"/>
+  <circle style="fill:#f4f4f7" cx="21" cy="16" r="2"/>
+  <circle style="fill:#f4f4f7" cx="17" cy="23" r="2"/>
+  <circle style="fill:#f4f4f7" cx="24" cy="23" r="2"/>
+  <circle style="fill:#f4f4f7" cx="17" cy="9" r="2"/>
  </g>
- <path style="opacity:.2;fill:#8b9cbe" d="m6.8007812 4c-1.5512 0-2.8007812 1.2495812-2.8007812 2.8007812v1c0-1.5511999 1.2495812-2.8007812 2.8007812-2.8007812h50.3984378c1.5512 0 2.800781 1.2495812 2.800781 2.8007812v-1c0-1.5511999-1.249581-2.8007812-2.800781-2.8007812h-50.3984378z"/>
+ <path style="opacity:.2;fill:#f4f4f7" d="m6.8007812 4c-1.5512 0-2.8007812 1.2495812-2.8007812 2.8007812v1c0-1.5511999 1.2495812-2.8007812 2.8007812-2.8007812h50.3984378c1.5512 0 2.800781 1.2495812 2.800781 2.8007812v-1c0-1.5511999-1.249581-2.8007812-2.800781-2.8007812h-50.3984378z"/>
 </svg>

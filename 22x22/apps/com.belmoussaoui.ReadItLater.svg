@@ -10,7 +10,7 @@
  <rect style="fill:#1a5fb4" width="1.5" height="1.3" x="15.5" y="4.37"/>
  <rect style="fill:#1a5fb4" width="1.5" height=".433" x="15.5" y="9.03"/>
  <rect style="fill:#1a5fb4" width="1.5" height=".217" x="15.5" y="8.48"/>
- <rect style="fill:#8b9cbe" width="1" height="6" x="-18" y="4" transform="scale(-1,1)"/>
+ <rect style="fill:#f4f4f7" width="1" height="6" x="-18" y="4" transform="scale(-1,1)"/>
  <rect style="fill:#ff7800" width="1" height="2" x="-18" y="8" transform="scale(-1,1)"/>
  <rect style="fill:#ff7800" width="1" height=".462" x="-18" y="6.57" transform="scale(-1,1)"/>
  <path style="fill:#ed333b" d="m 11.25,3.499963 c -0.215812,0 -0.431624,0.00894 -0.624999,0.026545 -0.386443,0.035157 -0.624645,0.1001098 -0.625,0.1704241 V 9.999963 H 12.5 V 3.6969327 C 12.499641,3.6266184 12.261443,3.5616658 11.875001,3.5265087 11.681625,3.5089194 11.465813,3.4999632 11.25,3.499963 Z"/>
@@ -40,7 +40,7 @@
  <rect style="fill:#5e5c64" width="1.5" height=".929" x="-5.5" y="13.47" transform="scale(-1,1)"/>
  <rect style="fill:#5e5c64" width="1.5" height=".464" x="-5.5" y="17.97" transform="scale(-1,1)"/>
  <rect style="fill:#5e5c64" width="1.5" height=".232" x="-5.5" y="17.38" transform="scale(-1,1)"/>
- <rect style="fill:#8b9cbe" width="1.5" height="5.5" x="5.5" y="13.5"/>
+ <rect style="fill:#f4f4f7" width="1.5" height="5.5" x="5.5" y="13.5"/>
  <rect style="fill:#c061cb" width="1.5" height="2" x="5.5" y="17"/>
  <rect style="fill:#c061cb" width="1.5" height=".458" x="5.5" y="16.05"/>
  <rect style="fill:#3584e4" width="1" height="6.5" x="14" y="12.5"/>
@@ -52,8 +52,8 @@
  <rect style="fill:#ed333b" width="1.5" height="5.5" x="12.5" y="13.5"/>
  <rect style="fill:#a51d2d" width=".5" height="1.833" x="13" y="15.99"/>
  <rect style="fill:#a51d2d" width="1.5" height=".458" x="12.5" y="14.54"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 3.6367188,1 C 2.7301788,1 2,1.6857782 2,2.5380859 v 0.5 C 2,2.1857782 2.7301788,1.5 3.6367188,1.5 H 18.363281 C 19.269821,1.5 20,2.1857782 20,3.0380859 v -0.5 C 20,1.6857782 19.269821,1 18.363281,1 Z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 3.6367188,1 C 2.7301788,1 2,1.6857782 2,2.5380859 v 0.5 C 2,2.1857782 2.7301788,1.5 3.6367188,1.5 H 18.363281 C 19.269821,1.5 20,2.1857782 20,3.0380859 v -0.5 C 20,1.6857782 19.269821,1 18.363281,1 Z"/>
  <rect style="opacity:0.2" width="14" height=".5" x="4" y="12"/>
  <rect style="opacity:0.2" width="14" height=".5" x="4" y="3"/>
- <rect style="opacity:0.2;fill:#8b9cbe" width="14" height=".5" x="4" y="10"/>
+ <rect style="opacity:0.2;fill:#f4f4f7" width="14" height=".5" x="4" y="10"/>
 </svg>

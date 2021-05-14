@@ -9,10 +9,10 @@
  <path d="m12 16h5v-4h6l-1e-6 -10h-10.999999z" style="fill:#39c713"/>
  <path d="m17 12v4h12.999999l1e-6 -4-3-3 3-3-1e-6 -4h-7l1e-6 10z" style="fill:#2d9d0e"/>
  <path d="m7 6v5h1v-5zm10 0v5h1v-5zm-10 7v4h1v-4z" style="opacity:.2"/>
- <path d="m7 5v5h1v-5zm10 0v5h1v-5zm-10 7v4h1v-4z" style="fill:#8b9cbe"/>
+ <path d="m7 5v5h1v-5zm10 0v5h1v-5zm-10 7v4h1v-4z" style="fill:#f4f4f7"/>
  <rect x="12" y="21" width="1" height="6" style="opacity:.2"/>
- <rect x="12" y="20" width="1" height="6" style="fill:#8b9cbe"/>
+ <rect x="12" y="20" width="1" height="6" style="fill:#f4f4f7"/>
  <rect x="19" y="21" width="1" height="6" style="opacity:.2"/>
- <rect x="19" y="20" width="1" height="6" style="fill:#8b9cbe"/>
- <path d="m2 2v1h10 11 7v-1h-7-11-10zm25.5 7.5-0.5 0.5 3 3v-1l-2.5-2.5z" style="fill:#8b9cbe;opacity:.2"/>
+ <rect x="19" y="20" width="1" height="6" style="fill:#f4f4f7"/>
+ <path d="m2 2v1h10 11 7v-1h-7-11-10zm25.5 7.5-0.5 0.5 3 3v-1l-2.5-2.5z" style="fill:#f4f4f7;opacity:.2"/>
 </svg>

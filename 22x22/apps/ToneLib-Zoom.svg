@@ -11,15 +11,15 @@
  <rect style="fill:#44525e" width="1" height="5" x="10" y="3"/>
  <rect style="fill:#44525e" width="1" height="3" x="8" y="3"/>
  <circle style="opacity:0.2" cx="17.324" cy="1.768" r="4" transform="rotate(45)"/>
- <circle style="fill:#8b9cbe" cx="16.971" cy="1.414" r="4" transform="rotate(45)"/>
+ <circle style="fill:#f4f4f7" cx="16.971" cy="1.414" r="4" transform="rotate(45)"/>
  <path style="fill:#129eee" d="M 13.828427,10.171576 A 4,4 0 0 0 13.449322,9.843574 l -1.742215,1.742216 a 0.50005,0.50005 0 1 0 0.707106,0.707106 l 1.742908,-1.742907 a 4,4 0 0 0 -0.328694,-0.378413 z"/>
  <rect style="opacity:0.2" width="10" height=".5" x="6" y="2.5"/>
- <path style="opacity:0.1;fill:#8b9cbe" d="M 5,1 C 4.446,1 4,1.446 4,2 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 12 c 0.554,0 1,0.446 1,1 V 2 C 18,1.446 17.554,1 17,1 Z"/>
+ <path style="opacity:0.1;fill:#f4f4f7" d="M 5,1 C 4.446,1 4,1.446 4,2 v 0.5 c 0,-0.554 0.446,-1 1,-1 h 12 c 0.554,0 1,0.446 1,1 V 2 C 18,1.446 17.554,1 17,1 Z"/>
  <rect style="fill:#44525e" width="1" height="2.5" x="5" y="-10.5" transform="rotate(90)"/>
  <rect style="fill:#44525e" width="1" height="3" x="14" y="3"/>
  <rect style="fill:#44525e" width="1" height="3" x="12" y="5"/>
  <rect style="fill:#44525e" width="1" height="2.5" x="5" y="-14.5" transform="rotate(90)"/>
  <rect style="fill:#44525e" width="1" height="2.5" x="3" y="-14.5" transform="rotate(90)"/>
  <rect style="fill:#44525e" width="1" height="2.5" x="7" y="-15" transform="rotate(90)"/>
- <rect style="opacity:0.1;fill:#8b9cbe" width="10" height=".5" x="6" y="8.5"/>
+ <rect style="opacity:0.1;fill:#f4f4f7" width="10" height=".5" x="6" y="8.5"/>
 </svg>

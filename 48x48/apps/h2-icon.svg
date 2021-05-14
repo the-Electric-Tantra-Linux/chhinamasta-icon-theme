@@ -12,11 +12,11 @@
  <rect style="opacity:0.82;fill:#314277" width="4" height="4" x="24" y="34" rx="1" ry="1"/>
  <rect style="opacity:0.56;fill:#314277" width="4" height="4" x="29" y="34" rx="1" ry="1"/>
  <rect style="opacity:0.3;fill:#314277" width="4" height="4" x="34" y="34" rx="1" ry="1"/>
- <rect style="fill:#8b9cbe" width="13" height="4" x="23" y="12" rx="1" ry="1"/>
- <rect style="fill:#8b9cbe" width="13" height="4" x="23" y="24" rx="1" ry="1"/>
- <rect style="fill:#8b9cbe" width="10" height="4" x="18" y="-27" rx=".769" ry="1" transform="rotate(90)"/>
- <rect style="fill:#8b9cbe" width="12" height="4" x="-36" y="-22" rx=".923" ry="1" transform="scale(-1)"/>
- <rect style="fill:#8b9cbe" width="10" height="4" x="12" y="-36" rx=".769" ry="1" transform="rotate(90)"/>
+ <rect style="fill:#f4f4f7" width="13" height="4" x="23" y="12" rx="1" ry="1"/>
+ <rect style="fill:#f4f4f7" width="13" height="4" x="23" y="24" rx="1" ry="1"/>
+ <rect style="fill:#f4f4f7" width="10" height="4" x="18" y="-27" rx=".769" ry="1" transform="rotate(90)"/>
+ <rect style="fill:#f4f4f7" width="12" height="4" x="-36" y="-22" rx=".923" ry="1" transform="scale(-1)"/>
+ <rect style="fill:#f4f4f7" width="10" height="4" x="12" y="-36" rx=".769" ry="1" transform="rotate(90)"/>
  <path style="opacity:0.1" d="M 16 23 L 16 24 L 20 24 L 20 23 L 16 23 z M 9 29 L 9 30 C 9 30.554 9.446 31 10 31 L 15 31 C 15.554 31 16 30.554 16 30 L 16 29 C 16 29.554 15.554 30 15 30 L 10 30 C 9.446 30 9 29.554 9 29 z M 20 29 L 20 30 C 20 30.554 20.446 31 21 31 L 38 31 C 38.554 31 39 30.554 39 30 L 39 29 C 39 29.554 38.554 30 38 30 L 21 30 C 20.446 30 20 29.554 20 29 z"/>
- <path style="opacity:0.1;fill:#8b9cbe" d="M 10,8 C 9.446,8 9,8.446 9,9 v 1 C 9,9.446 9.446,9 10,9 h 5 c 0.554,0 1,0.446 1,1 V 9 C 16,8.446 15.554,8 15,8 Z m 11,0 c -0.554,0 -1,0.446 -1,1 v 1 c 0,-0.554 0.446,-1 1,-1 h 17 c 0.554,0 1,0.446 1,1 V 9 C 39,8.446 38.554,8 38,8 Z m -5,8 v 1 h 4 v -1 z"/>
+ <path style="opacity:0.1;fill:#f4f4f7" d="M 10,8 C 9.446,8 9,8.446 9,9 v 1 C 9,9.446 9.446,9 10,9 h 5 c 0.554,0 1,0.446 1,1 V 9 C 16,8.446 15.554,8 15,8 Z m 11,0 c -0.554,0 -1,0.446 -1,1 v 1 c 0,-0.554 0.446,-1 1,-1 h 17 c 0.554,0 1,0.446 1,1 V 9 C 39,8.446 38.554,8 38,8 Z m -5,8 v 1 h 4 v -1 z"/>
 </svg>

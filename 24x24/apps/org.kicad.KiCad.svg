@@ -5,5 +5,5 @@
  <path fill="#ffd676" d="m4 5v15h3v-3.5l2.5 3.5h3.5l-5-7.5 5-7.5h-3.5l-2.5 3.5v-3.5z"/>
  <path fill="#ffd676" d="m16 10h3v10h-3z"/>
  <circle fill="#f70" cx="17.5" cy="6.5" r="1.5"/>
- <path style="fill:#8b9cbe;opacity:0.1" d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 3.5 C 2 2.946 2.446 2.5 3 2.5 L 17 2.5 A 5 5 0 0 1 22 7.5 L 22 7 A 5 5 0 0 0 17 2 L 3 2 z"/>
+ <path style="fill:#f4f4f7;opacity:0.1" d="M 3 2 C 2.446 2 2 2.446 2 3 L 2 3.5 C 2 2.946 2.446 2.5 3 2.5 L 17 2.5 A 5 5 0 0 1 22 7.5 L 22 7 A 5 5 0 0 0 17 2 L 3 2 z"/>
 </svg>

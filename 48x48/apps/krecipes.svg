@@ -11,9 +11,9 @@
  <path style="fill:#17191e" d="M 41.625,21 C 43.5,21 46,19 46,18 46,17.446 45.72125,17 45.375,17 h -3.75 C 41.27875,17 41,17.446 41,18 v 2 c 0,0.554 0.27875,1 0.625,1 z"/>
  <rect style="opacity:0.2" width="22" height="22" x="25" y="25" rx="2" ry="2"/>
  <rect style="fill:#f34235" width="22" height="22" x="25" y="24" rx="2" ry="2"/>
- <rect style="fill:#8b9cbe" width="12" height="3" x="30" y="28"/>
- <rect style="fill:#8b9cbe" width="12" height="3" x="30" y="33"/>
- <rect style="fill:#8b9cbe" width="12" height="3" x="30" y="38"/>
- <path style="opacity:0.1;fill:#8b9cbe" d="M 24 6 A 19 5 0 0 0 5 11 L 5 12 A 19 5 0 0 1 24 7 A 19 5 0 0 1 43 12 L 43 11 A 19 5 0 0 0 24 6 z"/>
- <path id="ellipse924" style="opacity:0.2;fill:#8b9cbe" d="M 24 9 A 16 4 0 0 0 8 13 A 16 4 0 0 0 8.1445312 13.496094 A 16 4 0 0 1 24 10 A 16 4 0 0 1 39.855469 13.503906 A 16 4 0 0 0 40 13 A 16 4 0 0 0 24 9 z"/>
+ <rect style="fill:#f4f4f7" width="12" height="3" x="30" y="28"/>
+ <rect style="fill:#f4f4f7" width="12" height="3" x="30" y="33"/>
+ <rect style="fill:#f4f4f7" width="12" height="3" x="30" y="38"/>
+ <path style="opacity:0.1;fill:#f4f4f7" d="M 24 6 A 19 5 0 0 0 5 11 L 5 12 A 19 5 0 0 1 24 7 A 19 5 0 0 1 43 12 L 43 11 A 19 5 0 0 0 24 6 z"/>
+ <path id="ellipse924" style="opacity:0.2;fill:#f4f4f7" d="M 24 9 A 16 4 0 0 0 8 13 A 16 4 0 0 0 8.1445312 13.496094 A 16 4 0 0 1 24 10 A 16 4 0 0 1 39.855469 13.503906 A 16 4 0 0 0 40 13 A 16 4 0 0 0 24 9 z"/>
 </svg>

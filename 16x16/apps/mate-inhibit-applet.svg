@@ -7,5 +7,5 @@
  <rect style="fill:#5bbd41" width="11" height="14" x="-13" y="-16" rx=".688" ry=".7" transform="matrix(0,-1,-1,0,0,0)"/>
  <path style="fill:none;stroke:#17191e;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 5,5 H 9 L 5,10 H 9"/>
  <path style="fill:none;stroke:#17191e;stroke-linecap:round;stroke-linejoin:round" d="M 11.507121,4.5 H 13.5 L 11.507121,7.49995 H 13.5"/>
- <path style="fill:none;stroke:#b2bfd9;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 1.014,2 H 2 v 12 0 0"/>
+ <path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M 1.014,2 H 2 v 12 0 0"/>
 </svg>

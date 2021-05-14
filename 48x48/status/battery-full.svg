@@ -4,6 +4,6 @@
  <rect style="fill:#8e8e8e" width="20" height="4" x="14" y="4"/>
  <path style="opacity:0.2" d="m 11,13 v 8 h 26 v -8 z m 0,10 v 8 h 26 v -8 z m 0,10 v 8 h 26 v -8 z"/>
  <path style="fill:#c0f957" d="m 11,12 v 8 h 26 v -8 z m 0,10 v 8 h 26 v -8 z m 0,10 v 8 h 26 v -8 z"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="m14 4v1h20v-1h-20z"/>
- <path style="fill:#8b9cbe;opacity:0.2" d="M 11 12 L 11 13 L 37 13 L 37 12 L 11 12 z M 11 22 L 11 23 L 37 23 L 37 22 L 11 22 z M 11 32 L 11 33 L 37 33 L 37 32 L 11 32 z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="m14 4v1h20v-1h-20z"/>
+ <path style="fill:#f4f4f7;opacity:0.2" d="M 11 12 L 11 13 L 37 13 L 37 12 L 11 12 z M 11 22 L 11 23 L 37 23 L 37 22 L 11 22 z M 11 32 L 11 33 L 37 33 L 37 32 L 11 32 z"/>
 </svg>

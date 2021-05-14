@@ -6,6 +6,6 @@
  <path style="opacity:0.15" d="M 2.7539063,2.7539063 C 1.6694063,3.8384062 1,5.338 1,7 v 4 4 c 0,1.662 0.6694062,3.161594 1.7539063,4.246094 L 6.5,15.5 V 11 6.5 Z"/>
  <rect style="opacity:0.2" width="14" height="14" x="4" y="4.5" rx="3" ry="3"/>
  <rect style="fill:#eceeeb" width="14" height="14" x="4" y="4" rx="3" ry="3"/>
- <path style="opacity:0.2;fill:#8b9cbe" d="M 7,1 C 3.676,1 1,3.676 1,7 v 0.5 c 0,-3.324 2.676,-6 6,-6 h 8 c 3.324,0 6,2.676 6,6 V 7 C 21,3.676 18.324,1 15,1 Z"/>
+ <path style="opacity:0.2;fill:#f4f4f7" d="M 7,1 C 3.676,1 1,3.676 1,7 v 0.5 c 0,-3.324 2.676,-6 6,-6 h 8 c 3.324,0 6,2.676 6,6 V 7 C 21,3.676 18.324,1 15,1 Z"/>
  <path style="fill:#4f4f4f" d="m 7,7 v 3 2 3 h 2 v -3 h 4 v 3 h 2 V 12 10 7 h -2 v 3 H 9 V 7 Z"/>
 </svg>

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <circle style="fill:#b2bfd9" cx="8.5" cy="8.5" r="7.5"/>
+ <circle style="fill:#f4f4f7" cx="8.5" cy="8.5" r="7.5"/>
  <path style="fill:#bac61d" d="M 8.5 4 C 4.910181 3.9999989 2 6.8135981 2 10.285156 L 2 12.222656 A 7.5 7.5 0 0 0 8.1757812 15.984375 C 8.6433798 15.973694 9.1132687 15.937641 9.5820312 15.914062 A 7.5 7.5 0 0 0 15 12.228516 L 15 10.285156 C 15 6.8135988 12.089818 4 8.5 4 z"/>
  <circle style="fill:#f4f4f7" cx="8.5" cy="9.5" r="3.5"/>
  <circle style="fill:#4d4d4d" cx="8.5" cy="9.5" r="2.5"/>

@@ -19,7 +19,7 @@
   <path d="m10 8h2l1-1v-2l-1-1h-2l-1 1v2z" style="fill:#de7ca2"/>
   <rect x="10" y="5.5" width="2" height="2" style="opacity:.2"/>
   <rect x="10" y="5" width="2" height="2" style="fill:#f6e195"/>
-  <path d="m4 12 0.4277344 0.5h13.144532l0.427734-0.5zm5 8 1 0.5h2l1-0.5z" style="fill:#8b9cbe;opacity:.2"/>
-  <path d="m9 1c-0.554 0-1 0.446-1 1l-3 1-1 2h-1v0.5h1l1-2 3-1c0-0.554 0.446-1 1-1h4c0.554 0 1 0.446 1 1l3 1 1 2h1v-0.5h-1l-1-2-3-1c0-0.554-0.446-1-1-1zm-8 4 0.25 0.5h0.75v-0.5zm19 0v0.5h0.75l0.25-0.5z" style="fill:#8b9cbe;opacity:.2"/>
+  <path d="m4 12 0.4277344 0.5h13.144532l0.427734-0.5zm5 8 1 0.5h2l1-0.5z" style="fill:#f4f4f7;opacity:.2"/>
+  <path d="m9 1c-0.554 0-1 0.446-1 1l-3 1-1 2h-1v0.5h1l1-2 3-1c0-0.554 0.446-1 1-1h4c0.554 0 1 0.446 1 1l3 1 1 2h1v-0.5h-1l-1-2-3-1c0-0.554-0.446-1-1-1zm-8 4 0.25 0.5h0.75v-0.5zm19 0v0.5h0.75l0.25-0.5z" style="fill:#f4f4f7;opacity:.2"/>
  </g>
 </svg>

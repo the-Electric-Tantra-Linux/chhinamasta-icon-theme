@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect style="fill:#b2bfd9" width="15" height="16" x="-16" y="0" rx=".8" ry=".8" transform="scale(-1,1)"/>
+ <rect style="fill:#f4f4f7" width="15" height="16" x="-16" y="0" rx=".8" ry=".8" transform="scale(-1,1)"/>
  <path style="fill:#2b629b" d="M 14,2 H 3 V 8 H 14 Z"/>
  <circle style="fill:#ff9600" cx="8.5" cy="7.5" r="2.5"/>
  <path style="fill:#0c939f" d="M 3,8 V 13 H 14 V 8 Z"/>

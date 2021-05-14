@@ -10,7 +10,7 @@
   <path d="m10 20v-1h8v1z"/>
  </g>
  <rect opacity=".2" width="19" height="19" x="11" y="-21" rx="1.5" ry="1.5" transform="rotate(90)"/>
- <rect fill="#b2bfd9" width="19" height="19" x="10" y="-21" rx="1.5" ry="1.5" transform="rotate(90)"/>
+ <rect fill="#f4f4f7" width="19" height="19" x="10" y="-21" rx="1.5" ry="1.5" transform="rotate(90)"/>
  <path fill="#fff" opacity=".1" d="m12.5 1c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h16c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-16z"/>
  <path fill="#fff" opacity=".1" d="m3.5 10c-0.831 0-1.5 0.669-1.5 1.5v1c0-0.831 0.669-1.5 1.5-1.5h16c0.831 0 1.5 0.669 1.5 1.5v-1c0-0.831-0.669-1.5-1.5-1.5h-16z"/>
  <g opacity=".5" transform="translate(-5,5)">

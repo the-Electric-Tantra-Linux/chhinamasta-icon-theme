@@ -5,8 +5,8 @@
   <rect transform="matrix(0,-1,-1,0,0,0)" x="-26" y="-29" width="20" height="26" rx="1.25" ry="1.25" style="opacity:.2"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" x="-25" y="-29" width="20" height="26" rx="1.25" ry="1.25" style="fill:#4f4f4f"/>
   <rect transform="matrix(0,-1,-1,0,0,0)" x="-23" y="-27" width="16" height="22" rx="0" ry="0" style="fill:#00ccff"/>
-  <path d="M 4.25,5 C 3.5575,5 3,5.5575 3,6.25 v 1 C 3,6.5575 3.5575,6 4.25,6 h 23.5 C 28.442,6 29,6.5575 29,7.25 v -1 C 29,5.5575 28.442,5 27.75,5 Z" style="fill:#8b9cbe;opacity:.1"/>
-  <rect x="5" y="23" width="22" height="1" style="fill:#8b9cbe;opacity:.1"/>
+  <path d="M 4.25,5 C 3.5575,5 3,5.5575 3,6.25 v 1 C 3,6.5575 3.5575,6 4.25,6 h 23.5 C 28.442,6 29,6.5575 29,7.25 v -1 C 29,5.5575 28.442,5 27.75,5 Z" style="fill:#f4f4f7;opacity:.1"/>
+  <rect x="5" y="23" width="22" height="1" style="fill:#f4f4f7;opacity:.1"/>
  </g>
  <rect x="5" y="7" width="22" height="1" style="opacity:.2"/>
  <style id="style1086" type="text/css">.st0{fill:#FFFFFF;}
@@ -16,5 +16,5 @@
  <style id="style1086-5" type="text/css">.st0{fill:#FFFFFF;}
 	.st1{fill:#231F20;}</style>
  <circle cx="16" cy="16" r="1" style="opacity:.2"/>
- <circle cx="16" cy="15" r="1" style="fill:#8b9cbe"/>
+ <circle cx="16" cy="15" r="1" style="fill:#f4f4f7"/>
 </svg>
