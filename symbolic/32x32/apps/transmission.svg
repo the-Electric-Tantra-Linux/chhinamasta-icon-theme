@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <rect style="opacity:0.2" width="20" height="20" x="-31" y="-26" rx="2.143" ry="2.143" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#cecece" width="20" height="20" x="-30" y="-26" rx="2.143" ry="2.143" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 8.1425781,10 C 6.9554353,10 6,10.955435 6,12.142578 v 1 C 6,11.955435 6.9554353,11 8.1425781,11 H 23.857422 C 25.044565,11 26,11.955435 26,13.142578 v -1 C 26,10.955435 25.044565,10 23.857422,10 Z"/>
- <path style="fill:#4f4f4f" d="m 16,13 -6,4 h 3 v 6 h -3 l 6,4 6,-4 h -3 v -6 h 3 z"/>
- <path style="opacity:0.1" d="M 11.5,16 10,17 h 3 v -1 z m 7.5,0 v 1 h 3 l -1.5,-1 z m -9,7 6,4 6,-4 H 20.5 L 16,26 11.5,23 Z"/>
- <rect style="fill:#7e7e7e" width="6" height="17" x="13" y="-20" transform="scale(1,-1)"/>
- <rect style="opacity:0.2" width="6" height="16" x="-8" y="-24" rx="3" ry="2.667" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#db4539" width="6" height="16" x="-7" y="-24" rx="3" ry="2.667" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="opacity:0.2;fill:#ffffff" d="M 10.666016,1 C 9.1886822,1 8,2.338 8,4 8,4.1715539 8.0205693,4.3364655 8.0449219,4.5 8.2564951,3.0792258 9.3411746,2 10.666016,2 h 10.667968 c 1.324841,0 2.409521,1.0792258 2.621094,2.5 C 23.979431,4.3364655 24,4.1715539 24,4 24,2.338 22.811318,1 21.333984,1 Z"/>
- <rect style="opacity:0.1" width="6" height="1" x="13" y="20"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect style="opacity:.2" width="20" height="20" x="-31" y="-26" rx="2.143" ry="2.143" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#cecece" width="20" height="20" x="-30" y="-26" rx="2.143" ry="2.143" transform="matrix(0 -1 -1 0 0 0)"/><path style="opacity:.2;fill:#fff" d="M8.143 10A2.138 2.138 0 0 0 6 12.143v1C6 11.955 6.955 11 8.143 11h15.714c1.188 0 2.143.955 2.143 2.143v-1A2.138 2.138 0 0 0 23.857 10z"/><path style="fill:#4f4f4f" d="m16 13-6 4h3v6h-3l6 4 6-4h-3v-6h3z"/><path style="opacity:.1" d="M11.5 16 10 17h3v-1zm7.5 0v1h3l-1.5-1zm-9 7 6 4 6-4h-1.5L16 26l-4.5-3z"/><path style="fill:#7e7e7e" transform="scale(1 -1)" d="M13-20h6v17h-6z"/><rect style="opacity:.2" width="6" height="16" x="-8" y="-24" rx="3" ry="2.667" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#db4539" width="6" height="16" x="-7" y="-24" rx="3" ry="2.667" transform="matrix(0 -1 -1 0 0 0)"/><path style="opacity:.2;fill:#fff" d="M10.666 1C9.189 1 8 2.338 8 4c0 .172.02.336.045.5C8.256 3.08 9.34 2 10.666 2h10.668c1.325 0 2.41 1.08 2.621 2.5.024-.164.045-.328.045-.5 0-1.662-1.189-3-2.666-3z"/><path style="opacity:.1" d="M13 20h6v1h-6z"/></svg>

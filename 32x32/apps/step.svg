@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <rect style="fill:#41ab93" width="24" height="22" x="4" y="6"/>
- <path style="fill:#f4f4f7" d="m 21,5 h 2 v 13.1 h -2 z"/>
- <path style="fill:#f4f4f7" d="m 15,5 h 2 v 13.1 h -2 z"/>
- <path style="fill:#f4f4f7" d="m 9,5 h 2 V 18.1 H 9 Z"/>
- <path style="fill:#4f4f4f" d="M 3.4023351,4.1 C 2.6268032,4.1 1.9540817,4.7259104 2.002458,5.5 V 28 H 5 V 7 h 22 v 21 h 3 V 5.5 C 30,4.7244 29.375655,4.1 28.600123,4.1 Z"/>
- <circle style="opacity:0.1" cx="16" cy="20" r="3"/>
- <circle style="fill:#17191e" cx="16" cy="19" r="3"/>
- <circle style="opacity:0.1" cx="10" cy="20" r="3"/>
- <circle style="fill:#17191e" cx="10" cy="19" r="3"/>
- <circle style="opacity:0.1" cx="22" cy="20" r="3"/>
- <circle style="fill:#17191e" cx="22" cy="19" r="3"/>
- <rect style="opacity:0.2" width="28" height="1" x="2" y="28"/>
- <rect style="opacity:0.2" width="22" height="1" x="5" y="7"/>
- <path style="fill:#f4f4f7;opacity:0.1" d="M 3.4023438 4.0996094 C 2.6268118 4.0996094 1.9535768 4.7259104 2.0019531 5.5 L 2.0019531 6.5 C 1.9535768 5.7259104 2.6268118 5.0996094 3.4023438 5.0996094 L 28.599609 5.0996094 C 29.375141 5.0996094 30 5.7244 30 6.5 L 30 5.5 C 30 4.7244 29.375141 4.0996094 28.599609 4.0996094 L 3.4023438 4.0996094 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><path style="fill:#41ab93" d="M4 6h24v22H4z"/><path style="fill:#f4f4f7" d="M21 5h2v13.1h-2zM15 5h2v13.1h-2zM9 5h2v13.1H9z"/><path style="fill:#4f4f4f" d="M3.402 4.1c-.775 0-1.448.626-1.4 1.4V28H5V7h22v21h3V5.5c0-.776-.624-1.4-1.4-1.4z"/><circle style="opacity:.1" cx="16" cy="20" r="3"/><circle style="fill:#17191e" cx="16" cy="19" r="3"/><circle style="opacity:.1" cx="10" cy="20" r="3"/><circle style="fill:#17191e" cx="10" cy="19" r="3"/><circle style="opacity:.1" cx="22" cy="20" r="3"/><circle style="fill:#17191e" cx="22" cy="19" r="3"/><path style="opacity:.2" d="M2 28h28v1H2zM5 7h22v1H5z"/><path style="fill:#f4f4f7;opacity:.1" d="M3.402 4.1c-.775 0-1.448.626-1.4 1.4v1c-.048-.774.625-1.4 1.4-1.4H28.6c.775 0 1.4.624 1.4 1.4v-1c0-.776-.625-1.4-1.4-1.4H3.402z"/></svg>

@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <rect style="opacity:0.2;stroke:#4285f4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" width="20" height="18" x="2" y="3.5" rx="1.217" ry="1.189"/>
- <rect style="fill:#00d093;stroke:#4285f4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" width="20" height="18" x="2" y="3" rx="1.217" ry="1.189"/>
- <rect style="opacity:0.3" width="16" height="3" x="4" y="17" rx=".5"/>
- <rect style="opacity:0.2" width="3" height="3" x="4" y="6.5" rx=".5"/>
- <rect style="fill:#f4f4f7" width="3" height="3" x="4" y="6" rx=".5"/>
- <rect style="opacity:0.2" width="3" height="3" x="4" y="11.5" rx=".5"/>
- <rect style="fill:#f4f4f7" width="3" height="3" x="4" y="11" rx=".5"/>
- <path style="opacity:0.2;fill:#f4f4f7;stroke:#4285f4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" d="M 3.2177734,2.9999999 C 2.5432965,2.9999999 2,3.5306394 2,4.189453 v 0.5 C 2,4.0306394 2.5432965,3.4999999 3.2177734,3.4999999 H 20.782226 C 21.456703,3.4999999 22,4.0306394 22,4.689453 v -0.5 C 22,3.5306394 21.456703,2.9999999 20.782226,2.9999999 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect style="opacity:.2;stroke:#4285f4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" width="20" height="18" x="2" y="3.5" rx="1.217" ry="1.189"/><rect style="fill:#00d093;stroke:#4285f4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" width="20" height="18" x="2" y="3" rx="1.217" ry="1.189"/><rect style="opacity:.3" width="16" height="3" x="4" y="17" rx=".5"/><rect style="opacity:.2" width="3" height="3" x="4" y="6.5" rx=".5"/><rect style="fill:#f4f4f7" width="3" height="3" x="4" y="6" rx=".5"/><rect style="opacity:.2" width="3" height="3" x="4" y="11.5" rx=".5"/><rect style="fill:#f4f4f7" width="3" height="3" x="4" y="11" rx=".5"/><path style="opacity:.2;fill:#f4f4f7;stroke:#4285f4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" d="M3.218 3C2.543 3 2 3.53 2 4.19v.5c0-.66.543-1.19 1.218-1.19h17.564c.675 0 1.218.53 1.218 1.19v-.5C22 3.53 21.457 3 20.782 3z"/></svg>

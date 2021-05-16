@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect style="fill:#4f4f4f" width="15" height="12" x="1" y="2" rx="1.125" ry="1.286"/>
- <rect style="fill:#f4f4f7" width="2" height="2" x="3" y="4"/>
- <rect style="fill:#f4f4f7" width="11" height="2" x="3" y="10"/>
- <rect style="fill:#f4f4f7" width="2" height="2" x="6" y="4"/>
- <rect style="fill:#f4f4f7" width="2" height="2" x="9" y="4"/>
- <rect style="fill:#f4f4f7" width="2" height="2" x="12" y="4"/>
- <rect style="fill:#f4f4f7" width="2" height="2" x="3" y="7"/>
- <rect style="fill:#f4f4f7" width="2" height="2" x="6" y="7"/>
- <rect style="fill:#f4f4f7" width="2" height="2" x="9" y="7"/>
- <rect style="fill:#f4f4f7" width="2" height="2" x="12" y="7"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect style="fill:#4f4f4f" width="15" height="12" x="1" y="2" rx="1.125" ry="1.286"/><path style="fill:#f4f4f7" d="M3 4h2v2H3zM3 10h11v2H3zM6 4h2v2H6zM9 4h2v2H9zM12 4h2v2h-2zM3 7h2v2H3zM6 7h2v2H6zM9 7h2v2H9zM12 7h2v2h-2z"/></svg>

@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <path style="fill:#6655e4" d="M 8,0 0.8,0 C 0.3568,0 0,0.3568 0,0.8 L 0,8 8,8 Z"/>
- <path style="fill:#21d789" d="m 8,0 7.2,0 C 15.6432,0 16,0.3568 16,0.8 L 16,8 8,8 Z"/>
- <path style="fill:#2086e7" d="M 8,16 0.8,16 C 0.3568,16 0,15.6432 0,15.2 L 0,8 8,8 Z"/>
- <path style="fill:#6655e4" d="m 8,16 7.2,0 C 15.6432,16 16,15.6432 16,15.2 L 16,8 8,8 Z"/>
- <rect style="fill:#17191e" width="12" height="12" x="2" y="2"/>
- <path style="fill:none;stroke:#f4f4f7;stroke-linecap:round" d="m 3.5071212,11.49995 3.9999998,0"/>
- <path style="fill:none;stroke:#f4f4f7;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="m 5.0074488,5.49995 0.9999992,0 m -0.4999992,0 c 0,0 0.245452,2 -1.000001,2 -0.999999,0 -0.999999,-1 -0.999999,-2.000001 0,-0.999999 0,-1.9999995 0.999999,-1.9999995 1.000001,0 0.996189,0.4999995 0.996189,0.4999995"/>
- <path style="fill:#f4f4f7;fill-rule:evenodd" d="m 8.5,2.99995 c -0.831,0 -1.5,0.669 -1.5,1.5 l 0,2 c 0,0.831 0.669,1.5 1.5,1.5 0.831,0 1.5,-0.669 1.5,-1.5 l 0,-2 c 0,-0.831 -0.669,-1.5 -1.5,-1.5 z m 0,1 c 0.277,0 0.5,0 0.5,0.899414 L 9,6.100536 C 9,6.999951 8.777,6.99995 8.5,6.99995 8.223,6.99995 8,6.999951 8,6.100536 L 8,4.899364 C 8,3.99995 8.223,3.99995 8.5,3.99995 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><path style="fill:#6655e4" d="M8 0H.8C.357 0 0 .357 0 .8V8h8z"/><path style="fill:#21d789" d="M8 0h7.2c.443 0 .8.357.8.8V8H8z"/><path style="fill:#2086e7" d="M8 16H.8a.798.798 0 0 1-.8-.8V8h8z"/><path style="fill:#6655e4" d="M8 16h7.2c.443 0 .8-.357.8-.8V8H8z"/><path style="fill:#17191e" d="M2 2h12v12H2z"/><path style="fill:none;stroke:#f4f4f7;stroke-linecap:round" d="M3.507 11.5h4"/><path style="fill:none;stroke:#f4f4f7;stroke-width:.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="M5.007 5.5h1m-.5 0s.246 2-1 2c-1 0-1-1-1-2s0-2 1-2 .997.5.997.5"/><path style="fill:#f4f4f7;fill-rule:evenodd" d="M8.5 3C7.669 3 7 3.669 7 4.5v2C7 7.33 7.669 8 8.5 8S10 7.33 10 6.5v-2C10 3.669 9.331 3 8.5 3zm0 1c.277 0 .5 0 .5.9v1.2c0 .9-.223.9-.5.9S8 7 8 6.1V4.9c0-.9.223-.9.5-.9z"/></svg>

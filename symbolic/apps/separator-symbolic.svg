@@ -1,3 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <rect style="fill:#323a41" width="2" height="12" x="7" y="2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path style="fill:#323a41" d="M7 2h2v12H7z"/></svg>

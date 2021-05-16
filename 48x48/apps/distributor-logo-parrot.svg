@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
- <circle style="opacity:0.2" cx="24" cy="25" r="20"/>
- <circle style="fill:#55ddff" cx="24" cy="24" r="20"/>
- <path style="opacity:0.2;fill:#f4f4f7" d="M 24,4 A 20,20 0 0 0 4,24 20,20 0 0 0 4.0215,24.582 20,20 0 0 1 24,5 20,20 0 0 1 43.979,24.418 20,20 0 0 0 44,24 20,20 0 0 0 24,4 Z"/>
- <path style="opacity:0.1" d="M 18,8.9999996 12,13 l 4,6 v -4 h 4 l 4,10.000002 h 4 v 18 l 4,-14 2,8.5 v -12.5 L 39,30 36,25.000002 28,13 h -4 z"/>
- <path style="fill:#17191e" d="m 18,8.9999996 -6,2.9999984 4,6 v -4 h 4 L 24,24 h 4 v 18 l 4,-14 2,8.5 V 24 L 39,28.999998 36,24 28,11.999998 h -4 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><circle style="opacity:.2" cx="24" cy="25" r="20"/><circle style="fill:#5df" cx="24" cy="24" r="20"/><path style="opacity:.2;fill:#f4f4f7" d="M24 4A20 20 0 0 0 4 24a20 20 0 0 0 .021.582A20 20 0 0 1 24 5a20 20 0 0 1 19.979 19.418A20 20 0 0 0 44 24 20 20 0 0 0 24 4z"/><path style="opacity:.1" d="m18 9-6 4 4 6v-4h4l4 10h4v18l4-14 2 8.5V25l5 5-3-5-8-12h-4z"/><path style="fill:#17191e" d="m18 9-6 3 4 6v-4h4l4 10h4v18l4-14 2 8.5V24l5 5-3-5-8-12h-4z"/></svg>

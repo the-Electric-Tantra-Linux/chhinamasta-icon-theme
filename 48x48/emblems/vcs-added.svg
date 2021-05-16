@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.1">
- <circle style="fill:#8d5f3c" cx="24" cy="24" r="20"/>
- <path style="fill:#f4f4f7" d="M 21,10 V 21 H 10 V 27 H 21 V 38 H 27 V 27 H 38 V 21 H 27 V 10 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><circle style="fill:#8d5f3c" cx="24" cy="24" r="20"/><path style="fill:#f4f4f7" d="M21 10v11H10v6h11v11h6V27h11v-6H27V10z"/></svg>

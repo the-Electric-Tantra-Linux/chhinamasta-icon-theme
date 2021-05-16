@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <circle style="fill:#b2bfd9" cx="8" cy="8" r="8"/>
- <rect style="fill:#17191e" width="9.347" height="3.721" x="2.2" y="7.22" transform="matrix(0.96627781,-0.25750185,0.260142,0.96557037,0,0)"/>
- <path style="fill:#17191e" d="M 1,7 2.0036029,11 4,9.3569221 3.4981986,7.3569218 Z"/>
- <rect style="fill:#17191e" width="1" height="2.5" x="10" y="9"/>
- <rect style="fill:#17191e" width="3.5" height="1" x="10.5" y="11"/>
- <circle style="fill:#17191e" cx="10.5" cy="11.5" r=".5"/>
- <circle style="fill:#17191e" cx="10.5" cy="8.5" r="1.5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><circle style="fill:#b2bfd9" cx="8" cy="8" r="8"/><path style="fill:#17191e" transform="rotate(-14.922) skewX(.157)" d="M2.2 7.22h9.347v3.721H2.2z"/><path style="fill:#17191e" d="m1 7 1.004 4L4 9.357l-.502-2zM10 9h1v2.5h-1z"/><path style="fill:#17191e" d="M10.5 11H14v1h-3.5z"/><circle style="fill:#17191e" cx="10.5" cy="11.5" r=".5"/><circle style="fill:#17191e" cx="10.5" cy="8.5" r="1.5"/></svg>

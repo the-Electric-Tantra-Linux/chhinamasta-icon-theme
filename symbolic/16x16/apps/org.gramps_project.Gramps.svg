@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <rect fill="#ac8a78" width="16" height="16" x="0" y="0" rx=".8" ry=".8"/>
- <path fill="none" stroke="#494949" stroke-width=".5" d="m5 8.75v-4.75h5v4.75"/>
- <path fill="none" stroke="#494949" stroke-width=".5" d="m6 12.25v-4.25h6v4.25"/>
- <path fill="none" stroke="#494949" stroke-width=".5" d="m3 12.25v-4.25h6v4.25"/>
- <rect fill="#fff" width="2" height="2" x="2" y="11"/>
- <rect fill="#fff" width="2" height="2" x="5" y="11"/>
- <rect fill="#fff" width="2" height="2" x="8" y="11"/>
- <rect fill="#fff" width="2" height="2" x="11" y="11"/>
- <rect fill="#fff" width="2" height="2" x="4" y="7"/>
- <rect fill="#fff" width="2" height="2" x="9" y="7"/>
- <rect fill="#fff" width="3" height="2" x="6" y="3"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><rect fill="#ac8a78" width="16" height="16" rx=".8" ry=".8"/><path fill="none" stroke="#494949" stroke-width=".5" d="M5 8.75V4h5v4.75"/><path fill="none" stroke="#494949" stroke-width=".5" d="M6 12.25V8h6v4.25"/><path fill="none" stroke="#494949" stroke-width=".5" d="M3 12.25V8h6v4.25"/><path fill="#fff" d="M2 11h2v2H2zM5 11h2v2H5zM8 11h2v2H8zM11 11h2v2h-2zM4 7h2v2H4zM9 7h2v2H9zM6 3h3v2H6z"/></svg>

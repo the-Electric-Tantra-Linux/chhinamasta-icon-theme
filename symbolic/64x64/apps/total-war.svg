@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <path style="opacity:0.2" d="M 4.0001993,12.001705 6.0001181,54 58.000007,54 59.999926,12.001705 59.89793,12.1267 l -1.898003,39.874381 -51.9998889,0 L 4.1016352,12.1267 4.0000353,12.002705 Z"/>
- <g transform="matrix(1.749929,0,0,2.0999147,3.9999993,-1.597702)">
-  <path style="fill:#fec006" d="M 16,6 9.1429,15.524 0,6 l 1.1429,20 29.714,0 1.143,-20 -9.143,9.524 z"/>
- </g>
- <rect style="fill:#e82d2d" width="5" height="5" x="15.62" y="64.37" transform="matrix(0.60000002,-0.79999999,0.60000002,0.79999999,0,0)"/>
- <rect style="fill:#e82d2d" width="7.212" height="7.212" x="2.04" y="48.44" transform="matrix(0.55470022,-0.83205028,0.55470022,0.83205028,0,0)"/>
- <rect style="fill:#e82d2d" width="5" height="5" x="-16.04" y="32.72" transform="matrix(0.60000002,-0.79999999,0.60000002,0.79999999,0,0)"/>
- <g style="fill:#ffffff;opacity:0.2" transform="matrix(1.749929,0,0,2.0999147,3.9999993,-1.597702)">
-  <path style="fill:#ffffff" transform="matrix(0.57145176,0,0,0.47620982,-2.2858066,0.76084138)" d="M 4 11.001953 L 4.0507812 12.064453 L 20 32.001953 L 31.998047 12.001953 L 43.998047 32.001953 L 59.947266 12.064453 L 59.998047 11.001953 L 43.998047 31.001953 L 31.998047 11.001953 L 20 31.001953 L 4 11.001953 z"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><path style="opacity:.2" d="M4 12.002 6 54h52l2-41.998-.102.125L58 52H6L4.102 12.127 4 12.003z"/><path style="fill:#fec006" d="m16 6-6.857 9.524L0 6l1.143 20h29.714L32 6l-9.143 9.524z" transform="matrix(1.74993 0 0 2.09991 4 -1.598)"/><path style="fill:#e82d2d" transform="matrix(.6 -.8 .6 .8 0 0)" d="M15.62 64.37h5v5h-5z"/><path style="fill:#e82d2d" transform="scale(.78446 1.1767) rotate(-45)" d="M2.04 48.44h7.212v7.212H2.04z"/><path style="fill:#e82d2d" transform="matrix(.6 -.8 .6 .8 0 0)" d="M-16.04 32.72h5v5h-5z"/><g style="fill:#fff;opacity:.2"><path style="fill:#fff" d="m4 11.002.05 1.062L20 32.002l11.998-20 12 20 15.95-19.938.05-1.062-16 20-12-20-11.998 20-16-20z"/></g></svg>

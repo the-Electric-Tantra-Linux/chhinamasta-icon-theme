@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <rect style="opacity:.2" width="20" height="20" x="2" y="2.5" rx="2" ry="2"/>
- <rect style="fill:#ab47bc" width="20" height="20" x="2" y="2" rx="2" ry="2"/>
- <path style="stroke:#f4f4f7;stroke-linecap:round;fill:none" d="m5.5 7.5c4.5 0 2.5 4.5 6.5 4.5s2-4.5 6.5-4.5"/>
- <path style="stroke:#f4f4f7;stroke-linecap:round;fill:none" d="m5.5 16.5c4.5 0 2.5-4.5 6.5-4.5s2 4.5 6.5 4.5"/>
- <path style="opacity:.2;fill:#f4f4f7" d="m4 2c-1.108 0-2 0.892-2 2v0.5c0-1.108 0.892-2 2-2h16c1.108 0 2 0.892 2 2v-0.5c0-1.108-0.892-2-2-2h-16z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect style="opacity:.2" width="20" height="20" x="2" y="2.5" rx="2" ry="2"/><rect style="fill:#ab47bc" width="20" height="20" x="2" y="2" rx="2" ry="2"/><path style="stroke:#f4f4f7;stroke-linecap:round;fill:none" d="M5.5 7.5C10 7.5 8 12 12 12s2-4.5 6.5-4.5M5.5 16.5C10 16.5 8 12 12 12s2 4.5 6.5 4.5"/><path style="opacity:.2;fill:#f4f4f7" d="M4 2c-1.108 0-2 .892-2 2v.5c0-1.108.892-2 2-2h16c1.108 0 2 .892 2 2V4c0-1.108-.892-2-2-2H4z"/></svg>

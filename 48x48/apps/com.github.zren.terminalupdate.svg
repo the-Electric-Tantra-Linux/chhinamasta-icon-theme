@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <path style="opacity:0.2" d="m 4,40 v 1 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 v -1 c 0,1.108 -0.892,2 -2,2 H 6 C 4.892,42 4,41.108 4,40 Z"/>
- <rect style="fill:#4f4f4f" width="40" height="36" x="4" y="6" rx="2" ry="2"/>
- <path style="opacity:0.1;fill:#f4f4f7" d="M 6,6 C 4.892,6 4,6.892 4,8 V 9 C 4,7.892 4.892,7 6,7 h 36 c 1.108,0 2,0.892 2,2 V 8 C 44,6.892 43.108,6 42,6 Z"/>
- <circle style="opacity:0.2" cx="36" cy="36" r="11"/>
- <circle style="fill:#ff9022" cx="36" cy="35" r="11"/>
- <path style="fill:#f4f4f7" d="m 30,35 c 0,3.3137 2.6863,6 6,6 3.2801,0 5.9403,-2.6332 5.9941,-5.9004 a 1,1 0 0 0 0.006,-0.09961 1,1 0 0 0 -1,-1 1,1 0 0 0 -1,1 c 0,2.2091 -1.7909,4 -4,4 -2.2091,0 -4,-1.7909 -4,-4 0,-2.2091 1.7909,-4 4,-4 v 2 l 4,-3 -4,-3 v 2 c -3.3137,0 -6,2.6863 -6,6 z"/>
- <path style="opacity:0.2" d="m 9.0000001,11 v 1 H 7.5 v 1 h 1.5000001 v 3 H 7.5 v 1 h 1.5000001 v 1 H 10 v -1 h 2 v 1 h 1 v -1 h 1.5 V 16 H 13 v -3 h 1.5 V 12 H 13 v -1 h -1 v 1 H 10 V 11 Z M 10,13 h 2 v 3 h -2 z m 6,4 v 1 h 6 v -1 z"/>
- <path style="fill:#f4f4f7" d="m 9.0000001,10 v 1 H 7.5 v 1 h 1.5000001 v 3 H 7.5 v 1 h 1.5000001 v 1 H 10 v -1 h 2 v 1 h 1 v -1 h 1.5 V 15 H 13 v -3 h 1.5 V 11 H 13 v -1 h -1 v 1 H 10 V 10 Z M 10,12 h 2 v 3 h -2 z m 6,4 v 1 h 6 v -1 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><path style="opacity:.2" d="M4 40v1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2H6c-1.108 0-2-.892-2-2z"/><rect style="fill:#4f4f4f" width="40" height="36" x="4" y="6" rx="2" ry="2"/><path style="opacity:.1;fill:#f4f4f7" d="M6 6c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V8c0-1.108-.892-2-2-2z"/><circle style="opacity:.2" cx="36" cy="36" r="11"/><circle style="fill:#ff9022" cx="36" cy="35" r="11"/><path style="fill:#f4f4f7" d="M30 35a5.997 5.997 0 0 0 11.994.1A1 1 0 0 0 42 35a1 1 0 0 0-1-1 1 1 0 0 0-1 1 4 4 0 1 1-4-4v2l4-3-4-3v2a6 6 0 0 0-6 6z"/><path style="opacity:.2" d="M9 11v1H7.5v1H9v3H7.5v1H9v1h1v-1h2v1h1v-1h1.5v-1H13v-3h1.5v-1H13v-1h-1v1h-2v-1zm1 2h2v3h-2zm6 4v1h6v-1z"/><path style="fill:#f4f4f7" d="M9 10v1H7.5v1H9v3H7.5v1H9v1h1v-1h2v1h1v-1h1.5v-1H13v-3h1.5v-1H13v-1h-1v1h-2v-1zm1 2h2v3h-2zm6 4v1h6v-1z"/></svg>

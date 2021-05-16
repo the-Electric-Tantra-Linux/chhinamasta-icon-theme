@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1">
- <rect style="opacity:0.2" width="21" height="21" x="-22.5" y="-22" rx="1.05" ry="1.05" transform="matrix(0,-1,-1,0,0,0)"/>
- <rect style="fill:#4f4f4f" width="21" height="21" x="-22" y="-22" rx="1.05" ry="1.05" transform="matrix(0,-1,-1,0,0,0)"/>
- <path style="opacity:0.2" d="m 3,6.5 0,2 0,2 0,2 0,5 2,0 0,-5 3,0 0,-2 -3,0 0,-2 3,0 0,-2 -3,0 -2,0 z m 6,0 0,11 2,0 3,0 0,-2 -3,0 0,-3 3,0 0,-2 -3,0 0,-2 3,0 0,-2 -3,0 -2,0 z m 6,0 0,11 2,0 0,-5 1,0 0,5 2,0 0,-5 0,-2 0,-4 -2,0 0,4 -1,0 0,-4 -2,0 z"/>
- <rect style="fill:#df4545" width="2" height="11" x="3" y="6"/>
- <rect style="fill:#df4545" width="2" height="5" x="6" y="-8" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#df4545" width="2" height="5" x="10" y="-8" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#df4545" width="2" height="11" x="9" y="6"/>
- <rect style="fill:#df4545" width="2" height="5" x="6" y="-14" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#df4545" width="2" height="5" x="10" y="-14" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#df4545" width="2" height="11" x="15" y="6"/>
- <rect style="fill:#df4545" width="2" height="5" x="10" y="-20" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#df4545" width="2" height="5" x="15" y="-14" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#df4545" width="2" height="11" x="18" y="6"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 2.0507812,1 C 1.4690813,1 1,1.4690813 1,2.0507812 l 0,0.5 C 1,1.9690813 1.4690813,1.5 2.0507812,1.5 l 18.8984378,0 C 21.530919,1.5 22,1.9690813 22,2.5507812 l 0,-0.5 C 22,1.4690813 21.530919,1 20.949219,1 L 2.0507812,1 Z"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 3 6 L 3 6.5 L 5 6.5 L 8 6.5 L 8 6 L 5 6 L 3 6 z M 9 6 L 9 6.5 L 11 6.5 L 14 6.5 L 14 6 L 11 6 L 9 6 z M 15 6 L 15 6.5 L 17 6.5 L 17 6 L 15 6 z M 18 6 L 18 6.5 L 20 6.5 L 20 6 L 18 6 z M 5 10 L 5 10.5 L 8 10.5 L 8 10 L 5 10 z M 11 10 L 11 10.5 L 14 10.5 L 14 10 L 11 10 z M 17 10 L 17 10.5 L 18 10.5 L 18 10 L 17 10 z M 11 15 L 11 15.5 L 14 15.5 L 14 15 L 11 15 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><rect style="opacity:.2" width="21" height="21" x="-22.5" y="-22" rx="1.05" ry="1.05" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#4f4f4f" width="21" height="21" x="-22" y="-22" rx="1.05" ry="1.05" transform="matrix(0 -1 -1 0 0 0)"/><path style="opacity:.2" d="M3 6.5v11h2v-5h3v-2H5v-2h3v-2H3zm6 0v11h5v-2h-3v-3h3v-2h-3v-2h3v-2H9zm6 0v11h2v-5h1v5h2v-11h-2v4h-1v-4h-2z"/><path style="fill:#df4545" d="M3 6h2v11H3z"/><path style="fill:#df4545" transform="rotate(90)" d="M6-8h2v5H6zM10-8h2v5h-2z"/><path style="fill:#df4545" d="M9 6h2v11H9z"/><path style="fill:#df4545" transform="rotate(90)" d="M6-14h2v5H6zM10-14h2v5h-2z"/><path style="fill:#df4545" d="M15 6h2v11h-2z"/><path style="fill:#df4545" transform="rotate(90)" d="M10-20h2v5h-2zM15-14h2v5h-2z"/><path style="fill:#df4545" d="M18 6h2v11h-2z"/><path style="opacity:.1;fill:#fff" d="M2.05 1C1.47 1 1 1.47 1 2.05v.5c0-.58.47-1.05 1.05-1.05h18.9c.58 0 1.05.47 1.05 1.05v-.5C22 1.47 21.53 1 20.95 1H2.05zM3 6v.5h5V6H3zm6 0v.5h5V6H9zm6 0v.5h2V6h-2zm3 0v.5h2V6h-2zM5 10v.5h3V10H5zm6 0v.5h3V10h-3zm6 0v.5h1V10h-1zm-6 5v.5h3V15h-3z"/></svg>

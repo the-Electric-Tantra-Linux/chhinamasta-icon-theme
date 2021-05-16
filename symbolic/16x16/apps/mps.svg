@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <path style="fill:#f7c73c" d="M 8,0 H 0.8 C 0.3568,0 0,0.3568 0,0.8 V 8 h 8 z"/>
- <path style="fill:#21d789" d="m 8,0 h 7.2 C 15.6432,0 16,0.3568 16,0.8 V 8 H 8 Z"/>
- <path style="fill:#21d789" d="M 8,16 H 0.8 C 0.3568,16 0,15.6432 0,15.2 V 8 h 8 z"/>
- <path style="fill:#2086e7" d="m 8,16 h 7.2 C 15.6432,16 16,15.6432 16,15.2 V 8 H 8 Z"/>
- <rect style="fill:#17191e" width="12" height="12" x="2" y="2"/>
- <path style="fill:none;stroke:#f4f4f7;stroke-linecap:round" d="M 3.5042927,11.5 H 7.504293"/>
- <path style="fill:none;stroke:#f4f4f7;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round" d="M 5.5042927,7.500002 V 3.500001 m -3,0 1.5,1.999999 1.5,-1.999999 m -3,4.000001 V 3.500001"/>
- <path style="fill:none;stroke:#f4f4f7;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="m 7.507074,5.5 c 0,0 2.000002,0.23225 2.000002,-0.9999985 0,-1.2322505 -2.000002,-1.0000005 -2.000002,-1.0000005 m 4.9e-5,4.00005 V 3.50005"/>
- <path style="fill:none;stroke:#f4f4f7;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round" d="m 11.503232,7 c 0,0 0.252193,0.500484 1,0.500242 C 13.251038,7.500002 13.503231,7 13.503231,6.500001 c 0,-2.1071925 -1.999999,0.105581 -1.994009,-1.9953525 C 11.503178,4 11.745156,3.500001 12.503232,3.500001 13.261307,3.500001 13.503174,4 13.503174,4"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><path style="fill:#f7c73c" d="M8 0H.8C.357 0 0 .357 0 .8V8h8z"/><path style="fill:#21d789" d="M8 0h7.2c.443 0 .8.357.8.8V8H8zM8 16H.8a.798.798 0 0 1-.8-.8V8h8z"/><path style="fill:#2086e7" d="M8 16h7.2c.443 0 .8-.357.8-.8V8H8z"/><path style="fill:#17191e" d="M2 2h12v12H2z"/><path style="fill:none;stroke:#f4f4f7;stroke-linecap:round" d="M3.504 11.5h4"/><path style="fill:none;stroke:#f4f4f7;stroke-width:.99999994;stroke-linecap:round;stroke-linejoin:round" d="M5.504 7.5v-4m-3 0 1.5 2 1.5-2m-3 4v-4"/><path style="fill:none;stroke:#f4f4f7;stroke-width:.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="M7.507 5.5s2 .232 2-1-2-1-2-1m0 4v-4"/><path style="fill:none;stroke:#f4f4f7;stroke-width:.99999994;stroke-linecap:round;stroke-linejoin:round" d="M11.503 7s.252.5 1 .5 1-.5 1-1c0-2.107-2 .106-1.994-1.995-.006-.505.236-1.005.994-1.005s1 .5 1 .5"/></svg>

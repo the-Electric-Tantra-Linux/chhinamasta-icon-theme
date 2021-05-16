@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <path style="fill:#ffc129" d="M 0.8,0 C 0.3568,0 0,0.3568 0,0.8 l 0,4.8 9.6,0 0,-5.6 -8.8,0 z"/>
- <path style="fill:#5fb319" d="m 9.6,0 0,5.6 6.4,0 0,-4.8 C 16,0.3568 15.6432,0 15.2,0 L 9.6,0 Z"/>
- <path style="fill:#e74b4b" d="m 6.4,5.6 0,10.4 8.8,0 c 0.4432,0 0.8,-0.3568 0.8,-0.8 l 0,-9.6 z"/>
- <path style="fill:#35abe4" d="m 0,5.6 0,9.6 C 0,15.6432 0.3568,16 0.8,16 l 5.7,0 0,-10.4 z"/>
- <rect style="fill:#f4f4f7" width="11" height="1" x="5" y="-7" transform="matrix(0,1,-1,0,0,0)"/>
- <rect style="fill:#f4f4f7" width="16" height="1" x="0" y="5"/>
- <rect style="fill:#f4f4f7" width="6" height="1" x="0" y="-10" transform="matrix(0,1,-1,0,0,0)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><path style="fill:#ffc129" d="M.8 0C.357 0 0 .357 0 .8v4.8h9.6V0H.8z"/><path style="fill:#5fb319" d="M9.6 0v5.6H16V.8c0-.443-.357-.8-.8-.8H9.6z"/><path style="fill:#e74b4b" d="M6.4 5.6V16h8.8c.443 0 .8-.357.8-.8V5.6z"/><path style="fill:#35abe4" d="M0 5.6v9.6c0 .443.357.8.8.8h5.7V5.6z"/><path style="fill:#f4f4f7" transform="rotate(90)" d="M5-7h11v1H5z"/><path style="fill:#f4f4f7" d="M0 5h16v1H0z"/><path style="fill:#f4f4f7" transform="rotate(90)" d="M0-10h6v1H0z"/></svg>

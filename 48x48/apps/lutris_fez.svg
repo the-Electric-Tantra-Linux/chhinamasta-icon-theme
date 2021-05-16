@@ -1,9 +1,1 @@
-<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="14" y="10" width="30" height="29" style="opacity:.2"/>
- <rect x="14" y="9" width="30" height="29" style="fill:#d6000a"/>
- <rect x="14" y="9" width="10" height="29" style="fill:#a20109"/>
- <path d="m14 10v10h10v-10zm0 10h-10v10h10z" style="opacity:.2"/>
- <path d="m14 9v10h10v-10h-10zm0 10h-10v10h10v-10z" style="fill:#ffb221"/>
- <path d="m4 19v1h10v-1z" style="fill:#f4f4f7;opacity:.2"/>
- <rect x="14" y="9" width="30" height="1" style="fill:#f4f4f7;opacity:.2"/>
-</svg>
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg"><path style="opacity:.2" d="M14 10h30v29H14z"/><path style="fill:#d6000a" d="M14 9h30v29H14z"/><path style="fill:#a20109" d="M14 9h10v29H14z"/><path d="M14 10v10h10V10zm0 10H4v10h10z" style="opacity:.2"/><path d="M14 9v10h10V9H14zm0 10H4v10h10V19z" style="fill:#ffb221"/><path d="M4 19v1h10v-1zM14 9h30v1H14z" style="fill:#f4f4f7;opacity:.2"/></svg>

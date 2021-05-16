@@ -1,8 +1,1 @@
-<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <circle cx="16" cy="17" r="14" style="opacity:.2"/>
- <ellipse cx="16.000002" cy="16" rx="13.999999" ry="14" style="fill:#07314a"/>
- <path d="M 16,2 A 14,14 0 0 0 2,16 14,14 0 0 0 2.0215,16.586 14,14 0 0 1 16,3 14,14 0 0 1 29.979,16.414 14,14 0 0 0 30,16 14,14 0 0 0 16,2 Z" style="fill:#ffffff;opacity:.1"/>
- <path d="m4 8h10l3 3 3-3h10l-8 9 6 9h-10l-3-3-3 3h-10l8-9z" style="opacity:.2"/>
- <path d="m4 7h10l3 3 3-3h10l-8 9 6 9h-10l-3-3-3 3h-10l8-9z" style="fill:#21b0df"/>
- <path d="m4 7 0.6660156 1h9.3339844l3 3 3-3h9.111328l0.888672-1h-10l-3 3-3-3h-10zm5.6191406 9.427734-7.6191406 8.572266h0.8886719l7.1113281-8-0.3808594-0.572266zm12.761718 0.144532-0.380859 0.427734 5.333984 8h0.666016l-5.619141-8.427734z" style="fill:#ffffff;opacity:.2"/>
-</svg>
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg"><circle cx="16" cy="17" r="14" style="opacity:.2"/><circle cx="16" cy="16" style="fill:#07314a" r="14"/><path d="M16 2A14 14 0 0 0 2 16a14 14 0 0 0 .022.586A14 14 0 0 1 16 3a14 14 0 0 1 13.979 13.414A14 14 0 0 0 30 16 14 14 0 0 0 16 2z" style="fill:#fff;opacity:.1"/><path d="M4 8h10l3 3 3-3h10l-8 9 6 9H18l-3-3-3 3H2l8-9z" style="opacity:.2"/><path d="M4 7h10l3 3 3-3h10l-8 9 6 9H18l-3-3-3 3H2l8-9z" style="fill:#21b0df"/><path d="m4 7 .666 1H14l3 3 3-3h9.111L30 7H20l-3 3-3-3H4zm5.62 9.428L2 25h.889L10 17l-.38-.572zm12.76.144L22 17l5.334 8H28l-5.62-8.428z" style="fill:#fff;opacity:.2"/></svg>

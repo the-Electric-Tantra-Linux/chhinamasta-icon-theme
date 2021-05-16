@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
- <rect style="opacity:0.2" width="56" height="52" x="4" y="7" rx="2.8" ry="2.8"/>
- <path style="fill:#00bcd4" d="M 4,13 V 55.2 C 4,56.75 5.2496,58 6.8,58 H 57.2 C 58.75,58 60,56.75 60,55.2 V 13 L 59,12 H 5 Z"/>
- <path style="fill:#00424a" d="M 6.8,6 C 5.25,6 4,7.25 4,8.8 V 13 H 60 V 8.8 C 60,7.25 58.75,6 57.2,6 Z"/>
- <path style="fill:#00424a" d="M 20.8,51 C 19.25,51 18,52.25 18,53.8 V 58 H 44 V 53.8 C 44,52.25 42.75,51 41.2,51 Z"/>
- <path style="opacity:0.1;fill:#ffffff" d="M 6.8,6 C 5.25,6 4,7.25 4,8.8 V 9.8 C 4,8.25 5.25,7 6.8,7 H 57.2 C 58.75,7 60,8.25 60,9.8 V 8.8 C 60,7.25 58.75,6 57.2,6 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect style="opacity:.2" width="56" height="52" x="4" y="7" rx="2.8" ry="2.8"/><path style="fill:#00bcd4" d="M4 13v42.2C4 56.75 5.25 58 6.8 58h50.4c1.55 0 2.8-1.25 2.8-2.8V13l-1-1H5z"/><path style="fill:#00424a" d="M6.8 6C5.25 6 4 7.25 4 8.8V13h56V8.8C60 7.25 58.75 6 57.2 6zM20.8 51c-1.55 0-2.8 1.25-2.8 2.8V58h26v-4.2c0-1.55-1.25-2.8-2.8-2.8z"/><path style="opacity:.1;fill:#fff" d="M6.8 6C5.25 6 4 7.25 4 8.8v1C4 8.25 5.25 7 6.8 7h50.4C58.75 7 60 8.25 60 9.8v-1C60 7.25 58.75 6 57.2 6z"/></svg>

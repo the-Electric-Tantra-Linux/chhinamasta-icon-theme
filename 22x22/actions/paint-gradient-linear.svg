@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#323a41; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 1,1 H 19 V 19 H 1 Z"/>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 19,1 V 11 L 11,19 H 1 V 1 Z"/>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 19,1 V 6 L 6,19 H 1 V 1 Z"/>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 1,1 H 19 L 1,19 Z"/>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 1,1 H 14 L 1,14 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 1,1 H 9 L 1,9 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#323a41}</style></defs><path style="opacity:.3;fill:currentColor" class="ColorScheme-Text" d="M1 1h18v18H1z"/><path style="opacity:.3;fill:currentColor" class="ColorScheme-Text" d="M19 1v10l-8 8H1V1z"/><path style="opacity:.3;fill:currentColor" class="ColorScheme-Text" d="M19 1v5L6 19H1V1z"/><path style="opacity:.3;fill:currentColor" class="ColorScheme-Text" d="M1 1h18L1 19z"/><path style="opacity:.3;fill:currentColor" class="ColorScheme-Text" d="M1 1h13L1 14z"/><path style="fill:currentColor" class="ColorScheme-Text" d="M1 1h8L1 9z"/></svg>

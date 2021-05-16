@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <circle style="opacity:0.2" cx="24" cy="25" r="20"/>
- <circle style="fill:#3e50b4" cx="24" cy="24" r="20"/>
- <path style="opacity:0.1;fill:#f4f4f7" d="M 24 4 A 20 20 0 0 0 4 24 A 20 20 0 0 0 4.0214844 24.582031 A 20 20 0 0 1 24 5 A 20 20 0 0 1 43.978516 24.417969 A 20 20 0 0 0 44 24 A 20 20 0 0 0 24 4 z"/>
- <path style="opacity:0.2" d="m 16,32 v -2 h 11 v 2 z m 0,-4 v -2 h 17 v 2 z m 0,-4 v -2 h 17 v 2 z m 0,-4 v -2 h 17 v 2 z"/>
- <path style="fill:#f4f4f7" d="m 16,31 v -2 h 11 v 2 z m 0,-4 v -2 h 17 v 2 z m 0,-4 v -2 h 17 v 2 z m 0,-4 v -2 h 17 v 2 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><circle style="opacity:.2" cx="24" cy="25" r="20"/><circle style="fill:#3e50b4" cx="24" cy="24" r="20"/><path style="opacity:.1;fill:#f4f4f7" d="M24 4A20 20 0 0 0 4 24a20 20 0 0 0 .021.582A20 20 0 0 1 24 5a20 20 0 0 1 19.979 19.418A20 20 0 0 0 44 24 20 20 0 0 0 24 4z"/><path style="opacity:.2" d="M16 32v-2h11v2zm0-4v-2h17v2zm0-4v-2h17v2zm0-4v-2h17v2z"/><path style="fill:#f4f4f7" d="M16 31v-2h11v2zm0-4v-2h17v2zm0-4v-2h17v2zm0-4v-2h17v2z"/></svg>

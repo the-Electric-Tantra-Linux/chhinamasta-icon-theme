@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <rect style="opacity:0.2" width="20" height="18" x="2" y="3.5" rx="1" ry="1"/>
- <path style="fill:#1da0f8" d="M 3,3 H 13 L 14,4 V 21 H 3 C 2.446,21 2,20.554 2,20 V 4 C 2,3.446 2.446,3 3,3 Z"/>
- <path style="opacity:0.2" d="M 11.021,12 C 11.01,12.236 11,12.5 11,12.5 H 13 C 13,12.5 13.002,18.54 13.805,21 H 14 C 13,19 13,12 13,12 Z"/>
- <path style="fill:#f4f4f7" d="M 13,3 C 11,8 11,12 11,12 H 13 C 13,12 13,19 14,21 H 21 C 21.554,21 22,20.554 22,20 V 4 C 22,3.446 21.554,3 21,3 Z"/>
- <path style="opacity:0.2;fill:#f4f4f7" d="M 3,3 C 2.446,3 2,3.446 2,4 V 4.5 C 2,3.946 2.446,3.5 3,3.5 H 21 C 21.554,3.5 22,3.946 22,4.5 V 4 C 22,3.446 21.554,3 21,3 Z"/>
- <g style="opacity:0.2;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round" transform="translate(0,0.5)">
-  <path d="M 7.5,8.5 V 9.5"/>
-  <path d="M 16.5,8.5 V 9.5"/>
-  <path d="M 6.5,14.5 C 6.5,14.5 9,16.5 12,16.5 15,16.5 17.5,14.5 17.5,14.5"/>
- </g>
- <g style="fill:none;stroke:#4c4c4c;stroke-width:1px;stroke-linecap:round">
-  <path d="M 7.5,8.5 V 9.5"/>
-  <path d="M 16.5,8.5 V 9.5"/>
-  <path d="M 6.5,14.5 C 6.5,14.5 9,16.5 12,16.5 15,16.5 17.5,14.5 17.5,14.5"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect style="opacity:.2" width="20" height="18" x="2" y="3.5" rx="1" ry="1"/><path style="fill:#1da0f8" d="M3 3h10l1 1v17H3c-.554 0-1-.446-1-1V4c0-.554.446-1 1-1z"/><path style="opacity:.2" d="M11.021 12c-.011.236-.021.5-.021.5h2s.002 6.04.805 8.5H14c-1-2-1-9-1-9z"/><path style="fill:#f4f4f7" d="M13 3c-2 5-2 9-2 9h2s0 7 1 9h7c.554 0 1-.446 1-1V4c0-.554-.446-1-1-1z"/><path style="opacity:.2;fill:#f4f4f7" d="M3 3c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V4c0-.554-.446-1-1-1z"/><g style="opacity:.2;fill:none;stroke:#000;stroke-width:1px;stroke-linecap:round"><path d="M7.5 9v1M16.5 9v1M6.5 15S9 17 12 17s5.5-2 5.5-2"/></g><g style="fill:none;stroke:#4c4c4c;stroke-width:1px;stroke-linecap:round"><path d="M7.5 8.5v1M16.5 8.5v1M6.5 14.5s2.5 2 5.5 2 5.5-2 5.5-2"/></g></svg>

@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <circle style="opacity:0.2" cx="11" cy="11.5" r="10"/>
- <circle style="fill:#455259" cx="11" cy="11" r="10"/>
- <path style="opacity:0.2;fill:none;stroke:#000000" d="m 11,17.749786 -2.95,-4.75 2.95,-1.525 2.95,1.525 z m 5.75,-9.25 -5.75,9.25 -2.95,-4.75 z m -11.5,0 5.75,9.25 2.95,-4.75 z"/>
- <path style="opacity:0.1;fill:#f4f4f7" d="M 11,1 A 10,10 0 0 0 1,11 10,10 0 0 0 1.0107422,11.291016 10,10 0 0 1 11,1.5 10,10 0 0 1 20.989258,11.208985 10,10 0 0 0 21,11 10,10 0 0 0 11,1 Z"/>
- <path style="fill:none;stroke:#ff5e49" d="M 5.25,8 11,17.25 13.95,12.5 Z"/>
- <path style="fill:none;stroke:#5cd262" d="M 16.75,8 11,17.25 8.05,12.5 Z"/>
- <path style="fill:none;stroke:#f4f4f7" d="M 11,17.25 8.05,12.5 11,10.975 13.95,12.5 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1"><circle style="opacity:.2" cx="11" cy="11.5" r="10"/><circle style="fill:#455259" cx="11" cy="11" r="10"/><path style="opacity:.2;fill:none;stroke:#000" d="M11 17.75 8.05 13 11 11.475 13.95 13zm5.75-9.25L11 17.75 8.05 13zm-11.5 0L11 17.75 13.95 13z"/><path style="opacity:.1;fill:#f4f4f7" d="M11 1A10 10 0 0 0 1 11a10 10 0 0 0 .01.291A10 10 0 0 1 11 1.5a10 10 0 0 1 9.99 9.709A10 10 0 0 0 21 11 10 10 0 0 0 11 1z"/><path style="fill:none;stroke:#ff5e49" d="M5.25 8 11 17.25l2.95-4.75z"/><path style="fill:none;stroke:#5cd262" d="M16.75 8 11 17.25 8.05 12.5z"/><path style="fill:none;stroke:#f4f4f7" d="M11 17.25 8.05 12.5 11 10.975l2.95 1.525z"/></svg>

@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
- <rect style="opacity:.2" width="28" height="28" x="2" y="3" rx="3" ry="3"/>
- <rect style="fill:#ab47bc" width="28" height="28" x="2" y="2" rx="3" ry="3"/>
- <path style="opacity:.2;fill:#f4f4f7" d="m5 2c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3h22c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3z"/>
- <path style="stroke:#f4f4f7;stroke-linecap:round;fill:none" d="m7.5 9.5c4.5 0 4.5 6.5 8.5 6.5s4-6.5 8.5-6.5"/>
- <path style="stroke:#f4f4f7;stroke-linecap:round;fill:none" d="m7.5 22.5c4.5 0 4.5-6.5 8.5-6.5s4 6.5 8.5 6.5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><rect style="opacity:.2" width="28" height="28" x="2" y="3" rx="3" ry="3"/><rect style="fill:#ab47bc" width="28" height="28" x="2" y="2" rx="3" ry="3"/><path style="opacity:.2;fill:#f4f4f7" d="M5 2C3.338 2 2 3.338 2 5v1c0-1.662 1.338-3 3-3h22c1.662 0 3 1.338 3 3V5c0-1.662-1.338-3-3-3z"/><path style="stroke:#f4f4f7;stroke-linecap:round;fill:none" d="M7.5 9.5C12 9.5 12 16 16 16s4-6.5 8.5-6.5M7.5 22.5C12 22.5 12 16 16 16s4 6.5 8.5 6.5"/></svg>

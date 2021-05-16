@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <path fill="#667e47" d="m16 15.2v-14.4c0-0.4432-0.357-0.8-0.8-0.8h-14.4c-0.4432-4e-8 -0.8 0.3568-0.8 0.8l-4e-8 14.4c0 0.4432 0.3568 0.8 0.8 0.8h14.4c0.4432 0 0.8-0.3568 0.8-0.8z"/>
- <rect style="fill:#17191e" width="7" height="2" x="4" y="13"/>
- <circle style="fill:#f4f4f7" cx="9.5" cy="10.5" r="1.5"/>
- <rect style="fill:#fcd800" width="2" height="2" x="7" y="2"/>
- <rect style="fill:#fcd800" width="2" height="2" x="10" y="2"/>
- <rect style="fill:#fcd800" width="2" height="2" x="13" y="2"/>
- <rect style="fill:#fcd800" width="2" height="2" x="7" y="5"/>
- <rect style="fill:#fcd800" width="2" height="2" x="10" y="5"/>
- <rect style="fill:#fcd800" width="2" height="2" x="1" y="5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><path fill="#667e47" d="M16 15.2V.8c0-.443-.357-.8-.8-.8H.8C.357 0 0 .357 0 .8v14.4c0 .443.357.8.8.8h14.4c.443 0 .8-.357.8-.8z"/><path style="fill:#17191e" d="M4 13h7v2H4z"/><circle style="fill:#f4f4f7" cx="9.5" cy="10.5" r="1.5"/><path style="fill:#fcd800" d="M7 2h2v2H7zM10 2h2v2h-2zM13 2h2v2h-2zM7 5h2v2H7zM10 5h2v2h-2zM1 5h2v2H1z"/></svg>

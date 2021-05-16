@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <rect style="opacity:0.2" width="40" height="40" x="4" y="5" rx="2" ry="2"/>
- <rect style="fill:#3f99ed" width="40" height="40" x="4" y="4" rx="2" ry="2"/>
- <path style="opacity:0.2;fill:#f4f4f7" d="M 6,4 C 4.892,4 4,4.892 4,6 V 7 C 4,5.892 4.892,5 6,5 h 36 c 1.108,0 2,0.892 2,2 V 6 C 44,4.892 43.108,4 42,4 Z"/>
- <g style="font-size:12.20572472px;line-height:0%;letter-spacing:0px;word-spacing:0px;opacity:0.2" transform="matrix(1.0195649,0,0,0.98081054,0,0.99999901)">
-  <path d="m 19.616211,32.626077 h -7.825998 v 8.15652 H 7.8464845 V 20.391298 h 3.9027545 v 8.156519 h 7.866972 v -8.156519 h 3.923242 v 20.391299 h -3.923242 z"/>
- </g>
- <g style="font-size:12.20572472px;line-height:0%;letter-spacing:0px;word-spacing:0px;fill:#f4f4f7" transform="scale(1.0195649,0.98081054)">
-  <path style="fill:#f4f4f7" d="m 19.616211,32.626077 h -7.825998 v 8.15652 H 7.8464845 V 20.391298 h 3.9027545 v 8.156519 h 7.866972 v -8.156519 h 3.923242 v 20.391299 h -3.923242 z"/>
- </g>
- <path style="opacity:0.2" d="m 38,8.999999 v 2 h -2 v 2 h 2 V 21 h 2 V 8.999999 Z"/>
- <path style="fill:#f4f4f7" d="m 38,8 v 2 h -2 v 2 h 2 v 8 h 2 V 8 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><rect style="opacity:.2" width="40" height="40" x="4" y="5" rx="2" ry="2"/><rect style="fill:#3f99ed" width="40" height="40" x="4" y="4" rx="2" ry="2"/><path style="opacity:.2;fill:#f4f4f7" d="M6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z"/><path d="M19.616 32.626H11.79v8.157H7.846V20.39h3.903v8.157h7.867V20.39h3.923v20.392h-3.923z" transform="matrix(1.01956 0 0 .98081 0 1)" style="font-size:12.20572472px;line-height:0%;letter-spacing:0;word-spacing:0;opacity:.2"/><g style="font-size:12.20572472px;line-height:0%;letter-spacing:0;word-spacing:0;fill:#f4f4f7"><path style="fill:#f4f4f7" d="M19.616 32.626H11.79v8.157H7.846V20.39h3.903v8.157h7.867V20.39h3.923v20.392h-3.923z" transform="scale(1.01956 .98081)"/></g><path style="opacity:.2" d="M38 9v2h-2v2h2v8h2V9z"/><path style="fill:#f4f4f7" d="M38 8v2h-2v2h2v8h2V8z"/></svg>

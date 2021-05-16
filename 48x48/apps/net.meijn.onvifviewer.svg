@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1">
- <circle style="opacity:0.2" cx="24" cy="25" r="20"/>
- <circle style="fill:#f4f4f7" cx="24" cy="24" r="20"/>
- <path style="opacity:0.1" d="M 37.580078,15 15,21.017578 17.419922,30 27.326172,27.359375 A 3,3 0 0 0 29,28.824219 V 34 a 1,1 0 0 0 1,1 h 9 V 33 H 31 V 28.826172 A 3,3 0 0 0 33,26 3,3 0 0 0 32.994141,25.849609 L 40,23.982422 Z M 8,23 10.341797,32 15,28.302734 l -1.169922,-4.5 z"/>
- <rect style="fill:#17191e" width="23.368" height="9.303" x="9.28" y="23.2" transform="matrix(0.9662778,-0.25750186,0.260142,0.96557037,0,0)"/>
- <path style="fill:#17191e" d="M 8,22 10.34174,31 15,27.303075 13.82913,22.803074 Z"/>
- <rect style="fill:#17191e" width="2" height="6" x="29" y="27"/>
- <rect style="fill:#17191e" width="9" height="2" x="30" y="32"/>
- <circle style="fill:#17191e" cx="30" cy="33" r="1"/>
- <circle style="fill:#17191e" cx="30" cy="25" r="3"/>
- <path fill="#fff" opacity=".2" d="m24 4c-11.08 0-20 8.92-20 20 0 0.168 0.008 0.333 0.0117 0.5 0.2647-10.846 9.0763-19.5 19.988-19.5s19.724 8.6539 19.988 19.5c0.004-0.16686 0.0117-0.33213 0.0117-0.5 0-11.08-8.92-20-20-20z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><circle style="opacity:.2" cx="24" cy="25" r="20"/><circle style="fill:#f4f4f7" cx="24" cy="24" r="20"/><path style="opacity:.1" d="M37.58 15 15 21.018 17.42 30l9.906-2.64A3 3 0 0 0 29 28.823V34a1 1 0 0 0 1 1h9v-2h-8v-4.174A3 3 0 0 0 33 26a3 3 0 0 0-.006-.15L40 23.982zM8 23l2.342 9L15 28.303l-1.17-4.5z"/><path style="fill:#17191e" transform="rotate(-14.922) skewX(.157)" d="M9.28 23.2h23.368v9.303H9.28z"/><path style="fill:#17191e" d="m8 22 2.342 9L15 27.303l-1.17-4.5zM29 27h2v6h-2z"/><path style="fill:#17191e" d="M30 32h9v2h-9z"/><circle style="fill:#17191e" cx="30" cy="33" r="1"/><circle style="fill:#17191e" cx="30" cy="25" r="3"/><path fill="#fff" opacity=".2" d="M24 4C12.92 4 4 12.92 4 24c0 .168.008.333.012.5C4.276 13.654 13.088 5 24 5s19.724 8.654 19.988 19.5c.004-.167.011-.332.011-.5 0-11.08-8.92-20-20-20z"/></svg>

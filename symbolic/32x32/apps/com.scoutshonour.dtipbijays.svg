@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <rect style="opacity:0.2" width="28" height="28" x="2" y="3" rx="1.4" ry="1.4"/>
- <rect style="fill:#e4e4e4" width="28" height="28" x="2" y="2" rx="1.4" ry="1.4"/>
- <path style="opacity:0.1" d="m 5,6 v 6 h 6 V 6 Z m 0,8 v 6 h 6 v -6 z m 8,0 v 6 h 6 v -6 z m 8,0 v 6 h 6 V 14 Z M 5,22 v 6 h 6 v -6 z m 8,0 v 6 h 6 v -6 z m 8,0 v 6 h 6 v -6 z"/>
- <rect style="fill:#ff5dc2" width="6" height="6" x="13" y="13"/>
- <rect style="fill:#ff6363" width="6" height="6" x="5" y="13"/>
- <rect style="fill:#ff7940" width="6" height="6" x="21" y="13"/>
- <rect style="fill:#6182de" width="6" height="6" x="13" y="21"/>
- <rect style="fill:#ffa631" width="6" height="6" x="5" y="21"/>
- <rect style="fill:#2ba540" width="6" height="6" x="21" y="21"/>
- <rect style="fill:#40b8ff" width="6" height="6" x="5" y="5"/>
- <path style="fill:#ffffff;opacity:0.2" d="M 3.4003906 2 C 2.6247906 2 2 2.6247906 2 3.4003906 L 2 4.4003906 C 2 3.6247906 2.6247906 3 3.4003906 3 L 28.599609 3 C 29.375209 3 30 3.6247906 30 4.4003906 L 30 3.4003906 C 30 2.6247906 29.375209 2 28.599609 2 L 3.4003906 2 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect style="opacity:.2" width="28" height="28" x="2" y="3" rx="1.4" ry="1.4"/><rect style="fill:#e4e4e4" width="28" height="28" x="2" y="2" rx="1.4" ry="1.4"/><path style="opacity:.1" d="M5 6v6h6V6zm0 8v6h6v-6zm8 0v6h6v-6zm8 0v6h6v-6zM5 22v6h6v-6zm8 0v6h6v-6zm8 0v6h6v-6z"/><path style="fill:#ff5dc2" d="M13 13h6v6h-6z"/><path style="fill:#ff6363" d="M5 13h6v6H5z"/><path style="fill:#ff7940" d="M21 13h6v6h-6z"/><path style="fill:#6182de" d="M13 21h6v6h-6z"/><path style="fill:#ffa631" d="M5 21h6v6H5z"/><path style="fill:#2ba540" d="M21 21h6v6h-6z"/><path style="fill:#40b8ff" d="M5 5h6v6H5z"/><path style="fill:#fff;opacity:.2" d="M3.4 2C2.625 2 2 2.625 2 3.4v1C2 3.625 2.625 3 3.4 3h25.2c.775 0 1.4.625 1.4 1.4v-1c0-.775-.625-1.4-1.4-1.4H3.4z"/></svg>

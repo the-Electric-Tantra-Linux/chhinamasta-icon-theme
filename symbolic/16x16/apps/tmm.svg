@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <path style="fill:#4f4f4f" d="M 16,15.25 V 1.75 C 16,1.3345 15.666,1 15.25,1 H 1.75 C 1.3345,1 1,1.3345 1,1.75 V 15.25 C 1,15.666 1.3345,16 1.75,16 H 15.25 C 15.666,16 16,15.666 16,15.25 Z"/>
- <path style="fill:#f4f4f7" d="M 3,3 V 5 H 5 V 3 Z"/>
- <path style="fill:#f4f4f7" d="M 3,6 V 8 H 5 V 6 Z"/>
- <path style="fill:#f4f4f7" d="M 3,9 V 11 H 5 V 9 Z"/>
- <path style="fill:#f4f4f7" d="M 3,12 V 14 H 5 V 12 Z"/>
- <rect style="fill:#28a1e1" width="5" height="3" x="6" y="11" rx=".556" ry=".6"/>
- <path style="fill:#f4f4f7" d="M 12,3 V 5 H 14 V 3 Z"/>
- <path style="fill:#f4f4f7" d="M 12,6 V 8 H 14 V 6 Z"/>
- <path style="fill:#f4f4f7" d="M 12,9 V 11 H 14 V 9 Z"/>
- <path style="fill:#f4f4f7" d="M 12,12 V 14 H 14 V 12 Z"/>
- <rect style="fill:#28a1e1" width="5" height="3" x="6" y="7" rx=".556" ry=".6"/>
- <rect style="fill:#28a1e1" width="5" height="3" x="6" y="3" rx=".556" ry=".6"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><path style="fill:#4f4f4f" d="M16 15.25V1.75a.748.748 0 0 0-.75-.75H1.75a.748.748 0 0 0-.75.75v13.5c0 .416.335.75.75.75h13.5c.416 0 .75-.334.75-.75z"/><path style="fill:#f4f4f7" d="M3 3v2h2V3zM3 6v2h2V6zM3 9v2h2V9zM3 12v2h2v-2z"/><rect style="fill:#28a1e1" width="5" height="3" x="6" y="11" rx=".556" ry=".6"/><path style="fill:#f4f4f7" d="M12 3v2h2V3zM12 6v2h2V6zM12 9v2h2V9zM12 12v2h2v-2z"/><rect style="fill:#28a1e1" width="5" height="3" x="6" y="7" rx=".556" ry=".6"/><rect style="fill:#28a1e1" width="5" height="3" x="6" y="3" rx=".556" ry=".6"/></svg>

@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
- <rect fill="#f4f4f7" width="16" height="16" x="0" y="0" rx="1.5" ry="1.5"/>
- <g transform="matrix(.5 0 0 1 1.5 0)">
-  <path opacity=".5" d="m3 4v-1h10v1z"/>
-  <path opacity=".5" d="m3 7v-1h10v1z"/>
- </g>
- <g transform="matrix(.5 0 0 1 6.5 6)">
-  <path opacity=".5" d="m3 4v-1h10v1z"/>
-  <path opacity=".5" d="m3 7v-1h10v1z"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect fill="#f4f4f7" width="16" height="16" rx="1.5" ry="1.5"/><path opacity=".5" d="M3 4V3h5v1zM3 7V6h5v1z"/><g><path opacity=".5" d="M8 10V9h5v1zM8 13v-1h5v1z"/></g></svg>

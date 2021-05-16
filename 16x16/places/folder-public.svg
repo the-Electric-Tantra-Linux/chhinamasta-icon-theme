@@ -1,13 +1,1 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <g style="fill:currentColor" class="ColorScheme-Text">
-  <circle cx="5" cy="8" r="2" opacity=".25"/>
-  <circle cx="11" cy="13" r="2" opacity=".25"/>
-  <circle cx="11" cy="3" r="2" opacity=".25"/>
-  <path d="m11 0a3 3 0 0 0-3 3c0 0.462 0.114 0.894 0.3 1.285l-2.015 1.016c-0.39-0.187-0.823-0.301-1.285-0.301a3 3 0 0 0 0 6c0.462 0 0.894-0.114 1.285-0.3l2.016 1.015c-0.187 0.39-0.301 0.823-0.301 1.285a3 3 0 1 0 3-3c-0.462 0-0.894 0.114-1.285 0.3l-2.016-1.015c0.187-0.39 0.301-0.823 0.301-1.285s-0.114-0.894-0.3-1.285l2.015-1.016c0.39 0.187 0.823 0.301 1.285 0.301a3 3 0 1 0 0-6zm0 1a2 2 0 1 1 0 4 2 2 0 0 1 0-4zm-6 5a2 2 0 1 1 0 4 2 2 0 0 1 0-4zm6 5a2 2 0 1 1 0 4 2 2 0 0 1 0-4z"/>
- </g>
-</svg>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"><defs><style id="current-color-scheme" type="text/css"></style></defs><g style="fill:currentColor;color:#5d656b"><circle cx="5" cy="8" r="2" opacity=".25"/><circle cx="11" cy="13" r="2" opacity=".25"/><circle cx="11" cy="3" r="2" opacity=".25"/><path d="M11 0a3 3 0 0 0-3 3c0 .462.114.894.3 1.285L6.285 5.301A2.962 2.962 0 0 0 5 5a3 3 0 0 0 0 6c.462 0 .894-.114 1.285-.3l2.016 1.015C8.114 12.105 8 12.538 8 13a3 3 0 1 0 3-3c-.462 0-.894.114-1.285.3L7.699 9.285C7.886 8.895 8 8.462 8 8s-.114-.894-.3-1.285l2.015-1.016c.39.187.823.301 1.285.301a3 3 0 1 0 0-6zm0 1a2 2 0 1 1 0 4 2 2 0 0 1 0-4zM5 6a2 2 0 1 1 0 4 2 2 0 0 1 0-4zm6 5a2 2 0 1 1 0 4 2 2 0 0 1 0-4z"/></g></svg>

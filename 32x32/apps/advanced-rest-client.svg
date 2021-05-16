@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <rect style="opacity:0.2" width="28" height="28" x="2" y="3" rx="2.1" ry="2.1"/>
- <rect style="fill:#16a1db" width="28" height="28" x="2" y="2" rx="2.1" ry="2.1"/>
- <path style="opacity:0.2" d="M 11.5,8 8,12 4.5,16 H 8 v 10 h 7 V 16 h 3.5 L 15,12 Z m 9.5,3 v 6 H 18.099609 L 20.550781,19.800781 23,22.599609 25.449219,19.800781 27.900391,17 H 25 v -6 z"/>
- <rect style="fill:#f4f4f7" width="7" height="11" x="8" y="14"/>
- <path style="fill:#f4f4f7" transform="matrix(0.96045901,0,0,0.63373859,-2.4678566,0.29489289)" d="m 14.542897,10.580241 3.644091,6.311751 3.644091,6.311751 -7.288182,0 -7.2881818,-1e-6 3.6440908,-6.31175 z"/>
- <rect style="fill:#a2cced" width="4" height="8" x="21" y="-18" transform="scale(1,-1)"/>
- <path style="fill:#a2cced" transform="matrix(0.67232131,0,0,-0.44361701,13.2225,26.293575)" d="m 14.542897,10.580241 3.644091,6.311751 3.644091,6.311751 -7.288182,0 -7.2881818,-1e-6 3.6440908,-6.31175 z"/>
- <path style="fill:#f4f4f7;opacity:0.2" d="M 4.0996094 2 C 2.9362094 2 2 2.9362094 2 4.0996094 L 2 5.0996094 C 2 3.9362094 2.9362094 3 4.0996094 3 L 27.900391 3 C 29.063791 3 30 3.9362094 30 5.0996094 L 30 4.0996094 C 30 2.9362094 29.063791 2 27.900391 2 L 4.0996094 2 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect style="opacity:.2" width="28" height="28" x="2" y="3" rx="2.1" ry="2.1"/><rect style="fill:#16a1db" width="28" height="28" x="2" y="2" rx="2.1" ry="2.1"/><path style="opacity:.2" d="M11.5 8 8 12l-3.5 4H8v10h7V16h3.5L15 12zm9.5 3v6h-2.9l2.45 2.8L23 22.6l2.45-2.8L27.9 17H25v-6z"/><path style="fill:#f4f4f7" d="M8 14h7v11H8z"/><path style="fill:#f4f4f7" transform="matrix(.96046 0 0 .63374 -2.468 .295)" d="m14.543 10.58 3.644 6.312 3.644 6.312H7.255l3.644-6.312z"/><path style="fill:#a2cced" transform="scale(1 -1)" d="M21-18h4v8h-4z"/><path style="fill:#a2cced" transform="matrix(.67232 0 0 -.44362 13.223 26.294)" d="m14.543 10.58 3.644 6.312 3.644 6.312H7.255l3.644-6.312z"/><path style="fill:#f4f4f7;opacity:.2" d="M4.1 2C2.936 2 2 2.936 2 4.1v1C2 3.936 2.936 3 4.1 3h23.8c1.164 0 2.1.936 2.1 2.1v-1c0-1.164-.936-2.1-2.1-2.1H4.1z"/></svg>

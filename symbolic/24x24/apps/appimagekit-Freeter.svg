@@ -1,1 +1,1 @@
-Freeter.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><rect style="fill:#52575f" width="20" height="20" x="2" y="2" rx="1" ry="1"/><path style="opacity:.1;fill:#fff" d="M3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z"/><path style="opacity:.2" d="M3 22.5c-.554 0-1-.446-1-1V21c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v.5c0 .554-.446 1-1 1zM6 5.5v14h4v-14zm5 0v4h8v-4zm0 5v4h4v-4z"/><path style="fill:#fff" d="M6 5v14h4V5zm5 0v4h8V5zm0 5v4h4v-4z"/></svg>

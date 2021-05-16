@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <rect style="fill:#555e70" width="16" height="16" x="0" y="0" rx="1.2" ry="1.2"/>
- <path style="opacity:0.6;fill:#f4f4f7;fill-rule:evenodd" d="M 13.11944,3.9 4.9971496,10.208744 4.996088,11.5 5.4957328,10.370071 4.9826272,11.493235 Z"/>
- <path style="fill:#f4f4f7;fill-rule:evenodd" d="m 1.92,9.0787604 11.2,-5.1777 -8.123174,6.3120816 C 4.022924,9.5795656 3.1617856,9.0032404 1.92,9.0787604 Z"/>
- <path style="fill:#f4f4f7;fill-rule:evenodd" d="M 5.5121032,10.374991 13.12,3.9020828 8.8934164,11.476678 C 7.7923256,10.916868 6.7911784,10.351014 5.5121032,10.374991 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><rect style="fill:#555e70" width="16" height="16" rx="1.2" ry="1.2"/><path style="opacity:.6;fill:#f4f4f7;fill-rule:evenodd" d="m13.12 3.9-8.123 6.309V11.5l.499-1.13-.513 1.123z"/><path style="fill:#f4f4f7;fill-rule:evenodd" d="M1.92 9.079 13.12 3.9l-8.123 6.312C4.023 9.58 3.162 9.003 1.92 9.08zM5.512 10.375l7.608-6.473-4.227 7.575c-1.1-.56-2.102-1.126-3.38-1.102z"/></svg>

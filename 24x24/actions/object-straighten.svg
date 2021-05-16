@@ -1,15 +1,1 @@
-<svg version="1.1" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
-        color:#555e70;
-      }</style>
- </defs>
- <g class="ColorScheme-Text" fill="currentColor" transform="matrix(.99144 .13053 -.13053 .99144 30.019 2.0988)">
-  <path class="ColorScheme-Text" fill="currentColor" transform="rotate(-7.5 -1.0014 230.05)" d="m4.9512 1.5039c-0.66918 0.049324-1.2413 0.56695-1.332 1.2559l-1.084 8.2402h1.0078l1.0684-8.1094c0.0336-0.25522 0.24674-0.42032 0.50195-0.38672l15.996 2.1055c0.25522 0.0336 0.42032 0.24869 0.38672 0.50391l-0.77539 5.8867h1.0098l0.75781-5.7559c0.10365-0.78733-0.46072-1.5213-1.248-1.625l-15.996-2.1074c-0.098416-0.012957-0.19737-0.014859-0.29297-0.0078126zm-2.8105 12.496-0.62695 4.7559c-0.10365 0.78733 0.45877 1.5213 1.2461 1.625l15.996 2.1055c0.78733 0.10365 1.5233-0.46072 1.627-1.248l0.95313-7.2383h-1.0098l-0.93555 7.1094c-0.0336 0.25522-0.24869 0.42032-0.50391 0.38672l-15.996-2.1074c-0.25522-0.0336-0.41837-0.24869-0.38477-0.50391l0.64258-4.8848h-1.0078z"/>
- </g>
- <rect class="ColorScheme-Text" fill="currentColor" transform="scale(-1)" x="-23" y="-13" width="2" height="1"/>
- <rect class="ColorScheme-Text" fill="currentColor" transform="scale(-1)" x="-19" y="-13" width="3" height="1"/>
- <rect class="ColorScheme-Text" fill="currentColor" transform="scale(-1)" x="-14" y="-13" width="3" height="1"/>
- <rect class="ColorScheme-Text" fill="currentColor" transform="scale(-1)" x="-9" y="-13" width="3" height="1"/>
- <rect class="ColorScheme-Text" fill="currentColor" x="1" y="12" width="3" height="1"/>
-</svg>
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#555e70}</style></defs><g class="ColorScheme-Text" fill="currentColor"><path class="ColorScheme-Text" d="M4.951 1.504c-.669.05-1.241.567-1.332 1.256L2.535 11h1.008l1.069-8.11a.436.436 0 0 1 .501-.386L21.11 4.609c.256.034.42.249.387.504L20.721 11h1.01l.757-5.756a1.457 1.457 0 0 0-1.248-1.625L5.244 1.512a1.44 1.44 0 0 0-.293-.008zM2.141 14l-.627 4.756A1.455 1.455 0 0 0 2.76 20.38l15.996 2.105a1.459 1.459 0 0 0 1.627-1.248L21.336 14h-1.01l-.935 7.11a.438.438 0 0 1-.504.386L2.89 19.389a.436.436 0 0 1-.385-.504L3.149 14H2.14z"/></g><path class="ColorScheme-Text" fill="currentColor" d="M23 13h-2v-1h2zM19 13h-3v-1h3zM14 13h-3v-1h3zM9 13H6v-1h3zM1 12h3v1H1z"/></svg>

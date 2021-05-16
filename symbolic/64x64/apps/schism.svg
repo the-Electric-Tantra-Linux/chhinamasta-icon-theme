@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1.1">
- <rect style="opacity:0.2;stroke:#4285f4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" width="56" height="51" x="4" y="7" rx="3.409" ry="3.369"/>
- <rect style="fill:#b49478;stroke:#4285f4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" width="56" height="51" x="4" y="6" rx="3.409" ry="3.369"/>
- <rect style="fill:#3f3f3f" width="42" height="34" x="11" y="17"/>
- <path style="opacity:0.2" d="M 11 22 L 11 28 L 53 28 L 53 22 L 11 22 z M 11 33 L 11 39 L 53 39 L 53 33 L 11 33 z M 11 45 L 11 51 L 53 51 L 53 45 L 11 45 z"/>
- <path style="fill:#2e7034" d="m 11,17 v 33.999998 h 5 V 17 Z"/>
- <path style="fill:#2e7034" d="m 25,17 v 33.999998 h 5 V 17 Z"/>
- <path style="fill:#2e7034" d="m 39,17 v 33.999998 h 5 V 17 Z"/>
- <rect style="fill:#574c45" width="18" height="3" x="11" y="9"/>
- <rect style="fill:#574c45" width="10" height="3" x="11" y="12"/>
- <rect style="fill:#574c45" width="14" height="3" x="39" y="9"/>
- <rect style="opacity:0.2" width="42" height="1" x="11" y="17"/>
- <path style="fill:#ffffff;stroke:#4285f4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;opacity:0.2" d="M 7.4082031 6 C 5.5196172 6 4 7.5028071 4 9.3691406 L 4 10.369141 C 4 8.5028071 5.5196172 7 7.4082031 7 L 56.591797 7 C 58.480383 7 60 8.5028071 60 10.369141 L 60 9.3691406 C 60 7.5028071 58.480383 6 56.591797 6 L 7.4082031 6 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><rect style="opacity:.2;stroke:#4285f4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" width="56" height="51" x="4" y="7" rx="3.409" ry="3.369"/><rect style="fill:#b49478;stroke:#4285f4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round" width="56" height="51" x="4" y="6" rx="3.409" ry="3.369"/><path style="fill:#3f3f3f" d="M11 17h42v34H11z"/><path style="opacity:.2" d="M11 22v6h42v-6H11zm0 11v6h42v-6H11zm0 12v6h42v-6H11z"/><path style="fill:#2e7034" d="M11 17v34h5V17zM25 17v34h5V17zM39 17v34h5V17z"/><path style="fill:#574c45" d="M11 9h18v3H11zM11 12h10v3H11zM39 9h14v3H39z"/><path style="opacity:.2" d="M11 17h42v1H11z"/><path style="fill:#fff;stroke:#4285f4;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;opacity:.2" d="M7.408 6C5.52 6 4 7.503 4 9.37v1C4 8.502 5.52 7 7.408 7h49.184C58.48 7 60 8.503 60 10.37v-1C60 7.502 58.48 6 56.592 6H7.408z"/></svg>

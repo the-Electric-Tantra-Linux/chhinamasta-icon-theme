@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
- <rect style="opacity:0.2" width="29" height="29" x="2" y="2" rx="1.45" ry="1.45"/>
- <rect style="fill:#37a0f2" width="29" height="29" x="2" y="1" rx="1.45" ry="1.45"/>
- <path style="opacity:0.2" d="m 15,8 v 1 h 3 V 8 Z m 0,18 v 1 h 3 v -1 z"/>
- <path style="fill:#ffffff" d="M 15 5 L 15 8 L 18 8 L 18 5 L 15 5 z M 15 11 L 15 26 L 18 26 L 18 11 L 15 11 z"/>
- <path style="fill:#ffffff;opacity:0.2" d="M 3.4492188 1 C 2.6459187 1 2 1.6459187 2 2.4492188 L 2 3.4492188 C 2 2.6459187 2.6459187 2 3.4492188 2 L 29.550781 2 C 30.354081 2 31 2.6459187 31 3.4492188 L 31 2.4492188 C 31 1.6459187 30.354081 1 29.550781 1 L 3.4492188 1 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect style="opacity:.2" width="29" height="29" x="2" y="2" rx="1.45" ry="1.45"/><rect style="fill:#37a0f2" width="29" height="29" x="2" y="1" rx="1.45" ry="1.45"/><path style="opacity:.2" d="M15 8v1h3V8zm0 18v1h3v-1z"/><path style="fill:#fff" d="M15 5v3h3V5h-3zm0 6v15h3V11h-3z"/><path style="fill:#fff;opacity:.2" d="M3.45 1C2.645 1 2 1.646 2 2.45v1C2 2.645 2.646 2 3.45 2h26.1c.804 0 1.45.646 1.45 1.45v-1C31 1.645 30.354 1 29.55 1H3.45z"/></svg>

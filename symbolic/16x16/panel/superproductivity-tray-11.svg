@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#323a41; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 6.748047,4.999948 A 0.73085587,0.79027464 0 0 0 6,5.792917 v 4.416015 a 0.73085587,0.79027464 0 0 0 1.095703,0.685547 l 3.539063,-2.208984 a 0.73085587,0.79027464 0 0 0 0,-1.369141 L 7.095703,5.105417 A 0.73085587,0.79027464 0 0 0 6.748047,4.999948 Z"/>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="m 8,-5.1979003e-5 c -4.4064334,0 -8,3.593566579003 -8,7.999999979003 0,4.406433 3.5935666,8 8,8 4.406433,0 8,-3.593567 8,-8 C 16,3.5935146 12.406433,-5.1979003e-5 8,-5.1979003e-5 Z M 8,1.999948 c 3.325553,0 6,2.6744469 6,6 0,3.325553 -2.674447,6 -6,6 -3.3255531,0 -6,-2.674447 -6,-6 0,-3.3255531 2.6744469,-6 6,-6 z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 8,-5.1979003e-5 V 1.999948 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 A 6,6 0 0 1 2.0410156,8.626901 L 0.0429688,8.835886 A 8,8 0 0 0 8.558594,15.980417 8,8 0 0 0 15.996094,7.720651 8,8 0 0 0 8,-5.1979003e-5 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#323a41}</style></defs><path style="fill:currentColor" class="ColorScheme-Text" d="M6.748 5A.73.79 0 0 0 6 5.793v4.416a.73.79 0 0 0 1.096.685l3.539-2.209a.73.79 0 0 0 0-1.369l-3.54-2.21A.73.79 0 0 0 6.749 5z"/><path style="opacity:.3;fill:currentColor" class="ColorScheme-Text" d="M8 0C3.594 0 0 3.594 0 8c0 4.406 3.594 8 8 8 4.406 0 8-3.594 8-8 0-4.406-3.594-8-8-8zm0 2c3.326 0 6 2.674 6 6s-2.674 6-6 6-6-2.674-6-6 2.674-6 6-6z"/><path style="fill:currentColor" class="ColorScheme-Text" d="M8 0v2a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-5.959-5.373l-1.998.209a8 8 0 0 0 8.516 7.144 8 8 0 0 0 7.437-8.26A8 8 0 0 0 8 0z"/></svg>

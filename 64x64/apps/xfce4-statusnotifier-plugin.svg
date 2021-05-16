@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1">
- <circle style="opacity:0.2" cx="32" cy="33" r="29"/>
- <circle style="fill:#aa48c3" cx="32" cy="32" r="29"/>
- <path style="fill:#f4f4f7" d="m 29,15 v 6 h 6 v -6 z m 0,12 v 22 h 6 V 27 Z"/>
- <path style="opacity:0.1;fill:#f4f4f7" d="M 32 3 A 29 29 0 0 0 3 32 A 29 29 0 0 0 3.0175781 32.488281 A 29 29 0 0 1 32 4 A 29 29 0 0 1 60.974609 32.494141 A 29 29 0 0 0 61 32 A 29 29 0 0 0 32 3 z"/>
- <path style="opacity:0.2" d="m 29,21 v 1 h 6 v -1 z m 0,28 v 1 h 6 v -1 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><circle style="opacity:.2" cx="32" cy="33" r="29"/><circle style="fill:#aa48c3" cx="32" cy="32" r="29"/><path style="fill:#f4f4f7" d="M29 15v6h6v-6zm0 12v22h6V27z"/><path style="opacity:.1;fill:#f4f4f7" d="M32 3A29 29 0 0 0 3 32a29 29 0 0 0 .018.488A29 29 0 0 1 32 4a29 29 0 0 1 28.975 28.494A29 29 0 0 0 61 32 29 29 0 0 0 32 3z"/><path style="opacity:.2" d="M29 21v1h6v-1zm0 28v1h6v-1z"/></svg>

@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1.1">
- <rect style="opacity:0.2" width="28" height="26" x="2" y="4" rx="1.4" ry="1.4"/>
- <path style="fill:#1da0f8" d="M 3.4,3 H 17 L 19,5 V 29 H 3.4 C 2.6244,29 2,28.376 2,27.6 V 4.4 C 2,3.6244 2.6244,3 3.4,3 Z"/>
- <path style="opacity:0.2" d="M 14.039 16 C 14.011 16.546 14 17 14 17 L 18 17 C 18 17 18.011 24.001 18.834 29 L 19 29 C 18 24 18 16 18 16 L 14.039 16 z"/>
- <path style="fill:#e4e4e4" d="M 17,3 C 14,9 14,16 14,16 H 18 C 18,16 18,24 19,29 H 28.6 C 29.375,29 30,28.375 30,27.6 V 4.4004 C 30,3.6248 29.375,3 28.6,3 Z"/>
- <path style="fill:#ffffff;opacity:0.2" d="M 3.4004 3 C 2.6248 3 2 3.6248 2 4.4004 L 2 5.4004 C 2 4.6248 2.6248 4 3.4004 4 L 28.6 4 C 29.375 4 30 4.6248 30 5.4004 L 30 4.4004 C 30 3.6248 29.375 3 28.6 3 L 3.4004 3 z"/>
- <g style="opacity:0.2;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round" transform="translate(0,1)">
-  <path d="M 10,10 V 12"/>
-  <path d="M 22,10 V 12 12 12 12"/>
-  <path d="M 24,20 C 24,20 21,23 16,23 11,23 8,20 8,20"/>
- </g>
- <g style="fill:none;stroke:#4c4c4c;stroke-width:2;stroke-linecap:round">
-  <path d="M 10,10 V 12"/>
-  <path d="M 22,10 V 12 12 12 12"/>
-  <path d="M 24,20 C 24,20 21,23 16,23 11,23 8,20 8,20"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><rect style="opacity:.2" width="28" height="26" x="2" y="4" rx="1.4" ry="1.4"/><path style="fill:#1da0f8" d="M3.4 3H17l2 2v24H3.4c-.776 0-1.4-.624-1.4-1.4V4.4C2 3.624 2.624 3 3.4 3z"/><path style="opacity:.2" d="M14.039 16c-.028.546-.039 1-.039 1h4s.011 7.001.834 12H19c-1-5-1-13-1-13h-3.961z"/><path style="fill:#e4e4e4" d="M17 3c-3 6-3 13-3 13h4s0 8 1 13h9.6c.775 0 1.4-.625 1.4-1.4V4.4c0-.775-.625-1.4-1.4-1.4z"/><path style="fill:#fff;opacity:.2" d="M3.4 3C2.625 3 2 3.625 2 4.4v1C2 4.625 2.625 4 3.4 4h25.2c.775 0 1.4.625 1.4 1.4v-1c0-.775-.625-1.4-1.4-1.4H3.4z"/><g style="opacity:.2;fill:none;stroke:#000;stroke-width:2;stroke-linecap:round"><path d="M10 11v2M22 11v2h0M24 21s-3 3-8 3-8-3-8-3"/></g><g style="fill:none;stroke:#4c4c4c;stroke-width:2;stroke-linecap:round"><path d="M10 10v2M22 10v2M24 20s-3 3-8 3-8-3-8-3"/></g></svg>

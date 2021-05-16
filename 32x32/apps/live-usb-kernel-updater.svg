@@ -1,18 +1,1 @@
-<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g>
-  <path d="m6 3h20v10h-20z" style="fill:#b7b7b7"/>
-  <rect x="2" y="12" width="28" height="17" rx="1.4" ry="1.4170001" style="fill:#4f4f4f"/>
-  <g style="opacity:.4">
-   <rect x="8" y="16" width="16" height="2"/>
-   <rect x="10" y="20" width="12" height="2"/>
-   <rect x="12" y="24" width="8" height="2"/>
-  </g>
-  <path d="m2 27.584v1c0 0.785 0.6248 1.416 1.4004 1.416h25.2c0.775 0 1.4-0.631 1.4-1.416v-1c0 0.785-0.625 1.416-1.4 1.416h-25.2c-0.7752 0-1.4-0.631-1.4-1.416z" style="opacity:.2"/>
-  <path d="m6 3v1h20v-1z" style="fill:#f4f4f7;opacity:.2"/>
-  <circle cx="24" cy="24" r="8" style="opacity:.2"/>
-  <circle cx="24" cy="23" r="8" style="fill:#ba22ff"/>
-  <rect x="8" y="5" width="5" height="3" style="opacity:.5"/>
-  <rect x="19" y="5" width="5" height="3" style="opacity:.5"/>
-  <path d="m20 23c0 2.2092 1.7909 4 4 4 2.1867 0 3.9602-1.7554 3.9961-3.9336 0.0024-0.02205 0.0038-0.04421 4e-3 -0.0664 0-0.368192-0.398908-0.66667-0.7671-0.66667s-0.733 0.298478-0.733 0.66667c0 1.4727-1.02714 2.5-2.49994 2.5-1.4727 0-2.50006-1.0272-2.50006-2.5 0-1.4727 1.02726-2.5 2.50006-2.5v1.5l2.99994-2.3334-2.99954-2.1666v1.4993c-2.2092 0-4 1.7909-4 4z" style="fill:#f4f4f7"/>
- </g>
-</svg>
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg"><path d="M6 3h20v10H6z" style="fill:#b7b7b7"/><rect x="2" y="12" width="28" height="17" rx="1.4" ry="1.417" style="fill:#4f4f4f"/><g style="opacity:.4"><path d="M8 16h16v2H8zM10 20h12v2H10zM12 24h8v2h-8z"/></g><path d="M2 27.584v1C2 29.369 2.625 30 3.4 30h25.2c.775 0 1.4-.631 1.4-1.416v-1c0 .785-.625 1.416-1.4 1.416H3.4c-.775 0-1.4-.631-1.4-1.416z" style="opacity:.2"/><path d="M6 3v1h20V3z" style="fill:#f4f4f7;opacity:.2"/><circle cx="24" cy="24" r="8" style="opacity:.2"/><circle cx="24" cy="23" r="8" style="fill:#ba22ff"/><path style="opacity:.5" d="M8 5h5v3H8zM19 5h5v3h-5z"/><path d="M20 23a3.998 3.998 0 0 0 7.996.066A.67.67 0 0 0 28 23c0-.368-.399-.667-.767-.667s-.733.299-.733.667c0 1.473-1.027 2.5-2.5 2.5s-2.5-1.027-2.5-2.5 1.027-2.5 2.5-2.5V22l3-2.333-3-2.167V19a4 4 0 0 0-4 4z" style="fill:#f4f4f7"/></svg>

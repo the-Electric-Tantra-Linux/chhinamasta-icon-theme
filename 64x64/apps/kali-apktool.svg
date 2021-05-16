@@ -1,17 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m4 33v6h8v22h48v-6h-8v-22h-28z" style="opacity:.2"/>
- <path d="m4 32v6h8v22h6v-22h6v-6z" style="fill:#0c91fa"/>
- <path d="m18 38v22h14v-28h-8v6z" style="fill:#0470c5"/>
- <path d="m32 32v28h14v-28z" style="fill:#034d87"/>
- <path d="m46 32v28h14v-6h-8v-22z" style="fill:#02355f"/>
- <path d="m4 5v28h56v-7l-7-7 7-7v-7h-36z" style="opacity:.2"/>
- <path d="m4 32h20v-28h-20z" style="fill:#5dec36"/>
- <path d="m24 32h11v-7h11v-21h-22z" style="fill:#39c713"/>
- <path d="m35 25v7h25v-7l-7-7 7-7v-7h-14v21z" style="fill:#2d9d0e"/>
- <path d="m12 11v11h3v-11zm22 0v11h3v-11zm-22 14v8h3v-8z" style="opacity:.2"/>
- <path d="m12 10v11h3v-11zm22 0v11h3v-11zm-22 14v8h3v-8z" style="fill:#f4f4f7"/>
- <path d="m24 41v12h3v-12h-3zm14 0v12h3v-12h-3z" style="opacity:.2"/>
- <rect x="24" y="40" width="3" height="12" style="fill:#f4f4f7"/>
- <rect x="38" y="40" width="3" height="12" style="fill:#f4f4f7"/>
- <path d="m4 4v1h20 22 14v-1h-14-22-20zm49.5 14.5-0.5 0.5 7 7v-1l-6.5-6.5z" style="fill:#f4f4f7;opacity:.2"/>
-</svg>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><path d="M4 33v6h8v22h48v-6h-8V33H24z" style="opacity:.2"/><path d="M4 32v6h8v22h6V38h6v-6z" style="fill:#0c91fa"/><path d="M18 38v22h14V32h-8v6z" style="fill:#0470c5"/><path d="M32 32v28h14V32z" style="fill:#034d87"/><path d="M46 32v28h14v-6h-8V32z" style="fill:#02355f"/><path d="M4 5v28h56v-7l-7-7 7-7V5H24z" style="opacity:.2"/><path d="M4 32h20V4H4z" style="fill:#5dec36"/><path d="M24 32h11v-7h11V4H24z" style="fill:#39c713"/><path d="M35 25v7h25v-7l-7-7 7-7V4H46v21z" style="fill:#2d9d0e"/><path d="M12 11v11h3V11zm22 0v11h3V11zM12 25v8h3v-8z" style="opacity:.2"/><path d="M12 10v11h3V10zm22 0v11h3V10zM12 24v8h3v-8z" style="fill:#f4f4f7"/><path d="M24 41v12h3V41h-3zm14 0v12h3V41h-3z" style="opacity:.2"/><path style="fill:#f4f4f7" d="M24 40h3v12h-3zM38 40h3v12h-3z"/><path d="M4 4v1h56V4H4zm49.5 14.5-.5.5 7 7v-1l-6.5-6.5z" style="fill:#f4f4f7;opacity:.2"/></svg>

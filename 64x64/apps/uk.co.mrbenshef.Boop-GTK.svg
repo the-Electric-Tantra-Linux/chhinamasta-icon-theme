@@ -1,11 +1,1 @@
-<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="3.999999" y="5.9999981" width="34" height="34" ry="4.0000014" style="opacity:.2"/>
- <rect x="4" y="4.9999986" width="34" height="34" ry="4.0000014" style="fill:#f5e03a"/>
- <rect x="14" y="14" width="34" height="34" ry="11.333334" style="opacity:.2"/>
- <rect x="14.000001" y="13" width="34" height="34" ry="11.333334" style="fill:#f98413"/>
- <circle cx="43" cy="42" r="17" style="opacity:.2"/>
- <circle cx="43" cy="41" r="17" style="fill:#a821a3"/>
- <path d="m8 5c-2.2160008 0-4 1.7839992-4 4v1c0-2.2160008 1.7839992-4 4-4h26c2.216001 0 4 1.7839992 4 4v-1c0-2.2160008-1.783999-4-4-4h-26z" style="fill:#f4f4f7;opacity:.2"/>
- <path d="m25.333984 13c-6.278667 0-11.333984 5.055317-11.333984 11.333984v1c0-6.278667 5.055317-11.333984 11.333984-11.333984h11.332032c6.278667 0 11.333984 5.055317 11.333984 11.333984v-1c0-6.278667-5.055317-11.333984-11.333984-11.333984h-11.332032z" style="fill:#f4f4f7;opacity:.2"/>
- <path d="M 43 24 A 17 17 0 0 0 26 41 A 17 17 0 0 0 26.021484 41.580078 A 17 17 0 0 1 43 25 A 17 17 0 0 1 59.978516 41.419922 A 17 17 0 0 0 60 41 A 17 17 0 0 0 43 24 z " style="fill:#f4f4f7;opacity:.2"/>
-</svg>
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg"><rect x="4" y="6" width="34" height="34" ry="4" style="opacity:.2"/><rect x="4" y="5" width="34" height="34" ry="4" style="fill:#f5e03a"/><rect x="14" y="14" width="34" height="34" ry="11.333" style="opacity:.2"/><rect x="14" y="13" width="34" height="34" ry="11.333" style="fill:#f98413"/><circle cx="43" cy="42" r="17" style="opacity:.2"/><circle cx="43" cy="41" r="17" style="fill:#a821a3"/><path d="M8 5C5.784 5 4 6.784 4 9v1c0-2.216 1.784-4 4-4h26c2.216 0 4 1.784 4 4V9c0-2.216-1.784-4-4-4H8zM25.334 13A11.31 11.31 0 0 0 14 24.334v1A11.31 11.31 0 0 1 25.334 14h11.332A11.31 11.31 0 0 1 48 25.334v-1A11.31 11.31 0 0 0 36.666 13H25.334z" style="fill:#f4f4f7;opacity:.2"/><path d="M43 24a17 17 0 0 0-17 17 17 17 0 0 0 .021.58A17 17 0 0 1 43 25a17 17 0 0 1 16.979 16.42A17 17 0 0 0 60 41a17 17 0 0 0-17-17z" style="fill:#f4f4f7;opacity:.2"/></svg>

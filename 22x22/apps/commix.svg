@@ -1,15 +1,1 @@
-<svg width="22" height="22" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m7 16.5 3 1 1 4 1-4 3-1v-1h-3v-14h-2v14h-3z" style="opacity:.2"/>
- <path d="m7 16 3 1 1 4 1-4 3-1v-1h-3v-14h-2v14h-3z" style="fill:#b2b2b2"/>
- <path d="m7 16h8v-11h-8z" style="fill:#d33e33"/>
- <path d="m9.5 1.49995a0.50005 0.50005 0 1 0 0 1h3a0.50005 0.50005 0 1 0 0-1z" style="opacity:.2"/>
- <path d="m9.5 1a0.50005 0.50005 0 1 0 0 1h3a0.50005 0.50005 0 1 0 0-1z" style="fill:#f4f4f7"/>
- <path d="m9 14.5h1l1-1 1 1h1l-2-2z" style="opacity:.1"/>
- <path d="m9 14h1l1-1 1 1h1l-2-2z" style="fill:#17191e"/>
- <rect x="12" y="8.5" width="1" height="3" style="opacity:.1"/>
- <rect x="12" y="8" width="1" height="3" style="fill:#17191e"/>
- <path d="m6.5 5.49995a0.50005 0.50005 0 1 0 0 1h9a0.50005 0.50005 0 1 0 0-1z" style="opacity:.2"/>
- <path d="m6.5 5a0.50005 0.50005 0 1 0 0 1h9a0.50005 0.50005 0 1 0 0-1z" style="fill:#f4f4f7"/>
- <path d="m9.5 1a0.50005 0.50005 0 0 0-0.4394531 0.75 0.50005 0.50005 0 0 1 0.4394531-0.25h3a0.50005 0.50005 0 0 1 0.439453 0.25 0.50005 0.50005 0 0 0-0.439453-0.75h-3z" style="fill:#f4f4f7;opacity:.2"/>
- <path d="m6.5 5a0.50005 0.50005 0 0 0-0.4394531 0.75 0.50005 0.50005 0 0 1 0.4394531-0.25h9a0.50005 0.50005 0 0 1 0.439453 0.25 0.50005 0.50005 0 0 0-0.439453-0.75h-9z" style="fill:#f4f4f7;opacity:.2"/>
-</svg>
+<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg"><path d="m7 16.5 3 1 1 4 1-4 3-1v-1h-3v-14h-2v14H7z" style="opacity:.2"/><path d="m7 16 3 1 1 4 1-4 3-1v-1h-3V1h-2v14H7z" style="fill:#b2b2b2"/><path d="M7 16h8V5H7z" style="fill:#d33e33"/><path d="M9.5 1.5a.5.5 0 1 0 0 1h3a.5.5 0 1 0 0-1z" style="opacity:.2"/><path d="M9.5 1a.5.5 0 1 0 0 1h3a.5.5 0 1 0 0-1z" style="fill:#f4f4f7"/><path d="M9 14.5h1l1-1 1 1h1l-2-2z" style="opacity:.1"/><path d="M9 14h1l1-1 1 1h1l-2-2z" style="fill:#17191e"/><path style="opacity:.1" d="M12 8.5h1v3h-1z"/><path style="fill:#17191e" d="M12 8h1v3h-1z"/><path d="M6.5 5.5a.5.5 0 1 0 0 1h9a.5.5 0 1 0 0-1z" style="opacity:.2"/><path d="M6.5 5a.5.5 0 1 0 0 1h9a.5.5 0 1 0 0-1z" style="fill:#f4f4f7"/><path d="M9.5 1a.5.5 0 0 0-.44.75.5.5 0 0 1 .44-.25h3a.5.5 0 0 1 .44.25.5.5 0 0 0-.44-.75h-3zM6.5 5a.5.5 0 0 0-.44.75.5.5 0 0 1 .44-.25h9a.5.5 0 0 1 .44.25.5.5 0 0 0-.44-.75h-9z" style="fill:#f4f4f7;opacity:.2"/></svg>

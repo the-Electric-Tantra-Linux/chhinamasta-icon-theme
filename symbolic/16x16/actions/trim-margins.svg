@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#323a41; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 2 0 L 2 2 L 0 2 L 0 4 L 2 4 L 2 16 L 4 16 L 4 4 L 14 4 L 14 16 L 16 16 L 16 4 L 16 2 L 14 2 L 4 2 L 4 0 L 2 0 z M 5 5 L 5 6 L 13 6 L 13 5 L 5 5 z M 5 7 L 5 8 L 13 8 L 13 7 L 5 7 z M 5 9 L 5 10 L 13 10 L 13 9 L 5 9 z M 5 11 L 5 12 L 13 12 L 13 11 L 5 11 z M 5 13 L 5 14 L 13 14 L 13 13 L 5 13 z M 5 15 L 5 16 L 13 16 L 13 15 L 5 15 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><defs><style id="current-color-scheme" type="text/css"></style></defs><path style="fill:currentColor;color:#323a41" d="M2 0v2H0v2h2v12h2V4h10v12h2V2H4V0H2zm3 5v1h8V5H5zm0 2v1h8V7H5zm0 2v1h8V9H5zm0 2v1h8v-1H5zm0 2v1h8v-1H5zm0 2v1h8v-1H5z"/></svg>

@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#ed5b36" d="M 1e-7,2 V 15 H 1 v -1 h 1 v 1 h 12 v -1 h 1 v 1 h 1 V 2 H 15 V 3 H 14 V 2 H 2 V 3 H 1 V 2 Z M 1,5 H 2 V 6 H 1 Z m 13,0 h 1 V 6 H 14 Z M 1,8 H 2 V 9 H 1 Z m 13,0 h 1 V 9 H 14 Z M 1,11 h 1 v 1 H 1 Z m 13,0 h 1 v 1 h -1 z"/>
- <path style="fill:#f4f4f7" d="M 8.0000001,13.256 4.7804879,10 h 6.4390241 z"/>
- <path style="fill:#f4f4f7" d="m 6,9 h 4 v 1.867 H 6 Z"/>
- <path style="fill:#f4f4f7;fill-opacity:0.68000034" d="M 6,9 H 7.3333333 V 7.6666666 H 6 Z"/>
- <path style="fill:#f4f4f7" d="M 7.3333333,9 H 8.6666667 V 7.6666666 H 7.3333333 Z"/>
- <path style="fill:#f4f4f7;fill-opacity:0.87999998" d="M 8.6666667,9 H 10 V 7.6666666 H 8.6666667 Z"/>
- <path style="fill:#f4f4f7;fill-opacity:0.68000034" d="M 10,7.6666666 H 8.6666667 V 6.3333333 h 1.3333328 z"/>
- <path style="fill:#f4f4f7;fill-opacity:0.54000005" d="M 8.6666667,7.6666666 H 7.3333333 V 6.3333333 h 1.3333334 z"/>
- <path style="fill:#f4f4f7;fill-opacity:0.87999998" d="M 7.3333333,7.6666666 H 6 V 6.3333333 h 1.3333333 z"/>
- <path style="fill:#f4f4f7;fill-opacity:0.18999999" d="M 10,6.3333333 H 8.6666667 V 5 h 1.3333328 z"/>
- <path style="fill:#f4f4f7;fill-opacity:0.34000017" d="M 8.6666667,6.3333333 H 7.3333333 V 5 h 1.3333334 z"/>
- <path style="fill:#f4f4f7;fill-opacity:0.06000001" d="M 7.3333333,6.3333333 H 6 V 5 h 1.3333333 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path style="fill:#ed5b36" d="M0 2v13h1v-1h1v1h12v-1h1v1h1V2h-1v1h-1V2H2v1H1V2zm1 3h1v1H1zm13 0h1v1h-1zM1 8h1v1H1zm13 0h1v1h-1zM1 11h1v1H1zm13 0h1v1h-1z"/><path style="fill:#f4f4f7" d="M8 13.256 4.78 10h6.44z"/><path style="fill:#f4f4f7" d="M6 9h4v1.867H6z"/><path style="fill:#f4f4f7;fill-opacity:.68000034" d="M6 9h1.333V7.667H6z"/><path style="fill:#f4f4f7" d="M7.333 9h1.334V7.667H7.333z"/><path style="fill:#f4f4f7;fill-opacity:.87999998" d="M8.667 9H10V7.667H8.667z"/><path style="fill:#f4f4f7;fill-opacity:.68000034" d="M10 7.667H8.667V6.333H10z"/><path style="fill:#f4f4f7;fill-opacity:.54000005" d="M8.667 7.667H7.333V6.333h1.334z"/><path style="fill:#f4f4f7;fill-opacity:.87999998" d="M7.333 7.667H6V6.333h1.333z"/><path style="fill:#f4f4f7;fill-opacity:.18999999" d="M10 6.333H8.667V5H10z"/><path style="fill:#f4f4f7;fill-opacity:.34000017" d="M8.667 6.333H7.333V5h1.334z"/><path style="fill:#f4f4f7;fill-opacity:.06000001" d="M7.333 6.333H6V5h1.333z"/></svg>

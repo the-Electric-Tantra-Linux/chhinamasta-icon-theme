@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#323a41; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 8,0 C 6.754,0 5.6889,0.7515 5.2344,1.8281 V 1.8301 L 11,7.594 V 3 C 11,1.3379 9.662,0 8,0 Z M 2.3438,0.9375 0.9375,2.3438 5,6.4062 V 8 C 5,9.662 6.3379,11 8,11 8.466,11 8.901,10.887 9.291,10.697 L 10.02,11.426 C 9.428,11.778 8.749,12 8,12 5.7666,12 4,10.233 4,8 V 7 H 2 V 8 C 2,10.969 4.1624,13.432 7,13.906 V 16 H 9 V 13.906 C 9.91,13.754 10.738,13.379 11.459,12.865 L 13.656,15.062 15.062,13.656 2.344,0.938 Z M 12,7 V 8 C 12,8.186 11.971,8.362 11.947,8.541 L 13.584,10.178 C 13.848,9.502 14,8.769 14,8 V 7 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><defs><style id="current-color-scheme" type="text/css"></style></defs><path style="opacity:.3;fill:currentColor;color:#323a41" d="M8 0a2.995 2.995 0 0 0-2.766 1.828v.002L11 7.594V3c0-1.662-1.338-3-3-3zM2.344.938.938 2.343 5 6.406V8c0 1.662 1.338 3 3 3 .466 0 .901-.113 1.291-.303l.729.729A3.923 3.923 0 0 1 8 12a3.97 3.97 0 0 1-4-4V7H2v1a5.992 5.992 0 0 0 5 5.906V16h2v-2.094a5.915 5.915 0 0 0 2.459-1.041l2.197 2.197 1.406-1.406L2.344.938zM12 7v1c0 .186-.029.362-.053.541l1.637 1.637A5.973 5.973 0 0 0 14 8V7z"/></svg>
