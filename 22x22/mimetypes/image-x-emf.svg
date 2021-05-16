@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1">
- <path style="opacity:0.2" d="m 21,19.5 0,-16 c 0,-0.554 -0.446,-1 -1,-1 l -18,0 c -0.554,0 -1,0.446 -1,1 l 0,16 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 z"/>
- <path style="fill:#a47a4a" d="M 21,19 21,3 C 21,2.446 20.554,2 20,2 L 2,2 C 1.446,2 1,2.446 1,3 l 0,16 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 z"/>
- <path style="opacity:0.1;fill:#f4f4f7" d="M 2,2 C 1.446,2 1,2.446 1,3 l 0,0.5 c 0,-0.554 0.446,-1 1,-1 l 18,0 c 0.554,0 1,0.446 1,1 L 21,3 C 21,2.446 20.554,2 20,2 Z"/>
- <path style="fill:none;stroke:#f4f4f7;stroke-width:1px" d="m 5,10 4,6 8,-2"/>
- <circle style="opacity:0.2" cx="5" cy="10.5" r="2"/>
- <circle style="fill:#17191e" cx="5" cy="10" r="2"/>
- <circle style="opacity:0.2" cx="9" cy="16.5" r="2"/>
- <circle style="fill:#17191e" cx="9" cy="16" r="2"/>
- <circle style="opacity:0.2" cx="17" cy="14.5" r="2"/>
- <circle style="fill:#17191e" cx="17" cy="14" r="2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><path d="M4 2v2.992h3V2H4zm14 0c-5.254.003-9.99 2.196-12 5.557V5H5v3.55A2.5 2.5 0 0 0 3 11a2.5 2.5 0 0 0 2 2.445V17H4v3h3v-3H6v-2.545C8.016 17.811 12.75 20 18 20v-1c-5.304-.003-9.975-2.326-11.49-5.715A2.5 2.5 0 0 0 8 11a2.5 2.5 0 0 0-1.494-2.285C8.02 5.325 12.695 3.002 18 3V2zM5 3.035h1v1H5v-1zM5.5 9.5A1.5 1.5 0 0 1 7 11a1.5 1.5 0 0 1-1.5 1.5A1.5 1.5 0 0 1 4 11a1.5 1.5 0 0 1 1.5-1.5zM5 18h1v1H5v-1z" fill="#35bedc" stroke-width="10"/></svg>

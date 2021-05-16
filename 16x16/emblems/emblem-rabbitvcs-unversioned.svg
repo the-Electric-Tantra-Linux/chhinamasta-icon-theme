@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <circle style="fill:#e658d7" cx="8" cy="8" r="7"/>
- <path style="fill:#f4f4f7;fill-rule:evenodd" d="M 8,4 V 6.0182 H 6.3799 C 5.351,6.0183 4.4003,6.527 3.8859,7.3528 3.3714,8.1786 3.3714,9.3461 3.8859,10.172 4.3756,10.955 5.2606,11.455 6.2364,11.5 5.5003,11.432 4.9999,10.858 5,10.172 5,9.4349 5.5846,8.9908 6.3799,9 H 8 V 11 L 12,7.5 Z"/>
+<svg width="16" height="16" version="1.1" viewBox="0 0 4.2335 4.2335" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(1.0001 0 0 1.0001 -1.3225 -292.52)">
+  <rect x="1.587" y="292.77" width="3.704" height="3.704" rx=".265" ry=".265" fill="#3c4049" fill-opacity=".8" style="paint-order:markers stroke fill"/>
+  <path d="m3.41 293.38 1.283 0.892-1.283 0.893v-0.496h-0.133c-0.27 0-0.51 0.174-0.583 0.397-0.086 0.268 0.286 0.794 0.286 0.794s-0.794-0.298-0.794-0.943c0-0.62 0.397-1.041 0.992-1.041h0.232z" color="#bebebe" fill="#ffffff" font-weight="400" overflow="visible" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+ </g>
 </svg>

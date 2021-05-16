@@ -1,7 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <rect style="opacity:0.2" width="20" height="18" x="2" y="3.5" rx="1" ry="1"/>
- <path style="fill:#323a41" d="M 2,4.9 2,20 c 0,0.554 0.446,1 1,1 l 18,0 c 0.554,0 1,-0.446 1,-1 L 22,4.9 Z"/>
- <path style="fill:#f4f4f7" d="M 3,3 C 2.446,3 2,3.45 2,4 V 5 H 22 V 4 C 22,3.45 21.554,3 21,3 Z"/>
- <path style="fill:#f4f4f7" d="M 8,19 C 7.446,19 7,19.45 7,20 V 21 H 17 V 20 C 17,19.45 16.554,19 16,19 Z"/>
- <path style="opacity:0.1;fill:#f4f4f7" d="M 3,3 C 2.446,3 2,3.45 2,4 V 4.5 C 2,3.95 2.446,3.5 3,3.5 H 21 C 21.554,3.5 22,3.95 22,4.5 V 4 C 22,3.45 21.554,3 21,3 Z"/>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#5d656b; } .ColorScheme-Highlight { color:#5294e2; }</style>
+ </defs>
+ <g fill="currentColor">
+  <g class="ColorScheme-Text" transform="translate(2.9998,3)">
+   <path transform="translate(1,1)" d="m1 5v8.5c0 0.277 0.223 0.5 0.5 0.5h13c0.277 0 0.5-0.223 0.5-0.5v-8.5z" opacity=".1"/>
+   <path transform="translate(1,1)" d="m1.5 2c-0.277 0-0.5 0.223-0.5 0.5v1.5h14v-1.5c0-0.277-0.223-0.5-0.5-0.5z" opacity=".25"/>
+  </g>
+  <g class="ColorScheme-Text" transform="matrix(1.0718,0,0,1.0829,2.3538,2.254)">
+   <path class="ColorScheme-Text" d="m3 2.5352c-0.80303 0-1.4648 0.66181-1.4648 1.4648v10c0 0.80303 0.66181 1.4648 1.4648 1.4648h12c0.80303 0 1.4648-0.66181 1.4648-1.4648v-10c0-0.80303-0.66181-1.4648-1.4648-1.4648zm0 0.92969h12c0.30497 0 0.53516 0.23019 0.53516 0.53516v10c0 0.30497-0.23019 0.53516-0.53516 0.53516h-12c-0.30497 0-0.53516-0.23019-0.53516-0.53516v-10c0-0.30497 0.23019-0.53516 0.53516-0.53516z" fill="currentColor"/>
+  </g>
+  <path class="ColorScheme-Text" d="m4.9998 8h14v1h-14z"/>
+ </g>
 </svg>

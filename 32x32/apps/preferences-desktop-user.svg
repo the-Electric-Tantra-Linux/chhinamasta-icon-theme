@@ -6,7 +6,7 @@
   </g>
   <circle cx="408.07" cy="541.3" r="6.5" fill="#2f94e4" fill-opacity=".98431"/>
   <circle cx="408.07" cy="541.3" r="5.5" fill="#5db5fc" fill-opacity=".98431"/>
-  <circle cx="408.07" cy="538.3" r=".5" fill="#f4f4f7" fill-opacity=".98431"/>
-  <rect x="407.57" y="539.8" width="1" height="5" rx=".5" ry=".5" fill="#f4f4f7" fill-opacity=".98431"/>
+  <circle cx="408.07" cy="538.3" r=".5" fill="#fff" fill-opacity=".98431"/>
+  <rect x="407.57" y="539.8" width="1" height="5" rx=".5" ry=".5" fill="#fff" fill-opacity=".98431"/>
  </g>
 </svg>

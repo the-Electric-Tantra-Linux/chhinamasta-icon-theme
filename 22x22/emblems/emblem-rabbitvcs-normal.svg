@@ -1,6 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1">
- <g transform="translate(-1,-1)">
-  <circle style="fill:#4caf50" cx="12" cy="12" r="10"/>
-  <path style="fill:#f4f4f7" d="M 17.5,7.5 11.532,13.468 8,10 6,12 11.5,17.5 19.5,9.5 Z"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 5.821 5.821"><g transform="translate(0 -291.18)"><rect width="3.704" height="3.704" x="1.587" y="292.767" rx=".265" ry=".265" fill="#3c4049" fill-opacity=".8" paint-order="markers stroke fill"/><path d="M2.448 294.81l.595.596 1.39-1.588" fill="none" stroke="#fff" stroke-width=".529" stroke-linecap="square"/></g></svg>

@@ -27,8 +27,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#f4f4f7fff"
-     bordercolor="#556666"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -171,7 +171,7 @@
      cy="24"
      r="17.5" />
   <ellipse
-     style="opacity:0.25;fill:#f4f4f7fff"
+     style="opacity:0.25;fill:#ffffff"
      id="ellipse56"
      cx="24"
      cy="24"

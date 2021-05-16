@@ -1,10 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#323a41; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <g transform="matrix(1,0,0,1,4,4)">
-  <path class="ColorScheme-Text" d="M 8,1 A 7,7 0 0 0 1,8 7,7 0 0 0 8,15 7,7 0 0 0 15,8 7,7 0 0 0 8,1 Z M 5,5 H 6 C 6.28,5 6.5407,5.1002 6.7207,5.2812 L 8,6.5586 9.2793,5.2812 C 9.4593,5.1002 9.72,5 10,5 H 11 V 6 C 11,6.276 10.901,6.5377 10.721,6.7188 L 9.4395,8 10.721,9.2812 C 10.901,9.4621 11,9.7239 11,10 V 11 H 10 C 9.72,11 9.4593,10.9 9.2793,10.719 L 8,9.4336 6.7207,10.719 C 6.5407,10.9 6.28,11 6,11 H 5 V 10 C 5,9.7239 5.0993,9.4622 5.2793,9.2812 L 6.5605,8 5.2793,6.7188 C 5.0993,6.5377 5,6.276 5,6 Z" style="fill:currentColor"/>
- </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <defs id="defs3051">
+    <style type="text/css" id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#5d656b;
+      }
+      </style>
+  </defs>
+ <path style="fill:currentColor;fill-opacity:1;stroke:none" 
+     d="M 18.564453 3.7558594 L 15.298828 9.5742188 L 12.882812 8.1386719 L 11.861328 9.8574219 L 17.511719 13.216797 L 18.533203 11.496094 L 16.158203 10.083984 L 19.435547 4.2441406 L 18.564453 3.7558594 z M 8 7 A 1 1 0 0 0 7 8 A 1 1 0 0 0 8 9 A 1 1 0 0 0 9 8 A 1 1 0 0 0 8 7 z M 4.5 8 A 0.5 0.5 0 0 0 4 8.5 A 0.5 0.5 0 0 0 4.5 9 A 0.5 0.5 0 0 0 5 8.5 A 0.5 0.5 0 0 0 4.5 8 z M 6 10 A 1 1 0 0 0 5 11 A 1 1 0 0 0 6 12 A 1 1 0 0 0 7 11 A 1 1 0 0 0 6 10 z M 11 11 C 9.8815125 12.564268 7.8355055 13.810894 4 14 L 4 15 C 6.1137135 18.371692 9 20 13 20 L 14 20 C 15.311249 18.412805 16.357513 16.967619 17 15 L 17 14 L 12 11 L 11 11 z M 11.529297 12.101562 L 15.857422 14.699219 C 15.284594 16.24586 14.385404 17.602833 13.273438 18.96875 C 9.999999 19 7.052768 17.540538 5.3261719 14.830078 C 8.4443879 14.51946 10.345716 13.545307 11.529297 12.101562 z "
+     class="ColorScheme-Text"
+     />
 </svg>

@@ -9,8 +9,8 @@
   </clipPath>
  </defs>
  <g transform="translate(0 -284.3)">
-  <path d="M2.381 285.887s-.264 0-.264.265v.265h-.794s-.265-.002-.265.262v4.09c0 .226.182.408.407.408h9.77a.406.406 0 0 0 .407-.407v-4.089c0-.264-.265-.264-.265-.264H5.821v-.265c0-.265-.265-.265-.265-.265z" fill="#f4f4f7" fill-opacity=".976" stroke="#000" stroke-opacity=".267" stroke-width=".529" paint-order="markers stroke fill"/>
-  <path d="M2.381 285.887s-.264 0-.264.265v.265h-.794s-.265-.002-.265.262v4.09c0 .226.182.408.407.408h9.77a.406.406 0 0 0 .407-.407v-4.089c0-.264-.265-.264-.265-.264H5.821v-.265c0-.265-.265-.265-.265-.265z" fill="#f4f4f7" fill-opacity=".976" paint-order="markers stroke fill"/>
+  <path d="M2.381 285.887s-.264 0-.264.265v.265h-.794s-.265-.002-.265.262v4.09c0 .226.182.408.407.408h9.77a.406.406 0 0 0 .407-.407v-4.089c0-.264-.265-.264-.265-.264H5.821v-.265c0-.265-.265-.265-.265-.265z" fill="#fff" fill-opacity=".976" stroke="#000" stroke-opacity=".267" stroke-width=".529" paint-order="markers stroke fill"/>
+  <path d="M2.381 285.887s-.264 0-.264.265v.265h-.794s-.265-.002-.265.262v4.09c0 .226.182.408.407.408h9.77a.406.406 0 0 0 .407-.407v-4.089c0-.264-.265-.264-.265-.264H5.821v-.265c0-.265-.265-.265-.265-.265z" fill="#fff" fill-opacity=".976" paint-order="markers stroke fill"/>
   <path d="M6.35 287.208c-.225 0-.292.212-.406.406l-.236.388H.529c-.264 0-.264.265-.264.265v6.88c0 .265.264.265.264.265h11.642c.264 0 .264-.264.264-.264v-7.673c0-.265-.264-.265-.264-.265z" fill="#6ba4e7" stroke="#003579" stroke-opacity=".561" stroke-width=".529" paint-order="markers stroke fill"/>
   <path d="M6.35 287.208c-.225 0-.292.212-.406.406l-.236.388H.529c-.264 0-.264.265-.264.265v6.88c0 .265.264.265.264.265h11.642c.264 0 .264-.264.264-.264v-7.673c0-.265-.264-.265-.264-.265z" fill="#6ba4e7" paint-order="markers stroke fill"/>
   <rect transform="scale(.76667) rotate(-45 109.08 45.442)" x="-199.59" y="217.87" width="5.292" height="4.762" ry=".132" clip-path="url(#b)" fill="url(#c)" opacity=".1" paint-order="stroke markers fill"/>

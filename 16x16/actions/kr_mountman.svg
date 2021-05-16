@@ -2,7 +2,7 @@
   <defs id="defs3051">
     <style type="text/css" id="current-color-scheme">
       .ColorScheme-Text {
-        color:#555e70;
+        color:#5d656b;
       }
       .ColorScheme-Highlight {
         color:#3daee9;
@@ -24,6 +24,6 @@
       />
   <path
      d="M 8,8 5,11 4,10 3,11 5,13 9,9 Z"
-     style="fill:#f4f4f7fff;fill-rule:evenodd"
+     style="fill:#ffffff;fill-rule:evenodd"
       />
 </svg>

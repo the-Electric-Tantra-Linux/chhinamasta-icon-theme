@@ -3,8 +3,8 @@
  <path d="m13.46 22.384c-0.26 0-0.452 0.184-0.45 0.407v5.349l-2.545 0.184h-0.01c-0.26 0-0.45 0.184-0.45 0.407v0.269h12v-0.269c0-0.223-0.19-0.407-0.45-0.407h-0.012l-2.543-0.184v-5.349c0-0.223-0.19-0.407-0.45-0.407z" fill="#fafafa"/>
  <rect x="1" y="2" width="30" height="21" rx="1.0345" ry="1.1053" fill="#434855" stroke="#252831" stroke-dashoffset=".5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".784" stroke-width="2"/>
  <path d="m2 3h28v19.071h-28z" fill="#5294e2" fill-rule="evenodd" stroke-width="1.0293"/>
- <rect transform="scale(1,-1)" x="9" y="-12" width="14" height="3" fill="#f4f4f7" opacity=".5"/>
- <rect transform="scale(1,-1)" x="9" y="-16" width="14" height="3" fill="#f4f4f7" opacity=".5"/>
+ <rect transform="scale(1,-1)" x="9" y="-12" width="14" height="3" fill="#fff" opacity=".5"/>
+ <rect transform="scale(1,-1)" x="9" y="-16" width="14" height="3" fill="#fff" opacity=".5"/>
  <g fill="#4d4d4d">
   <circle cx="10.5" cy="10.5" r=".5"/>
   <circle cx="10.5" cy="14.5" r=".5"/>
