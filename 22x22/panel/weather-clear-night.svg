@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22"><defs><style id="current-color-scheme" type="text/css"></style></defs><path d="M9.002 4.196v.001c-.24.517-.428 1.043-.534 1.366-.348 0-.92.013-1.467.084v.001h.001c.417.39.86.73 1.135.93-.108.33-.272.88-.374 1.42h.002c.5-.276.96-.592 1.234-.79A12.06 12.06 0 0 0 10.235 8a12.804 12.804 0 0 0-.37-1.419A12.065 12.065 0 0 0 11 5.651a12.788 12.788 0 0 0-1.465-.086 12.07 12.07 0 0 0-.534-1.37zm-3.5 3.951a9.6 9.6 0 0 0-.4 1.025 9.032 9.032 0 0 0-1.1.064 9.6 9.6 0 0 0 .851.697c-.08.248-.204.66-.28 1.066a9.59 9.59 0 0 0 .926-.594 8.9 8.9 0 0 0 .928.596c-.082-.42-.2-.823-.279-1.065.211-.153.553-.414.853-.698a9.596 9.596 0 0 0-1.099-.064 9.078 9.078 0 0 0-.4-1.027zm7.796-2.9a5.725 5.725 0 0 1 1.1 5.095 5.729 5.729 0 0 1-7.016 4.05 5.728 5.728 0 0 1-2.132-1.099 6.507 6.507 0 0 0 4.56 4.485 6.506 6.506 0 0 0 7.97-4.6 6.507 6.507 0 0 0-4.48-7.932zm2.166 2.456a5.471 5.471 0 0 1 1.528 4.127 5.567 5.567 0 0 1-.18 1.09 5.49 5.49 0 0 1-9.137 2.528c3.4.61 6.78-1.453 7.69-4.846V10.6a6.71 6.71 0 0 0 .1-2.897z" style="fill:currentColor;color:#d3dae3"/></svg>
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='weather-clear-night.svg' height='22' id='svg6530' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' inkscape:version='0.91 r' viewBox='0 0 22 22' width='22' xmlns='http://www.w3.org/2000/svg'>
+  <defs id='defs6532'>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview inkscape:bbox-nodes='true' bordercolor='#666666' borderopacity='1.0' inkscape:current-layer='layer1' inkscape:cx='27.152638' inkscape:cy='146.83276' inkscape:document-units='px' id='base' inkscape:object-nodes='true' inkscape:object-paths='true' pagecolor='#454d50' inkscape:pageopacity='0' inkscape:pageshadow='2' showgrid='false' inkscape:snap-bbox='true' inkscape:snap-bbox-edge-midpoints='true' inkscape:snap-bbox-midpoints='true' inkscape:snap-smooth-nodes='true' units='px' inkscape:window-height='417' inkscape:window-maximized='0' inkscape:window-width='488' inkscape:window-x='0' inkscape:window-y='0' inkscape:zoom='1'>
+    <inkscape:grid empspacing='4' id='grid8845' originx='-81.000012' originy='-349.07219' type='xygrid'/>
+  </sodipodi:namedview>
+  <metadata id='metadata6535'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:groupmode='layer' id='layer1' inkscape:label='panel' style='display:inline' transform='translate(-81.000012,-681.28997)'>
+    <rect height='22' id='rect18110-7-1-3' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:none;stroke:none;stroke-width:1.78100002;marker:none;enable-background:new' width='22' x='81.000015' y='681.28998'/>
+    <circle cx='324.17108' cy='618.73303' id='path7478' r='7' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;opacity:0;fill:#8c5f5f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate' transform='matrix(0.93969262,0.34202014,-0.34202014,0.93969262,0,0)'/>
+    <path inkscape:connector-curvature='0' d='m 92.75012,685.32125 c -2.76278,0.10144 -5.3087,1.80458 -6.3125,4.5625 -1.32225,3.63284 0.5234,7.67775 4.15625,9 2.75791,1.00379 5.74016,0.14496 7.59375,-1.90625 -1.32778,0.4286 -2.8061,0.45165 -4.21875,-0.0625 -3.37336,-1.2278 -5.1028,-4.9704 -3.875,-8.34375 0.51416,-1.41265 1.47444,-2.50836 2.65625,-3.25 z' id='path7501' sodipodi:nodetypes='csscssc' style='color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#555555;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate'/>
+  </g>
+  <g inkscape:groupmode='layer' id='layer2' inkscape:label='animations' transform='translate(-81.000012,-228.92781)'/>
+</svg>
