@@ -1,1 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.067)"><circle r="7.144" cy="288.533" cx="8.467" opacity=".9" fill="#375295" stroke="#223266" stroke-width=".529" paint-order="stroke markers fill"/><circle cx="8.467" cy="288.533" r="7.144" fill="#375295" paint-order="stroke markers fill"/><path d="M6.085 286.831h1.021v-.68c0-.53.076-.896.2-1.157.128-.26.36-.472.696-.635.34-.165.77-.249 1.287-.249.53 0 1.087.137 1.559.34l-.34 1.021a3.255 3.255 0 0 0-.768-.08c-.27 0-.464.058-.584.173-.115.11-.35.267-.35.589v.68h1.702v1.02H8.807v5.103H7.119l-.013-5.102h-1.02" fill="#f9f9f9"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" enable-background="new" version="1.0" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title>Adwaita Icon Template</dc:title>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <title>Adwaita Icon Template</title>
+ <defs>
+  <linearGradient id="linearGradient2116" x1="31.101" x2="31.101" y1="4.6046" y2="59.409" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#528af0" offset="0"/>
+   <stop stop-color="#2556ae" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="13" fill="url(#linearGradient2116)" stroke-width="2.124"/>
+ <g transform="matrix(3.7796 0 0 3.7796 -155.22 -24.532)" fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-312.11" cy="-326.25" r="0"/>
+  <circle cx="-306.02" cy="-333.07" r="0"/>
+  <circle cx="-308.84" cy="-326.01" r="0"/>
+ </g>
+ <g transform="matrix(.55636 0 0 .55636 -6.2812 -100.73)">
+  <g transform="translate(-3e-5,-160)" enable-background="new">
+   <path d="m88 364s-16 0-16 16v16h-12v16h12v36h16v-36h14l2-16h-16v-12c0-4 4-4 4-4h12v-16z" color="#000000" enable-background="new" fill="#fff" style="text-decoration-line:none;text-indent:0;text-transform:none"/>
+  </g>
+ </g>
+</svg>

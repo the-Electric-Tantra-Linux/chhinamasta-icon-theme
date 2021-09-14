@@ -1,1 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><path style="fill:#c7c7c7" d="M4 11v29c0 1.109.891 2 2 2h36.001A1.994 1.994 0 0 0 44 40V11z"/><rect style="opacity:.2" width="32" height="4" x="8" y="31" rx="1.523" ry="1.658"/><path fill="#5a6367" d="M6 6c-1.109 0-2 .891-2 2v3h40V8c0-1.109-.891-2-2-2H6z"/><path fill="#fff" opacity=".1" d="M6 6c-1.109 0-2 .892-2 2v1c0-1.108.891-2 2-2h36c1.109 0 2 .892 2 2V8c0-1.108-.891-2-2-2H6z"/><path style="opacity:.2" d="M4 40v1c0 1.109.891 2 2 2h36.002A1.994 1.994 0 0 0 44 41v-1c0 1.109-.89 2-1.998 2H6c-1.109 0-2-.891-2-2z"/><rect style="fill:#f4f4f7" width="32" height="4" x="8" y="30" rx="1.523" ry="1.658"/><path style="opacity:.1;fill-rule:evenodd" d="M36 33c0 3.312-2.688 6-6 6s-6-2.688-6-6 2.688-6 6-6 6 2.688 6 6z"/><path style="fill:#00caff;fill-rule:evenodd" d="M36 32c0 3.312-2.688 6-6 6s-6-2.688-6-6 2.688-6 6-6 6 2.688 6 6z"/><circle style="opacity:.2" cx="10" cy="17" r="2"/><circle style="fill:#fffff7" cx="10" cy="16" r="2"/><rect style="opacity:.1" width="4" height="4" x="16" y="22" rx=".629" ry=".687"/><rect style="fill:#00caff" width="4" height="4" x="16" y="21" rx=".629" ry=".687"/><circle style="opacity:.1" cx="10" cy="24" r="2"/><circle style="fill:#00caff" cx="10" cy="23" r="2"/><rect style="opacity:.2" width="4" height="4" x="16" y="15" rx=".629" ry=".687"/><rect style="fill:#f4f4f7" width="4" height="4" x="16" y="14" rx=".629" ry=".687"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1220" x1="-96.816" x2="-50.084" y1="8.5708" y2="55.303" gradientTransform="matrix(.26458 0 0 .26458 38.821 6.8414)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0c35f9" offset="0"/>
+   <stop stop-color="#2acbd7" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2256" x1="5.5791" x2="42.421" y1="1026.4" y2="1026.4" gradientTransform="matrix(.15518 0 0 .15518 9.9285 -138.91)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5309-0"/>
+  <linearGradient id="linearGradient5309-0" x1="332.87" x2="1204.8" y1="498.29" y2="498.29" gradientTransform="translate(-78.615)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#232220" offset="0"/>
+   <stop stop-color="#4c4b4b" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-10.905 -6.8414)">
+  <path d="m15.535 8.032c-1.9055 0-3.4396 1.5341-3.4396 3.4396v7.6729c0 1.9055 1.5341 3.4396 3.4396 3.4396h7.6734c1.9055 0 3.4396-1.5341 3.4396-3.4396v-7.6729c0-1.9055-1.5341-3.4396-3.4396-3.4396z" fill="url(#linearGradient1220)" stroke-linecap="round" stroke-width="1.2298"/>
+  <g fill="#eaeaea" stroke-width="1.0516">
+   <path d="m14.275 8.2713c-0.08b9cbe9 0.017438-0.08874 0.035049-0.13229 0.05426v13.965c0.04355 0.01921 0.0878 0.03682 0.13229 0.05426z"/>
+   <path d="m24.468 8.2713v14.074c0.08b9cbe9-0.01744 0.08874-0.03505 0.13229-0.05426v-13.965c-0.04355-0.019211-0.0878-0.036823-0.13229-0.05426z"/>
+   <path d="m12.334 20.404c0.01744 0.08b9cbe9 0.03505 0.08874 0.05426 0.13229h13.965c0.01921-0.04355 0.03682-0.0878 0.05426-0.13229z"/>
+   <path d="m12.389 10.079c-0.01921 0.04355-0.03682 0.0878-0.05426 0.13229h14.074c-0.01744-0.08b9cbe9-0.03505-0.08874-0.05426-0.13229z"/>
+  </g>
+  <circle cx="19.371" cy="15.308" r="3.6222" fill="#f0f0f0" stroke="#323232" stroke-width=".16393"/>
+  <rect transform="rotate(-18.022)" x="11.596" y="19.702" width="4.1144" height="1.1751" fill="url(#linearGradient2256)" stroke-width=".15518"/>
+  <rect transform="rotate(-18.022)" x="10.794" y="20.943" width="5.7173" height=".073919" fill="url(#linearGradient2256)" stroke-width=".15518"/>
+ </g>
+</svg>

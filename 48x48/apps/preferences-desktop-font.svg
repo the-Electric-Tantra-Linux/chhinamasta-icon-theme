@@ -1,1 +1,183 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48"><defs><linearGradient id="b"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><linearGradient id="a"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient><linearGradient id="c"><stop offset="0" stop-color="#499119"/><stop offset="1" stop-color="#8fd625"/></linearGradient><linearGradient gradientTransform="translate(-1.79 8.158) scale(.89474)" gradientUnits="userSpaceOnUse" xlink:href="#d" id="e" y2="30" x2="49.5" y1="30" x1="30.5"/><linearGradient id="d"><stop offset="0" stop-color="#fafafa"/><stop offset="1" stop-color="#e1e1e1"/></linearGradient></defs><rect transform="scale(1 -1)" width="38" height="38" rx="1.5" ry="1.5" x="5" y="-43.967" style="marker:none" color="#000" overflow="visible" fill="#f2f2f2"/><rect width="39" height="39" rx="2" ry="2" x="4.5" y="5.467" style="marker:none;font-variant-east_asian:normal" color="#000" fill="none" stroke="#555761" stroke-linecap="round" stroke-linejoin="round" overflow="visible" opacity=".35"/><path d="m22.025 32.961-1.242-4.078h-6.246l-1.243 4.078H9.38l6.047-17.203h4.442l6.07 17.203h-3.914m-2.11-7.125a3432.933 3432.933 0 0 1-1.945-6.27 19.7 19.7 0 0 1-.304-1.148c-.258 1-.997 3.473-2.215 7.418h4.465m16.207 7.125-.692-1.781h-.094c-.601.758-1.222 1.285-1.863 1.582-.633.289-1.46.433-2.484.433-1.258 0-2.25-.359-2.977-1.078-.719-.719-1.078-1.742-1.078-3.07 0-1.39.484-2.414 1.453-3.07.977-.664 2.445-1.032 4.406-1.102l2.274-.07v-.574c0-1.329-.68-1.993-2.04-1.993-1.046 0-2.277.317-3.69.95l-1.184-2.415c1.508-.789 3.18-1.183 5.015-1.183 1.758 0 3.106.383 4.043 1.148.938.766 1.407 1.93 1.407 3.493v8.73h-2.496m-1.055-6.07-1.383.047c-1.039.03-1.812.218-2.32.562-.508.344-.762.867-.762 1.57 0 1.008.578 1.512 1.734 1.512.829 0 1.489-.238 1.98-.715.5-.476.75-1.11.75-1.898V26.89" style="line-height:125%;-inkscape-font-specification:'Open Sans Bold';text-align:center" font-weight="700" font-size="24" font-family="Open Sans" letter-spacing="0" word-spacing="0" text-anchor="middle" opacity=".6"/><path style="marker:none" d="M45.499 35.001a11.5 11.5 0 0 1-23 0 11.5 11.5 0 1 1 23 0z" color="#000" overflow="visible" fill="#747e93"/><path d="M45.499 35.002a11.5 11.498 0 0 1-23 0 11.5 11.498 0 1 1 23 0z" opacity=".3" fill="none" stroke="#000"/><rect style="marker:none" y="26.5" x="25.499" ry="25" rx="25" height="17" width="17" color="#000" overflow="visible" fill="url(#e)"/><path style="line-height:125%;-inkscape-font-specification:'Open Sans Bold';text-align:center;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M34 26.5a8.471 8.471 0 0 0-6.68 3.242c-.008.131-.017.261-.017.399 0 1.494.404 2.646 1.213 3.455.817.808 1.932 1.213 3.347 1.213 1.152 0 2.083-.163 2.795-.489.72-.334 1.42-.926 2.096-1.779h.105l.78 2.004h2.806v-5.086A8.467 8.467 0 0 0 34 26.5zm2.451 1.215v1.213c0 .887-.281 1.6-.844 2.136-.553.537-1.296.805-2.228.805-1.3 0-1.951-.567-1.951-1.701 0-.791.286-1.38.857-1.768.571-.386 1.443-.597 2.611-.632l1.555-.053zM25.7 33.178c-.096.443-.153.9-.178 1.367h.66z" color="#000" font-weight="700" font-family="Open Sans" letter-spacing="0" word-spacing="0" text-anchor="middle" overflow="visible" opacity=".6"/><rect style="marker:none" y="26.5" x="25.499" ry="25" rx="25" height="17" width="17" color="#000" overflow="visible" opacity=".1"/><path d="M42.5 35.004a8.5 8.5 0 0 1-17 0 8.5 8.5 0 1 1 17 0z" opacity=".3" fill="none" stroke="#000"/><rect style="marker:none" transform="rotate(90)" y="-38" x="28" ry="25" rx="25" height="8" width="7" color="#000" overflow="visible" opacity=".25" fill="#fff"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="preferences-desktop-font.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-53"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-535"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-70"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-10"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-26">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313709"
+     inkscape:cx="-5.9999634"
+     inkscape:cy="34.730328"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-266.64999)">
+    <g
+       id="g8425"
+       transform="translate(41,0.89518)">
+      <path
+         sodipodi:nodetypes="cccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect7744"
+         d="m -39,268.75481 v 12 h 6 v -2 c 0,0 0.06758,-3 3.125,-3 H -21 v 27 c 0,0 0.0111,3 -3,3 h -3 v 6 h 20 v -6 h -3 c 0,0 -3,0.0111 -3,-3 v -27 h 9 c 0,0 3,0 3,3 v 2 h 6 v -12 H 4 -1 -33 Z"
+         style="opacity:1;vector-effect:none;fill:#36404d;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:18;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+      <path
+         sodipodi:nodetypes="ccccccccccccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="rect7776"
+         d="m -38,269.75481 v 10 h 4 v -1 c 0,0 0,-4 4,-4 h 10 v 28 c 0,0 0.0148,4 -4,4 h -2 v 4 h 6 6 6 v -4 h -2 c 0,0 -4,0.0148 -4,-4 v -28 h 10 c 0,0 4,-0.0148 4,4 v 1 h 4 v -10 H 3 -34 Z"
+         style="opacity:1;vector-effect:none;fill:#4b6477;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:18;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill" />
+    </g>
+  </g>
+</svg>

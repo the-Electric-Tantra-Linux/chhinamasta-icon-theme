@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.067)"><rect transform="matrix(0 -1 -1 0 0 0)" ry="7.144" rx="7.144" y="-15.61" x="-295.677" height="14.287" width="14.287" fill="#51a0dd" stroke-width=".529" stroke="#2578b7" opacity=".9"/><rect width="14.287" height="14.287" x="-295.677" y="-15.61" rx="7.144" ry="7.144" transform="matrix(0 -1 -1 0 0 0)" fill="#51a0dd"/><path d="M9.264 284.83c-1.6 0-2.923 1.308-2.923 2.909 0 .608.206 1.168.529 1.637l-1.95 1.95a.531.532 0 0 0 .744.761l1.949-1.95a2.911 2.911 0 0 0 1.651.512c1.601 0 2.907-1.31 2.907-2.91s-1.306-2.91-2.907-2.91zm0 1.057c1.03 0 1.85.823 1.85 1.852 0 1.03-.82 1.852-1.85 1.852a1.842 1.842 0 0 1-1.85-1.852c0-1.03.821-1.852 1.85-1.852z" fill="#fff"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1281" x1="5.122" x2="59.04" y1="4.761" y2="58.885" gradientTransform="translate(53.475 29.823)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f8fe" offset="0"/>
+   <stop stop-color="#d2e0f1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1235" x1="4.3106" x2="14.36" y1="8.4665" y2="8.4665" gradientTransform="matrix(3.2026 0 0 3.2026 68.997 -43.844)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3c8cff" offset="0"/>
+   <stop stop-color="#55b4ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-53.475 -29.823)">
+  <path d="m70.975 34.323c-7.202 0-13 5.798-13 13v29c0 7.202 5.798 13 13 13h29c7.202 0 13-5.798 13-13v-29c0-7.202-5.798-13-13-13z" fill="url(#linearGradient1281)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(45)" x="110.94" y="-18.902" width="20.588" height="4.3511" ry="2.1755" fill="#1955b9" stroke-width="3.2026"/>
+  <circle transform="rotate(45)" cx="98.893" cy="-16.728" r="13.974" fill="none" stroke="url(#linearGradient1235)" stroke-linecap="round" stroke-width="4.6428"/>
+ </g>
+</svg>

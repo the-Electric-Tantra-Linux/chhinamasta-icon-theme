@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><path style="opacity:.2" d="M10 5c-1.108 0-2 .892-2 2v36c0 1.108.892 2 2 2h28c1.108 0 2-.892 2-2V17l-11-1-1-11z"/><path fill="#4f4f4f" d="M10 4c-1.108 0-2 .892-2 2v36c0 1.108.892 2 2 2h28c1.108 0 2-.892 2-2V16l-11-1-1-11z"/><path fill="#fff" opacity=".1" d="M10 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h18l11 11h1L28 4z"/><path style="opacity:.2" d="M28 5v10a2 2 0 0 0 2 2h10z"/><path fill="#696969" d="M28 4v10a2 2 0 0 0 2 2h10L28 4z"/><path style="opacity:.2" d="M18.985 23A1 1 0 0 0 18 24.01V27h-2.988c-1.35-.02-1.35 2.019 0 2H18v4h-2.988c-1.35-.02-1.35 2.018 0 2H18v2.987c-.019 1.35 2.02 1.35 2 0V35h4v2.988c-.019 1.35 2.02 1.35 2 0V35h2.988c1.35.02 1.35-2.019 0-2H26v-4h2.988c1.35.02 1.35-2.019 0-2H26v-2.988a1 1 0 1 0-2 0V27h-4V24.01A1 1 0 0 0 18.985 23zm14 0A.999.999 0 0 0 32 24.01v9.976c-.02 1.35 2.019 1.35 2 0v-9.976A1 1 0 0 0 32.984 23zM20 29h4v4h-4zm13 8a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/><path style="fill:#f4f4f7" d="M18.985 22A1 1 0 0 0 18 23.01V26h-2.988c-1.35-.02-1.35 2.019 0 2H18v4h-2.988c-1.35-.02-1.35 2.018 0 2H18v2.987c-.019 1.35 2.02 1.35 2 0V34h4v2.988c-.019 1.35 2.02 1.35 2 0V34h2.988c1.35.02 1.35-2.019 0-2H26v-4h2.988c1.35.02 1.35-2.019 0-2H26v-2.988a1 1 0 1 0-2 0V26h-4V23.01A1 1 0 0 0 18.985 22zm14 0A.999.999 0 0 0 32 23.01v9.976c-.02 1.35 2.019 1.35 2 0v-9.976A1 1 0 0 0 32.984 22zM20 28h4v4h-4zm13 8a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.20637525"/>
+  </filter>
+ </defs>
+ <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" fill-rule="evenodd" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+ <g fill-rule="evenodd">
+  <path transform="scale(.26458)" d="m13 4c-2.77 0-5 2.23-5 5v46c0 2.77 2.23 5 5 5h38c2.77 0 5-2.23 5-5v-39l-12-12h-31z" fill="#f4f4f4" style="paint-order:stroke fill markers"/>
+  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#bbb" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m4.8082 5.1476-0.1698 0.51082 1.7237 0.69142-1.7237 0.69142 0.1698 0.51082 2.2177-0.93909v-0.5263zm2.2146 3.1062v0.52114h2.6389v-0.52114z" enable-background="new" fill="#999"/>
+ <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" fill-rule="evenodd" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
+</svg>

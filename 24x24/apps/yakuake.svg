@@ -1,1 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect style="opacity:.2" width="18" height="17" x="3" y="4.5" rx=".9" ry=".85"/><rect style="fill:#4f4f4f" width="18" height="17" x="3" y="4" rx=".9" ry=".85"/><path style="opacity:.2" d="m7.654 8.448-.707.707L9.793 12l-2.846 2.846.707.707 3.2-3.2.353-.353 2.846-2.845-.707-.707-2.846 2.845z"/><path style="fill:none;stroke:#236ac6;stroke-width:1px" d="m13.7 8.3-3.2 3.2"/><path style="opacity:.1;fill:#f4f4f7" d="m13.346 7.947-3.2 3.2.25.25 2.95-2.95.457.457.25-.25-.707-.707z"/><rect style="opacity:.2" width="22" height="2" x="1" y="3.5" rx="1" ry="1"/><rect style="fill:#a5b1b3" width="22" height="2" x="1" y="3" rx="1" ry="1"/><path style="fill:none;stroke:#3498db" d="M12 16.5h5"/><path style="opacity:.2;fill:#f4f4f7" d="M2 3c-.554 0-1 .446-1 1 0 .087.015.17.035.25A.995.995 0 0 1 2 3.5h20c.467 0 .854.319.965.75A.998.998 0 0 0 23 4c0-.554-.446-1-1-1zM12 16v.5h5V16h-5z"/><path style="fill:none;stroke:#3498db;stroke-width:1px" d="m7.3 14.7 3.2-3.2m0 0L7.3 8.3l3.2 3.2-3.2 3.2"/><path style="opacity:.2;fill:#f4f4f7" d="m7.654 7.947-.707.707.25.25.457-.457 3.2 3.2.103.103.25-.25-.353-.354-3.2-3.199zm1.889 3.803-2.596 2.596.25.25L9.793 12l-.25-.25z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="filter2076-0" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.1"/>
+  </filter>
+  <linearGradient id="linearGradient1805" x1="145" x2="200" y1="59" y2="4" gradientTransform="matrix(.26458 0 0 .26458 -20.408 13.301)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2070-3"/>
+  <linearGradient id="linearGradient2070-3" x1="145" x2="200" y1="59" y2="4" gradientTransform="matrix(.26458 0 0 .26458 -37.173 .13229)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e1e1e1" offset="0"/>
+   <stop stop-color="#f5f5f5" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2044" x1="47" x2="47" y1="17" y2="19" gradientTransform="matrix(.39912 0 0 .39912 10.479 10.218)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#606060" offset="0"/>
+   <stop stop-color="#414141" offset=".019551"/>
+   <stop stop-color="#1e1e1e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2042" x1="47" x2="47" y1="17" y2="19" gradientTransform="matrix(.26458 0 0 .26458 16.802 12.639)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.38" cy="-328.37" r="0"/>
+  <circle cx="-312.55" cy="-328.38" r="0"/>
+  <circle cx="-295.13" cy="-341.25" r="0"/>
+ </g>
+ <g transform="translate(-16.765 -13.168)">
+  <rect transform="matrix(.26458 0 0 .26458 16.765 13.168)" x="4.5" y="4.5" width="55" height="55" rx="13.002" ry="13.002" filter="url(#filter2076-0)" opacity=".3"/>
+  <rect x="17.955" y="14.359" width="14.552" height="14.552" rx="3.44" ry="3.44" fill="url(#linearGradient1805)" stroke-width=".26458"/>
+  <rect x="18.617" y="15.02" width="13.229" height="13.229" rx="3.1273" ry="3.1273" fill="url(#linearGradient1805)" fill-opacity="0" stroke-width=".24052"/>
+  <rect x="18.617" y="15.02" width="13.229" height="13.229" rx="3.1273" ry="2.7693" fill="#262626" stroke-width=".24052"/>
+  <path d="m21.395 14.359c-1.9058 0-3.44 1.5343-3.44 3.44v0.91208h14.552v-0.91208c0-1.9058-1.5343-3.44-3.44-3.44z" fill="url(#linearGradient1805)" stroke-width=".26458"/>
+  <path d="m20.656 22.208v-0.56924l1.852 1.0542v0.53733l-1.852 1.0542v-0.56924l1.3941-0.7514z" fill="#fff" stroke-width=".092859"/>
+  <rect x="23.302" y="24.545" width="2.1166" height=".52916" rx="0" ry="0" fill="#fff"/>
+  <circle cx="29.237" cy="17.402" r=".39912" fill="url(#linearGradient2044)" fill-rule="evenodd" stroke-width=".26458" style="paint-order:fill markers stroke"/>
+  <circle cx="29.237" cy="17.402" r=".26458" fill="url(#linearGradient2042)" fill-rule="evenodd" stroke-width=".26458" style="paint-order:fill markers stroke"/>
+ </g>
+</svg>

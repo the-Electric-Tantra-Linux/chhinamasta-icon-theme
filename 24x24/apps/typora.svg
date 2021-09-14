@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><g transform="translate(1 1)"><rect fill="#f4f4f7" width="20" height="20" x="-21" y="-21" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><path fill="#fff" opacity=".2" d="M2 1c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V2c0-.554-.446-1-1-1H2z"/><path opacity=".2" d="M2 21.5c-.554 0-1-.446-1-1V20c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v.5c0 .554-.446 1-1 1H2z"/><path opacity=".6" d="M16.5 4h-11L5 9h.97c.134-.97.306-1.316.516-1.936.496-1.416 1.261-2.053 2.558-2.053.63 0 .897.214.897.699v10.368c0 .814-.18.756-1.717.91H8V18h6V16.99h-.224c-1.526 0-1.698-.097-1.698-.911V5.71c0-.485.267-.699.897-.699 1.163 0 1.948.56 2.425 1.723.286.717.477 1.16.63 2.266H17z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1057-4" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053-7" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(81.602 8.2703)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dee0e2" offset="0"/>
+   <stop stop-color="#f1f3f5" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(49.898 -8.7803)">
+  <rect x="-45.398" y="13.28" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-4)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+  <rect x="-45.398" y="13.28" width="55" height="55" ry="15" fill="url(#linearGradient1053-7)" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+  <path d="m-12.247 53.01-0.0093 1.0243-11.653 9e-3 0.0093-1.0243 0.7329-5.67e-4c1.1726-9.07e-4 2.203-0.47446 2.6862-1.2234 0.44584-0.67009 0.56151-1.3005 0.58016-3.3492l0.17432-19.147-2.3819 0.0018c-3.7378 0.0029-5.0671 1.107-5.3541 4.456l-0.95277 7.38e-4 0.45977-6.2251 20.228-0.01565 0.34642 6.2245-0.91613 7.09e-4c-0.2986-3.4273-1.4253-4.4508-4.9798-4.448l-2.7117 0.0021-0.17432 19.147c-0.01901 2.0881 0.04926 2.6396 0.48254 3.3484 0.50622 0.74815 1.4913 1.2202 2.7006 1.2192z" fill="#202020" image-rendering="optimizeSpeed"/>
+ </g>
+</svg>

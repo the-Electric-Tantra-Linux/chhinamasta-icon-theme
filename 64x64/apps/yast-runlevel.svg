@@ -1,1 +1,242 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><path style="opacity:.2" d="M30.6 5a5.587 5.587 0 0 0-5.6 5.6v2.625a21 21 0 0 0-6.623 3.826l-2.275-1.313a5.589 5.589 0 0 0-7.65 2.051L7.05 20.211a5.589 5.589 0 0 0 2.05 7.65l2.266 1.309A21 21 0 0 0 11 33a21 21 0 0 0 .367 3.83L9.102 38.14a5.589 5.589 0 0 0-2.051 7.65l1.4 2.422a5.589 5.589 0 0 0 7.65 2.05l2.26-1.304A21 21 0 0 0 25 52.77v2.63c0 3.103 2.497 5.6 5.6 5.6h2.8c3.103 0 5.6-2.497 5.6-5.6v-2.64a21 21 0 0 0 6.623-3.81l2.275 1.312a5.589 5.589 0 0 0 7.65-2.051l1.401-2.422a5.589 5.589 0 0 0-2.05-7.65l-2.266-1.309A21 21 0 0 0 53 33a21 21 0 0 0-.367-3.83l2.265-1.309a5.589 5.589 0 0 0 2.051-7.65l-1.4-2.422a5.589 5.589 0 0 0-7.65-2.05l-2.26 1.304A21 21 0 0 0 39 13.229v-2.63C39 7.498 36.503 5 33.4 5z"/><path style="fill:#546e7a" d="M30.6 4A5.587 5.587 0 0 0 25 9.6v2.625a21 21 0 0 0-6.623 3.826l-2.275-1.313a5.589 5.589 0 0 0-7.65 2.051L7.05 19.211a5.589 5.589 0 0 0 2.05 7.65l2.266 1.309A21 21 0 0 0 11 32a21 21 0 0 0 .367 3.83L9.102 37.14a5.589 5.589 0 0 0-2.051 7.65l1.4 2.422a5.589 5.589 0 0 0 7.65 2.05l2.26-1.304A21 21 0 0 0 25 51.77v2.63c0 3.103 2.497 5.6 5.6 5.6h2.8c3.103 0 5.6-2.497 5.6-5.6v-2.64a21 21 0 0 0 6.623-3.81l2.275 1.312a5.589 5.589 0 0 0 7.65-2.051l1.401-2.422a5.589 5.589 0 0 0-2.05-7.65l-2.266-1.309A21 21 0 0 0 53 32a21 21 0 0 0-.367-3.83l2.265-1.309a5.589 5.589 0 0 0 2.051-7.65l-1.4-2.422a5.589 5.589 0 0 0-7.65-2.05l-2.26 1.304A21 21 0 0 0 39 12.229v-2.63C39 6.498 36.503 4 33.4 4z"/><path style="opacity:.1;fill:#f4f4f7" d="M30.6 4A5.587 5.587 0 0 0 25 9.6v1C25 7.497 27.497 5 30.6 5h2.8c3.103 0 5.6 2.497 5.6 5.6v-1C39 6.497 36.503 4 33.4 4zM25 12.225a21 21 0 0 0-6.623 3.826l-2.275-1.313a5.589 5.589 0 0 0-7.65 2.051L7.05 19.211a5.58 5.58 0 0 0-.727 3.312 5.59 5.59 0 0 1 .727-2.312l1.4-2.422a5.589 5.589 0 0 1 7.65-2.05l2.276 1.312A21 21 0 0 1 25 13.225zm14 .004v1a21 21 0 0 1 6.639 3.814l2.26-1.305a5.589 5.589 0 0 1 7.65 2.051l1.4 2.422a5.59 5.59 0 0 1 .727 2.312 5.58 5.58 0 0 0-.727-3.312l-1.4-2.422a5.589 5.589 0 0 0-7.65-2.05l-2.26 1.304A21 21 0 0 0 39 12.229zm13.768 16.863-.135.078a21 21 0 0 1 .342 3.371A21 21 0 0 0 53 32a21 21 0 0 0-.232-2.908zm-41.53.004A21 21 0 0 0 11 32a21 21 0 0 0 .025.459 21 21 0 0 1 .342-3.29zm41.524 6.808a21 21 0 0 1-.13.926l2.266 1.309a5.58 5.58 0 0 1 2.778 4.338 5.583 5.583 0 0 0-2.778-5.338zm-41.53.004-2.13 1.23a5.583 5.583 0 0 0-2.778 5.339 5.58 5.58 0 0 1 2.778-4.338l2.265-1.309a21 21 0 0 1-.135-.922z"/><path style="opacity:.2" d="M32 21c6.627 0 12 5.373 12 12 0 6.628-5.373 12-12 12s-12-5.372-12-12c0-6.627 5.373-12 12-12z"/><path style="fill:#f4f4f7" d="M32 20.001c6.627 0 12 5.373 12 12s-5.373 12-12 12-12-5.373-12-12 5.373-12 12-12z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="yast-sudo.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-23">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-10">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-26"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-27"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-60"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-8">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-53">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-23-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-2-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-1-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-10-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-0-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-26-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="57.755315"
+     inkscape:cy="37.194004"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-250.64999)">
+    <path
+       style="opacity:1;fill:#36404d;fill-opacity:1;stroke:none;stroke-width:2.8b9cbe0403;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2,254.64999 h 60 c 1.108,0 2,0.892 2,2 v 52 c 0,1.108 -0.892,2 -2,2 H 2 c -1.108,0 -2,-0.892 -2,-2 v -52 c 0,-1.108 0.892,-2 2,-2 z"
+       id="rect891" />
+    <path
+       style="opacity:1;fill:#24b17a;fill-opacity:1;stroke:none;stroke-width:2.28035069;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3,256.64999 h 58 c 0.554,0 1,0.446 1,1 v 50 c 0,0.554 -0.446,1 -1,1 H 3 c -0.554,0 -1,-0.446 -1,-1 v -50 c 0,-0.554 0.446,-1 1,-1 z"
+       id="rect891-9" />
+    <path
+       style="opacity:1;fill:#6acaa5;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2,260.64999 v 4 h 60 v -4 z m 0,8 v 4 h 60 v -4 z m 0,8 v 4 h 60 v -4 z m 0,8 v 4 h 60 v -4 z m 0,8 v 4 h 60 v -4 z m 0,8 v 4 h 60 v -4 z"
+       id="rect1052-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccc" />
+    <path
+       style="opacity:1;fill:#234336;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8,260.64999 v 2 H 6 v 2 h 2 v 2 H 6 v 2 h 2 v 2 h 2 v -2 h 2 v 2 h 2 v -2 h 2 v -2 h -2 v -2 h 2 v -2 h -2 v -2 h -2 v 2 h -2 v -2 z m 2,4 h 2 v 2 h -2 z"
+       id="rect925-7-7"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

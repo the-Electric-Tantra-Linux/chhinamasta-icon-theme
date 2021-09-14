@@ -1,1 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect fill="#c2352a" width="28" height="28" x="2" y="2" rx="1.5" ry="1.5"/><path fill="#fff" opacity=".1" d="M3.5 2C2.669 2 2 2.669 2 3.5v1C2 3.669 2.669 3 3.5 3h25c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5h-25z"/><path opacity=".2" d="M7.094 8.063 12 13h8v7.969l5 4.969V8.063zM12 14.156l-5 4.875V26h7.375l4.937-5H12z"/><path fill="#fff" d="M7.094 7.063 12 12h8v7.969l5 4.969V7.063zM12 13.156l-5 4.875V25h7.375l4.937-5H12z"/><path opacity=".2" d="M2 28.5v1c0 .831.669 1.5 1.5 1.5h25c.831 0 1.5-.669 1.5-1.5v-1c0 .831-.669 1.5-1.5 1.5h-25c-.831 0-1.5-.669-1.5-1.5z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dee0e2" offset="0"/>
+   <stop stop-color="#f1f3f5" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g fill="#5e4aa6">
+  <g transform="translate(-76.881 -23.026)">
+   <circle cx="-1248.7" cy="-1241.6" r="0"/>
+   <circle cx="-1140.3" cy="-1301.8" r="0"/>
+   <circle cx="-978.95" cy="-1316.3" r="0"/>
+   <circle cx="120.52" cy="-50.805" r="0" fill-rule="evenodd"/>
+   <circle cx="-972.45" cy="-1325.3" r="0"/>
+   <circle cx="127.04" cy="-59.816" r="0" fill-rule="evenodd"/>
+  </g>
+  <circle cx="-1248.7" cy="-1241.6" r="0"/>
+  <circle cx="-149.15" cy="23.855" r="0" fill-rule="evenodd"/>
+ </g>
+ <g>
+  <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+  <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+  <path d="m16.582 17.006 8.4805 8.4805h13.875v13.877l8.4805 8.4785v-30.836h-30.836zm8.4805 10.023-8.4805 8.4785v12.334h12.334l8.4805-8.4785h-12.334v-12.334z" fill="#323232" stroke-width="2.3"/>
+ </g>
+</svg>

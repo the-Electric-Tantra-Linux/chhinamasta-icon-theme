@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><path style="opacity:.2" d="M4.05 32c-.011.335-.05.663-.05 1 0 15.512 12.488 28 28 28 15.51 0 27.998-12.488 27.998-28 0-.337-.039-.664-.05-1-.528 15.042-12.776 27-27.95 27S4.578 47.042 4.05 32z"/><rect style="fill:#fecd38" width="56" height="56" x="4" y="4" rx="27.999" ry="27.999"/><path style="opacity:.2" d="M14 21v6h4v18h6V21H14zm25.999 0c-6.627 0-12 5.373-12 12 0 6.628 5.373 12 12 12h16.246a27.78 27.78 0 0 0 2.59-6H39.998a6 6 0 1 1 0-12 6 6 0 0 1 4.46 2h6.836A11.999 11.999 0 0 0 40 21z"/><path style="fill:#fe3838" d="M14 20.001v6h4v18h6V20H14zm25.999 0c-6.627 0-12 5.373-12 12s5.373 12 12 12h17.285a27.77 27.77 0 0 0 2.058-6H40a6 6 0 1 1 0-12 6 6 0 0 1 4.46 2h6.836a11.999 11.999 0 0 0-11.295-8z"/><path style="opacity:.1;fill:#f4f4f7" d="M32 4.002C16.488 4.002 4 16.488 4 32c0 .114.011.224.018.336C4.369 17.135 16.71 5 32 5s27.63 12.135 27.982 27.336c.007-.112.018-.223.018-.336A27.938 27.938 0 0 0 32 4.002z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient2116" x1="32.499" x2="32.499" y1="14.673" y2="47.063" gradientTransform="scale(.26458)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#faed1c" offset="0"/>
+   <stop stop-color="#fad31c" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect x="1.1906" y="1.1906" width="14.552" height="14.552" ry="3.4396" fill="url(#linearGradient2116)" stroke-width=".56197"/>
+ <path d="m2.4682 5.2919v1.5875h1.0583v4.7624h1.5875v-6.3498zm6.879 0c-1.7534 0-3.1749 1.4215-3.1749 3.1749 0 1.7534 1.4215 3.1749 3.1749 3.1749h4.6028c0.23737-0.50134 0.39438-1.0312 0.51507-1.5875h-5.118c-0.87675 0-1.5875-0.7107-1.5875-1.5875 0-0.87675 0.7107-1.5875 1.5875-1.5875 0.4507 8.466e-4 0.87977 0.19322 1.1803 0.52915h1.8086c-0.44766-1.2668-1.6446-2.1145-2.9886-2.1166z" fill="#fe3838" stroke-width=".26458"/>
+</svg>

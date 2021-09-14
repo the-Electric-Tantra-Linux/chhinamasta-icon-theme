@@ -1,1 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 16.933 16.933"><g transform="translate(0 -280.067)"><rect transform="matrix(0 -1 -1 0 0 0)" ry="7.144" rx="7.144" y="-15.61" x="-295.677" height="14.287" width="14.287" fill="#51a0dd" stroke-width=".529" stroke="#2578b7" opacity=".9"/><rect width="14.287" height="14.287" x="-295.677" y="-15.61" rx="7.144" ry="7.144" transform="matrix(0 -1 -1 0 0 0)" fill="#51a0dd"/><path d="M9.264 284.83c-1.6 0-2.923 1.308-2.923 2.909 0 .608.206 1.168.529 1.637l-1.95 1.95a.531.532 0 0 0 .744.761l1.949-1.95a2.911 2.911 0 0 0 1.651.512c1.601 0 2.907-1.31 2.907-2.91s-1.306-2.91-2.907-2.91zm0 1.057c1.03 0 1.85.823 1.85 1.852 0 1.03-.82 1.852-1.85 1.852a1.842 1.842 0 0 1-1.85-1.852c0-1.03.821-1.852 1.85-1.852z" fill="#fff"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <style type="text/css"/>
+  <linearGradient id="linearGradient919" x1="4.3106" x2="14.36" y1="8.4665" y2="8.4665" gradientTransform="translate(9.9041,-18.316)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3c8cff" offset="0"/>
+   <stop stop-color="#55b4ff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1448" x1="3.9687" x2="3.9687" y1="16.385" y2=".54085" gradientTransform="matrix(.91666 0 0 .91666 .70542 .70646)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#cfdef0" offset="0"/>
+   <stop stop-color="#f5faff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g fill="#5e4aa6">
+  <g stroke-width=".26458">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-330.35" cy="-328.37" r="0"/>
+   <circle cx="-330.35" cy="-328.37" r="0"/>
+   <circle cx="-352.63" cy="-336.83" r="0"/>
+  </g>
+  <g transform="translate(32.665 -10.979)" stroke-width=".26458">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-312.11" cy="-326.25" r="0"/>
+   <circle cx="-306.02" cy="-333.07" r="0"/>
+   <circle cx="-308.84" cy="-326.01" r="0"/>
+  </g>
+  <g transform="translate(-39.276 .89826)" stroke-width=".26458">
+   <circle cx="-330.35" cy="-328.38" r="0"/>
+   <circle cx="-312.11" cy="-326.25" r="0"/>
+   <circle cx="-306.02" cy="-333.07" r="0"/>
+   <circle cx="-308.84" cy="-326.01" r="0"/>
+  </g>
+ </g>
+ <rect x="1.1905" y="1.1915" width="14.552" height="14.552" ry="3.4395" fill="url(#linearGradient1448)" stroke-opacity=".95294" stroke-width=".083152"/>
+ <g transform="matrix(.84734 0 0 .84734 -9.9458 1.8563)">
+  <rect transform="rotate(45)" x="23.002" y="-10.528" width="6.4285" height="1.3586" ry=".67929" fill="#1955b9"/>
+  <circle transform="rotate(45)" cx="19.239" cy="-9.8491" r="4.3632" fill="none" stroke="url(#linearGradient919)" stroke-linecap="round" stroke-width="1.4497"/>
+ </g>
+</svg>

@@ -1,1 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><path style="opacity:.2" d="M8 5.5a3 3 0 0 0-2.23 1H5a3 3 0 0 0-3 3v5a3 3 0 0 0 3 3h.768A3 3 0 0 0 8 18.5h.176a3 3 0 0 0 2.824 2h2a3 3 0 0 0 2.826-2H16a3 3 0 0 0 2.23-1H19a3 3 0 0 0 3-3v-5a3 3 0 0 0-3-3h-.768A3 3 0 0 0 16 5.5h-2a3 3 0 0 0-2 .768 3 3 0 0 0-2-.768z"/><path style="fill:#f85b79" d="M8 5a3 3 0 0 0-2.23 1H5a3 3 0 0 0-3 3v5a3 3 0 0 0 3 3h.768A3 3 0 0 0 8 18h.176A3 3 0 0 0 11 20h2a3 3 0 0 0 2.826-2H16a3 3 0 0 0 2.23-1H19a3 3 0 0 0 3-3V9a3 3 0 0 0-3-3h-.768A3 3 0 0 0 16 5h-2a3 3 0 0 0-2 .768A3 3 0 0 0 10 5z"/><g style="opacity:.2"><path d="M5 9.5v1h2v-1H5zM5 11.5v1h2v-1H5zM5 13.5v1h2v-1H5zM8 8.5v1h2v-1H8zM8 10.5v1h2v-1H8zM8 12.5v1h2v-1H8zM8 14.5v1h2v-1H8zM11 10.5v1h2v-1h-2zM11 12.5v1h2v-1h-2zM11 14.5v1h2v-1h-2zM11 16.5v1h2v-1h-2zM19 9.5v1h-2v-1h2zM19 11.5v1h-2v-1h2zM19 13.5v1h-2v-1h2zM16 8.5v1h-2v-1h2zM16 10.5v1h-2v-1h2zM16 12.5v1h-2v-1h2zM16 14.5v1h-2v-1h2z"/></g><path style="fill:#f4f4f7" d="M8 8v1h2V8H8zm6 0v1h2V8h-2zM5 9v1h2V9H5zm12 0v1h2V9h-2zm-9 1v1h2v-1H8zm3 0v1h2v-1h-2zm3 0v1h2v-1h-2zm-9 1v1h2v-1H5zm12 0v1h2v-1h-2zm-9 1v1h2v-1H8zm3 0v1h2v-1h-2zm3 0v1h2v-1h-2zm-9 1v1h2v-1H5zm12 0v1h2v-1h-2zm-9 1v1h2v-1H8zm3 0v1h2v-1h-2zm3 0v1h2v-1h-2zm-3 2v1h2v-1h-2z"/><path style="opacity:.2;fill:#f4f4f7" d="M8 5a3 3 0 0 0-2.23 1H5a3 3 0 0 0-3 3v.5a3 3 0 0 1 3-3h.77A3 3 0 0 1 8 5.5h2a3 3 0 0 1 2 .768 3 3 0 0 1 2-.768h2a3 3 0 0 1 2.232 1H19a3 3 0 0 1 3 3V9a3 3 0 0 0-3-3h-.768A3 3 0 0 0 16 5h-2a3 3 0 0 0-2 .768A3 3 0 0 0 10 5H8z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#df2a2a" offset="0"/>
+   <stop stop-color="#f83f3f" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+ <g fill="#5e4aa6">
+  <circle cx="-1158.1" cy="-1246" r="0"/>
+  <circle cx="-1157.3" cy="-1267.7" r="0"/>
+  <circle cx="-57.756" cy="-2.1829" r="0" fill-rule="evenodd"/>
+ </g>
+ <path d="m24 16v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-30 2v4h4v-4zm18 0v4h4v-4zm18 0v4h4v-4zm-24 2v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-30 2v4h4v-4zm18 0v4h4v-4zm18 0v4h4v-4zm-24 2v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-30 2v4h4v-4zm18 0v4h4v-4zm18 0v4h4v-4zm-24 2v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-12 2v4h4v-4zm-6 2v4h4v-4zm12 0v4h4v-4zm-6 4v4h4v-4z" fill="#fff"/>
+ <g fill="#5e4aa6">
+  <g transform="translate(-72.958)">
+   <circle cx="-1248.7" cy="-1241.6" r="0"/>
+   <circle cx="-1140.3" cy="-1301.8" r="0"/>
+   <circle cx="-1158.1" cy="-1246" r="0"/>
+  </g>
+  <circle cx="-1230.3" cy="-1267.7" r="0"/>
+  <circle cx="-130.71" cy="-2.1829" r="0" fill-rule="evenodd"/>
+ </g>
+</svg>

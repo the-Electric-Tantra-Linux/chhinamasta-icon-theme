@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><defs><linearGradient id="a" x1="24" x2="44" y1="24" y2="24" gradientUnits="userSpaceOnUse"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient></defs><path style="opacity:.2" d="M44 41V9c0-1.108-.892-2-2-2H6c-1.108 0-2 .892-2 2v32c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2z"/><path fill="#ddd6a7" d="M44 40V8c0-1.108-.892-2-2-2H6c-1.108 0-2 .892-2 2v32c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2z"/><path opacity=".5" d="M6 9h16v1H6zM6 12h14v1H6zM6 15h12v1H6zM6 18h16v1H6zM6 21h10v1H6zM6 24h16v1H6zM6 27h16v1H6zM6 30h14v1H6zM6 33h10v1H6zM6 36h16v1H6zM6 39h12v1H6zM26 25h16v-1H26zM26 22h16v-1H26zM26 19h14v-1H26zM26 16h10v-1H26zM26 13h16v-1H26zM26 10h12V9H26z"/><path fill="#ff5959" d="M16 6h6v16l-3-4-3 4z"/><path fill="#fff" opacity=".2" d="M6 6c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V8c0-1.108-.892-2-2-2z"/><path fill="url(#a)" opacity=".1" d="M44 40V8c0-1.108-.892-2-2-2H24v36h18c1.108 0 2-.892 2-2z"/></svg>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="a" x="-.039001" y="-.033428" width="1.078" height="1.0669" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.20637525"/>
+  </filter>
+ </defs>
+ <g fill-rule="evenodd">
+  <path d="m3.4395 1.3543c-0.73289 0-1.3229 0.59001-1.3229 1.3229v12.171c0 0.73289 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.59001 1.3229-1.3229v-10.319l-3.175-3.175z" filter="url(#a)" opacity=".15" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+  <path d="m3.4395 1.0588c-0.73289 0-1.3229 0.58999-1.3229 1.3229v12.171c0 0.73286 0.59001 1.3229 1.3229 1.3229h10.054c0.73289 0 1.3229-0.58999 1.3229-1.3229v-10.319l-3.175-3.1749z" fill="#84c835" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+  <path d="m14.816 4.2332-3.1749-3.1749v1.852c0 0.73288 0.59001 1.3229 1.3229 1.3229z" fill="#fff" opacity=".35" style="paint-order:stroke fill markers"/>
+ </g>
+ <path d="m8.4664 10.961-2.4942-2.4944 2.4942-2.4941 0.83147 0.83132-1.6629 1.6627 0.83142 0.83147 2.4942-2.4941-2.1727-2.1727c-0.17742-0.17757-0.4652-0.17757-0.64277 0l-3.5142 3.5142c-0.17742 0.17742-0.17742 0.4652 0 0.64277l3.5142 3.5141c0.17757 0.17757 0.46535 0.17757 0.64277 0l3.5142-3.5141c0.17742-0.17757 0.17742-0.46535 0-0.64277l-0.51016-0.51001z" enable-background="new" fill="#fff" stroke-width=".050576"/>
+ <path d="m11.641 2.9104v0.15451c0 0.79397 0.59 1.433 1.3229 1.433h1.852l1.42e-4 -0.26463-1.8522 5e-5c-0.73289 1.98e-5 -1.3229-0.59001-1.3229-1.3229z" fill-rule="evenodd" opacity=".1" stroke-width="1.0408" style="paint-order:stroke fill markers"/>
+</svg>

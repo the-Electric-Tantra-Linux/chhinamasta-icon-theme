@@ -1,1 +1,240 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><rect style="marker:none" y="2.5" x="3.5" ry="2" rx="2" height="27" width="25" opacity=".25" color="#000" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" overflow="visible"/><rect width="24" height="26" rx="1.5" ry="1.5" x="4" y="3" style="marker:none" color="#000" fill="#e8e8e8" overflow="visible"/><rect width="8" height="6" rx="1" ry="1" x="17.5" y="20.5" style="marker:none" color="#000" fill="#4979ea" overflow="visible"/><rect width="19" height="6" rx="1" ry="1" x="6.5" y="5" style="marker:none" color="#000" overflow="visible" opacity=".7" fill="#fff"/><path d="M16.69 6.529c-.392 0-.722.111-1.006.316l.296.455c.13-.084.25-.144.356-.178.106-.034.213-.06.315-.06.296 0 .435.12.435.356 0 .154-.046.253-.158.317-.111.062-.292.099-.533.099h-.237v.514h.237c.26 0 .453.018.572.079.12.06.178.17.178.316 0 .164-.055.282-.158.356-.104.074-.276.118-.494.118-.142 0-.27-.02-.414-.059A2.201 2.201 0 0 1 15.664 9v.573c.262.113.57.158.908.158.404 0 .71-.07.928-.237a.863.863 0 0 0 .336-.711.65.65 0 0 0-.198-.495c-.129-.122-.32-.186-.572-.217v-.02a.902.902 0 0 0 .493-.277.728.728 0 0 0 .178-.494.638.638 0 0 0-.276-.553c-.186-.131-.448-.198-.77-.198zm3.81.04-1.007.81.316.395.355-.296a3.14 3.14 0 0 0 .237-.218l-.02.336v2.096h.652V6.568zm2.664 0-1.361 2.016v.455h1.322v.652h.651V9.04h.375v-.514h-.375V6.568zm-.02.75c-.003.028.008.13 0 .297-.006.168-.019.307-.019.396v.514h-.75l.572-.85c.074-.111.145-.24.198-.356zm-4.519 1.7a.436.436 0 0 0-.296.1c-.064.06-.079.157-.079.276 0 .116.033.193.099.257a.385.385 0 0 0 .276.1.338.338 0 0 0 .355-.356c0-.117-.033-.215-.098-.277a.337.337 0 0 0-.257-.1z" style="line-height:125%;-inkscape-font-specification:'Open Sans Bold';text-align:end" font-weight="700" font-size="6.905" font-family="Open Sans" letter-spacing="0" word-spacing="0" text-anchor="end" fill="#666"/><rect width="8" height="6" rx="1" ry="1" x="17.5" y="12.5" style="marker:none" color="#000" fill="#707278" overflow="visible"/><path style="line-height:125%;-inkscape-font-specification:Helvetica" d="M19.944 15.161v.445h3.112v-.445h-3.112zM19.944 22.97v.8b9cbeh3.112v-.445h-3.112zm0 .89v.445h3.112v-.445h-3.112z" font-size="9.881" font-weight="400" letter-spacing="0" word-spacing="0" fill="#fff" font-family="Helvetica"/><rect width="8" height="6" rx="1" ry="1" x="6.5" y="12.5" style="marker:none" color="#000" fill="#707278" overflow="visible"/><rect width="8" height="6" rx="1" ry="1" x="6.5" y="20.5" style="marker:none" color="#000" fill="#707278" overflow="visible"/><path d="M10.278 13.939v1.335H8.944v.445h1.334v1.336h.8b9cbev-1.336h1.334v-.445h-1.334V13.94h-.8b9cbezm-1.334 8v.445l1.112 1.113-1.112 1.113v.445h.445l1.111-1.113 1.111 1.113h.445v-.445l-1.112-1.113 1.112-1.113v-.445h-.445L10.5 23.052l-1.111-1.113h-.445z" style="line-height:125%;-inkscape-font-specification:Helvetica" font-size="9.881" font-weight="400" letter-spacing="0" word-spacing="0" fill="#fff" font-family="Helvetica"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="accessories-calculator.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-53">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-10">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-26"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-22"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-75"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-53-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-2-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-10-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-0-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-26-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.999999"
+     inkscape:cx="12.266789"
+     inkscape:cy="18.195835"
+     inkscape:document-units="px"
+     inkscape:current-layer="g1240"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-282.64999)">
+    <g
+       transform="translate(1e-7,-10e-6)"
+       id="g1240">
+      <path
+         id="rect827"
+         d="M 5.0000001,283.65001 H 26.999999 c 1.108,0 2,0.89202 2,2.00001 v 26.00001 c 0,1.10797 -0.892,1.99998 -2,1.99998 H 5.0000001 C 3.892,313.65001 3,312.758 3,311.65003 v -26 c 0,-1.108 0.892,-2.00001 2.0000001,-2.00002 z"
+         style="opacity:1;fill:#f37d5c;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect829"
+         d="m 5,284.65003 h 21.999999 c 0.554,0 1,0.44599 1,1 v 26 c 0,0.55401 -0.446,1 -1,1 H 5 c -0.554,0 -1,-0.44599 -1,-1 v -26 c 0,-0.554 0.446,-1 1,-1 z"
+         style="opacity:1;fill:#ffb8a3;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cssccccsc"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#36404d;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 6.9375006,288.58749 H 28.9375 c 1.108,0 2,0.89202 2,2.00001 v 7 1.99999 H 4.9375002 l 3e-7,-1.99999 v -6.99999 c 0,-1.108 0.892,-2.00001 2.0000001,-2.00002 z"
+         id="rect827-5"
+         transform="translate(-1.9375002,-4.9375)" />
+      <path
+         sodipodi:nodetypes="sssccccss"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:#4c5a6b;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 6.9375005,289.58751 H 28.9375 c 0.554,0 1,0.44599 1,1 v 6.99999 0.99999 H 5.9375002 l 3e-7,-0.99999 v -6.99999 c 0,-0.554 0.446,-1 1,-1 z"
+         id="rect829-3"
+         transform="translate(-1.9375002,-4.9375)" />
+      <path
+         style="opacity:1;fill:#f37d5c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 11 14 C 10.446 14 10 14.446 10 15 L 10 16 L 9 16 C 8.446 16 8 16.446 8 17 C 8 17.554 8.446 18 9 18 L 10 18 L 10 19 C 10 19.554 10.446 20 11 20 C 11.554 20 12 19.554 12 19 L 12 18 L 13 18 C 13.554 18 14 17.554 14 17 C 14 16.446 13.554 16 13 16 L 12 16 L 12 15 C 12 14.446 11.554 14 11 14 z M 21 15 C 19.892 15 19 15.892 19 17 C 19 18.108 19.892 19 21 19 C 22.108 19 23 18.108 23 17 C 23 15.892 22.108 15 21 15 z M 19 23 C 18.446 23 18 23.446 18 24 C 18 24.554 18.446 25 19 25 L 23 25 C 23.554 25 24 24.554 24 24 C 24 23.446 23.554 23 23 23 L 19 23 z M 9 25 C 8.446 25 8 25.446 8 26 C 8 26.554 8.446 27 9 27 L 13 27 C 13.554 27 14 26.554 14 26 C 14 25.446 13.554 25 13 25 L 9 25 z M 19 26 C 18.446 26 18 26.446 18 27 C 18 27.554 18.446 28 19 28 L 23 28 C 23.554 28 24 27.554 24 27 C 24 26.446 23.554 26 23 26 L 19 26 z "
+         transform="translate(-1e-7,282.65)"
+         id="path839" />
+      <path
+         style="opacity:1;fill:#feffff;fill-opacity:1;stroke:none;stroke-width:0.30000004;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 15.5 4 C 15.223 4 15 4.223 15 4.5 C 15 4.777 15.223 5 15.5 5 L 17 5 L 17 6 L 16.5 6 C 16.223 6 16 6.223 16 6.5 C 16 6.777 16.223 7 16.5 7 L 17 7 L 17 8 L 15.5 8 C 15.223 8 15 8.223 15 8.5 C 15 8.777 15.223 9 15.5 9 L 17.5 9 C 17.56925 9 17.635453 8.9862375 17.695312 8.9609375 C 17.874892 8.8852675 18 8.70775 18 8.5 L 18 6.5 L 18 4.5 C 18 4.223 17.777 4 17.5 4 L 15.5 4 z M 21.5 4 C 21.223 4 21 4.223 21 4.5 L 21 8.5 C 21 8.777 21.223 9 21.5 9 C 21.777 9 22 8.777 22 8.5 L 22 4.5 C 22 4.223 21.777 4 21.5 4 z M 23.5 4 C 23.222999 4 23 4.223 23 4.5 L 23 6.484375 L 23 6.5 L 23 6.515625 C 23 6.783975 23.21603 7 23.484375 7 L 23.5 7 L 25 7 L 25 8.5 C 25 8.77701 25.223 9 25.5 9 C 25.77701 9 26 8.77704 26 8.5 L 26 6.515625 L 26 6.484375 L 26 4.5 C 26 4.223 25.777 4 25.5 4 C 25.22299 4 25 4.22296 25 4.5 L 25 6 L 24 6 L 24 4.5 C 24 4.223 23.777 4 23.5 4 z M 19.5 8 C 19.223 8 19 8.223 19 8.5 C 19 8.777 19.223 9 19.5 9 C 19.777 9 20 8.777 20 8.5 C 20 8.223 19.777 8 19.5 8 z "
+         transform="translate(-1e-7,282.65)"
+         id="path925-8" />
+    </g>
+  </g>
+</svg>

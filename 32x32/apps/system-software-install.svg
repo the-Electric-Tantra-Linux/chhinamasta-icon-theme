@@ -1,1 +1,19 @@
-<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg"><rect x="2.014" y="2.002" width="28.029" height="27.972" ry="1.118" fill="none" stroke="#003ac8" stroke-opacity=".627" stroke-width="1.999" style="paint-order:stroke markers fill"/><g transform="matrix(2.2047 0 0 2.1165 -2.653 -594.7)" stroke-opacity=".627" stroke-width=".926" style="paint-order:stroke markers fill"><rect x="2.117" y="281.92" width="12.7" height="13.229" ry=".529" fill="#7cb2ff"/><path d="M2.646 281.92a.528.528 0 0 0-.53.529v5.045a9.26 9.26 0 0 0 8.467 5.538 9.26 9.26 0 0 0 4.234-1.027v-9.556a.528.528 0 0 0-.53-.53z" fill="#00f" opacity=".1"/></g><path d="M8.993 5.972a6.923 6.923 0 0 0 6.923 6.923 6.923 6.923 0 0 0 6.923-6.923h-1.731a5.192 5.192 0 0 1-5.192 5.193 5.192 5.192 0 0 1-5.193-5.193z" fill="#fff" style="paint-order:stroke markers fill"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient980-7" x1="-17.007" x2="-2.455" y1="15.742" y2="1.1906" gradientTransform="matrix(3.7796 0 0 3.7796 152.84 5.6602)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff8228" offset="0"/>
+   <stop stop-color="#ff7346" offset=".49173"/>
+   <stop stop-color="#ff8c55" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-84.062 -5.6602)">
+  <rect x="88.562" y="10.16" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+  <rect x="88.562" y="10.16" width="55" height="55" ry="14.895" fill="url(#linearGradient980-7)"/>
+  <path d="m128.56 15.902a12.5 12.5 0 0 1 0.0102 0.49996 12.5 12.5 0 0 1-12.5 12.5 12.5 12.5 0 0 1-12.5-12.5 12.5 12.5 0 0 1 0.01-0.50068" fill="none" stroke="#fff" stroke-dashoffset=".42096" stroke-width="2"/>
+  <text x="101.91245" y="47.678356" fill="#ffffff" font-family="sans-serif" font-size="10.078px" letter-spacing="0px" stroke-width=".25196" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="101.91245" y="47.678356" fill="#ffffff" stroke-width=".25196">SHOP</tspan></text>
+ </g>
+</svg>

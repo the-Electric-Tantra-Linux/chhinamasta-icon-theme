@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><rect style="opacity:.2" width="40" height="40" x="4" y="5" rx="12" ry="12"/><rect style="fill:#ff6c3a" width="40" height="40" x="4" y="4" rx="12" ry="12"/><path style="fill:#f4f4f7;opacity:.2" d="M16 4C9.352 4 4 9.352 4 16v1C4 10.352 9.352 5 16 5h16c6.648 0 12 5.352 12 12v-1c0-6.648-5.352-12-12-12H16z"/><path style="opacity:.2" d="M36 10a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3z"/><path style="fill:#f4f4f7" d="M36 9a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3 3 3 0 0 1 3-3z"/><path style="opacity:.2" d="M24 13a12 12 0 0 1 12 12 12 12 0 0 1-12 12 12 12 0 0 1-12-12 12 12 0 0 1 12-12z"/><path style="fill:#f4f4f7" d="M24 12a12 12 0 0 1 12 12 12 12 0 0 1-12 12 12 12 0 0 1-12-12 12 12 0 0 1 12-12z"/><path style="opacity:.1" d="M24 17a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8z"/><path style="fill:#ff9c79" d="M24 16a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient2116-6" x1="25.774" x2="25.774" y1="5.455" y2="59.284" gradientTransform="matrix(.26459 0 0 .26459 -.00010197 -.00010052)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff863e" offset="0"/>
+   <stop stop-color="#fe5b1d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1451" x1="31.989" x2="31.989" y1="23.189" y2="41.043" gradientTransform="matrix(.26458 0 0 .26458 -17.529 2e-7)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff7732" offset="0"/>
+   <stop stop-color="#fe6a28" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect x="1.1905" y="1.1905" width="14.552" height="14.552" ry="3.4397" fill="url(#linearGradient2116-6)" stroke-width=".56198"/>
+ <g transform="translate(17.529)">
+  <rect x="-13.031" y="4.4979" width="7.9375" height="7.9375" ry="1.6485" fill="#fff" stroke-linecap="round" stroke-width=".35292"/>
+  <circle cx="-9.0626" cy="8.4667" r="2.0391" fill="none" stroke="url(#linearGradient1451)" stroke-linecap="round" stroke-width=".68436"/>
+  <circle cx="-6.4535" cy="5.911" r=".46302" fill="#ff7832"/>
+ </g>
+</svg>

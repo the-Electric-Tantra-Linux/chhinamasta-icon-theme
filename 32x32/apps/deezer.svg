@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect style="opacity:.2" width="28" height="29" x="-31" y="-31" rx="1.4" ry="1.45" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#17191e" width="28" height="29" x="-30" y="-31" rx="1.4" ry="1.45" transform="matrix(0 -1 -1 0 0 0)"/><path style="fill:#16be71" d="M28 9h-5v3h5z"/><path style="fill:#05ac9c" d="M28 13h-5v3h5z"/><path style="fill:#026ed2" d="M28 17h-5v3h5z"/><path style="fill:#f6a500" d="M10 21H5v3h5z"/><path style="fill:#e74b32" d="M16 21h-5v3h5z"/><path style="fill:#3446d9" d="M28 21h-5v3h5z"/><path style="fill:#9e2bbb" d="M22 20h-5v-3h5z"/><path style="fill:#b72b68" d="M22 24h-5v-3h5z"/><path style="fill:#f57524" d="M16 17h-5v3h5z"/><path style="fill:#fabc45" d="M16 13h-5v3h5z"/><path style="opacity:.2" d="M23 12v1h5v-1h-5zm-12 4v1h5v-1h-5zm12 0v1h5v-1h-5zm-12 4v1h5v-1h-5zm6 0v1h5v-1h-5zm6 0v1h5v-1h-5zM5 24v1h5v-1H5zm6 0v1h5v-1h-5zm6 0v1h5v-1h-5zm6 0v1h5v-1h-5z"/><path style="fill:#f4f4f7;opacity:.1" d="M3.45 2C2.645 2 2 2.625 2 3.4v1C2 3.625 2.646 3 3.45 3h26.1c.804 0 1.45.625 1.45 1.4v-1c0-.775-.646-1.4-1.45-1.4H3.45z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(203.93 -.054156)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1d2123" offset="0"/>
+   <stop stop-color="#33393e" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-72.44)">
+  <rect x="76.935" y="4.9558" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+  <rect x="76.935" y="4.9558" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+  <circle cx="104.44" cy="32" r="30.001" fill-opacity="0" stroke-width="1.5715"/>
+ </g>
+ <g stroke-linejoin="round" stroke-width="1.0022">
+  <rect x="45" y="15" width="10" height="6" ry="2" fill="#16be71"/>
+  <rect x="21" y="24" width="10" height="6" ry="2" fill="#fabc45"/>
+  <rect x="45" y="24" width="10" height="6" ry="2" fill="#05ac9c"/>
+  <rect x="45" y="33" width="10" height="6" ry="2" fill="#026ed2"/>
+  <rect x="33" y="33" width="10" height="6" ry="2" fill="#9e2bbb"/>
+  <rect x="21" y="33" width="10" height="6" ry="2" fill="#f57524"/>
+  <rect x="9" y="42" width="10" height="6" ry="2" fill="#f6a500"/>
+  <rect x="21" y="42" width="10" height="6" ry="2" fill="#e74b32"/>
+  <rect x="33" y="42" width="10" height="6" ry="2" fill="#b72b68"/>
+  <rect x="45" y="42" width="10" height="6" ry="2" fill="#3446d9"/>
+ </g>
+</svg>

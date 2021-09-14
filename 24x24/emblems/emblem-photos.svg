@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><circle style="fill:#455a64" cx="12" cy="12" r="10"/><path style="fill:#f4f4f7" d="m9.5 7-1 1h-1C6.28 7.987 6 8 6 8.928V16c0 1 .543 1 1.713 1h8.574C17.63 17.003 18 17 18 16V9c0-1-.362-1-1.5-1h-1l-1-1h-5zM12 9a3 3 0 1 1 0 6 3 3 0 0 1 0-6z"/></svg>
+<svg width="22" height="22" version="1.1" viewBox="0 0 5.821 5.821" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="d" cx="4.062" cy="291.63" r="7.276" gradientTransform="matrix(2.2066 0 0 2.2066 12.283 -619.24)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ca564d" stop-opacity=".019" offset="0"/>
+   <stop stop-color="#f35e4d" offset="1"/>
+  </radialGradient>
+  <radialGradient id="f" cx="4.062" cy="291.63" r="7.276" gradientTransform="matrix(2.2066 0 0 2.2066 -5.7145 -623.23)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ca564d" stop-opacity=".019" offset="0"/>
+   <stop stop-color="#fd5c4f" offset="1"/>
+  </radialGradient>
+ </defs>
+ <rect x=".529" y="1.058" width="4.762" height="3.704" rx=".529" ry=".529" fill="#ef746d" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26459)" d="m19.996 12.031a16.055 16.055 0 0 0-11.498 5.9668h9.5c1.1076 0 1.998-0.89238 1.998-2v-3.9668z" fill="url(#d)" stroke-width="3.7794" style="paint-order:stroke markers fill"/>
+ <circle cx="4.233" cy="2.116" r=".529" fill="#ffdb8a" style="paint-order:stroke markers fill"/>
+ <path transform="scale(.26459)" d="m3 7.998a16.055 16.055 0 0 0-1 0.035156v7.9648c0 1.1076 0.89043 2 1.998 2h13.861a16.055 16.055 0 0 0-14.859-10z" fill="url(#f)" stroke-width="3.7794" style="paint-order:stroke markers fill"/>
+</svg>

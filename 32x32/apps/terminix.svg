@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect style="opacity:.2" width="28" height="25" x="2" y="4" rx="2.1" ry="2.1"/><path style="fill:#4f4f4f" d="M16 3v25H4.1C2.936 28 2 27.064 2 25.9V5.1C2 3.936 2.936 3 4.1 3z"/><path style="fill:#17191e" d="M16 3v25h11.9c1.164 0 2.1-.936 2.1-2.1V5.1c0-1.164-.936-2.1-2.1-2.1H16z"/><path style="fill:#f4f4f7;opacity:.1" d="M4.1 3C2.936 3 2 3.936 2 5.1V6h.01c.053-1.116.96-2 2.09-2h23.8a2.09 2.09 0 0 1 2.09 2H30v-.9c0-1.164-.936-2.1-2.1-2.1H4.1z"/><path style="opacity:.2;fill:none;stroke:#050505;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m5 7 3 2.5L5 12"/><path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m5 6 3 2.5L5 11"/><path style="opacity:.2;fill:none;stroke:#050505;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M10 12h3"/><path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M10 11h3"/><path style="opacity:.2;fill:none;stroke:#050505;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m19 7 3 2.5-3 2.5"/><path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m19 6 3 2.5-3 2.5"/><path style="opacity:.2;fill:none;stroke:#050505;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M24 12h3"/><path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M24 11h3"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1057-2" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053-0-2" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(31.986 -7.1356)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1d2123" offset="0"/>
+   <stop stop-color="#33393e" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-2)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+ <g transform="translate(99.514 6.6256)" stroke-linecap="round">
+  <rect x="-95.014" y="-2.1256" width="55" height="55" ry="15" fill="url(#linearGradient1053-0-2)" stroke-width="2.78b9cbe"/>
+  <path d="m-85.391 8.4233-0.6875 2.0684 6.9824 2.8008-6.9824 2.8008 0.6875 2.0703 8.9824-3.8047v-2.1309zm8.9707 12.582v2.1445h10.717v-2.1445z" fill="#fff" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  <path d="m-85.391 27.599-0.6875 2.0684 6.9824 2.8008-6.9824 2.8008 0.6875 2.0703 8.9824-3.8047v-2.1309zm8.9707 12.582v2.1445h10.717v-2.1445z" fill="#fff" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

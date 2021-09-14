@@ -1,1 +1,152 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><path style="marker:none" d="M16 1.5C8 1.5 1.5 8 1.5 16S8 30.5 16 30.5 30.5 24 30.5 16 24 1.5 16 1.5z" color="#000" overflow="visible" opacity=".99" fill="#58adf8" fill-opacity=".992"/><path style="marker:none;font-variant-east_asian:normal;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1;filter-blend-mode:normal;filter-gaussianBlur-deviation:0" d="M16 1.502C8 1.502 1.502 8 1.502 16 1.502 24 8 30.498 16 30.498 24 30.498 30.498 24 30.498 16 30.498 8 24 1.502 16 1.502z" fill="none" stroke="#002e99" stroke-linecap="round" stroke-linejoin="round" opacity=".35" color="#000" overflow="visible"/><path d="M16.683 20.123c-.05-1.77.347-3.487 2.018-4.703 1.765-1.376 3.466-3.097 3.286-5.126-.04-1.957-2.32-3.49-4.776-3.711-2.763-.383-6.106.564-7.032 2.722-.47 1.05-.034 2.932 1.542 2.932.921 0 1.345-.595 1.414-1.14.053-.412-.116-.78-.216-1.12-.114-.388.372-1.14.901-1.446.443-.256.906-.342.974-.359 1.588-.381 3.172.462 3.833 1.488.66 1.027-.067 2.584-1.112 4.098-1.046 1.514-2.168 3.233-2.164 5.06 0 .695-.062.931-.018 1.212.036.225.78.198 1.35.093zm-.725 2.38c-1.52-.082-2.57 1.64-1.658 2.737.815 1.212 3.1.913 3.491-.459.408-1.067-.572-2.295-1.833-2.277z" font-weight="700" font-size="72" font-family="Standard Symbols L" fill="#fff"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="yast-support.svg">
+  <title
+     id="title7895">Antu icon Theme</title>
+  <defs
+     id="defs2">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-23">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-10">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-26"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="4.5268724"
+     inkscape:cy="9.9554781"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3090"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1874"
+     inkscape:window-height="1141"
+     inkscape:window-x="46"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid7897"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Antu icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-282.64999)">
+    <g
+       id="g3090"
+       transform="translate(59.999996,-5.00001)">
+      <path
+         id="rect4496"
+         d="m -43.999996,288.65004 c 8.31,0 15,6.68984 15,14.99992 0,8.30994 -6.69,15 -15,15 -8.309999,0 -15,-6.69006 -15,-15 0,-8.31008 6.690001,-14.99992 15,-14.99992 z"
+         style="fill:#007042;fill-opacity:1;stroke:none;stroke-width:1.46965909;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect4570-9-6"
+         d="m -43.999995,289.64999 c 7.755999,0 13.999999,6.24393 13.999999,13.99997 0,7.75605 -6.244,14.00009 -13.999999,14.00009 -7.756001,0 -14.000001,-6.24404 -14.000001,-14.00009 0,-7.75604 6.244,-13.99997 14.000001,-13.99997 z"
+         style="fill:#24b17a;fill-opacity:1;stroke:none;stroke-width:1.40220487;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="rect5924-9"
+         d="m -43.999999,295.64994 c -1.107996,0 -1.999998,0.892 -1.999998,2 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 0,-1.108 -0.892002,-2 -2.000004,-2 z m 0,6 c -1.107996,0 -1.999998,0.892 -1.999998,2 v 3 3 c 0,1.108 0.892002,2 1.999998,2 1.108002,0 2.000004,-0.892 2.000004,-2 v -3 -3 c 0,-1.108 -0.892002,-2 -2.000004,-2 z"
+         style="opacity:1;fill:#dcf1e9;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="ssssssscssscss" />
+    </g>
+  </g>
+</svg>

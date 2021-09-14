@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect style="opacity:.2" width="29" height="29" x="2" y="2" rx="1.45" ry="1.45"/><rect style="fill:#dc4c3a" width="29" height="29" x="2" y="1" rx="1.45" ry="1.45"/><path style="opacity:.2" d="M15.5 7.04a1.5 1.5 0 0 0-1.5 1.5v3.96a1.5 1.5 0 1 0 3 0v-2.46h2.15a1.5 1.5 0 0 0 .065 0s.742-.011 1.441.337c.7.348 1.344.79 1.344 2.685s-.632 2.303-1.322 2.633c-.69.33-1.434.309-1.434.309A1.5 1.5 0 0 0 19.15 16h-7.113a1.5 1.5 0 0 0-.369.047s-.956.24-1.85.978c-.894.739-1.81 2.123-1.818 4.006-.008 1.89.92 3.279 1.832 4 .911.722 1.88.934 1.88.934a1.5 1.5 0 0 0 .325.035H15.5a1.5 1.5 0 0 0 1.5-1.5v-2a1.5 1.5 0 1 0-3 0v.5h-1.703c-.053-.014-.277-.063-.602-.32-.36-.286-.7-.628-.695-1.635.004-1.013.357-1.398.729-1.705.326-.27.533-.321.595-.34h6.826l-.095-.004s1.433.115 2.918-.596C23.458 17.69 25 15.88 25 13.062c0-2.817-1.53-4.636-3.006-5.37-1.476-.736-2.91-.651-2.91-.651l.066-.002z"/><path style="fill:none;stroke:#f4f4f7;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="M15.5 11.5V7.54h3.65s4.35-.19 4.35 4.522c0 4.713-4.35 4.438-4.35 4.438h-7.112s-2.525.642-2.538 3.538c-.013 2.896 2.538 3.462 2.538 3.462H15.5v-2"/><path style="fill:#f4f4f7;opacity:.2" d="M3.45 1C2.645 1 2 1.646 2 2.45v1C2 2.645 2.646 2 3.45 2h26.1c.804 0 1.45.646 1.45 1.45v-1C31 1.645 30.354 1 29.55 1H3.45z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1057-0-3" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053-7" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="matrix(.26458 0 0 .26458 34.793 -.13496)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff8228" offset="0"/>
+   <stop stop-color="#ff5a1e" stop-opacity=".99608" offset=".50054"/>
+   <stop stop-color="#ff8c55" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="matrix(.26458 0 0 .26458 -6e-5 -6.016e-5)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-0-3)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+ <rect x="1.1905" y="1.1905" width="14.552" height="14.552" ry="3.9687" fill="url(#linearGradient1053-7)" stroke-linecap="round" stroke-width=".72611"/>
+ <path d="m7.6728 4.498c-0.21986 0-0.39687 0.177-0.39687 0.39687v3.1749c0 0.21986 0.177 0.39687 0.39687 0.39687s0.39687-0.177 0.39687-0.39687v-2.7781h1.3229a1.852 1.852 0 0 1 1.852 1.852 1.852 1.852 0 0 1-1.852 1.852h-2.9104v0.0067a1.7198 1.7198 0 0 0-1.5875 1.713 1.7198 1.7198 0 0 0 1.7198 1.7198h1.0583c0.21986 0 0.39687-0.177 0.39687-0.39687v-1.3229c0-0.21986-0.177-0.39687-0.39687-0.39687s-0.39687 0.177-0.39687 0.39687v0.92602h-0.66144a0.92602 0.92602 0 0 1-0.92602-0.92602 0.92602 0.92602 0 0 1 0.92602-0.92602h2.7781a2.6458 2.6458 0 0 0 2.6458-2.6458 2.6458 2.6458 0 0 0-2.6458-2.6458z" fill="#fff" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
+</svg>
