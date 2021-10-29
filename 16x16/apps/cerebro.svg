@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <g transform="matrix(0.4,0,0,0.4,-1.6,-1.6)">
-  <path style="fill:#f4f4f7" d="M 24,4 A 20,20 0 0 0 4,24 20,20 0 0 0 24,44 20,20 0 0 0 44,24 20,20 0 0 0 24,4 Z"/>
-  <path style="fill:none;stroke:#454545;stroke-width:5" d="M 34,30 24,36 14,30 V 18 l 10,-6 10,6"/>
-  <path style="fill:none;stroke:#8644dc;stroke-width:2.5" d="M 28.5,26 24,29 20.25,26.5 V 21 l 3.75,-2 4.5,2.5"/>
- </g>
-</svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(.4 0 0 .4 -1.6 -1.6)"><path d="m24 4a20 20 0 0 0 -20 20 20 20 0 0 0 20 20 20 20 0 0 0 20-20 20 20 0 0 0 -20-20z" fill="#f4f4f7"/><g fill="none"><path d="m34 30-10 6-10-6v-12l10-6 10 6" stroke="#454545" stroke-width="5"/><path d="m28.5 26-4.5 3-3.75-2.5v-5.5l3.75-2 4.5 2.5" stroke="#8644dc" stroke-width="2.5"/></g></g></svg>

@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#8b9cbe}</style></defs><path style="fill:currentColor" class="ColorScheme-Text" d="M6 1h4v14H6z"/><path style="fill:currentColor" class="ColorScheme-Text" d="M1 6h14v4H1z"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><g fill="#8b9cbe"><path d="m6 1h4v14h-4z"/><path d="m1 6h14v4h-14z"/></g></svg>

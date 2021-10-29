@@ -1,11 +1,1 @@
-<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <g transform="translate(1,1)">
-  <path d="m21 19v-15c0-0.554-0.446-1-1-1h-18c-0.554 0-1 0.446-1 1v15c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1z" style="fill:#f4f4f7"/>
-  <path d="m10 6.5v7h-3l2-6h-2l-2 6v2h5v4h2v-4h1s4 0 4-5c0-4-4-4-4-4h-1zm2 2h1s2 0 2 2c0 3-2 3-2 3h-1z" style="opacity:.1"/>
-  <path d="m10 6v7h-3l2-6h-2l-2 6v2h5v4h2v-4h1s4 0 4-5c0-4-4-4-4-4h-1zm2 2h1s2 0 2 2c0 3-2 3-2 3h-1z" style="fill:#3174fc"/>
-  <path d="m21 19v-14h-10v15h9c0.554 0 1-0.446 1-1z" style="opacity:.15"/>
-  <path d="m21 5v-2c0-0.554-0.446-1-1-1h-18c-0.554 0-1 0.446-1 1v2z" style="fill:#636e73"/>
-  <path d="m2 2c-0.554 0-1 0.446-1 1v0.5c0-0.554 0.446-1 1-1h18c0.554 0 1 0.446 1 1v-0.5c0-0.554-0.446-1-1-1z" style="fill:#f4f4f7;opacity:.1"/>
-  <path d="m1 19v0.5c0 0.554 0.446 1 1 1h18c0.554 0 1-0.446 1-1v-0.5c0 0.554-0.446 1-1 1h-18c-0.554 0-1-0.446-1-1z" style="opacity:.2"/>
- </g>
-</svg>
+<svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49164" y2="4.49164"><stop offset="0" stop-color="#2e55e7"/><stop offset="1" stop-color="#0d7eef"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" transform="translate(-.000228 -.000228)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="55.001" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55.001" x="4.4996" y="4.4996"/><path d="m29.462 15.5-13.962 22.212v5.7115h13.962v5.0769h6.3462v-11.423h2.5385c6.3462 0 10.154-5.0769 10.154-10.788 0-5.7115-3.8077-10.788-10.154-10.788h-8.8846zm6.3462 6.3462h1.9038c3.1731 0 4.4423 2.5385 4.4423 4.4423s-1.2692 4.4423-4.4423 4.4423h-1.9038m-6.3462-3.9295v10.276h-6.3462" fill="#f3f5f5"/></svg>
