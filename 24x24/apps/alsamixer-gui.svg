@@ -1,1 +1,20 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.79534" x2="16.34724" y1="18.7542" y2="4.2023"><stop offset="0" stop-color="#32d7ff"/><stop offset="1" stop-color="#329bff"/></linearGradient><g transform="translate(-.60476 -3.0144)"><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" transform="matrix(.26458 0 0 .26458 .60476 3.0144)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.552" ry="3.9688" stroke-linecap="round" stroke-width=".72612" width="14.552" x="1.7954" y="4.205"/><g fill="#fff" transform="rotate(90)"><rect height=".52901" opacity=".75" ry=".26501" width="8.4672" x="7.2474" y="-11.716"/><circle cx="13.068" cy="-11.452" r="1.058"/><rect height=".52901" opacity=".75" ry=".26501" width="8.4672" x="7.2474" y="-7.4834"/><circle cx="9.6285" cy="-7.2194" opacity=".3" r="1.587"/><circle cx="9.6285" cy="-7.2194" r="1.058"/></g></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.795" x2="16.347" y1="18.754" y2="4.202">
+        <stop offset="0" stop-color="#32d7ff"/>
+        <stop offset="1" stop-color="#329bff"/>
+    </linearGradient>
+    <g transform="translate(-.605 -3.014)">
+        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="translate(.605 3.014) scale(.26458)" width="55" x="4.5" y="4.5"/>
+        <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.795" y="4.205"/>
+        <g fill="#f4f4f7" transform="rotate(90)">
+            <rect height=".529" opacity=".75" ry=".265" width="8.467" x="7.247" y="-11.716"/>
+            <circle cx="13.068" cy="-11.452" r="1.058"/>
+            <rect height=".529" opacity=".75" ry=".265" width="8.467" x="7.247" y="-7.483"/>
+            <circle cx="9.629" cy="-7.219" opacity=".3" r="1.587"/>
+            <circle cx="9.629" cy="-7.219" r="1.058"/>
+        </g>
+    </g>
+</svg>

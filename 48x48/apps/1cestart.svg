@@ -1,1 +1,12 @@
-<svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49"><stop offset="0" stop-color="#fad21e"/><stop offset="1" stop-color="#faeb1e" stop-opacity=".99608"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="55" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><circle cx="-1326.3" cy="-1241.6" fill="#5e4aa6" r="0"/><circle cx="-226.72" cy="23.855" fill="#5e4aa6" fill-rule="evenodd" r="0"/><path d="m16.648 21.582v5.375h3.5859v16.133h5.375v-21.508zm23.301 0c-5.9414 0-10.754 4.8164-10.754 10.754 0 5.9414 4.8125 10.754 10.754 10.754h19.551v-5.375h-19.555c-2.9688-.0039-5.375-2.4102-5.375-5.3789s2.4062-5.375 5.375-5.3789c1.5274.0039 2.9805.65625 4 1.793h6.125c-1.5156-4.2891-5.5703-7.1602-10.121-7.168z" fill="#ee514f"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#fad21e"/>
+        <stop offset="1" stop-color="#faeb1e" stop-opacity=".996"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <path d="M16.648 21.582v5.375h3.586V43.09h5.375V21.582zm23.301 0c-5.941 0-10.754 4.816-10.754 10.754 0 5.941 4.813 10.754 10.754 10.754H59.5v-5.375H39.945c-2.969-.004-5.375-2.41-5.375-5.379s2.406-5.375 5.375-5.379a5.392 5.392 0 0 1 4 1.793h6.125a10.754 10.754 0 0 0-10.121-7.168z" fill="#ee514f"/>
+</svg>

@@ -1,1 +1,19 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#b5c0df" height="15" rx=".75" width="15" x="1" y="1"/><g fill="#314277"><rect height="7" rx=".286" ry=".318" width="2" x="3" y="3"/><rect height="7" rx=".368" ry=".318" width="7" x="7" y="3"/><rect height="8.4" rx=".286" ry=".4" transform="rotate(90)" width="2" x="6" y="-11.4"/><rect height="2" opacity=".56" rx=".5" width="2" x="3" y="11"/><rect height="2" opacity=".82" rx=".5" width="2" x="6" y="11"/><rect height="2" opacity=".82" rx=".5" width="2" x="9" y="11"/></g><rect fill="#f4f4f7" height="1" rx=".385" ry=".25" width="5" x="8" y="4"/><rect fill="#f4f4f7" height="1" rx=".385" ry=".25" width="5" x="8" y="8"/><rect fill="#f4f4f7" height="1" rx=".231" ry=".25" transform="rotate(90)" width="3" x="6" y="-9"/><rect fill="#f4f4f7" height="1" rx=".385" ry=".25" transform="scale(-1)" width="5" x="-13" y="-7"/><rect fill="#f4f4f7" height="1" rx=".231" ry=".25" transform="rotate(90)" width="3" x="4" y="-13"/><rect fill="#314277" height="2" opacity=".56" rx=".5" width="2" x="12" y="11"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#b5c0df" height="15" rx=".75" width="15" x="1" y="1"/>
+    <g fill="#314277">
+        <rect height="7" rx=".286" ry=".318" width="2" x="3" y="3"/>
+        <rect height="7" rx=".368" ry=".318" width="7" x="7" y="3"/>
+        <rect height="8.4" rx=".286" ry=".4" transform="rotate(90)" width="2" x="6" y="-11.4"/>
+        <rect height="2" opacity=".56" rx=".5" width="2" x="3" y="11"/>
+        <rect height="2" opacity=".82" rx=".5" width="2" x="6" y="11"/>
+        <rect height="2" opacity=".82" rx=".5" width="2" x="9" y="11"/>
+    </g>
+    <g fill="#f4f4f7">
+        <rect height="1" rx=".385" ry=".25" width="5" x="8" y="4"/>
+        <rect height="1" rx=".385" ry=".25" width="5" x="8" y="8"/>
+        <rect height="1" rx=".231" ry=".25" transform="rotate(90)" width="3" x="6" y="-9"/>
+        <rect height="1" rx=".385" ry=".25" transform="scale(-1)" width="5" x="-13" y="-7"/>
+        <rect height="1" rx=".231" ry=".25" transform="rotate(90)" width="3" x="4" y="-13"/>
+    </g>
+    <rect fill="#314277" height="2" opacity=".56" rx=".5" width="2" x="12" y="11"/>
+</svg>

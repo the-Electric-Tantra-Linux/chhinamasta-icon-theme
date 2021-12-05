@@ -1,1 +1,18 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="m24 4h-18c-1.108 0-2 .892-2 2v18h20z" fill="#cf4f8c"/><path d="m24 4h18c1.108 0 2 .892 2 2v18h-20zm0 40h-18c-1.108 0-2-.892-2-2v-18h20z" fill="#6655e4"/><path d="m24 44h18c1.108 0 2-.892 2-2v-18h-20z" fill="#cf4f8c"/><path d="m6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" fill="#fff" opacity=".2"/><path d="m6 45c-1.108 0-2-.892-2-2v-1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v1c0 1.108-.892 2-2 2z" opacity=".2"/><path d="m10 10h28v28h-28z" fill="#17191e"/><g fill="none" stroke-linecap="round" stroke-width="2"><path d="m16 33h8" opacity=".2" stroke="#000"/><path d="m16 32h8" stroke="#f4f4f7"/><path d="m16 21s4 .464 4-2c0-2.465-4-2-4-2m0 8v-8" opacity=".2" stroke="#000" stroke-linejoin="bevel"/><path d="m16 20s4 .465 4-2c0-2.464-4-2-4-2m0 8v-8" stroke="#f4f4f7" stroke-linejoin="bevel"/><path d="m24 24s.504 1 2 1 2-1 2-2c0-4.214-4 .211-3.988-3.99-.012-1.01.472-2.01 1.988-2.01s2 1 2 1" opacity=".2" stroke="#000" stroke-linejoin="round"/><path d="m24 23s.504 1.001 2 1c1.496 0 2-1 2-2 0-4.214-4 .211-3.988-3.99-.012-1.01.472-2.01 1.988-2.01s2 1 2 1" stroke="#f4f4f7" stroke-linejoin="round"/></g></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <path d="M24 4H6c-1.108 0-2 .892-2 2v18h20z" fill="#cf4f8c"/>
+    <path d="M24 4h18c1.108 0 2 .892 2 2v18H24zm0 40H6c-1.108 0-2-.892-2-2V24h20z" fill="#6655e4"/>
+    <path d="M24 44h18c1.108 0 2-.892 2-2V24H24z" fill="#cf4f8c"/>
+    <path d="M6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z" fill="#fff" opacity=".2"/>
+    <path d="M6 45c-1.108 0-2-.892-2-2v-1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v1c0 1.108-.892 2-2 2z" opacity=".2"/>
+    <path d="M10 10h28v28H10z" fill="#17191e"/>
+    <g fill="none" stroke-linecap="round" stroke-width="2">
+        <path d="M16 33h8" opacity=".2" stroke="#000"/>
+        <path d="M16 32h8" stroke="#f4f4f7"/>
+        <path d="M16 21s4 .464 4-2c0-2.465-4-2-4-2m0 8v-8" opacity=".2" stroke="#000" stroke-linejoin="bevel"/>
+        <path d="M16 20s4 .465 4-2c0-2.464-4-2-4-2m0 8v-8" stroke="#f4f4f7" stroke-linejoin="bevel"/>
+        <g stroke-linejoin="round">
+            <path d="M24 24s.504 1 2 1 2-1 2-2c0-4.214-4 .211-3.988-3.99C24 18 24.484 17 26 17s2 1 2 1" opacity=".2" stroke="#000"/>
+            <path d="M24 23s.504 1.001 2 1c1.496 0 2-1 2-2 0-4.214-4 .211-3.988-3.99C24 17 24.484 16 26 16s2 1 2 1" stroke="#f4f4f7"/>
+        </g>
+    </g>
+</svg>

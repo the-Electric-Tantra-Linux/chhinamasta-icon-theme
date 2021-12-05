@@ -1,1 +1,11 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m9 11.5h6v8l-3 3-3-3z" opacity=".2"/><path d="m9 11h6v8l-3 3-3-3z" fill="#afafb1"/><path d="m9 11h3v11l-3-3z" fill="#f4f4f7"/><rect height="14" opacity=".2" rx="1.999" ry="2" transform="rotate(90)" width="4" x="7.5" y="-19"/><rect fill="#ec8a2b" height="14" rx="1.999" ry="2" transform="rotate(90)" width="4" x="7" y="-19"/><path d="m10 2h4v5h-4z" fill="#d13808"/><rect height="2" opacity=".2" rx=".999" ry="1" width="6" x="9" y="2.5"/><rect fill="#ec8a2b" height="2" rx=".999" ry="1" width="6" x="9" y="2"/><path d="m7 7c-1.108 0-2 .891-2 1.999v.002c0 .085.014.166.024.249a1.989 1.989 0 0 1 1.976-1.75h10c1.022 0 1.852.762 1.976 1.75.01-.083.024-.164.024-.249v-.002a1.995 1.995 0 0 0 -2-1.999zm2.999-5a.997.997 0 0 0 -.999 1c0 .087.015.17.035.25a.994.994 0 0 1 .965-.75h4.002c.467 0 .853.319.964.75a.998.998 0 0 0 .034-.25c0-.554-.445-1-.999-1z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M9 11.5h6v8l-3 3-3-3z" opacity=".2"/>
+    <path d="M9 11h6v8l-3 3-3-3z" fill="#afafb1"/>
+    <path d="M9 11h3v11l-3-3z" fill="#f4f4f7"/>
+    <rect height="14" opacity=".2" rx="1.999" ry="2" transform="rotate(90)" width="4" x="7.5" y="-19"/>
+    <rect fill="#ec8a2b" height="14" rx="1.999" ry="2" transform="rotate(90)" width="4" x="7" y="-19"/>
+    <path d="M10 2h4v5h-4z" fill="#d13808"/>
+    <rect height="2" opacity=".2" rx=".999" ry="1" width="6" x="9" y="2.5"/>
+    <rect fill="#ec8a2b" height="2" rx=".999" ry="1" width="6" x="9" y="2"/>
+    <path d="M7 7c-1.108 0-2 .891-2 1.999v.002c0 .085.014.166.024.249A1.989 1.989 0 0 1 7 7.5h10a1.99 1.99 0 0 1 1.976 1.75c.01-.083.024-.164.024-.249v-.002A1.995 1.995 0 0 0 17 7zm2.999-5A.997.997 0 0 0 9 3c0 .087.015.17.035.25A.994.994 0 0 1 10 2.5h4.002c.467 0 .853.319.964.75A.998.998 0 0 0 15 3c0-.554-.445-1-.999-1z" fill="#f4f4f7" opacity=".2"/>
+</svg>

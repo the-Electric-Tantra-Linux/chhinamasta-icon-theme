@@ -1,1 +1,14 @@
-<svg height="22" viewBox="0 0 5.821 5.821" width="22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><radialGradient id="a" cx="21.2462092" cy="24.270758" gradientUnits="userSpaceOnUse" r="16.0552216"><stop offset="0" stop-color="#ca564d" stop-opacity=".019"/><stop offset="1" stop-color="#f35e4d"/></radialGradient><radialGradient id="b" cx="3.2487092" cy="20.280758" gradientUnits="userSpaceOnUse" r="16.0552216"><stop offset="0" stop-color="#ca564d" stop-opacity=".019"/><stop offset="1" stop-color="#fd5c4f"/></radialGradient><rect fill="#ef746d" height="3.704" rx=".529" width="4.762" x=".529" y="1.058"/><path d="m19.996 12.031a16.055 16.055 0 0 0 -11.498 5.9668h9.5c1.1076 0 1.998-.89238 1.998-2z" fill="url(#a)" stroke-width="3.7794" transform="scale(.26459)"/><circle cx="4.233" cy="2.116" fill="#ffdb8a" r=".529"/><path d="m3 7.998a16.055 16.055 0 0 0 -1 .035156v7.9648c0 1.1076.89043 2 1.998 2h13.861a16.055 16.055 0 0 0 -14.859-10z" fill="url(#b)" stroke-width="3.7794" transform="scale(.26459)"/></svg>
+<svg height="22" viewBox="0 0 5.821 5.821" width="22" xmlns="http://www.w3.org/2000/svg">
+    <radialGradient id="a" cx="21.246" cy="24.271" gradientUnits="userSpaceOnUse" r="16.055">
+        <stop offset="0" stop-color="#ca564d" stop-opacity=".019"/>
+        <stop offset="1" stop-color="#f35e4d"/>
+    </radialGradient>
+    <radialGradient id="b" cx="3.249" cy="20.281" gradientUnits="userSpaceOnUse" r="16.055">
+        <stop offset="0" stop-color="#ca564d" stop-opacity=".019"/>
+        <stop offset="1" stop-color="#fd5c4f"/>
+    </radialGradient>
+    <rect fill="#ef746d" height="3.704" rx=".529" width="4.762" x=".529" y="1.058"/>
+    <path d="M19.996 12.031a16.055 16.055 0 0 0-11.498 5.967h9.5a1.994 1.994 0 0 0 1.998-2z" fill="url(#a)" transform="scale(.26459)"/>
+    <circle cx="4.233" cy="2.116" fill="#ffdb8a" r=".529"/>
+    <path d="M3 7.998a16.055 16.055 0 0 0-1 .035v7.965c0 1.108.89 2 1.998 2h13.861A16.055 16.055 0 0 0 3 7.998z" fill="url(#b)" transform="scale(.26459)"/>
+</svg>

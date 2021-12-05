@@ -1,1 +1,16 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#f4f4f7" height="16" rx="2" width="16"/><path d="m2 3.2h1v9.6h-1z" fill="#4f4f4f"/><path d="m11-14.4h1v12.8h-1z" fill="#4f4f4f" transform="rotate(90)"/><path d="m5.023 8.79s1.413-.363 2.12-.542c.709-.18 1.454-.411 2.127-.696.768-.325 1.527-.577 2.127-1.156.693-.667 1.603-2.396 1.603-2.396" fill="none" stroke="#4f4f4f" stroke-linecap="round"/><g fill="#f45b5b"><circle cx="2.5" cy="3.5" r="1.5"/><circle cx="2.5" cy="11.5" r="1.5"/><circle cx="13.5" cy="11.5" r="1.5"/></g><circle cx="12.5" cy="4.5" fill="#14b141" r="1.5"/><circle cx="5.5" cy="8.5" fill="#14b141" r="1.5"/><circle cx="9.5" cy="7.5" fill="#14b141" r="1.5"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#f4f4f7" height="16" rx="2" width="16"/>
+    <path d="M2 3.2h1v9.6H2z" fill="#4f4f4f"/>
+    <path d="M14.4 11v1H1.6v-1z" fill="#4f4f4f"/>
+    <path d="M5.023 8.79s1.413-.363 2.12-.542c.709-.18 1.454-.411 2.127-.696.768-.325 1.527-.577 2.127-1.156C12.09 5.729 13 4 13 4" fill="none" stroke="#4f4f4f" stroke-linecap="round"/>
+    <g fill="#f45b5b">
+        <circle cx="2.5" cy="3.5" r="1.5"/>
+        <circle cx="2.5" cy="11.5" r="1.5"/>
+        <circle cx="13.5" cy="11.5" r="1.5"/>
+    </g>
+    <g fill="#14b141">
+        <circle cx="12.5" cy="4.5" r="1.5"/>
+        <circle cx="5.5" cy="8.5" r="1.5"/>
+        <circle cx="9.5" cy="7.5" r="1.5"/>
+    </g>
+</svg>

@@ -1,1 +1,10 @@
-<svg enable-background="new" height="16" width="16.000196" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g transform="translate(-506.0002 15.002581)"><g filter="url(#a)"/><g fill="#4c5263"><path d="m507.0002-9.27302c-.55233-.00011-1.00011.44767-1 1v4.27344c0 .55228.44772 1 1 1l11.01953-.01-10.57422-6.1582h-.002c-.1377-.0688-.28942-.10491-.44336-.10547zm1 2.27344 3.25 2h-3.25z"/><path d="m509.0002-13.99964s-1 0-1 1v2.75l2 1.1562501v-2.9062501h8v7.9687501.0312 2h-8-2v1c0 1 1 1 1 1h10s1 0 1-1v-3-9.0000001c0-1-1-1-1-1z"/></g></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-506 15.003)"/>
+    <g fill="#f4f4f7">
+        <path d="M1 5.73a1 1 0 0 0-1 1v4.273a1 1 0 0 0 1 1l11.02-.01L1.445 5.835h-.002A1 1 0 0 0 1 5.729zm1 2.273 3.25 2H2z"/>
+        <path d="M3 1.003s-1 0-1 1v2.75l2 1.156V3.003h8v9.999H2v1c0 1 1 1 1 1h10s1 0 1-1v-12c0-1-1-1-1-1z"/>
+    </g>
+</svg>

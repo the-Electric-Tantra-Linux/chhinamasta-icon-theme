@@ -1,1 +1,14 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect height="28" opacity=".2" rx="1.4" width="28" x="2" y="3"/><rect fill="#ef4e4e" height="28" rx="1.4" width="28" x="2" y="2"/><path d="m3.4 2c-.775 0-1.4.625-1.4 1.4v1c0-.775.625-1.4 1.4-1.4h25.2c.775 0 1.4.625 1.4 1.4v-1c0-.775-.625-1.4-1.4-1.4z" fill="#f4f4f7" opacity=".1"/><path d="m15.5 2.5v27m-8-27v27" fill="none" stroke="#656565" stroke-linecap="round" stroke-width="3"/><path d="m2.5 8a1.5 1.5 0 1 0 0 3h27a1.5 1.5 0 1 0 0-3zm0 8a1.5 1.5 0 1 0 0 3h27a1.5 1.5 0 1 0 0-3zm0 7a1.5 1.5 0 1 0 0 3h27a1.5 1.5 0 1 0 0-3z" opacity=".2"/><path d="m23.5 2.5v27m6-13h-27m27-8h-27m27 15h-27" fill="none" stroke="#656565" stroke-linecap="round" stroke-width="3"/><path d="m20.5 22.128v-4.586c0-1.219 1.358-2.042 2.99-2.042 1.56 0 3.01.883 3.01 2.042v4.586" fill="none" stroke="#ffa02e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/><circle cx="23.5" cy="25.5" opacity=".2" r="5.5"/><circle cx="23.5" cy="24.5" fill="#ffce23" r="5.5"/><circle cx="23.5" cy="24.5" fill="#7f4a04" r="1.5"/><path d="m22.7 24v2.25a.75.75 0 0 0 .75.75.75.75 0 0 0 .75-.75v-2.25z" fill="#7f4a04"/><path d="m23.5 19a5.5 5.5 0 0 0 -5.5 5.5 5.5 5.5 0 0 0 .025.486 5.5 5.5 0 0 1 5.475-4.986 5.5 5.5 0 0 1 5.475 5.014 5.5 5.5 0 0 0 .025-.514 5.5 5.5 0 0 0 -5.5-5.5z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect height="28" opacity=".2" rx="1.4" width="28" x="2" y="3"/>
+    <rect fill="#ef4e4e" height="28" rx="1.4" width="28" x="2" y="2"/>
+    <path d="M3.4 2C2.625 2 2 2.625 2 3.4v1C2 3.625 2.625 3 3.4 3h25.2c.775 0 1.4.625 1.4 1.4v-1c0-.775-.625-1.4-1.4-1.4z" fill="#f4f4f7" opacity=".1"/>
+    <path d="M15.5 2.5v27m-8-27v27" fill="none" stroke="#656565" stroke-linecap="round" stroke-width="3"/>
+    <path d="M2.5 8a1.5 1.5 0 1 0 0 3h27a1.5 1.5 0 1 0 0-3zm0 8a1.5 1.5 0 1 0 0 3h27a1.5 1.5 0 1 0 0-3zm0 7a1.5 1.5 0 1 0 0 3h27a1.5 1.5 0 1 0 0-3z" opacity=".2"/>
+    <path d="M23.5 2.5v27m6-13h-27m27-8h-27m27 15h-27" fill="none" stroke="#656565" stroke-linecap="round" stroke-width="3"/>
+    <path d="M20.5 22.128v-4.586c0-1.219 1.358-2.042 2.99-2.042 1.56 0 3.01.883 3.01 2.042v4.586" fill="none" stroke="#ffa02e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <circle cx="23.5" cy="25.5" opacity=".2" r="5.5"/>
+    <circle cx="23.5" cy="24.5" fill="#ffce23" r="5.5"/>
+    <circle cx="23.5" cy="24.5" fill="#7f4a04" r="1.5"/>
+    <path d="M22.7 24v2.25a.75.75 0 0 0 .75.75.75.75 0 0 0 .75-.75V24z" fill="#7f4a04"/>
+    <path d="M23.5 19a5.5 5.5 0 0 0-5.5 5.5 5.5 5.5 0 0 0 .025.486A5.5 5.5 0 0 1 23.5 20a5.5 5.5 0 0 1 5.475 5.014A5.5 5.5 0 0 0 29 24.5a5.5 5.5 0 0 0-5.5-5.5z" fill="#f4f4f7" opacity=".2"/>
+</svg>

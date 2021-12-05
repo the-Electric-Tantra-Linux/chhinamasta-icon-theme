@@ -1,1 +1,19 @@
-<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g filter="url(#a)" transform="translate(-605.00022 -4.99664)"/><g fill="#4c5263" transform="matrix(-1 0 0 1 -605.00022 -4.99664)"><rect height="2" ry="1" width="2" x="-613.00037" y="8.001889"/><rect height="2" ry="1" width="2" x="-609.00037" y="8.001889"/><rect height="2" ry="1" width="2" x="-609.00037" y="12.001889"/><rect height="2" ry="1" width="2" x="-609.00037" y="16.001888"/><rect height="2" ry="1" width="2" x="-613.00037" y="16.001888"/><rect height="2" ry="1" width="2" x="-613.00037" y="12.001889"/><rect height="12.00378" ry=".4999" width=".9998" x="-616.00012" y="6.998105"/><rect height="1" ry=".4999" width="2" x="-620.00037" y="8.001889"/><rect height="1" ry=".4999" width="2" x="-620.00037" y="11.001889"/><rect height="1" ry=".4999" width="2" x="-620.00037" y="14.001889"/><rect height="1" ry=".4999" width="2" x="-620.00037" y="17.001888"/></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-605 -4.997)"/>
+    <g fill="#f4f4f7" transform="matrix(-1 0 0 1 -605 -4.997)">
+        <rect height="2" ry="1" width="2" x="-613" y="8.002"/>
+        <rect height="2" ry="1" width="2" x="-609" y="8.002"/>
+        <rect height="2" ry="1" width="2" x="-609" y="12.002"/>
+        <rect height="2" ry="1" width="2" x="-609" y="16.002"/>
+        <rect height="2" ry="1" width="2" x="-613" y="16.002"/>
+        <rect height="2" ry="1" width="2" x="-613" y="12.002"/>
+        <rect height="12.004" ry=".5" width="1" x="-616" y="6.998"/>
+        <rect height="1" ry=".5" width="2" x="-620" y="8.002"/>
+        <rect height="1" ry=".5" width="2" x="-620" y="11.002"/>
+        <rect height="1" ry=".5" width="2" x="-620" y="14.002"/>
+        <rect height="1" ry=".5" width="2" x="-620" y="17.002"/>
+    </g>
+</svg>

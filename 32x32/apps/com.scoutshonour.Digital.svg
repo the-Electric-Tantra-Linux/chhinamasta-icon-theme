@@ -1,1 +1,15 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(0 -1 -1 0 0 0)"><rect height="25" opacity=".2" rx="1.25" width="25" x="-31" y="-30"/><rect fill="#4f4f4f" height="25" rx="1.25" width="25" x="-30" y="-30"/><rect height="25" opacity=".2" rx="1.25" width="25" x="-28" y="-27"/><rect fill="#2d50e6" height="25" rx="1.25" width="25" x="-27" y="-27"/></g><path d="m25.977 3.023-23.612 23.612a1.246 1.246 0 0 1 -.365-.885v1c0 .346.14.659.365.885l24.27-24.27a1.243 1.243 0 0 0 -.658-.342z" opacity=".1"/><path d="m3.25 2c-.691 0-1.25.558-1.25 1.25v22.5c0 .346.139.66.365.885l24.27-24.27a1.248 1.248 0 0 0 -.885-.365z" fill="#f4f4f7" opacity=".1"/><path d="m4 8v15h9v-2h1v-2h2v-7h-2v-2h-1v-2h-5zm15 0v2h4v-2zm-11 2h3v2h1v7h-1v2h-3zm11 3v8h2v2h4v-2h-2v-8z" opacity=".2"/><path d="m4 7h4v15h-4zm4 0h5v2h-5zm3 2h3v2h-3zm-3 11h5v2h-5zm3-2h3v2h-3zm1-7h4v7h-4zm7 1h4v8h-4zm2 8h4v2h-4zm-2-13h4v2h-4z" fill="#f4f4f7"/><path d="m3.25 2c-.692 0-1.25.558-1.25 1.25v1c0-.692.558-1.25 1.25-1.25h22.5c.692 0 1.25.558 1.25 1.25v-1c0-.692-.558-1.25-1.25-1.25z" fill="#f4f4f7" opacity=".1"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <g transform="matrix(0 -1 -1 0 0 0)">
+        <rect height="25" opacity=".2" rx="1.25" width="25" x="-31" y="-30"/>
+        <rect fill="#4f4f4f" height="25" rx="1.25" width="25" x="-30" y="-30"/>
+        <rect height="25" opacity=".2" rx="1.25" width="25" x="-28" y="-27"/>
+        <rect fill="#2d50e6" height="25" rx="1.25" width="25" x="-27" y="-27"/>
+    </g>
+    <path d="M25.977 3.023 2.365 26.635A1.246 1.246 0 0 1 2 25.75v1c0 .346.14.659.365.885l24.27-24.27a1.243 1.243 0 0 0-.658-.342z" opacity=".1"/>
+    <path d="M3.25 2C2.559 2 2 2.558 2 3.25v22.5c0 .346.139.66.365.885l24.27-24.27A1.248 1.248 0 0 0 25.75 2z" fill="#f4f4f7" opacity=".1"/>
+    <path d="M4 8v15h9v-2h1v-2h2v-7h-2v-2h-1V8H8zm15 0v2h4V8zM8 10h3v2h1v7h-1v2H8zm11 3v8h2v2h4v-2h-2v-8z" opacity=".2"/>
+    <g fill="#f4f4f7">
+        <path d="M4 7h4v15H4zm4 0h5v2H8zm3 2h3v2h-3zM8 20h5v2H8zm3-2h3v2h-3zm1-7h4v7h-4zm7 1h4v8h-4zm2 8h4v2h-4zM19 7h4v2h-4z"/>
+        <path d="M3.25 2C2.558 2 2 2.558 2 3.25v1C2 3.558 2.558 3 3.25 3h22.5c.692 0 1.25.558 1.25 1.25v-1C27 2.558 26.442 2 25.75 2z" opacity=".1"/>
+    </g>
+</svg>

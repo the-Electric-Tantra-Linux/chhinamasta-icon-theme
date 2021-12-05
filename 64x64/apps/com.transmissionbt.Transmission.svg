@@ -1,1 +1,11 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><rect height="39" opacity=".2" rx="4.179" transform="matrix(0 -1 -1 0 0 0)" width="39" x="-61" y="-51"/><rect fill="#cecece" height="39" rx="4.179" transform="matrix(0 -1 -1 0 0 0)" width="39" x="-60" y="-51"/><path d="m16.178 21a4.168 4.168 0 0 0 -4.178 4.178v1a4.168 4.168 0 0 1 4.178-4.178h30.644a4.168 4.168 0 0 1 4.178 4.178v-1a4.168 4.168 0 0 0 -4.178-4.178z" fill="#f4f4f7" opacity=".2"/><path d="m31.5 26-11.5 8h6v12h-6l11.5 8 11.5-8h-6v-12h6z" fill="#4f4f4f"/><path d="m26-40h11v33h-11z" fill="#7e7e7e" transform="scale(1 -1)"/><rect height="33" opacity=".2" rx="5.5" transform="matrix(0 -1 -1 0 0 0)" width="11" x="-16" y="-48"/><rect fill="#db4539" height="33" rx="5.5" transform="matrix(0 -1 -1 0 0 0)" width="11" x="-15" y="-48"/><path d="m20.5 4a5.488 5.488 0 0 0 -5.477 6c.252-2.81 2.599-5 5.477-5h22a5.486 5.486 0 0 1 5.477 5 5.488 5.488 0 0 0 -5.477-6z" fill="#f4f4f7" opacity=".2"/><path d="m26 40h11v1h-11zm-4.562-7-1.438 1h6v-1h-4.563zm15.562 0v1h6l-1.438-1zm-17 13 11.5 8 11.5-8h-1.438l-10.062 7-10.063-7z" opacity=".1"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <rect height="39" opacity=".2" rx="4.179" transform="matrix(0 -1 -1 0 0 0)" width="39" x="-61" y="-51"/>
+    <rect fill="#cecece" height="39" rx="4.179" transform="matrix(0 -1 -1 0 0 0)" width="39" x="-60" y="-51"/>
+    <path d="M16.178 21A4.168 4.168 0 0 0 12 25.178v1A4.168 4.168 0 0 1 16.178 22h30.644A4.168 4.168 0 0 1 51 26.178v-1A4.168 4.168 0 0 0 46.822 21z" fill="#f4f4f7" opacity=".2"/>
+    <path d="M31.5 26 20 34h6v12h-6l11.5 8L43 46h-6V34h6z" fill="#4f4f4f"/>
+    <path d="M26 40h11V7H26z" fill="#7e7e7e"/>
+    <rect height="33" opacity=".2" rx="5.5" transform="matrix(0 -1 -1 0 0 0)" width="11" x="-16" y="-48"/>
+    <rect fill="#db4539" height="33" rx="5.5" transform="matrix(0 -1 -1 0 0 0)" width="11" x="-15" y="-48"/>
+    <path d="M20.5 4a5.488 5.488 0 0 0-5.477 6c.252-2.81 2.599-5 5.477-5h22a5.486 5.486 0 0 1 5.477 5A5.488 5.488 0 0 0 42.5 4z" fill="#f4f4f7" opacity=".2"/>
+    <path d="M26 40h11v1H26zm-4.562-7L20 34h6v-1h-4.563zM37 33v1h6l-1.438-1zM20 46l11.5 8L43 46h-1.438L31.5 53l-10.063-7z" opacity=".1"/>
+</svg>

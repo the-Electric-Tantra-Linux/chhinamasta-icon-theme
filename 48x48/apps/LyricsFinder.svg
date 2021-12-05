@@ -1,1 +1,26 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="m4 45 4-18h8l4 18z" opacity=".2"/><path d="m4 44 4-18h8l4 18z" fill="#5c5c5c"/><path d="m28 45 4-18h8l4 18z" opacity=".2"/><path d="m28 44 4-18h8l4 18z" fill="#5c5c5c"/><rect height="18" opacity=".2" ry="2" width="16" x="4" y="13"/><rect fill="#5c5c5c" height="10" ry="2" width="8" x="10" y="4"/><rect height="18" opacity=".2" ry="2" width="16" x="28" y="13"/><rect fill="#838181" height="18" ry="2" width="16" x="4" y="12"/><rect height="14" opacity=".2" ry="2" width="4" x="22" y="15"/><rect fill="#5c5c5c" height="10" ry="2" width="8" x="30" y="4"/><rect height="10" opacity=".2" ry="2" width="24" x="12" y="17"/><rect fill="#838181" height="18" ry="2" width="16" x="28" y="12"/><rect fill="#674f4f" height="14" ry="2" width="4" x="22" y="14"/><path d="m24 14c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2s2 .892 2 2v-1c0-1.108-.892-2-2-2z" fill="#f4f4f7" opacity=".1"/><circle cx="36" cy="37" opacity=".2" r="11"/><rect fill="#6f6d6d" height="10" ry="2" width="24" x="12" y="16"/><g fill="#f4f4f7"><path d="m12 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h4c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" opacity=".1"/><path d="m6 12c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h12c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" opacity=".2"/><path d="m32 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h4c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" opacity=".1"/><path d="m30 12c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h12c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2zm-16 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h20c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" opacity=".2"/></g><circle cx="36.374" cy="36.296" fill="#07b3ff" r="11"/><path d="m33 30v7.05a2.5 2.5 0 0 0 -.5-.05 2.5 2.5 0 0 0 -2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0 -.002-.033h.002v-6.467h5v4.05a2.5 2.5 0 0 0 -.5-.05 2.5 2.5 0 0 0 -2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0 -.002-.076h.002v-9.424z" fill="#f4f4f7"/></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <path d="m4 45 4-18h8l4 18z" opacity=".2"/>
+    <path d="m4 44 4-18h8l4 18z" fill="#5c5c5c"/>
+    <path d="m28 45 4-18h8l4 18z" opacity=".2"/>
+    <path d="m28 44 4-18h8l4 18z" fill="#5c5c5c"/>
+    <rect height="18" opacity=".2" ry="2" width="16" x="4" y="13"/>
+    <rect fill="#5c5c5c" height="10" ry="2" width="8" x="10" y="4"/>
+    <rect height="18" opacity=".2" ry="2" width="16" x="28" y="13"/>
+    <rect fill="#838181" height="18" ry="2" width="16" x="4" y="12"/>
+    <rect height="14" opacity=".2" ry="2" width="4" x="22" y="15"/>
+    <rect fill="#5c5c5c" height="10" ry="2" width="8" x="30" y="4"/>
+    <rect height="10" opacity=".2" ry="2" width="24" x="12" y="17"/>
+    <rect fill="#838181" height="18" ry="2" width="16" x="28" y="12"/>
+    <rect fill="#674f4f" height="14" ry="2" width="4" x="22" y="14"/>
+    <path d="M24 14c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2s2 .892 2 2v-1c0-1.108-.892-2-2-2z" fill="#f4f4f7" opacity=".1"/>
+    <circle cx="36" cy="37" opacity=".2" r="11"/>
+    <rect fill="#6f6d6d" height="10" ry="2" width="24" x="12" y="16"/>
+    <g fill="#f4f4f7">
+        <path d="M12 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h4c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z" opacity=".1"/>
+        <path d="M6 12c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h12c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" opacity=".2"/>
+        <path d="M32 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h4c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z" opacity=".1"/>
+        <path d="M30 12c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h12c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2zm-16 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h20c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" opacity=".2"/>
+    </g>
+    <circle cx="36.374" cy="36.296" fill="#07b3ff" r="11"/>
+    <path d="M33 30v7.05a2.5 2.5 0 0 0-.5-.05 2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-.002-.033H35V33h5v4.05a2.5 2.5 0 0 0-.5-.05 2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-.002-.076H42V30z" fill="#f4f4f7"/>
+</svg>

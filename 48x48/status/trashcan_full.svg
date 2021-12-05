@@ -1,1 +1,11 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="m11 10h26c1.108 0 2 .918 2 2.059 0 0 3 8.941 3 15.941s-2 17-5 17h-26c-3 0-5-10-5-17s3-15.941 3-15.941c.211-1.121.892-2.059 2-2.059z" opacity=".2"/><path d="m18 4h12v4h-12z" fill="#9f9f9f"/><path d="m11 9h26c1.108 0 2 .918 2 2.059 0 0 3 8.941 3 15.941s-2 17-5 17h-26c-3 0-5-10-5-17s3-15.941 3-15.941c.211-1.121.892-2.059 2-2.059z" fill="#8e8e8e"/><path d="m16 21s-1 4-1 8 1 8 1 8" fill="none" opacity=".3" stroke="#000" stroke-linecap="round" stroke-width="4"/><rect fill="#9f9f9f" height="8" rx="2" width="36" x="6" y="6"/><path d="m24 21v16" fill="none" opacity=".3" stroke="#000" stroke-linecap="round" stroke-width="4"/><path d="m8 6c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h32c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" fill="#f4f4f7" opacity=".2"/><path d="m6 12v1c0 1.108.892 2 2 2h32c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2h-32c-1.108 0-2-.892-2-2z" opacity=".2"/><path d="m32 21s1 4 1 8-1 8-1 8" fill="none" opacity=".3" stroke="#000" stroke-linecap="round" stroke-width="4"/></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <path d="M11 10h26c1.108 0 2 .918 2 2.059 0 0 3 8.941 3 15.941s-2 17-5 17H11c-3 0-5-10-5-17s3-15.941 3-15.941C9.211 10.938 9.892 10 11 10z" opacity=".2"/>
+    <path d="M18 4h12v4H18z" fill="#9f9f9f"/>
+    <path d="M11 9h26c1.108 0 2 .918 2 2.059 0 0 3 8.941 3 15.941s-2 17-5 17H11c-3 0-5-10-5-17s3-15.941 3-15.941C9.211 9.938 9.892 9 11 9z" fill="#8e8e8e"/>
+    <path d="M16 21s-1 4-1 8 1 8 1 8" fill="none" opacity=".3" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+    <rect fill="#9f9f9f" height="8" rx="2" width="36" x="6" y="6"/>
+    <path d="M24 21v16" fill="none" opacity=".3" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+    <path d="M8 6c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h32c1.108 0 2 .892 2 2V8c0-1.108-.892-2-2-2z" fill="#f4f4f7" opacity=".2"/>
+    <path d="M6 12v1c0 1.108.892 2 2 2h32c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2H8c-1.108 0-2-.892-2-2z" opacity=".2"/>
+    <path d="M32 21s1 4 1 8-1 8-1 8" fill="none" opacity=".3" stroke="#000" stroke-linecap="round" stroke-width="4"/>
+</svg>

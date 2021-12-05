@@ -1,1 +1,12 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect height="21" opacity=".2" rx="2.1" width="28" x="2" y="7"/><rect fill="#dc4a3d" height="21" rx="2.1" width="28" x="2" y="6"/><path d="m4.1 6c-1.164 0-2.1.936-2.1 2.1v1c0-1.164.936-2.1 2.1-2.1h23.8c1.164 0 2.1.936 2.1 2.1v-1c0-1.164-.936-2.1-2.1-2.1z" fill="#f4f4f7" opacity=".1"/><path d="m16 6v21h9.882a2.104 2.104 0 0 0 2.118-2.1v-16.8c0-1.163-.944-2.1-2.118-2.1h-8.47z" fill="#f4f4f7"/><path d="m18 9v1h8v-1zm0 3v1h8v-1zm0 3.001v1h8v-1zm0 2.999v1h8v-1zm0 3v1h8v-1zm0 3v1h8v-1z" opacity=".2"/><path d="m16 6.688s0-.688 2-.688 2 .688 2 .688v10.312l-2-1.031-2 1.031z" opacity=".1"/><path d="m16 5.688s0-.688 2-.688 2 .688 2 .688v10.312l-2-1.031-2 1.031z" fill="#dc4a3d"/><path d="m16 6v21h-9.882a2.104 2.104 0 0 1 -2.118-2.1v-16.8c0-1.163.944-2.1 2.118-2.1h8.47z" fill="#f4f4f7"/><path d="m6 9v1h8v-1zm0 3v1h8v-1zm0 3.001v1h8v-1zm0 2.999v1h8v-1zm0 3v1h8v-1zm0 3v1h8v-1z" opacity=".2"/><path d="m18 5c-2 0-2 .688-2 .688v1s0-.688 2-.688 2 .688 2 .688v-1s0-.688-2-.688z" fill="#f4f4f7" opacity=".1"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect height="21" opacity=".2" rx="2.1" width="28" x="2" y="7"/>
+    <rect fill="#dc4a3d" height="21" rx="2.1" width="28" x="2" y="6"/>
+    <path d="M4.1 6C2.936 6 2 6.936 2 8.1v1C2 7.936 2.936 7 4.1 7h23.8c1.164 0 2.1.936 2.1 2.1v-1c0-1.164-.936-2.1-2.1-2.1z" fill="#f4f4f7" opacity=".1"/>
+    <path d="M16 6v21h9.882A2.104 2.104 0 0 0 28 24.9V8.1c0-1.163-.944-2.1-2.118-2.1h-8.47z" fill="#f4f4f7"/>
+    <path d="M18 9v1h8V9zm0 3v1h8v-1zm0 3.001v1h8v-1zM18 18v1h8v-1zm0 3v1h8v-1zm0 3v1h8v-1z" opacity=".2"/>
+    <path d="M16 6.688S16 6 18 6s2 .688 2 .688V17l-2-1.031L16 17z" opacity=".1"/>
+    <path d="M16 5.688S16 5 18 5s2 .688 2 .688V16l-2-1.031L16 16z" fill="#dc4a3d"/>
+    <path d="M16 6v21H6.118A2.104 2.104 0 0 1 4 24.9V8.1C4 6.937 4.944 6 6.118 6h8.47z" fill="#f4f4f7"/>
+    <path d="M6 9v1h8V9zm0 3v1h8v-1zm0 3.001v1h8v-1zM6 18v1h8v-1zm0 3v1h8v-1zm0 3v1h8v-1z" opacity=".2"/>
+    <path d="M18 5c-2 0-2 .688-2 .688v1S16 6 18 6s2 .688 2 .688v-1S20 5 18 5z" fill="#f4f4f7" opacity=".1"/>
+</svg>

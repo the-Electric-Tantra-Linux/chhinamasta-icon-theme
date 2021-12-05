@@ -1,1 +1,14 @@
-<svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="64.54" x2="119.54" y1="97.924" y2="42.924"><stop offset="0" stop-color="#02db96"/><stop offset="1" stop-color="#13d39b"/></linearGradient><g transform="translate(-60.041 -38.434)"><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="64.541" y="42.934"/><rect fill="url(#b)" height="55" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="64.541" y="42.934"/><path d="m86.572 59.096v10.957h4.9611q2.7539 0 4.2577-1.4258 1.5039-1.4258 1.5039-4.0623 0-2.6172-1.5039-4.043-1.5039-1.4258-4.2577-1.4258zm-3.9451-3.2422h8.9063q4.9025 0 7.4024 2.2266 2.5195 2.207 2.5195 6.4843 0 4.3163-2.5195 6.5236-2.5 2.207-7.4024 2.207h-4.9611v11.719h-3.9451z" fill="#fff"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="64.54" x2="119.54" y1="97.924" y2="42.924">
+        <stop offset="0" stop-color="#02db96"/>
+        <stop offset="1" stop-color="#13d39b"/>
+    </linearGradient>
+    <g transform="translate(-60.041 -38.434)">
+        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="64.541" y="42.934"/>
+        <rect fill="url(#b)" height="55" ry="15" width="55" x="64.541" y="42.934"/>
+        <path d="M86.572 59.096v10.957h4.961q2.754 0 4.258-1.426t1.504-4.062q0-2.617-1.504-4.043-1.504-1.426-4.258-1.426zm-3.945-3.242h8.906q4.903 0 7.403 2.226 2.52 2.207 2.52 6.485 0 4.316-2.52 6.523-2.5 2.207-7.403 2.207h-4.96v11.72h-3.946z" fill="#f4f4f7"/>
+    </g>
+</svg>

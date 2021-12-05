@@ -1,1 +1,10 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><circle cx="8.5" cy="8.5" fill="#f4f4f7" r="7.5"/><path d="m8.5 4c-3.59 0-6.5 2.814-6.5 6.285v1.938a7.5 7.5 0 0 0 6.176 3.761c.467-.01.937-.046 1.406-.07a7.5 7.5 0 0 0 5.418-3.684v-1.944c0-3.472-2.91-6.286-6.5-6.286z" fill="#bac61d"/><circle cx="8.5" cy="9.5" fill="#f4f4f7" r="3.5"/><circle cx="8.5" cy="9.5" fill="#4d4d4d" r="2.5"/><circle cx="7.417" cy="7.852" fill="#f4f4f7" r="1.148"/><ellipse cx="8.5" cy="2.25" fill="#bac61d" rx="1.5" ry=".75"/><path d="m8.157 2.43h.72l.335 2.062h-1.435z" fill="#bac61d"/><path d="m5.375 13.826c2.408 1.248 4.282.86 6.25 0" fill="none" stroke="#5e742c" stroke-linecap="round" stroke-linejoin="round" stroke-width=".697091"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="8.5" cy="8.5" fill="#f4f4f7" r="7.5"/>
+    <path d="M8.5 4C4.91 4 2 6.814 2 10.285v1.938a7.5 7.5 0 0 0 6.176 3.761c.467-.01.937-.046 1.406-.07A7.5 7.5 0 0 0 15 12.23v-1.944C15 6.814 12.09 4 8.5 4z" fill="#bac61d"/>
+    <circle cx="8.5" cy="9.5" fill="#f4f4f7" r="3.5"/>
+    <circle cx="8.5" cy="9.5" fill="#4d4d4d" r="2.5"/>
+    <circle cx="7.417" cy="7.852" fill="#f4f4f7" r="1.148"/>
+    <ellipse cx="8.5" cy="2.25" fill="#bac61d" rx="1.5" ry=".75"/>
+    <path d="M8.157 2.43h.72l.335 2.062H7.777z" fill="#bac61d"/>
+    <path d="M5.375 13.826c2.408 1.248 4.282.86 6.25 0" fill="none" stroke="#5e742c" stroke-linecap="round" stroke-linejoin="round" stroke-width=".697"/>
+</svg>

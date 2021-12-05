@@ -1,1 +1,20 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><rect height="20" opacity=".2" rx="2" width="20" x="2" y="2.5"/><rect fill="#f4f4f7" height="20" rx="2" width="20" x="2" y="2"/><path d="m3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/><path d="m4 6h2v12h-2z" fill="#4f4f4f"/><path d="m16-20h2v16h-2z" fill="#4f4f4f" transform="rotate(90)"/><path d="m8.314 13.496s1.466-.454 2.35-.679c.886-.225 1.817-.913 2.659-1.27.96-.406 1.909-.82 2.659-1.544.864-.834 2.003-2.495 2.003-2.495" fill="none" stroke="#4f4f4f" stroke-linecap="round" stroke-width="2"/><circle cx="5" cy="6.5" opacity=".1" r="2"/><circle cx="5" cy="6" fill="#f45b5b" r="2"/><circle cx="5" cy="17.5" opacity=".1" r="2"/><circle cx="5" cy="17" fill="#f45b5b" r="2"/><circle cx="19" cy="17.5" opacity=".1" r="2"/><circle cx="19" cy="17" fill="#f45b5b" r="2"/><circle cx="18" cy="7.5" opacity=".1" r="2"/><circle cx="18" cy="7" fill="#14b141" r="2"/><circle cx="9" cy="13.5" opacity=".1" r="2"/><circle cx="9" cy="13" fill="#14b141" r="2"/><circle cx="14" cy="11.5" opacity=".1" r="2"/><circle cx="14" cy="11" fill="#14b141" r="2"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <rect height="20" opacity=".2" rx="2" width="20" x="2" y="2.5"/>
+    <rect fill="#f4f4f7" height="20" rx="2" width="20" x="2" y="2"/>
+    <path d="M3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/>
+    <path d="M4 6h2v12H4z" fill="#4f4f4f"/>
+    <path d="M20 16v2H4v-2z" fill="#4f4f4f"/>
+    <path d="M8.314 13.496s1.466-.454 2.35-.679c.886-.225 1.817-.913 2.659-1.27.96-.406 1.909-.82 2.659-1.544.864-.834 2.003-2.495 2.003-2.495" fill="none" stroke="#4f4f4f" stroke-linecap="round" stroke-width="2"/>
+    <circle cx="5" cy="6.5" opacity=".1" r="2"/>
+    <circle cx="5" cy="6" fill="#f45b5b" r="2"/>
+    <circle cx="5" cy="17.5" opacity=".1" r="2"/>
+    <circle cx="5" cy="17" fill="#f45b5b" r="2"/>
+    <circle cx="19" cy="17.5" opacity=".1" r="2"/>
+    <circle cx="19" cy="17" fill="#f45b5b" r="2"/>
+    <circle cx="18" cy="7.5" opacity=".1" r="2"/>
+    <circle cx="18" cy="7" fill="#14b141" r="2"/>
+    <circle cx="9" cy="13.5" opacity=".1" r="2"/>
+    <circle cx="9" cy="13" fill="#14b141" r="2"/>
+    <circle cx="14" cy="11.5" opacity=".1" r="2"/>
+    <circle cx="14" cy="11" fill="#14b141" r="2"/>
+</svg>

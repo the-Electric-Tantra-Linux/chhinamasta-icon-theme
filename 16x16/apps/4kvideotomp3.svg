@@ -1,1 +1,11 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><circle cx="8.5" cy="8.5" fill="#b7b7b7" r="7.5"/><g fill="#17191e"><circle cx="8.5" cy="5" r="2"/><circle cx="8.5" cy="12" r="2"/><g transform="rotate(90)"><circle cx="8.5" cy="-12" r="2"/><circle cx="8.5" cy="-5" r="2"/></g></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="8.5" cy="8.5" fill="#b7b7b7" r="7.5"/>
+    <g fill="#17191e">
+        <circle cx="8.5" cy="5" r="2"/>
+        <circle cx="8.5" cy="12" r="2"/>
+        <g transform="rotate(90)">
+            <circle cx="8.5" cy="-12" r="2"/>
+            <circle cx="8.5" cy="-5" r="2"/>
+        </g>
+    </g>
+</svg>

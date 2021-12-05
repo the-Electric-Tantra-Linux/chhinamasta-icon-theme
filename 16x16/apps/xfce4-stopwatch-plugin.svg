@@ -1,1 +1,15 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#597123" height="4.633" rx=".772" transform="matrix(.70738255 -.70683808 .70738255 .70683808 0 0)" width="4.633" x="-2.31" y="1.86"/><rect fill="#96ba42" height="15" rx="7.5" width="15" x="1" y="1"/><circle cx="8.5" cy="8.5" fill="#f4f4f7" r="5.5"/><rect fill="#f45246" height="5" rx=".5" ry=".504" transform="matrix(.8662958 .49953136 -.50018151 .86592091 0 0)" width=".999" x="11.11" y="-1.38"/><g fill="#4d4d4d"><circle cx="8.5" cy="8.5" r="1.5"/><circle cx="8.5" cy="3.5"/><circle cx="8.5" cy="13.5"/><g transform="rotate(90)"><circle cx="8.5" cy="-13.5"/><circle cx="8.5" cy="-3.5"/></g></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#597123" height="4.633" rx=".772" transform="scale(1.00039 .99962) rotate(-45)" width="4.633" x="-2.31" y="1.86"/>
+    <rect fill="#96ba42" height="15" rx="7.5" width="15" x="1" y="1"/>
+    <circle cx="8.5" cy="8.5" fill="#f4f4f7" r="5.5"/>
+    <rect fill="#f45246" height="5" rx=".5" ry=".504" transform="rotate(29.969) skewX(-.043)" width=".999" x="11.11" y="-1.38"/>
+    <g fill="#4d4d4d">
+        <circle cx="8.5" cy="8.5" r="1.5"/>
+        <circle cx="8.5" cy="3.5"/>
+        <circle cx="8.5" cy="13.5"/>
+        <g transform="rotate(90)">
+            <circle cx="8.5" cy="-13.5"/>
+            <circle cx="8.5" cy="-3.5"/>
+        </g>
+    </g>
+</svg>

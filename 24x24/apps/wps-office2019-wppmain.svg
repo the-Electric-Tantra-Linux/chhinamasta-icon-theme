@@ -1,1 +1,14 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.19034" x2="13.45124178" y1="15.7398" y2="3.47889822"><stop offset="0" stop-color="#ff7d1e"/><stop offset="1" stop-color="#ffa53c"/></linearGradient><g stroke-linecap="round"><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-width="2.7444" transform="matrix(.26458 0 0 .26458 -.00006 -.00006)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.552" ry="3.9687" stroke-width=".72611" width="14.552" x="1.1906" y="1.1906"/><path d="m4.7345 11.456v-2.991h5.972s1.492 0 1.492-1.493-1.492-1.494-1.492-1.494h-5.972" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width=".995"/></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.19" x2="13.451" y1="15.74" y2="3.479">
+        <stop offset="0" stop-color="#ff7d1e"/>
+        <stop offset="1" stop-color="#ffa53c"/>
+    </linearGradient>
+    <g stroke-linecap="round">
+        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
+        <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
+        <path d="M4.734 11.456V8.465h5.973s1.491 0 1.491-1.493-1.492-1.494-1.492-1.494H4.734" fill="none" stroke="#f4f4f7" stroke-linejoin="round" stroke-width=".995"/>
+    </g>
+</svg>

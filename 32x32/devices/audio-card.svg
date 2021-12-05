@@ -1,1 +1,15 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><g transform="translate(-376.57 -491.8)"><path d="m383.07 498.8c-.5 0-.5.5-.5.5v17s0 .5.5.5h3.5v-3h6v3h13.5s.5 0 .5-.5v-17c0-.5-.5-.5-.5-.5z" fill="#4c5263" stroke="#282b34" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".784"/><rect fill="#6b7486" height="6" rx="1.2" width="6" x="391.57" y="503.8"/><path d="m393.57 514.8h2v4h-2z" style="fill:#d6aa24;stroke:#58460e;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.56;stroke-width:.5"/><path d="m378.57 495.8v2h2v21h2v-23z" fill="#fff" stroke="#9da2b3" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".784"/><path d="m378.57 495.8v2h2v21h2v-23z" fill="#fff"/><g stroke-linecap="round" stroke-linejoin="round"><path d="m396.57 514.8h2v4h-2zm3 0h2v4h-2zm3 0h2v4h-2z" fill="#d6aa24" stroke="#58460e" stroke-opacity=".56" stroke-width=".5"/><g fill="#fff" stroke="#000" stroke-opacity=".3" stroke-width=".6"><path d="m392.57 502.8h1v2h-1z"/><path d="m395.57 502.8h1v2h-1z"/><path d="m392.57 508.8h1v2h-1z"/><path d="m395.57 508.8h1v2h-1z"/><g transform="rotate(90)"><path d="m504.8-398.57h1v2h-1z"/><path d="m507.8-398.57h1v2h-1z"/><path d="m504.8-392.57h1v2h-1z"/><path d="m507.8-392.57h1v2h-1z"/></g></g></g></g></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(-376.57 -491.8)">
+        <path d="M383.07 498.8c-.5 0-.5.5-.5.5v17s0 .5.5.5h3.5v-3h6v3h13.5s.5 0 .5-.5v-17c0-.5-.5-.5-.5-.5z" fill="#4c5263" stroke="#282b34" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".784"/>
+        <rect fill="#6b7486" height="6" rx="1.2" width="6" x="391.57" y="503.8"/>
+        <path d="M393.57 514.8h2v4h-2z" style="fill:#d6aa24;stroke:#58460e;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.56;stroke-width:.5"/>
+        <path d="M378.57 495.8v2h2v21h2v-23z" fill="#fff" stroke="#9da2b3" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".784"/>
+        <path d="M378.57 495.8v2h2v21h2v-23z" fill="#fff"/>
+        <g stroke-linecap="round" stroke-linejoin="round">
+            <path d="M396.57 514.8h2v4h-2zm3 0h2v4h-2zm3 0h2v4h-2z" fill="#d6aa24" stroke="#58460e" stroke-opacity=".56" stroke-width=".5"/>
+            <g fill="#fff" stroke="#000" stroke-opacity=".3" stroke-width=".6">
+                <path d="M392.57 502.8h1v2h-1zM395.57 502.8h1v2h-1zM392.57 508.8h1v2h-1zM395.57 508.8h1v2h-1zM398.57 504.8v1h-2v-1zM398.57 507.8v1h-2v-1zM392.57 504.8v1h-2v-1zM392.57 507.8v1h-2v-1z"/>
+            </g>
+        </g>
+    </g>
+</svg>

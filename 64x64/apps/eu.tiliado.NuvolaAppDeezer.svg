@@ -1,1 +1,16 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><rect height="59" opacity=".2" rx="2.8" ry="2.95" transform="matrix(0 -1 -1 0 0 0)" width="56" x="-61" y="-62"/><rect fill="#17191e" height="59" rx="2.8" ry="2.95" transform="matrix(0 -1 -1 0 0 0)" width="56" x="-60" y="-62"/><path d="m57 15h-10v6h10z" fill="#16be71"/><path d="m57 24h-10v6h10z" fill="#05ac9c"/><path d="m57 33h-10v6h10z" fill="#026ed2"/><path d="m18 42h-10v6h10z" fill="#f6a500"/><path d="m31 42h-10v6h10z" fill="#e74b32"/><path d="m57 42h-10v6h10z" fill="#3446d9"/><path d="m44 39h-10v-6h10z" fill="#9e2bbb"/><path d="m44 48h-10v-6h10z" fill="#b72b68"/><path d="m31 33h-10v6h10z" fill="#f57524"/><path d="m31 24h-10v6h10z" fill="#fabc45"/><path d="m47 21v1h10v-1zm-26 9v1h10v-1zm26 0v1h10v-1zm-26 9v1h10v-1zm13 0v1h10v-1zm13 0v1h10v-1zm-39 9v1h10v-1zm13 0v1h10v-1zm13 0v1h10v-1zm13 0v1h10v-1z" opacity=".2"/><path d="m5.95 4c-1.636 0-2.95 1.25-2.95 2.8v1c0-1.55 1.315-2.8 2.95-2.8h53.1c1.636 0 2.95 1.25 2.95 2.8v-1c0-1.55-1.315-2.8-2.95-2.8z" fill="#f4f4f7" opacity=".1"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <rect height="59" opacity=".2" rx="2.8" ry="2.95" transform="matrix(0 -1 -1 0 0 0)" width="56" x="-61" y="-62"/>
+    <rect fill="#17191e" height="59" rx="2.8" ry="2.95" transform="matrix(0 -1 -1 0 0 0)" width="56" x="-60" y="-62"/>
+    <path d="M57 15H47v6h10z" fill="#16be71"/>
+    <path d="M57 24H47v6h10z" fill="#05ac9c"/>
+    <path d="M57 33H47v6h10z" fill="#026ed2"/>
+    <path d="M18 42H8v6h10z" fill="#f6a500"/>
+    <path d="M31 42H21v6h10z" fill="#e74b32"/>
+    <path d="M57 42H47v6h10z" fill="#3446d9"/>
+    <path d="M44 39H34v-6h10z" fill="#9e2bbb"/>
+    <path d="M44 48H34v-6h10z" fill="#b72b68"/>
+    <path d="M31 33H21v6h10z" fill="#f57524"/>
+    <path d="M31 24H21v6h10z" fill="#fabc45"/>
+    <path d="M47 21v1h10v-1zm-26 9v1h10v-1zm26 0v1h10v-1zm-26 9v1h10v-1zm13 0v1h10v-1zm13 0v1h10v-1zM8 48v1h10v-1zm13 0v1h10v-1zm13 0v1h10v-1zm13 0v1h10v-1z" opacity=".2"/>
+    <path d="M5.95 4C4.314 4 3 5.25 3 6.8v1C3 6.25 4.315 5 5.95 5h53.1C60.686 5 62 6.25 62 7.8v-1C62 5.25 60.685 4 59.05 4z" fill="#f4f4f7" opacity=".1"/>
+</svg>

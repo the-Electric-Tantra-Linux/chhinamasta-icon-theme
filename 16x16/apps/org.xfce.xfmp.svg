@@ -1,1 +1,9 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#00b4ed" height="9" rx="1.179" ry="1.227" width="11" x="5"/><circle cx="5.5" cy="8.5" fill="#4f4f4f" r="5.5"/><circle cx="5.5" cy="8.5" fill="#17191e" r="4.5"/><circle cx="5.5" cy="8.5" opacity=".2" r="1.5"/><rect fill="#17191e" height="2" rx=".286" ry=".4" width="2" x="9" y="13.6"/><rect fill="#1d64bc" height="6" rx=".857" ry=".818" width="8" x="6" y="9"/><rect fill="#4f4f4f" height=".7" rx=".3" width="4" x="8" y="15.3"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#00b4ed" height="9" rx="1.179" ry="1.227" width="11" x="5"/>
+    <circle cx="5.5" cy="8.5" fill="#4f4f4f" r="5.5"/>
+    <circle cx="5.5" cy="8.5" fill="#17191e" r="4.5"/>
+    <circle cx="5.5" cy="8.5" opacity=".2" r="1.5"/>
+    <rect fill="#17191e" height="2" rx=".286" ry=".4" width="2" x="9" y="13.6"/>
+    <rect fill="#1d64bc" height="6" rx=".857" ry=".818" width="8" x="6" y="9"/>
+    <rect fill="#4f4f4f" height=".7" rx=".3" width="4" x="8" y="15.3"/>
+</svg>

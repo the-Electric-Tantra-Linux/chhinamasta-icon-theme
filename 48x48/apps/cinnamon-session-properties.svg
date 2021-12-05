@@ -1,1 +1,14 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><g transform="translate(0 -1)"><rect fill="#4fa4f4" height="38" rx="1.5" width="43" x="2.5" y="6.5"/><path d="m4 6.5c-.831 0-1.5.669-1.5 1.5v4h43v-4c0-.831-.669-1.5-1.5-1.5z" opacity=".35"/><g stroke-linejoin="round"><rect fill="none" height="38" opacity=".35" rx="1.5" stroke="#002e99" stroke-linecap="round" width="43" x="2.5" y="6.5"/><path d="m45.5 12v-4c0-.831-.669-1.5-1.5-1.5h-40c-.831 0-1.5.669-1.5 1.5v4" fill="none" opacity=".5" stroke="#111"/><rect fill="#fff" height="12" opacity=".75" rx="1" stroke="#000" stroke-linecap="round" stroke-opacity=".196" width="18" x="10" y="25"/></g><path d="m11 25c-.554 0-1 .446-1 1v2h18v-2c0-.554-.446-1-1-1z" fill="#4fa4f4" opacity=".15"/><rect height="12" rx="1" style="opacity:.75;fill:#fff;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.196" width="18" x="21" y="18"/><path d="m22 18c-.554 0-1 .446-1 1v2h18v-2c0-.554-.446-1-1-1z" fill="#4fa4f4" opacity=".15"/></g></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(0 -1)">
+        <rect fill="#4fa4f4" height="38" rx="1.5" width="43" x="2.5" y="6.5"/>
+        <path d="M4 6.5c-.831 0-1.5.669-1.5 1.5v4h43V8c0-.831-.669-1.5-1.5-1.5z" opacity=".35"/>
+        <g stroke-linejoin="round">
+            <rect fill="none" height="38" opacity=".35" rx="1.5" stroke="#002e99" stroke-linecap="round" width="43" x="2.5" y="6.5"/>
+            <path d="M45.5 12V8c0-.831-.669-1.5-1.5-1.5H4c-.831 0-1.5.669-1.5 1.5v4" fill="none" opacity=".5" stroke="#111"/>
+            <rect fill="#fff" height="12" opacity=".75" rx="1" stroke="#000" stroke-linecap="round" stroke-opacity=".196" width="18" x="10" y="25"/>
+        </g>
+        <path d="M11 25c-.554 0-1 .446-1 1v2h18v-2c0-.554-.446-1-1-1z" fill="#4fa4f4" opacity=".15"/>
+        <rect height="12" rx="1" style="opacity:.75;fill:#fff;stroke:#000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.196" width="18" x="21" y="18"/>
+        <path d="M22 18c-.554 0-1 .446-1 1v2h18v-2c0-.554-.446-1-1-1z" fill="#4fa4f4" opacity=".15"/>
+    </g>
+</svg>

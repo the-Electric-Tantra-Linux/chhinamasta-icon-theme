@@ -1,1 +1,14 @@
-<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(2 0 0 2 2 2)"><ellipse cx="11" cy="11.5" rx="10" ry="9" style="opacity:.2"/><ellipse cx="11" cy="11" rx="10" ry="9" style="fill:#356376"/><path d="M11 2a10 9 0 0 0-10 9 10 9 0 0 0 .012.293A10 9 0 0 1 11 2.5a10 9 0 0 1 9.988 8.707A10 9 0 0 0 21 11a10 9 0 0 0-10-9z" style="fill:#f4f4f7;opacity:.1"/><ellipse cx="11" cy="11.5" rx="6" ry="5" style="opacity:.2"/><ellipse cx="11" cy="11" rx="6" ry="5" style="fill:#3786a6"/><path d="m11 2.5-2 4H1l5.908 4.431L3 18.5l8-4 8 4-3.908-7.569L21 6.5h-8z" style="opacity:.2"/><path d="M11 2 9 6H1l5.908 4.431L3 18l8-4 8 4-3.908-7.569L21 6h-8z" style="fill:#4da2c4"/><path d="m3 18 8-10 8 10-8-4zM11 8 1 6l5.908 4.431zM11 8l10-2-5.908 4.431z" style="fill:#b04f08;opacity:.5"/><path d="M11 8V2L9 6z" style="fill:#b3d1ca"/><path d="M11 2 9 6H1l.666.5H9l2-4 2 4h7.334L21 6h-8zm-4.277 8.793L3 18l.348-.174 3.56-6.894zm8.554 0-.185.139 3.56 6.894L19 18z" style="fill:#f4f4f7;opacity:.2"/></g></svg>
+<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg">
+    <g transform="matrix(2 0 0 2 2 2)">
+        <ellipse cx="11" cy="11.5" rx="10" ry="9" style="opacity:.2"/>
+        <ellipse cx="11" cy="11" rx="10" ry="9" style="fill:#356376"/>
+        <path d="M11 2a10 9 0 0 0-10 9 10 9 0 0 0 .012.293A10 9 0 0 1 11 2.5a10 9 0 0 1 9.988 8.707A10 9 0 0 0 21 11a10 9 0 0 0-10-9z" style="fill:#f4f4f7;opacity:.1"/>
+        <ellipse cx="11" cy="11.5" rx="6" ry="5" style="opacity:.2"/>
+        <ellipse cx="11" cy="11" rx="6" ry="5" style="fill:#3786a6"/>
+        <path d="m11 2.5-2 4H1l5.908 4.431L3 18.5l8-4 8 4-3.908-7.569L21 6.5h-8z" style="opacity:.2"/>
+        <path d="M11 2 9 6H1l5.908 4.431L3 18l8-4 8 4-3.908-7.569L21 6h-8z" style="fill:#4da2c4"/>
+        <path d="m3 18 8-10 8 10-8-4zm8-10L1 6l5.908 4.431zm0 0 10-2-5.908 4.431z" style="fill:#b04f08;opacity:.5"/>
+        <path d="M11 8V2L9 6z" style="fill:#b3d1ca"/>
+        <path d="M11 2 9 6H1l.666.5H9l2-4 2 4h7.334L21 6h-8zm-4.277 8.793L3 18l.348-.174 3.56-6.894zm8.554 0-.185.139 3.56 6.894L19 18z" style="fill:#f4f4f7;opacity:.2"/>
+    </g>
+</svg>

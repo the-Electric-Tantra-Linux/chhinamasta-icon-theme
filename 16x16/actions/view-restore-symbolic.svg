@@ -1,1 +1,7 @@
-<svg enable-background="new" height="16" width="15.981825" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g transform="translate(-665.00059 -24.996661)"><g filter="url(#a)"/><path d="m670.0002 27a1 1 0 0 0 -1 1v2h-2a1 1 0 0 0 -1 1 1 1 0 0 0 1 1h3c1-.00014 1-1 1-1v-3a1 1 0 0 0 -1-1zm6 0a1 1 0 0 0 -1 1v3s0 1 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0 -1-1h-2v-2a1 1 0 0 0 -1-1zm-9 7a1 1 0 0 0 -1 1 1 1 0 0 0 1 1h2v2a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3s0-1-1-1zm9 0s-1 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-2h2a1 1 0 0 0 1-1 1 1 0 0 0 -1-1z" fill="#4c5263"/></g></svg>
+<svg enable-background="new" height="16" width="15.982" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-665 -24.997)"/>
+    <path d="M5 2.003a1 1 0 0 0-1 1v2H2a1 1 0 0 0-1 1 1 1 0 0 0 1 1h3c1 0 1-1 1-1v-3a1 1 0 0 0-1-1zm6 0a1 1 0 0 0-1 1v3s0 1 1 1h3a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-2v-2a1 1 0 0 0-1-1zm-9 7a1 1 0 0 0-1 1 1 1 0 0 0 1 1h2v2a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-3s0-1-1-1zm9 0s-1 0-1 1v3a1 1 0 0 0 1 1 1 1 0 0 0 1-1v-2h2a1 1 0 0 0 1-1 1 1 0 0 0-1-1z" fill="#f4f4f7"/>
+</svg>

@@ -1,1 +1,22 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><rect height="20" opacity=".2" rx="1" width="14" x="5" y="2.5"/><rect fill="#5d6c7b" height="20" rx="1" width="14" x="5" y="2"/><path d="m7 3.5h10v6h-10z" fill="#b0ee80"/><circle cx="9" cy="20.5" opacity=".2" r="1"/><circle cx="9" cy="20" fill="#ef5c51" r="1"/><circle cx="12" cy="20.5" opacity=".2" r="1"/><circle cx="12" cy="20" fill="#c5e7fb" r="1"/><circle cx="15" cy="20.5" opacity=".2" r="1"/><circle cx="15" cy="20" fill="#c5e7fb" r="1"/><path d="m11 4h1v5h-1zm-2 0h1v3h-1z" fill="#44525e"/><circle cx="18.738" cy="1.768" opacity=".2" r="4" transform="matrix(.70710678 .70710678 -.70710678 .70710678 0 0)"/><circle cx="18.385" cy="1.414" fill="#f4f4f7" r="4" transform="matrix(.70710678 .70710678 -.70710678 .70710678 0 0)"/><path d="m14.828 11.172a4 4 0 0 0 -.379-.328l-1.742 1.742a.5.5 0 1 0 .707.707l1.743-1.743a4 4 0 0 0 -.329-.378z" fill="#129eee"/><path d="m7 3.5h10v.5h-10z" opacity=".2"/><path d="m6 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h12c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".1"/><g fill="#44525e"><path d="m6-11.5h1v2.5h-1z" transform="rotate(90)"/><path d="m15 4h1v3h-1zm-2 2h1v3h-1z"/><path d="m6-15.5h1v2.5h-1zm-2 0h1v2.5h-1zm4-.5h1v2.5h-1z" transform="rotate(90)"/></g><path d="m7 9.5h10v.5h-10z" fill="#f4f4f7" opacity=".1"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <rect height="20" opacity=".2" rx="1" width="14" x="5" y="2.5"/>
+    <rect fill="#5d6c7b" height="20" rx="1" width="14" x="5" y="2"/>
+    <path d="M7 3.5h10v6H7z" fill="#b0ee80"/>
+    <circle cx="9" cy="20.5" opacity=".2" r="1"/>
+    <circle cx="9" cy="20" fill="#ef5c51" r="1"/>
+    <circle cx="12" cy="20.5" opacity=".2" r="1"/>
+    <circle cx="12" cy="20" fill="#c5e7fb" r="1"/>
+    <circle cx="15" cy="20.5" opacity=".2" r="1"/>
+    <circle cx="15" cy="20" fill="#c5e7fb" r="1"/>
+    <path d="M11 4h1v5h-1zM9 4h1v3H9z" fill="#44525e"/>
+    <circle cx="18.738" cy="1.768" opacity=".2" r="4" transform="rotate(45)"/>
+    <circle cx="18.385" cy="1.414" fill="#f4f4f7" r="4" transform="rotate(45)"/>
+    <path d="M14.828 11.172a4 4 0 0 0-.379-.328l-1.742 1.742a.5.5 0 1 0 .707.707l1.743-1.743a4 4 0 0 0-.329-.378z" fill="#129eee"/>
+    <path d="M7 3.5h10V4H7z" opacity=".2"/>
+    <path d="M6 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h12c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".1"/>
+    <g fill="#44525e">
+        <path d="M11.5 6v1H9V6zM15 4h1v3h-1zm-2 2h1v3h-1z"/>
+        <path d="M15.5 6v1H13V6zm0-2v1H13V4zm.5 4v1h-2.5V8z"/>
+    </g>
+    <path d="M7 9.5h10v.5H7z" fill="#f4f4f7" opacity=".1"/>
+</svg>

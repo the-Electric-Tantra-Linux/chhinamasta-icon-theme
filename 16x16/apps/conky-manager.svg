@@ -1,1 +1,12 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><g fill="#c2352a"><rect height="12" rx=".5" ry=".429" width="3" x="13" y="2"/><rect height="12" rx=".5" ry=".429" width="3" x="7" y="2"/><rect height="12" rx=".5" ry=".429" width="3" y="2"/></g><g fill="#d8564d"><rect height="6" rx=".5" ry=".429" transform="rotate(90)" width="3" x="2" y="-6"/><rect height="6" rx=".5" ry=".429" transform="rotate(90)" width="3" x="11" y="-6"/><path d="m7.586 2a.586.516 0 0 0 -.508.774l1.958 2.984 1.957 2.984a.586.516 0 0 0 .48.257.586.516 0 0 0 .535-.257l1.957-2.984 1.957-2.984a.586.516 0 0 0 -.508-.774z"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#c2352a">
+        <rect height="12" rx=".5" ry=".429" width="3" x="13" y="2"/>
+        <rect height="12" rx=".5" ry=".429" width="3" x="7" y="2"/>
+        <rect height="12" rx=".5" ry=".429" width="3" y="2"/>
+    </g>
+    <g fill="#d8564d">
+        <rect height="6" rx=".5" ry=".429" transform="rotate(90)" width="3" x="2" y="-6"/>
+        <rect height="6" rx=".5" ry=".429" transform="rotate(90)" width="3" x="11" y="-6"/>
+        <path d="M7.586 2a.586.516 0 0 0-.508.774l1.958 2.984 1.957 2.984a.586.516 0 0 0 .48.257.586.516 0 0 0 .535-.257l1.957-2.984 1.957-2.984A.586.516 0 0 0 15.414 2z"/>
+    </g>
+</svg>

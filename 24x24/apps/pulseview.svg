@@ -1,1 +1,19 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><rect height="8" opacity=".2" rx="1.5" width="22" x="1" y="14.5"/><path d="m13 2h2v19h-2z" fill="#45c034"/><path d="m11 2h2v19h-2z" fill="#e7d324"/><path d="m17 2h2v19h-2z" fill="#c033e3"/><path d="m15 2h2v19h-2z" fill="#3266b4"/><path d="m5 2h2v19h-2z" fill="#8b5a3a"/><path d="m3 2h2v19h-2z" fill="#4f4f4f"/><path d="m9 2h2v19h-2z" fill="#ff7d27"/><path d="m7 2h2v19h-2z" fill="#f24040"/><path d="m19 2h2v19h-2z" fill="#80809d"/><rect fill="#9e9c89" height="8" rx="1.5" width="22" x="1" y="14"/><path d="m4 21h1.5v-5h7v5h3v-5h3v5h1.5" fill="none" opacity=".2" stroke="#000"/><path d="m4 20.5h1.5v-5h7v5h3v-5h3v5h1.5" fill="none" stroke="#d6d5cd"/><g fill="#f4f4f7"><path d="m2.5 14c-.831 0-1.5.669-1.5 1.5v.5c0-.831.669-1.5 1.5-1.5h19c.831 0 1.5.669 1.5 1.5v-.5c0-.831-.669-1.5-1.5-1.5z" opacity=".2"/><path d="m3 2h18v.5h-18z" opacity=".1"/></g></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <rect height="8" opacity=".2" rx="1.5" width="22" x="1" y="14.5"/>
+    <path d="M13 2h2v19h-2z" fill="#45c034"/>
+    <path d="M11 2h2v19h-2z" fill="#e7d324"/>
+    <path d="M17 2h2v19h-2z" fill="#c033e3"/>
+    <path d="M15 2h2v19h-2z" fill="#3266b4"/>
+    <path d="M5 2h2v19H5z" fill="#8b5a3a"/>
+    <path d="M3 2h2v19H3z" fill="#4f4f4f"/>
+    <path d="M9 2h2v19H9z" fill="#ff7d27"/>
+    <path d="M7 2h2v19H7z" fill="#f24040"/>
+    <path d="M19 2h2v19h-2z" fill="#80809d"/>
+    <rect fill="#9e9c89" height="8" rx="1.5" width="22" x="1" y="14"/>
+    <path d="M4 21h1.5v-5h7v5h3v-5h3v5H20" fill="none" opacity=".2" stroke="#000"/>
+    <path d="M4 20.5h1.5v-5h7v5h3v-5h3v5H20" fill="none" stroke="#d6d5cd"/>
+    <g fill="#f4f4f7">
+        <path d="M2.5 14c-.831 0-1.5.669-1.5 1.5v.5c0-.831.669-1.5 1.5-1.5h19c.831 0 1.5.669 1.5 1.5v-.5c0-.831-.669-1.5-1.5-1.5z" opacity=".2"/>
+        <path d="M3 2h18v.5H3z" opacity=".1"/>
+    </g>
+</svg>

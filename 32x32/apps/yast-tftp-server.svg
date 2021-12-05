@@ -1,1 +1,28 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect fill="#1f212a" height="28" rx="2" width="28" x="2" y="2"/><rect fill="#3e4245" height="26" rx="1" width="26" x="3" y="3"/><path d="m6 7h12v1h-12z" fill="#fff"/><path d="m3 11h26v1h-26z" fill="#00000f" fill-rule="evenodd" opacity=".5"/><path d="m3 20h26v1h-26z" fill="#00000f" fill-rule="evenodd" opacity=".5"/><g fill="#72d406"><circle cx="21.5" cy="7.5" opacity=".5" r=".5" stroke="#508e0b" stroke-linecap="round" stroke-linejoin="round"/><circle cx="21.5" cy="7.5" r=".5"/><circle cx="25.5" cy="7.5" opacity=".5" r=".5" stroke="#508e0b" stroke-linecap="round" stroke-linejoin="round"/><circle cx="25.5" cy="7.5" r=".5"/></g><path d="m6 16h12v1h-12z" fill="#fff"/><g fill="#72d406"><circle cx="21.5" cy="16.5" opacity=".5" r=".5" stroke="#508e0b" stroke-linecap="round" stroke-linejoin="round"/><circle cx="21.5" cy="16.5" r=".5"/><circle cx="25.5" cy="16.5" opacity=".5" r=".5" stroke="#508e0b" stroke-linecap="round" stroke-linejoin="round"/><circle cx="25.5" cy="16.5" r=".5"/></g><path d="m6 25h12v1h-12z" fill="#fff"/><g fill="#72d406"><circle cx="21.5" cy="25.5" opacity=".5" r=".5" stroke="#508e0b" stroke-linecap="round" stroke-linejoin="round"/><circle cx="21.5" cy="25.5" r=".5"/><circle cx="25.5" cy="25.5" opacity=".5" r=".5" stroke="#508e0b" stroke-linecap="round" stroke-linejoin="round"/><circle cx="25.5" cy="25.5" r=".5"/></g><rect fill="#eff0f1" height="16" rx="2" stroke="#000" stroke-opacity=".25" width="16" x="16" y="14"/><path d="m23 16h2v5h-2zm3 .35v1.07a5 5 0 0 1 3 4.58 5 5 0 0 1 -5 5 5 5 0 0 1 -5-5 5 5 0 0 1 3-4.576v-1.072a6 6 0 0 0 -4 5.648 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0 -4-5.65z" fill="#232629"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#1f212a" height="28" rx="2" width="28" x="2" y="2"/>
+    <rect fill="#3e4245" height="26" rx="1" width="26" x="3" y="3"/>
+    <path d="M6 7h12v1H6z" fill="#fff"/>
+    <path d="M3 11h26v1H3zM3 20h26v1H3z" fill="#00000f" fill-rule="evenodd" opacity=".5"/>
+    <g fill="#72d406">
+        <circle cx="21.5" cy="7.5" opacity=".5" r=".5" stroke="#508e0b" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="21.5" cy="7.5" r=".5"/>
+        <circle cx="25.5" cy="7.5" opacity=".5" r=".5" stroke="#508e0b" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="25.5" cy="7.5" r=".5"/>
+    </g>
+    <path d="M6 16h12v1H6z" fill="#fff"/>
+    <g fill="#72d406">
+        <circle cx="21.5" cy="16.5" opacity=".5" r=".5" stroke="#508e0b" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="21.5" cy="16.5" r=".5"/>
+        <circle cx="25.5" cy="16.5" opacity=".5" r=".5" stroke="#508e0b" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="25.5" cy="16.5" r=".5"/>
+    </g>
+    <path d="M6 25h12v1H6z" fill="#fff"/>
+    <g fill="#72d406">
+        <circle cx="21.5" cy="25.5" opacity=".5" r=".5" stroke="#508e0b" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="21.5" cy="25.5" r=".5"/>
+        <circle cx="25.5" cy="25.5" opacity=".5" r=".5" stroke="#508e0b" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="25.5" cy="25.5" r=".5"/>
+    </g>
+    <rect fill="#eff0f1" height="16" rx="2" stroke="#000" stroke-opacity=".25" width="16" x="16" y="14"/>
+    <path d="M23 16h2v5h-2zm3 .35v1.07A5 5 0 0 1 29 22a5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 3-4.576v-1.072A6 6 0 0 0 18 22a6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-4-5.65z" fill="#232629"/>
+</svg>

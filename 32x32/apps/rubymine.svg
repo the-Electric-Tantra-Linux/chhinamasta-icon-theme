@@ -1,1 +1,21 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.12" width="1.12" x="-.06" y="-.06"><feGaussianBlur stdDeviation=".85"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="8.46656" x2="8.46656" y1="3.9687" y2="12.96442"><stop offset="0" stop-color="#303030"/><stop offset="1" stop-color="#424242"/></linearGradient><filter id="c" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="d" gradientUnits="userSpaceOnUse" x1="1.19060076" x2="13.45150299428" y1="15.7397532" y2="3.47885175946"><stop offset="0" stop-color="#ff483d"/><stop offset="1" stop-color="#ffa53c"/></linearGradient><rect fill="#141414" filter="url(#c)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" transform="scale(.26457812)" width="55" x="4.5" y="4.5"/><rect fill="url(#d)" height="14.551796" ry="3.968672" stroke-linecap="round" stroke-width=".726098" width="14.551796" x="1.190602" y="1.190602"/><rect fill="#303030" fill-rule="evenodd" filter="url(#a)" height="34" opacity=".5" ry="5" transform="matrix(.26458 0 0 .26458 -.042436 -.04234)" width="34" x="15.16" y="15.16"/><rect fill="url(#b)" fill-rule="evenodd" height="8.9957" ry="1.3229" stroke-width=".26458" width="8.9957" x="3.9687" y="3.9687"/><path d="m8.4435 5.4294h.62117l.93176 1.553.93176-1.553h.62117v3.4165h-.62117v-2.1741l-.93176 1.553-.93176-1.553v2.1741h-.62117m-1.8636-3.4165c.62117 0 1.2423.48368 1.2423 1.0871 0 .46589-.29258.74855-.68514.97105l.68514 1.3583h-.62117l-.62117-1.2423h-.62117v1.2423h-.62117v-3.4165zm0 1.553c.48459 0 .62117-.22126.6298-.46589-.0086-.21671-.13728-.46589-.6298-.46589h-.62117v.93176z" fill="#f9f9f9" stroke-width=".26457"/><path d="m5.027 11.02h3.1059v.62118h-3.1059z" fill="#f9f9f9" stroke-width=".26457"/><g fill="#5e4aa6"><circle cx="-368.71692" cy="-338.22571" image-rendering="optimizeSpeed" r="0" stroke-width=".264578"/><g stroke-width=".26457812"><circle cx="-384.583130444" cy="-338.225715792" r="0"/><circle cx="-355.902862236" cy="-354.153318616" r="0"/><circle cx="-360.612352772" cy="-339.38985952" r="0"/></g><circle cx="-360.40067" cy="-345.13116" r="0" stroke-width=".264578"/><circle cx="-69.485405" cy="-10.303069" fill-rule="evenodd" r="0" stroke-width=".264578"/></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="c" color-interpolation-filters="sRGB" height="1.12" width="1.12" x="-.06" y="-.06">
+        <feGaussianBlur stdDeviation=".85"/>
+    </filter>
+    <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="8.467" x2="8.467" y1="3.969" y2="12.964">
+        <stop offset="0" stop-color="#303030"/>
+        <stop offset="1" stop-color="#424242"/>
+    </linearGradient>
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="13.452" y1="15.74" y2="3.479">
+        <stop offset="0" stop-color="#ff483d"/>
+        <stop offset="1" stop-color="#ffa53c"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
+    <rect fill="#303030" fill-rule="evenodd" filter="url(#c)" height="34" opacity=".5" ry="5" transform="translate(-.042 -.042) scale(.26458)" width="34" x="15.16" y="15.16"/>
+    <rect fill="url(#d)" fill-rule="evenodd" height="8.996" ry="1.323" width="8.996" x="3.969" y="3.969"/>
+    <path d="M8.444 5.43h.62l.932 1.552.932-1.553h.621v3.417h-.62V6.672l-.933 1.553-.931-1.553v2.174h-.621M6.58 5.429c.621 0 1.242.484 1.242 1.087 0 .466-.292.75-.685.972l.685 1.358h-.621L6.58 7.604h-.621v1.242h-.621V5.429zm0 1.553c.484 0 .621-.22.63-.465-.009-.217-.138-.466-.63-.466h-.621v.931zM5.027 11.02h3.106v.621H5.027z" fill="#f9f9f9"/>
+</svg>

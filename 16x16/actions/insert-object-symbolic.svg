@@ -1,1 +1,9 @@
-<svg enable-background="new" height="15.99995" width="16.000132" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g transform="translate(-625.0004 -84.99664)"><g filter="url(#a)"/><g fill="#4c5263"><path d="m630.00026 96.99664 3.00025 3.99995 2.99975-3.99995z"/><path d="m633.0004 84.99664c-2.76142 0-5 2.23858-5 5s2.23858 5 5 5 5-2.23858 5-5-2.23858-5-5-5z"/></g></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-625 -84.997)"/>
+    <g fill="#f4f4f7">
+        <path d="m5 12 3 4 3-4zM8 0a5 5 0 1 0 0 10A5 5 0 0 0 8 0z"/>
+    </g>
+</svg>

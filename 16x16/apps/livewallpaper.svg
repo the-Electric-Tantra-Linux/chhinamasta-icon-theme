@@ -1,1 +1,12 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(0 -1 -1 0 0 0)"><rect fill="#8e8e8e" height="10" rx=".813" ry=".833" width="13" x="-16" y="-13"/><rect fill="#4f4f4f" height="16" rx=".813" ry=".8" width="13" x="-14" y="-16"/><path d="m-13-15h11v14h-11z" fill="#1d83af"/></g><circle cx="12" cy="5" fill="#f0f9fd" r="2"/><circle cx="3.5" cy="7.5" fill="#c4e7f5" r="1.5"/><circle cx="9" cy="10" fill="#a6daf0" r="1"/><circle cx="7" cy="4" fill="#c4e7f5" r="1"/><circle cx="12.5" cy="8.9" fill="#d3edf8" r=".5"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <g transform="matrix(0 -1 -1 0 0 0)">
+        <rect fill="#8e8e8e" height="10" rx=".813" ry=".833" width="13" x="-16" y="-13"/>
+        <rect fill="#4f4f4f" height="16" rx=".813" ry=".8" width="13" x="-14" y="-16"/>
+        <path d="M-13-15h11v14h-11z" fill="#1d83af"/>
+    </g>
+    <circle cx="12" cy="5" fill="#f0f9fd" r="2"/>
+    <circle cx="3.5" cy="7.5" fill="#c4e7f5" r="1.5"/>
+    <circle cx="9" cy="10" fill="#a6daf0" r="1"/>
+    <circle cx="7" cy="4" fill="#c4e7f5" r="1"/>
+    <circle cx="12.5" cy="8.9" fill="#d3edf8" r=".5"/>
+</svg>

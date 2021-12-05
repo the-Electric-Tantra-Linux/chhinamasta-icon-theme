@@ -1,1 +1,15 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#826f3d" height="14" rx=".8" ry=".875" transform="scale(-1 1)" width="16" x="-16" y="1"/><path d="m1 2h14v8h-14z" fill="#fff"/><g fill="#ff6e6e"><path d="m7 6v1h-3v-1zm0-2v1h-3v-1z"/><path d="m4 4h1v5h-1z"/></g><circle cx="14" cy="13" fill="#01d900" r="1"/><path d="m1 10.5h8v.5h-8z" opacity=".4"/><g fill="#ff6e6e"><path d="m9 9h-1v-3h1zm2 0h-1v-3h1zm2 0h-1v-3h1z"/><path d="m13 6v1h-5v-1z"/></g><path d="m1 11.5h8v.5h-8zm0 1h8v.5h-8zm0 1h8v.5h-8z" opacity=".4"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#826f3d" height="14" rx=".8" ry=".875" transform="scale(-1 1)" width="16" x="-16" y="1"/>
+    <path d="M1 2h14v8H1z" fill="#f4f4f7"/>
+    <g fill="#ff6e6e">
+        <path d="M7 6v1H4V6zm0-2v1H4V4z"/>
+        <path d="M4 4h1v5H4z"/>
+    </g>
+    <circle cx="14" cy="13" fill="#01d900" r="1"/>
+    <path d="M1 10.5h8v.5H1z" opacity=".4"/>
+    <g fill="#ff6e6e">
+        <path d="M9 9H8V6h1zm2 0h-1V6h1zm2 0h-1V6h1z"/>
+        <path d="M13 6v1H8V6z"/>
+    </g>
+    <path d="M1 11.5h8v.5H1zm0 1h8v.5H1zm0 1h8v.5H1z" opacity=".4"/>
+</svg>

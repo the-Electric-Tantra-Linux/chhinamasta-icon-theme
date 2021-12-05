@@ -1,1 +1,7 @@
-<svg enable-background="new" height="16.00001" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g transform="translate(-645.03395 94.999995)"><g filter="url(#a)"/><path d="m653.00605-94.99999v2c-3.31371 0-6 2.68629-6 6s2.68629 6 6 6c3.28006 0 5.94034-2.63316 5.99414-5.90039.004-.0331.006-.0663.006-.0996 0-.006-.004-.0113-.004-.0176h-.002a1 1 0 0 0 -1-.98241 1 1 0 0 0 -1 1 1 1 0 0 0 .002.0449c-.0247 2.18797-1.80236 3.9551-3.99614 3.9551-2.20914 0-4-1.79086-4-4s1.79086-4 4-4v2l3.49414-3.01758z" fill="#4c5263"/></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-645.034 95)"/>
+    <path d="M7.972 0v2a6 6 0 1 0 0 12c3.28 0 5.94-2.633 5.994-5.9a.83.83 0 0 0 .006-.1c0-.006-.004-.011-.004-.018h-.002a1 1 0 0 0-1-.982 1 1 0 0 0-1 1 1 1 0 0 0 .002.045A3.998 3.998 0 0 1 3.972 8a4 4 0 0 1 4-4v2l3.494-3.018z" fill="#f4f4f7"/>
+</svg>

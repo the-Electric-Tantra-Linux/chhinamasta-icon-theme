@@ -1,1 +1,13 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><g transform="translate(1 1)"><circle cx="11" cy="11.5" opacity=".2" r="10"/><circle cx="11" cy="11" fill="#a71416" r="10"/><path d="m11 1a10 10 0 0 0 -10 10 10 10 0 0 0 .01.291 10 10 0 0 1 9.99-9.791 10 10 0 0 1 9.99 9.709 10 10 0 0 0 .01-.209 10 10 0 0 0 -10-10z" fill="#f4f4f7" opacity=".1"/><g fill="none" stroke-linejoin="round" stroke-width="2"><path d="m11.5 8.5h4.5s1 1.5 1 3.25-1 2.75-1 2.75h-4v-3" opacity=".2" stroke="#030303"/><path d="m11.5 8h4.5s1 1.5 1 3.25-1 2.75-1 2.75h-4v-3" stroke="#9e9e9e"/><path d="m5 8.5h6l-5 6h6" opacity=".2" stroke="#030303"/><path d="m5 8h6l-5 6h6" stroke="#fefefe"/></g></g></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1 1)">
+        <circle cx="11" cy="11.5" opacity=".2" r="10"/>
+        <circle cx="11" cy="11" fill="#a71416" r="10"/>
+        <path d="M11 1A10 10 0 0 0 1 11a10 10 0 0 0 .01.291A10 10 0 0 1 11 1.5a10 10 0 0 1 9.99 9.709A10 10 0 0 0 21 11 10 10 0 0 0 11 1z" fill="#f4f4f7" opacity=".1"/>
+        <g fill="none" stroke-linejoin="round" stroke-width="2">
+            <path d="M11.5 8.5H16s1 1.5 1 3.25-1 2.75-1 2.75h-4v-3" opacity=".2" stroke="#030303"/>
+            <path d="M11.5 8H16s1 1.5 1 3.25S16 14 16 14h-4v-3" stroke="#9e9e9e"/>
+            <path d="M5 8.5h6l-5 6h6" opacity=".2" stroke="#030303"/>
+            <path d="M5 8h6l-5 6h6" stroke="#fefefe"/>
+        </g>
+    </g>
+</svg>

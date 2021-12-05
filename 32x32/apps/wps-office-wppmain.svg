@@ -1,1 +1,6 @@
-<svg height="32" viewBox="0 0 32 32" width="32" xmlns="http://www.w3.org/2000/svg"><g transform="translate(26 -287.649994)"><path d="m-23 288.64999h26c1.108 0 2 .892 2 2v26c0 1.108-.892 2-2 2h-26c-1.108 0-2-.892-2-2v-26c0-1.108.892-2 2-2z" fill="#d72f4a"/><path d="m-23 289.64999h26c.554 0 1 .446 1 1v26c0 .554-.446 1-1 1h-26c-.554 0-1-.446-1-1v-26c0-.554.446-1 1-1z" fill="#ff778a"/><path d="m-15 302.65011h10.9999993v4.99997h-10.9999993z" fill="#ffd8dd"/><path d="m-19 293.65003v20.00001h4.999999v-15h8.0000003v9h5v-14.00001h-13.0000003-.999999z" fill="#fbebee"/></g></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <path d="M3 1h26c1.108 0 2 .892 2 2v26c0 1.108-.892 2-2 2H3c-1.108 0-2-.892-2-2V3c0-1.108.892-2 2-2z" fill="#d72f4a"/>
+    <path d="M3 2h26c.554 0 1 .446 1 1v26c0 .554-.446 1-1 1H3c-.554 0-1-.446-1-1V3c0-.554.446-1 1-1z" fill="#ff778a"/>
+    <path d="M11 15h11v5H11z" fill="#ffd8dd"/>
+    <path d="M7 6v20h5V11h8v9h5V6H11z" fill="#fbebee"/>
+</svg>

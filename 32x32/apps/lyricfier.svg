@@ -1,1 +1,19 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect height="29" opacity=".2" rx="1.45" transform="matrix(0 -1 -1 0 0 0)" width="29" x="-31" y="-30"/><rect fill="#ac4cc7" height="29" rx="1.45" transform="matrix(0 -1 -1 0 0 0)" width="29" x="-30" y="-30"/><g opacity=".2"><rect height="22" rx="1.5" ry="1.375" width="3" x="14" y="6"/><rect height="14" rx="1.5" ry="1.4" width="3" x="9" y="10"/><rect height="20" rx="1.5" ry="1.429" width="3" x="19" y="7"/><rect height="16" rx="1.5" ry="1.333" width="3" x="4" y="9"/><rect height="16" rx="1.5" ry="1.333" width="3" x="24" y="9"/></g><g fill="#a8cce3"><rect height="22" rx="1.5" ry="1.375" width="3" x="14" y="5"/><rect height="14" rx="1.5" ry="1.4" width="3" x="9" y="9"/><rect height="20" rx="1.5" ry="1.429" width="3" x="19" y="6"/><rect height="16" rx="1.5" ry="1.333" width="3" x="4" y="8"/><rect height="16" rx="1.5" ry="1.333" width="3" x="24" y="8"/></g><path d="m2.45 1c-.805 0-1.45.646-1.45 1.45v1c0-.805.646-1.45 1.45-1.45h26.1c.804 0 1.45.646 1.45 1.45v-1c0-.805-.646-1.45-1.45-1.45z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect height="29" opacity=".2" rx="1.45" transform="matrix(0 -1 -1 0 0 0)" width="29" x="-31" y="-30"/>
+    <rect fill="#ac4cc7" height="29" rx="1.45" transform="matrix(0 -1 -1 0 0 0)" width="29" x="-30" y="-30"/>
+    <g opacity=".2">
+        <rect height="22" rx="1.5" ry="1.375" width="3" x="14" y="6"/>
+        <rect height="14" rx="1.5" ry="1.4" width="3" x="9" y="10"/>
+        <rect height="20" rx="1.5" ry="1.429" width="3" x="19" y="7"/>
+        <rect height="16" rx="1.5" ry="1.333" width="3" x="4" y="9"/>
+        <rect height="16" rx="1.5" ry="1.333" width="3" x="24" y="9"/>
+    </g>
+    <g fill="#a8cce3">
+        <rect height="22" rx="1.5" ry="1.375" width="3" x="14" y="5"/>
+        <rect height="14" rx="1.5" ry="1.4" width="3" x="9" y="9"/>
+        <rect height="20" rx="1.5" ry="1.429" width="3" x="19" y="6"/>
+        <rect height="16" rx="1.5" ry="1.333" width="3" x="4" y="8"/>
+        <rect height="16" rx="1.5" ry="1.333" width="3" x="24" y="8"/>
+    </g>
+    <path d="M2.45 1C1.645 1 1 1.646 1 2.45v1C1 2.645 1.646 2 2.45 2h26.1c.804 0 1.45.646 1.45 1.45v-1C30 1.645 29.354 1 28.55 1z" fill="#f4f4f7" opacity=".2"/>
+</svg>

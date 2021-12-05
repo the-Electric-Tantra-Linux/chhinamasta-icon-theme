@@ -1,1 +1,18 @@
-<svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="60.4003428" x2="115.401082" y1="83.0054632" y2="28.00699176"><stop offset="0" stop-color="#1b1b1b"/><stop offset="1" stop-color="#4c4c4c"/></linearGradient><g transform="translate(-55.904 -23.507)"><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="60.404" y="28.007"/><rect fill="url(#b)" height="55" ry="14.895" width="55" x="60.404" y="28.007"/><g stroke-width="1.2498"><path d="m76.659 40.509c-1.2498 0-1.2498.5799-1.5622 1.2535l-2.1871 8.7485 14.993 3.7456 15.003-3.7456-2.1871-8.7485c-.31245-.5999-.31744-1.2535-1.5672-1.2535z" fill="#f4d653"/><path d="m72.909 50.511-.005 18.884c-.000162.6149.49367 1.1086 1.1086 1.1086h27.783c.6149 0 1.1086-.49367 1.1086-1.1086l-.005-18.888z" fill="#f4ba3d"/><path d="m84.782 40.513-.6299 16.244 3.7569-3.7456 3.7494 3.7494-.49992-16.247z" fill="#fff4d6" fill-opacity=".8"/></g></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="60.4" x2="115.401" y1="83.005" y2="28.007">
+        <stop offset="0" stop-color="#1b1b1b"/>
+        <stop offset="1" stop-color="#4c4c4c"/>
+    </linearGradient>
+    <g transform="translate(-55.904 -23.507)">
+        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="60.404" y="28.007"/>
+        <rect fill="url(#b)" height="55" ry="14.895" width="55" x="60.404" y="28.007"/>
+        <g stroke-width="1.25">
+            <path d="M76.659 40.509c-1.25 0-1.25.58-1.562 1.254L72.91 50.51l14.993 3.746 15.003-3.746-2.187-8.748c-.313-.6-.318-1.254-1.568-1.254z" fill="#f4d653"/>
+            <path d="m72.909 50.511-.005 18.884c0 .615.494 1.109 1.109 1.109h27.783c.615 0 1.108-.494 1.108-1.109l-.005-18.888z" fill="#f4ba3d"/>
+            <path d="m84.782 40.513-.63 16.244 3.757-3.746 3.75 3.75-.5-16.247z" fill="#f4f4f74d6" fill-opacity=".8"/>
+        </g>
+    </g>
+</svg>

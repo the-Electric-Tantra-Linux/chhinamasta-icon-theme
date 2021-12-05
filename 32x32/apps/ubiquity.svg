@@ -1,1 +1,28 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="10.89834" x2="25.45024" y1="20.0353" y2="5.4834"><stop offset="0" stop-color="#eb3f78"/><stop offset="1" stop-color="#ec497e"/></linearGradient><filter id="c" color-interpolation-filters="sRGB" height="1.0843" width="1.1115" x="-.055746" y="-.042144"><feGaussianBlur stdDeviation=".37163933"/></filter><g transform="translate(-9.7077 -4.2955)"><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" transform="matrix(.26458 0 0 .26458 9.7077 4.2955)" width="55" x="4.5" y="4.5"/><path d="m14.867 5.4861h6.6146c2.1987 0 3.9688 1.7701 3.9688 3.9687v6.6146c0 2.1987-1.7701 3.9688-3.9688 3.9688h-6.6146c-2.1987 0-3.9688-1.7701-3.9688-3.9688v-6.6146c0-2.1987 1.7701-3.9687 3.9688-3.9687z" fill="url(#b)"/><g fill="#ab1157"><rect filter="url(#c)" height="4" ry="2" transform="matrix(.26458 0 0 .26458 9.7077 4.2955)" width="16" x="24" y="38.944"/><rect filter="url(#c)" height="4" ry="2" transform="matrix(.18709 .18709 -.18709 .18709 48.456 1.3393)" width="11" x="-56.746" y="112.15"/><rect filter="url(#c)" height="4" ry="2" transform="matrix(-.18709 .18709 .18709 .18709 48.456 1.3392)" width="11" x="105.15" y="-49.746"/><rect filter="url(#c)" height="4" ry="2" transform="matrix(0 -.26458 .26458 0 48.455 1.3392)" width="16" x="-48.953" y="-116.47"/></g><g fill="#fff" stroke-width=".26458"><rect height="1.0583" ry=".52917" width="4.2333" x="16.058" y="14.384"/><rect height="1.0583" ry=".52917" transform="matrix(.70710678 .70710678 -.70710678 .70710678 0 0)" width="2.9104" x="20.044" y="-3.7971"/><rect height="1.0583" ry=".52917" transform="matrix(-.70711 .70711 .70711 .70711 0 0)" width="2.9104" x="-5.6491" y="21.896"/><rect height="1.0583" ry=".52917" transform="rotate(-90)" width="4.2333" x="-14.076" y="17.639"/></g></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="10.898" x2="25.45" y1="20.035" y2="5.483">
+        <stop offset="0" stop-color="#eb3f78"/>
+        <stop offset="1" stop-color="#ec497e"/>
+    </linearGradient>
+    <filter id="c" color-interpolation-filters="sRGB" height="1.084" width="1.111" x="-.056" y="-.042">
+        <feGaussianBlur stdDeviation=".372"/>
+    </filter>
+    <g transform="translate(-9.708 -4.295)">
+        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="translate(9.708 4.295) scale(.26458)" width="55" x="4.5" y="4.5"/>
+        <path d="M14.867 5.486h6.615a3.96 3.96 0 0 1 3.968 3.969v6.614a3.96 3.96 0 0 1-3.968 3.97h-6.615a3.96 3.96 0 0 1-3.969-3.97V9.455a3.96 3.96 0 0 1 3.969-3.969z" fill="url(#b)"/>
+        <g fill="#ab1157">
+            <rect filter="url(#c)" height="4" ry="2" transform="translate(9.708 4.295) scale(.26458)" width="16" x="24" y="38.944"/>
+            <rect filter="url(#c)" height="4" ry="2" transform="scale(.26459) rotate(45 85.46 223.6)" width="11" x="-56.746" y="112.15"/>
+            <rect filter="url(#c)" height="4" ry="2" transform="scale(-.26459 .26459) rotate(45 -97.68 -218.538)" width="11" x="105.15" y="-49.746"/>
+            <rect filter="url(#c)" height="4" ry="2" transform="matrix(0 -.26458 .26458 0 48.455 1.34)" width="16" x="-48.953" y="-116.47"/>
+        </g>
+        <g fill="#fff" stroke-width=".265">
+            <rect height="1.058" ry=".529" width="4.233" x="16.058" y="14.384"/>
+            <rect height="1.058" ry=".529" transform="rotate(45)" width="2.91" x="20.044" y="-3.797"/>
+            <rect height="1.058" ry=".529" transform="scale(-1 1) rotate(45)" width="2.91" x="-5.649" y="21.896"/>
+            <rect height="1.058" ry=".529" transform="rotate(-90)" width="4.233" x="-14.076" y="17.639"/>
+        </g>
+    </g>
+</svg>

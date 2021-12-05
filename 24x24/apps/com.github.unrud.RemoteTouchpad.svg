@@ -1,1 +1,13 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><rect height="16" opacity=".2" rx="1" transform="scale(1 -1)" width="20" x="2" y="-20.5"/><rect fill="#f4f4f7" height="16" rx="1" transform="scale(1 -1)" width="20" x="2" y="-20"/><rect height="1" opacity=".4" rx=".4" ry=".5" transform="rotate(90)" width="4" x="10" y="-21"/><rect fill="#333" height="15" rx=".923" ry="1" transform="rotate(90)" width="12" x="6" y="-19"/><rect fill="#f4f4f7" height="4" opacity=".2" rx="1" width="6" x="5" y="13"/><rect fill="#f4f4f7" height="4" opacity=".2" rx="1" width="6" x="12" y="13"/><path d="m5 16v.5c0 .554.446 1 1 1h4c.554 0 1-.446 1-1v-.5c0 .554-.446 1-1 1h-4c-.554 0-1-.446-1-1zm7 0v.5c0 .554.446 1 1 1h4c.554 0 1-.446 1-1v-.5c0 .554-.446 1-1 1h-4c-.554 0-1-.446-1-1z" opacity=".2"/><g fill="#f4f4f7"><path d="m6 13c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h4c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1zm7 0c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h4c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1z" opacity=".1"/><path d="m3 4c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1z" opacity=".2"/></g></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <rect height="16" opacity=".2" rx="1" transform="scale(1 -1)" width="20" x="2" y="-20.5"/>
+    <rect fill="#f4f4f7" height="16" rx="1" transform="scale(1 -1)" width="20" x="2" y="-20"/>
+    <rect height="1" opacity=".4" rx=".4" ry=".5" transform="rotate(90)" width="4" x="10" y="-21"/>
+    <rect fill="#333" height="15" rx=".923" ry="1" transform="rotate(90)" width="12" x="6" y="-19"/>
+    <rect fill="#f4f4f7" height="4" opacity=".2" rx="1" width="6" x="5" y="13"/>
+    <rect fill="#f4f4f7" height="4" opacity=".2" rx="1" width="6" x="12" y="13"/>
+    <path d="M5 16v.5c0 .554.446 1 1 1h4c.554 0 1-.446 1-1V16c0 .554-.446 1-1 1H6c-.554 0-1-.446-1-1zm7 0v.5c0 .554.446 1 1 1h4c.554 0 1-.446 1-1V16c0 .554-.446 1-1 1h-4c-.554 0-1-.446-1-1z" opacity=".2"/>
+    <g fill="#f4f4f7">
+        <path d="M6 13c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h4c.554 0 1 .446 1 1V14c0-.554-.446-1-1-1zm7 0c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h4c.554 0 1 .446 1 1V14c0-.554-.446-1-1-1z" opacity=".1"/>
+        <path d="M3 4c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V5c0-.554-.446-1-1-1z" opacity=".2"/>
+    </g>
+</svg>

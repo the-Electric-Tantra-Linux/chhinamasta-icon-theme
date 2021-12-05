@@ -1,1 +1,3 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="m15.5 13v1.5c0 1 0 1-1 1s-1 0-1-1v-2c0-1 0-1 1-1h1.5m-4.5 4.5v-2.5h-2v-2.5m2 2.5v-2.5" fill="none" stroke="#bebebe" stroke-linejoin="round"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <path d="M15.5 13v1.5c0 1 0 1-1 1s-1 0-1-1v-2c0-1 0-1 1-1H16M11.5 16v-2.5h-2V11m2 2.5V11" fill="none" stroke="#bebebe" stroke-linejoin="round"/>
+</svg>

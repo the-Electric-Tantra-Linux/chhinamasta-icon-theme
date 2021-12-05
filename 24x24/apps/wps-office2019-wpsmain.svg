@@ -1,1 +1,18 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.19134" x2="15.74324" y1="15.73986" y2="1.18796"><stop offset="0" stop-color="#32d7ff"/><stop offset="1" stop-color="#329bff"/></linearGradient><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="4.23335" x2="12.70025" y1="8.46316" y2="8.46316"><stop offset="0" stop-color="#f9f9f9"/><stop offset="1" stop-color="#ccf2f6"/></linearGradient><g stroke-linecap="round"><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-width="2.7444" transform="scale(.26458)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.552" ry="3.9688" stroke-width=".72612" width="14.552" x="1.1906" y="1.1906"/><path d="m4.7039 5.6446v5.6441l3.7628-3.2921 3.7628 3.2921v-5.6441" fill="none" stroke="url(#c)" stroke-linejoin="round" stroke-width=".94102"/></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.743" y1="15.74" y2="1.188">
+        <stop offset="0" stop-color="#32d7ff"/>
+        <stop offset="1" stop-color="#329bff"/>
+    </linearGradient>
+    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="4.233" x2="12.7" y1="8.463" y2="8.463">
+        <stop offset="0" stop-color="#f9f9f9"/>
+        <stop offset="1" stop-color="#ccf2f6"/>
+    </linearGradient>
+    <g stroke-linecap="round">
+        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
+        <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
+        <path d="M4.704 5.645v5.644l3.763-3.292 3.762 3.292V5.645" fill="none" stroke="url(#c)" stroke-linejoin="round" stroke-width=".941"/>
+    </g>
+</svg>

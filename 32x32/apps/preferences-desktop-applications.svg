@@ -1,1 +1,4 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect fill="#6b7890" height="27" rx="2.16" width="27" x="2.5" y="2.5"/><rect fill="none" height="27" opacity=".35" rx="2.16" stroke="#1c2c38" stroke-linecap="round" stroke-linejoin="round" width="27" x="2.5" y="2.5"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#6b7890" height="27" rx="2.16" width="27" x="2.5" y="2.5"/>
+    <rect fill="none" height="27" opacity=".35" rx="2.16" stroke="#1c2c38" stroke-linecap="round" stroke-linejoin="round" width="27" x="2.5" y="2.5"/>
+</svg>

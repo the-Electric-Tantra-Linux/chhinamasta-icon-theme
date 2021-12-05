@@ -1,1 +1,10 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(0 -1 -1 0 0 0)"><rect height="14" opacity=".2" rx="1.25" width="20" x="-28" y="-23"/><rect fill="#8e8e8e" height="14" rx="1.25" width="20" x="-27" y="-23"/><rect height="26" opacity=".2" rx="1.25" width="18.75" x="-26" y="-29"/><rect fill="#4f4f4f" height="26" rx="1.25" width="19" x="-25" y="-29"/><path d="m-24-28h17v24h-17z" fill="#333"/></g><path d="m4.25 6c-.692 0-1.25.558-1.25 1.25v1c0-.692.558-1.25 1.25-1.25h23.5c.692 0 1.25.558 1.25 1.25v-1c0-.692-.558-1.25-1.25-1.25zm-.25 18h24v1h-24z" fill="#f4f4f7" opacity=".1"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <g transform="matrix(0 -1 -1 0 0 0)">
+        <rect height="14" opacity=".2" rx="1.25" width="20" x="-28" y="-23"/>
+        <rect fill="#8e8e8e" height="14" rx="1.25" width="20" x="-27" y="-23"/>
+        <rect height="26" opacity=".2" rx="1.25" width="18.75" x="-26" y="-29"/>
+        <rect fill="#4f4f4f" height="26" rx="1.25" width="19" x="-25" y="-29"/>
+        <path d="M-24-28h17v24h-17z" fill="#333"/>
+    </g>
+    <path d="M4.25 6C3.558 6 3 6.558 3 7.25v1C3 7.558 3.558 7 4.25 7h23.5c.692 0 1.25.558 1.25 1.25v-1C29 6.558 28.442 6 27.75 6zM4 24h24v1H4z" fill="#f4f4f7" opacity=".1"/>
+</svg>

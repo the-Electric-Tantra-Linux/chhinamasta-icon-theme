@@ -1,1 +1,20 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m7 7.5v14c0 .554.446 1 1 1h8c.554 0 1-.446 1-1v-14h-9z" opacity=".2"/><rect fill="#64b515" height="4" rx="1.007" ry="1.193" width="4" x="10" y="1"/><path d="m17 7c0 2.761-2.239 6.5-5 6.5s-5-3.739-5-6.5c0-2 2.239-3 5-3s5 1 5 3z" fill="#f4f4f7"/><path d="m12 4c-2.761 0-5 1-5 3 0 .069.017.143.02.213.206-1.807 2.355-2.713 4.98-2.713s4.774.906 4.98 2.713c.003-.07.02-.144.02-.213 0-2-2.239-3-5-3z" fill="#f4f4f7" opacity=".2"/><path d="m7 7v14c0 .554.446 1 1 1h8c.554 0 1-.446 1-1v-14h-9z" fill="#64b515"/><g fill="#17191e"><path d="m9.5 13.762h5" fill-rule="evenodd" stroke="#17191e" stroke-width=".475949"/><path d="m9.25 16.75 5.5-5.5" fill-rule="evenodd" stroke="#17191e" stroke-width=".5"/><path d="m14.75 16.75-5.5-5.5" fill-rule="evenodd" stroke="#17191e" stroke-width=".5"/><ellipse cx="12" cy="12.5" rx="1" ry="1.5"/><ellipse cx="12" cy="15.25" rx="1.5" ry="1.75"/></g><path d="m7 7h10v.5h-10z" opacity=".2"/><path d="m11.007 1c-.558 0-1.007.532-1.007 1.192v.5c0-.66.449-1.192 1.007-1.192h1.986c.558 0 1.007.532 1.007 1.192v-.5c0-.66-.449-1.192-1.007-1.192z" fill="#f4f4f7" opacity=".1"/><path d="m10 2h1v1h-1z" opacity=".4"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M7 7.5v14c0 .554.446 1 1 1h8c.554 0 1-.446 1-1v-14H8z" opacity=".2"/>
+    <rect fill="#64b515" height="4" rx="1.007" ry="1.193" width="4" x="10" y="1"/>
+    <path d="M17 7c0 2.761-2.239 6.5-5 6.5S7 9.761 7 7c0-2 2.239-3 5-3s5 1 5 3z" fill="#f4f4f7"/>
+    <path d="M12 4C9.239 4 7 5 7 7c0 .069.017.143.02.213C7.226 5.406 9.375 4.5 12 4.5s4.774.906 4.98 2.713c.003-.07.02-.144.02-.213 0-2-2.239-3-5-3z" fill="#f4f4f7" opacity=".2"/>
+    <path d="M7 7v14c0 .554.446 1 1 1h8c.554 0 1-.446 1-1V7H8z" fill="#64b515"/>
+    <g fill="#17191e">
+        <g fill-rule="evenodd" stroke="#17191e">
+            <path d="M9.5 13.762h5" stroke-width=".476"/>
+            <g stroke-width=".5">
+                <path d="m9.25 16.75 5.5-5.5M14.75 16.75l-5.5-5.5"/>
+            </g>
+        </g>
+        <ellipse cx="12" cy="12.5" rx="1" ry="1.5"/>
+        <ellipse cx="12" cy="15.25" rx="1.5" ry="1.75"/>
+    </g>
+    <path d="M7 7h10v.5H7z" opacity=".2"/>
+    <path d="M11.007 1C10.449 1 10 1.532 10 2.192v.5c0-.66.449-1.192 1.007-1.192h1.986c.558 0 1.007.532 1.007 1.192v-.5C14 1.532 13.551 1 12.993 1z" fill="#f4f4f7" opacity=".1"/>
+    <path d="M10 2h1v1h-1z" opacity=".4"/>
+</svg>

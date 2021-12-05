@@ -1,1 +1,14 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.19060276" x2="15.74239936" y1="15.7397522" y2="1.1879556"><stop offset="0" stop-color="#dee0e2"/><stop offset="1" stop-color="#f1f3f5" stop-opacity=".996078"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" transform="scale(.26457812)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.551796" ry="3.968672" stroke-linecap="round" stroke-width=".726098" width="14.551796" x="1.190602" y="1.190602"/><circle cx="8.4674" cy="8.326" fill="#323232" r="4.8484" stroke="#232323" stroke-dashoffset=".42096" stroke-width=".63568"/><rect fill="#fff" height="3.022" ry=".13742" width=".35169" x="8.2915" y="5.4812"/><rect fill="#f04646" height="3.848" rx=".044441" ry=".043322" transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)" width=".16519" x=".02247" y="12.044"/><g fill="#5e4aa6"><circle cx="-312.25485" cy="-328.5" r="0" stroke-width=".26458"/><circle cx="-21.336861" cy="6.3115" fill-rule="evenodd" r="0" stroke-width=".26458"/><circle cx="-335.29895" cy="-342.26688" r="0" stroke-width=".264578"/><circle cx="-44.382099" cy="-7.455177" fill-rule="evenodd" r="0" stroke-width=".264578"/></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.742" y1="15.74" y2="1.188">
+        <stop offset="0" stop-color="#dee0e2"/>
+        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
+    <circle cx="8.467" cy="8.326" fill="#323232" r="4.848" stroke="#232323" stroke-dashoffset=".421" stroke-width=".636"/>
+    <rect fill="#fff" height="3.022" ry=".137" width=".352" x="8.291" y="5.481"/>
+    <rect fill="#f04646" height="3.848" rx=".044" ry=".043" transform="rotate(-45)" width=".165" x=".022" y="12.044"/>
+</svg>

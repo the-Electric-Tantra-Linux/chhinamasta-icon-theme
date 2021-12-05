@@ -1,1 +1,16 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><rect height="21" opacity=".2" rx="1" ry="1.05" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-22.5" y="-23"/><rect fill="#17191e" height="21" rx="1" ry="1.05" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-22" y="-23"/><path d="m20 6h-3v2h3z" fill="#16be71"/><path d="m20 9h-3v2h3z" fill="#05ac9c"/><path d="m20 12h-3v2h3z" fill="#026ed2"/><path d="m8 15h-3v2h3z" fill="#f6a500"/><path d="m12 15h-3v2h3z" fill="#e74b32"/><path d="m20 15h-3v2h3z" fill="#3446d9"/><path d="m16 14h-3v-2h3z" fill="#9e2bbb"/><path d="m16 17h-3v-2h3z" fill="#b72b68"/><path d="m12 12h-3v2h3z" fill="#f57524"/><path d="m12 9h-3v2h3z" fill="#fabc45"/><path d="m17 8v.5h3v-.5zm-8 3v.5h3v-.5zm8 0v.5h3v-.5zm-8 3v.5h3v-.5zm4 0v.5h3v-.5zm4 0v.5h3v-.5zm-12 3v.5h3v-.5zm4 0v.5h3v-.5zm4 0v.5h3v-.5zm4 0v.5h3v-.5z" opacity=".2"/><path d="m3.05 2c-.58 0-1.05.446-1.05 1v.5c0-.554.47-1 1.05-1h18.9c.58 0 1.05.446 1.05 1v-.5c0-.554-.47-1-1.05-1z" fill="#f4f4f7" opacity=".1"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <rect height="21" opacity=".2" rx="1" ry="1.05" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-22.5" y="-23"/>
+    <rect fill="#17191e" height="21" rx="1" ry="1.05" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-22" y="-23"/>
+    <path d="M20 6h-3v2h3z" fill="#16be71"/>
+    <path d="M20 9h-3v2h3z" fill="#05ac9c"/>
+    <path d="M20 12h-3v2h3z" fill="#026ed2"/>
+    <path d="M8 15H5v2h3z" fill="#f6a500"/>
+    <path d="M12 15H9v2h3z" fill="#e74b32"/>
+    <path d="M20 15h-3v2h3z" fill="#3446d9"/>
+    <path d="M16 14h-3v-2h3z" fill="#9e2bbb"/>
+    <path d="M16 17h-3v-2h3z" fill="#b72b68"/>
+    <path d="M12 12H9v2h3z" fill="#f57524"/>
+    <path d="M12 9H9v2h3z" fill="#fabc45"/>
+    <path d="M17 8v.5h3V8zm-8 3v.5h3V11zm8 0v.5h3V11zm-8 3v.5h3V14zm4 0v.5h3V14zm4 0v.5h3V14zM5 17v.5h3V17zm4 0v.5h3V17zm4 0v.5h3V17zm4 0v.5h3V17z" opacity=".2"/>
+    <path d="M3.05 2C2.47 2 2 2.446 2 3v.5c0-.554.47-1 1.05-1h18.9c.58 0 1.05.446 1.05 1V3c0-.554-.47-1-1.05-1z" fill="#f4f4f7" opacity=".1"/>
+</svg>

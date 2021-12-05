@@ -1,1 +1,20 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><rect fill-opacity=".239" height="54" rx="2.077" transform="matrix(0 -1 -1 0 0 0)" width="54" x="-59" y="-59"/><rect fill="#e1e3e7" height="52" rx="2" transform="matrix(0 -1 -1 0 0 0)" width="52" x="-58" y="-58"/><g transform="translate(60.623 -2)"><rect fill="#4c5263" height="12" rx="1.5" stroke="#313643" width="20" x="-52.123" y="10.5"/><path d="m-50.623 13v1h3.19v-1zm3.609 0v1h3.021v-1zm3.44 0v1h2.645v-1zm3.064 0v1h1.175v-1zm-10.113 3v1h5.077v-1zm5.581 0v1h2.434v-1zm2.896 0v1h1.133v-1zm-8.477 3v1h5.623v-1zm6.043 0v1h2.943v-1zm5.957 0v1h5.077v-1z" fill="#e9eaee"/></g><g stroke-width="1.341" transform="matrix(.74545 0 0 .74545 8.145 8.145)"><circle cx="32" cy="32" fill="none" r="27.5" stroke="#cbcdd1"/><path d="m32 5.17a26.83 26.83 0 0 0 -26.83 26.83 26.83 26.83 0 0 0 26.83 26.83 26.83 26.83 0 0 0 26.83-26.83 26.83 26.83 0 0 0 -26.83-26.83zm0 15.9a10.93 10.93 0 0 1 10.93 10.93 10.93 10.93 0 0 1 -10.93 10.93 10.93 10.93 0 0 1 -10.93-10.93 10.93 10.93 0 0 1 10.93-10.93z" fill="#fafafa"/></g><path d="m32 24a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0 -8-8zm0 4a4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4-4 4 4 0 0 1 4-4z" fill="#fff" fill-opacity=".388"/><circle cx="32" cy="32" fill="none" r="8.5" stroke="#cbcdd1"/><circle cx="32" cy="32" fill="none" r="3.5" stroke="#cbcdd1"/><g fill="#8c8c8c"><rect height="2" rx="1" width="2" x="52" y="10"/><rect height="2" rx="1" width="2" x="10" y="52"/><rect height="2" rx="1" width="2" x="52" y="52"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <rect fill-opacity=".239" height="54" rx="2.077" transform="matrix(0 -1 -1 0 0 0)" width="54" x="-59" y="-59"/>
+    <rect fill="#e1e3e7" height="52" rx="2" transform="matrix(0 -1 -1 0 0 0)" width="52" x="-58" y="-58"/>
+    <g transform="translate(60.623 -2)">
+        <rect fill="#4c5263" height="12" rx="1.5" stroke="#313643" width="20" x="-52.123" y="10.5"/>
+        <path d="M-50.623 13v1h3.19v-1zm3.609 0v1h3.021v-1zm3.44 0v1h2.645v-1zm3.064 0v1h1.175v-1zm-10.113 3v1h5.077v-1zm5.581 0v1h2.434v-1zm2.896 0v1h1.133v-1zm-8.477 3v1H-45v-1zm6.043 0v1h2.943v-1zm5.957 0v1h5.077v-1z" fill="#e9eaee"/>
+    </g>
+    <g stroke-width="1.341" transform="translate(8.145 8.145) scale(.74545)">
+        <circle cx="32" cy="32" fill="none" r="27.5" stroke="#cbcdd1"/>
+        <path d="M32 5.17A26.83 26.83 0 0 0 5.17 32 26.83 26.83 0 0 0 32 58.83 26.83 26.83 0 0 0 58.83 32 26.83 26.83 0 0 0 32 5.17zm0 15.9A10.93 10.93 0 0 1 42.93 32 10.93 10.93 0 0 1 32 42.93 10.93 10.93 0 0 1 21.07 32 10.93 10.93 0 0 1 32 21.07z" fill="#fafafa"/>
+    </g>
+    <path d="M32 24a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm0 4a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4z" fill="#fff" fill-opacity=".388"/>
+    <circle cx="32" cy="32" fill="none" r="8.5" stroke="#cbcdd1"/>
+    <circle cx="32" cy="32" fill="none" r="3.5" stroke="#cbcdd1"/>
+    <g fill="#8c8c8c">
+        <rect height="2" rx="1" width="2" x="52" y="10"/>
+        <rect height="2" rx="1" width="2" x="10" y="52"/>
+        <rect height="2" rx="1" width="2" x="52" y="52"/>
+    </g>
+</svg>

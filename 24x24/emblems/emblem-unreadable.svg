@@ -1,1 +1,8 @@
-<svg height="22" viewBox="0 0 5.821 5.821" width="22" xmlns="http://www.w3.org/2000/svg"><rect fill="none" height="4.233" opacity=".1" rx="2.117" stroke="#000" stroke-width=".39689" transform="matrix(0 -1 -1 0 0 0)" width="4.233" x="-5.0881" y="-5.027"/><rect fill="none" height="4.233" opacity=".2" rx="2.117" stroke="#000" stroke-width=".1323" transform="matrix(0 -1 -1 0 0 0)" width="4.233" x="-5.0881" y="-5.027"/><g transform="matrix(.72727 0 0 .72727 3.295 -210.78)"><rect fill="#d32f2f" height="5.821" rx="2.91" transform="matrix(0 -1 -1 0 0 0)" width="5.821" x="-296.74" y="-2.381"/><path d="m-1.587 292.77 2.116 2.116m.001-2.116-2.118 2.116" fill="none" stroke="#fff" stroke-linecap="square" stroke-width=".661"/></g></svg>
+<svg height="22" viewBox="0 0 5.821 5.821" width="22" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="none" height="4.233" opacity=".1" rx="2.117" stroke="#000" stroke-width=".397" transform="matrix(0 -1 -1 0 0 0)" width="4.233" x="-5.088" y="-5.027"/>
+    <rect fill="none" height="4.233" opacity=".2" rx="2.117" stroke="#000" stroke-width=".132" transform="matrix(0 -1 -1 0 0 0)" width="4.233" x="-5.088" y="-5.027"/>
+    <g transform="translate(3.295 -210.78) scale(.72727)">
+        <rect fill="#d32f2f" height="5.821" rx="2.91" transform="matrix(0 -1 -1 0 0 0)" width="5.821" x="-296.74" y="-2.381"/>
+        <path d="m-1.587 292.77 2.116 2.116m.001-2.116-2.118 2.116" fill="none" stroke="#f4f4f7" stroke-linecap="square" stroke-width=".661"/>
+    </g>
+</svg>

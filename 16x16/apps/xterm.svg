@@ -1,1 +1,19 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.048" y="-.048"><feGaussianBlur stdDeviation="1.1"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-.70745" x2="13.845" y1="16.3478" y2="1.79535"><stop offset="0" stop-color="#e1e1e1"/><stop offset="1" stop-color="#f5f5f5"/></linearGradient><g transform="translate(1.8993 -.60476)"><rect filter="url(#a)" height="55" opacity=".3" rx="13.002" transform="matrix(.26459 0 0 .26459 -1.8994 .6047)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.552" rx="3.4401" stroke-width=".26458" width="14.552" x="-.70877" y="1.7953"/><rect fill="none" height="13.229" rx="3.1274" stroke-width=".24052" width="13.229" x="-.047354" y="2.4567"/><rect fill="#262626" height="13.229" rx="3.1274" ry="2.7695" stroke-width=".24052" width="13.229" x="-.047354" y="2.4567"/><g fill="#6be54f"><path d="m2.4226 9.0713h.48607v-.56953c.56463-.10801.86413-.50571.86413-1.0409 0-1.0998-1.4925-1.0065-1.4925-1.6153 0-.27004.16202-.40751.4517-.40751.2504 0 .42715.1031.62845.28968l.36333-.41242c-.21112-.22585-.46152-.3977-.81503-.44679v-.55972h-.48607v.56953c-.51553.098196-.83467.46643-.83467 1.0016 0 1.0261 1.4925.96723 1.4925 1.63 0 .27986-.15711.43206-.5008.43206-.27986 0-.54008-.12274-.81012-.33387l-.31914.48607c.26022.23567.63827.38788.97214.42715z" stroke-width=".12274"/><path d="m4.7847 4.3089h2.3812v4.7625h-2.3812z" opacity=".35"/></g></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.048" y="-.048">
+        <feGaussianBlur stdDeviation="1.1"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-.707" x2="13.845" y1="16.348" y2="1.795">
+        <stop offset="0" stop-color="#e1e1e1"/>
+        <stop offset="1" stop-color="#f5f5f5"/>
+    </linearGradient>
+    <g transform="translate(1.9 -.605)">
+        <rect filter="url(#a)" height="55" opacity=".3" rx="13.002" transform="translate(-1.9 .605) scale(.26459)" width="55" x="4.5" y="4.5"/>
+        <rect fill="url(#b)" height="14.552" rx="3.44" width="14.552" x="-.709" y="1.795"/>
+        <rect fill="none" height="13.229" rx="3.127" width="13.229" x="-.047" y="2.457"/>
+        <rect fill="#262626" height="13.229" rx="3.127" ry="2.769" width="13.229" x="-.047" y="2.457"/>
+        <g fill="#6be54f">
+            <path d="M2.423 9.071h.486v-.57c.564-.107.864-.505.864-1.04 0-1.1-1.493-1.007-1.493-1.615 0-.27.162-.408.452-.408.25 0 .427.103.628.29l.364-.413c-.211-.226-.462-.397-.815-.446v-.56h-.486v.57c-.516.098-.835.466-.835 1 0 1.027 1.493.968 1.493 1.63 0 .28-.158.433-.501.433-.28 0-.54-.123-.81-.334l-.32.486c.26.236.639.388.973.427z"/>
+            <path d="M4.785 4.309h2.38V9.07h-2.38z" opacity=".35"/>
+        </g>
+    </g>
+</svg>

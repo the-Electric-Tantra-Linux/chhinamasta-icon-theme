@@ -1,1 +1,17 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect fill="#54402a" height="28" rx="1.5" transform="matrix(0 -1 -1 0 0 0)" width="24" x="-28" y="-30"/><path d="m12.51 15a.5.556 0 0 0 -.51.556v8.888a.5.556 0 0 0 .748.483l7-4.8" opacity=".2"/><path d="m12.51 14a.5.556 0 0 0 -.51.556v8.888a.5.556 0 0 0 .748.483l7-4.8" fill="#d2d2d2"/><path d="m2 26.5v1c0 .831.669 1.5 1.5 1.5h25c.831 0 1.5-.669 1.5-1.5v-1c0 .831-.669 1.5-1.5 1.5h-25c-.831 0-1.5-.669-1.5-1.5zm0-16.5v-4.5c0-.831.669-1.5 1.5-1.5h25c.831 0 1.5.669 1.5 1.5v4.5z" opacity=".2"/><path d="m2 6.5v-1c0-.831.669-1.5 1.5-1.5h25c.831 0 1.5.669 1.5 1.5v1c0-.831-.669-1.5-1.5-1.5h-25c-.831 0-1.5.669-1.5 1.5z" fill="#f4f4f7" opacity=".2"/><path d="m2 7v-1.5c0-.831.669-1.5 1.5-1.5h25c.831 0 1.5.669 1.5 1.5v1.5z" opacity=".2"/><path d="m3.5 4c-.831 0-1.5.669-1.5 1.5v4.5h6v-3l-3-3z" fill="#d2d2d2"/><g fill-rule="evenodd"><path d="m12 7-3-3h4l3 3z" fill="#bebebe"/><path d="m12 7-3 3h4l3-3z" fill="#d2d2d2"/><path d="m19 7-3-3h4l3 3z" fill="#bebebe"/><path d="m19 7-3 3h4l3-3z" fill="#d2d2d2"/><path d="m26 7-3-3h4l3 3z" fill="#bebebe"/><path d="m26 7-3 3h4l3-3z" fill="#d2d2d2"/></g></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#54402a" height="28" rx="1.5" transform="matrix(0 -1 -1 0 0 0)" width="24" x="-28" y="-30"/>
+    <path d="M12.51 15a.5.556 0 0 0-.51.556v8.888a.5.556 0 0 0 .748.483l7-4.8" opacity=".2"/>
+    <path d="M12.51 14a.5.556 0 0 0-.51.556v8.888a.5.556 0 0 0 .748.483l7-4.8" fill="#d2d2d2"/>
+    <path d="M2 26.5v1c0 .831.669 1.5 1.5 1.5h25c.831 0 1.5-.669 1.5-1.5v-1c0 .831-.669 1.5-1.5 1.5h-25c-.831 0-1.5-.669-1.5-1.5zM2 10V5.5C2 4.669 2.669 4 3.5 4h25c.831 0 1.5.669 1.5 1.5V10z" opacity=".2"/>
+    <path d="M2 6.5v-1C2 4.669 2.669 4 3.5 4h25c.831 0 1.5.669 1.5 1.5v1c0-.831-.669-1.5-1.5-1.5h-25C2.669 5 2 5.669 2 6.5z" fill="#f4f4f7" opacity=".2"/>
+    <path d="M2 7V5.5C2 4.669 2.669 4 3.5 4h25c.831 0 1.5.669 1.5 1.5V7z" opacity=".2"/>
+    <path d="M3.5 4C2.669 4 2 4.669 2 5.5V10h6V7L5 4z" fill="#d2d2d2"/>
+    <g fill-rule="evenodd">
+        <path d="M12 7 9 4h4l3 3z" fill="#bebebe"/>
+        <path d="m12 7-3 3h4l3-3z" fill="#d2d2d2"/>
+        <path d="m19 7-3-3h4l3 3z" fill="#bebebe"/>
+        <path d="m19 7-3 3h4l3-3z" fill="#d2d2d2"/>
+        <path d="m26 7-3-3h4l3 3z" fill="#bebebe"/>
+        <path d="m26 7-3 3h4l3-3z" fill="#d2d2d2"/>
+    </g>
+</svg>

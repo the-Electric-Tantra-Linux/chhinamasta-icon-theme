@@ -1,1 +1,11 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#4f4f4f" height="16" rx=".75" ry=".8" transform="matrix(0 -1 -1 0 0 0)" width="12" x="-14" y="-16"/><rect fill="#fff" height="3" rx=".8" ry=".75" width="12" x="2" y="9"/><rect fill="#fff" height="3" rx=".8" ry=".75" width="12" x="2" y="4"/><circle cx="4" cy="6" fill="#4fa0ff" r="1"/><circle cx="4" cy="11" fill="#ff4f4f" r="1"/><circle cx="7" cy="6" fill="#4fa0ff" r="1"/><circle cx="7" cy="11" fill="#ff4f4f" r="1"/><circle cx="10" cy="6" fill="#4fa0ff" r="1"/><circle cx="10" cy="11" fill="#ff4f4f" r="1"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#4f4f4f" height="16" rx=".75" ry=".8" transform="matrix(0 -1 -1 0 0 0)" width="12" x="-14" y="-16"/>
+    <rect fill="#f4f4f7" height="3" rx=".8" ry=".75" width="12" x="2" y="9"/>
+    <rect fill="#f4f4f7" height="3" rx=".8" ry=".75" width="12" x="2" y="4"/>
+    <circle cx="4" cy="6" fill="#4fa0ff" r="1"/>
+    <circle cx="4" cy="11" fill="#ff4f4f" r="1"/>
+    <circle cx="7" cy="6" fill="#4fa0ff" r="1"/>
+    <circle cx="7" cy="11" fill="#ff4f4f" r="1"/>
+    <circle cx="10" cy="6" fill="#4fa0ff" r="1"/>
+    <circle cx="10" cy="11" fill="#ff4f4f" r="1"/>
+</svg>

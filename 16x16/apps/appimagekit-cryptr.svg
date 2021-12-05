@@ -1,1 +1,18 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#d7d7d7" height="15" rx="4.5" width="15" x="1" y="1"/><rect fill="#555" height="9" rx=".346" width="9" x="4" y="4"/><circle cx="8.5" cy="7.5" fill="#f4f4f7" r="1.5"/><path d="m25.29 20.692 5.499 9.524h-10.999z" fill="#f4f4f7" transform="matrix(.27279 0 0 .47249 1.601 -3.277)"/><g fill="#555"><circle cx="2.5" cy="5.5" r=".5"/><circle cx="2.5" cy="11.5" r=".5"/><circle cx="2.5" cy="-11.5" r=".5" transform="rotate(90)"/><circle cx="2.5" cy="-5.5" r=".5" transform="rotate(90)"/><circle cx="-14.5" cy="-11.5" r=".5" transform="scale(-1)"/><circle cx="-14.5" cy="-5.5" r=".5" transform="scale(-1)"/><circle cx="-14.5" cy="5.5" r=".5" transform="rotate(-90)"/><circle cx="-14.5" cy="11.5" r=".5" transform="rotate(-90)"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#d7d7d7" height="15" rx="4.5" width="15" x="1" y="1"/>
+    <rect fill="#555" height="9" rx=".346" width="9" x="4" y="4"/>
+    <circle cx="8.5" cy="7.5" fill="#f4f4f7" r="1.5"/>
+    <path d="M8.5 6.5 10 11H7z" fill="#f4f4f7"/>
+    <g fill="#555">
+        <circle cx="2.5" cy="5.5" r=".5"/>
+        <circle cx="2.5" cy="11.5" r=".5"/>
+        <circle cx="2.5" cy="-11.5" r=".5" transform="rotate(90)"/>
+        <circle cx="2.5" cy="-5.5" r=".5" transform="rotate(90)"/>
+        <circle cx="-14.5" cy="-11.5" r=".5" transform="scale(-1)"/>
+        <circle cx="-14.5" cy="-5.5" r=".5" transform="scale(-1)"/>
+        <g transform="rotate(-90)">
+            <circle cx="-14.5" cy="5.5" r=".5"/>
+            <circle cx="-14.5" cy="11.5" r=".5"/>
+        </g>
+    </g>
+</svg>

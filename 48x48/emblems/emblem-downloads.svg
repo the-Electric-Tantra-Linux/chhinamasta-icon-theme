@@ -1,1 +1,6 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><circle cx="24" cy="24" fill="#455a64" r="20"/><g fill="#f4f4f7"><path d="m21 10v13h-4l7 8 7-8h-4v-13z"/><path d="m32-32h4v16h-4z" transform="rotate(90)"/></g></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="24" cy="24" fill="#455a64" r="20"/>
+    <g fill="#f4f4f7">
+        <path d="M21 10v13h-4l7 8 7-8h-4V10zM32 32v4H16v-4z"/>
+    </g>
+</svg>

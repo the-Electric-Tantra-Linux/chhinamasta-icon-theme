@@ -1,1 +1,16 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="32.468" x2="32.468" y1="20.339" y2="45.288"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#d9f9ff"/></linearGradient><filter id="b" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49"><stop offset="0" stop-color="#32d7ff"/><stop offset="1" stop-color="#329bff"/></linearGradient><rect fill="#141414" filter="url(#b)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><rect fill="url(#c)" height="55" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><path d="m25.322 17-6.6849 9.0234 1.8897 3.7464h20.031c-.18897 4.8046-.22204 5.9668-1.2472 8.4518-.60471 1.4645-1.37 2.3811-2.9007 3.0991-1.5354.7181-3.992 1.1527-7.7242.91179l-.30236 4.6865c4.2046.27401 7.4455-.14173 10.016-1.337a10.469 10.469 0 0 0 5.2582-5.57c1.8992-4.6015 1.3889-6.8975 1.7055-12.458l-.099209-2.485h-20.074l3.907-5.2676z" fill="url(#a)" fill-rule="evenodd" stroke-width="3.7796"/><g fill="#5e4aa6"><circle cx="-1202.9137" cy="-1279.3" r="0"/><circle cx="-1084.4596" cy="-1318.599" r="0" stroke-width="1.00001"/><circle cx="15.078114" cy="-53.108505" fill-rule="evenodd" r="0" stroke-width="1.00001"/><circle cx="-1005.9574" cy="-1390.1091" r="0" stroke-width="1.00001"/><circle cx="93.577385" cy="-124.58187" fill-rule="evenodd" r="0" stroke-width="1.00001"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="32.468" x2="32.468" y1="20.339" y2="45.288">
+        <stop offset="0" stop-color="#f4f4f7"/>
+        <stop offset="1" stop-color="#d9f9ff"/>
+    </linearGradient>
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#32d7ff"/>
+        <stop offset="1" stop-color="#329bff"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <path d="m25.322 17-6.685 9.023 1.89 3.747h20.03c-.188 4.804-.221 5.967-1.246 8.452-.605 1.464-1.37 2.38-2.901 3.099-1.535.718-3.992 1.152-7.724.911l-.303 4.687c4.205.274 7.446-.142 10.016-1.337a10.469 10.469 0 0 0 5.259-5.57c1.899-4.602 1.388-6.898 1.705-12.458l-.1-2.485H25.19l3.907-5.268z" fill="url(#c)" fill-rule="evenodd"/>
+</svg>

@@ -1,1 +1,16 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect height="26" opacity=".2" rx="1.4" width="26" x="4" y="5"/><rect fill="#765e4a" height="26" rx="1.4" width="26" x="4" y="4"/><rect height="17" opacity=".2" rx="1" width="7" x="21" y="3"/><path d="m5.4 4c-.775 0-1.4.625-1.4 1.4v1c0-.775.625-1.4 1.4-1.4h23.2c.775 0 1.4.625 1.4 1.4v-1c0-.775-.625-1.4-1.4-1.4z" fill="#f4f4f7" opacity=".1"/><rect fill="#b38a48" height="17" rx="1" width="7" x="21" y="2"/><rect height="7" opacity=".2" rx="1" width="17" x="2" y="22"/><rect fill="#c8a972" height="7" rx="1" width="17" x="2" y="21"/><rect height="7" opacity=".2" rx="1" width="7" x="21" y="22"/><rect fill="#f4f4f7" height="7" rx="1" width="7" x="21" y="21"/><path d="m7 7c-.554 0-1 .446-1 1v1h9v3h-9v7c0 .554.446 1 1 1h11c.554 0 1-.446 1-1v-11c0-.554-.446-1-1-1zm1 7h7v4h-7z" opacity=".2"/><g fill="#f4f4f7"><path d="m7 6c-.554 0-1 .446-1 1v1h9v3h-9v7c0 .554.446 1 1 1h11c.554 0 1-.446 1-1v-11c0-.554-.446-1-1-1zm1 7h7v4h-7z"/><path d="m22 2c-.554 0-1 .446-1 1v1c0-.554.446-1 1-1h5c.554 0 1 .446 1 1v-1c0-.554-.446-1-1-1zm-19 19c-.554 0-1 .446-1 1v1c0-.554.446-1 1-1h15c.554 0 1 .446 1 1v-1c0-.554-.446-1-1-1z" opacity=".2"/></g></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect height="26" opacity=".2" rx="1.4" width="26" x="4" y="5"/>
+    <rect fill="#765e4a" height="26" rx="1.4" width="26" x="4" y="4"/>
+    <rect height="17" opacity=".2" rx="1" width="7" x="21" y="3"/>
+    <path d="M5.4 4C4.625 4 4 4.625 4 5.4v1C4 5.625 4.625 5 5.4 5h23.2c.775 0 1.4.625 1.4 1.4v-1c0-.775-.625-1.4-1.4-1.4z" fill="#f4f4f7" opacity=".1"/>
+    <rect fill="#b38a48" height="17" rx="1" width="7" x="21" y="2"/>
+    <rect height="7" opacity=".2" rx="1" width="17" x="2" y="22"/>
+    <rect fill="#c8a972" height="7" rx="1" width="17" x="2" y="21"/>
+    <rect height="7" opacity=".2" rx="1" width="7" x="21" y="22"/>
+    <rect fill="#f4f4f7" height="7" rx="1" width="7" x="21" y="21"/>
+    <path d="M7 7c-.554 0-1 .446-1 1v1h9v3H6v7c0 .554.446 1 1 1h11c.554 0 1-.446 1-1V8c0-.554-.446-1-1-1zm1 7h7v4H8z" opacity=".2"/>
+    <g fill="#f4f4f7">
+        <path d="M7 6c-.554 0-1 .446-1 1v1h9v3H6v7c0 .554.446 1 1 1h11c.554 0 1-.446 1-1V7c0-.554-.446-1-1-1zm1 7h7v4H8z"/>
+        <path d="M22 2c-.554 0-1 .446-1 1v1c0-.554.446-1 1-1h5c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1zM3 21c-.554 0-1 .446-1 1v1c0-.554.446-1 1-1h15c.554 0 1 .446 1 1v-1c0-.554-.446-1-1-1z" opacity=".2"/>
+    </g>
+</svg>

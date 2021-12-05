@@ -1,1 +1,6 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect fill="#f2f2f2" height="26" rx="1.615" transform="scale(1 -1)" width="26" x="3" y="-29"/><rect fill="none" height="27" opacity=".35" rx="2.16" stroke="#555761" stroke-linecap="round" stroke-linejoin="round" width="27" x="2.5" y="2.5"/><path d="m8 .5a6.504 6.504 0 0 0 -6.5 6.5c0 3.586 2.914 6.5 6.5 6.5s6.5-2.914 6.5-6.5-2.914-6.5-6.5-6.5z" fill="#e7595b"/><path d="m8 .5a6.504 6.504 0 0 0 -6.5 6.5c0 3.586 2.914 6.5 6.5 6.5s6.5-2.914 6.5-6.5-2.914-6.5-6.5-6.5z" fill="none" opacity=".35" stroke="#6f0000" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#f2f2f2" height="26" rx="1.615" transform="scale(1 -1)" width="26" x="3" y="-29"/>
+    <rect fill="none" height="27" opacity=".35" rx="2.16" stroke="#555761" stroke-linecap="round" stroke-linejoin="round" width="27" x="2.5" y="2.5"/>
+    <path d="M8 .5A6.504 6.504 0 0 0 1.5 7c0 3.586 2.914 6.5 6.5 6.5s6.5-2.914 6.5-6.5S11.586.5 8 .5z" fill="#e7595b"/>
+    <path d="M8 .5A6.504 6.504 0 0 0 1.5 7c0 3.586 2.914 6.5 6.5 6.5s6.5-2.914 6.5-6.5S11.586.5 8 .5z" fill="none" opacity=".35" stroke="#6f0000" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

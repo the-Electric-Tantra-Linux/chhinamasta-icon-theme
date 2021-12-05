@@ -1,1 +1,13 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><rect height="7" opacity=".2" rx="1" width="5" x="18" y="13.5"/><rect height="7" opacity=".2" rx="1" width="5" x="12" y="13.5"/><rect height="8" opacity=".2" rx="1" width="11" x="12" y="4.5"/><rect height="16" opacity=".2" rx="1" width="10" x="1" y="4.5"/><rect fill="#2a93dd" height="16" rx="1" width="10" x="1" y="4"/><rect fill="#e83f3c" height="8" rx="1" width="11" x="12" y="4"/><rect fill="#9bb013" height="7" rx="1" width="5" x="12" y="13"/><rect fill="#9bb013" height="7" rx="1" width="5" x="18" y="13"/><path d="m3 7h6v1h-6zm0 3h6v1h-6zm0 3h6v1h-6zm0 3h4v1h-4z" opacity=".3"/><path d="m14.253 5.747 1.5 1.5-1.5 1.5m2.5-3 1.5 1.5-1.5 1.5m2.5-3 1.5 1.5-1.5 1.5" style="opacity:.3;fill:none;stroke:#000;stroke-width:.5;stroke-linecap:round;stroke-linejoin:round"/><path d="m2 4c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h8c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1zm11 0c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h9c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1zm0 9c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h3c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1zm6 0c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h3c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <rect height="7" opacity=".2" rx="1" width="5" x="18" y="13.5"/>
+    <rect height="7" opacity=".2" rx="1" width="5" x="12" y="13.5"/>
+    <rect height="8" opacity=".2" rx="1" width="11" x="12" y="4.5"/>
+    <rect height="16" opacity=".2" rx="1" width="10" x="1" y="4.5"/>
+    <rect fill="#2a93dd" height="16" rx="1" width="10" x="1" y="4"/>
+    <rect fill="#e83f3c" height="8" rx="1" width="11" x="12" y="4"/>
+    <rect fill="#9bb013" height="7" rx="1" width="5" x="12" y="13"/>
+    <rect fill="#9bb013" height="7" rx="1" width="5" x="18" y="13"/>
+    <path d="M3 7h6v1H3zm0 3h6v1H3zm0 3h6v1H3zm0 3h4v1H3z" opacity=".3"/>
+    <path d="m14.253 5.747 1.5 1.5-1.5 1.5m2.5-3 1.5 1.5-1.5 1.5m2.5-3 1.5 1.5-1.5 1.5" style="opacity:.3;fill:none;stroke:#000;stroke-width:.5;stroke-linecap:round;stroke-linejoin:round"/>
+    <path d="M2 4c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h8c.554 0 1 .446 1 1V5c0-.554-.446-1-1-1zm11 0c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h9c.554 0 1 .446 1 1V5c0-.554-.446-1-1-1zm0 9c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h3c.554 0 1 .446 1 1V14c0-.554-.446-1-1-1zm6 0c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h3c.554 0 1 .446 1 1V14c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/>
+</svg>

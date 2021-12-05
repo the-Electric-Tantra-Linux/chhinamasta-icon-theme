@@ -1,1 +1,10 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#ef4e4e" height="15" rx=".75" width="15" x="1" y="1"/><path d="m8.5 1v14.98m-4-14.98v14.98m8-14.98v14.98m3.48-7.48h-14.98m14.98-4h-14.98m14.98 8h-14.98" fill="none" stroke="#656565"/><path d="m9 10.5v-3c0-.895.802-1.5 2-1.5 1.146 0 2 .649 2 1.5v3" fill="none" stroke="#ffa02e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><circle cx="11" cy="12" fill="#ffce23" r="4"/><g fill="#7f4a04"><circle cx="11" cy="12" r="1"/><path d="m10.5 12v1.5a.5.5 0 0 0 .5.5.5.5 0 0 0 .5-.5v-1.5z"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#ef4e4e" height="15" rx=".75" width="15" x="1" y="1"/>
+    <path d="M8.5 1v14.98M4.5 1v14.98M12.5 1v14.98m3.48-7.48H1m14.98-4H1m14.98 8H1" fill="none" stroke="#656565"/>
+    <path d="M9 10.5v-3c0-.895.802-1.5 2-1.5 1.146 0 2 .649 2 1.5v3" fill="none" stroke="#ffa02e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <circle cx="11" cy="12" fill="#ffce23" r="4"/>
+    <g fill="#7f4a04">
+        <circle cx="11" cy="12" r="1"/>
+        <path d="M10.5 12v1.5a.5.5 0 0 0 .5.5.5.5 0 0 0 .5-.5V12z"/>
+    </g>
+</svg>

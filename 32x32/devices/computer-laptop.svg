@@ -1,1 +1,8 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect height="17" rx=".931" ry=".895" style="fill:#434855;stroke:#252831;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:.5;stroke-opacity:.784" width="27" x="2.5" y="7.5"/><path d="m3 8h26v16h-26z" fill="#5294e2" fill-rule="evenodd"/><g fill="#fafafa"><path d="m1 25h30v1h-30z" style="opacity:.65;stroke:#415380;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.29"/><path d="m1 25h30v1h-30z" opacity=".65"/></g></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect height="17" rx=".931" ry=".895" style="fill:#434855;stroke:#252831;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:.5;stroke-opacity:.784" width="27" x="2.5" y="7.5"/>
+    <path d="M3 8h26v16H3z" fill="#5294e2" fill-rule="evenodd"/>
+    <g fill="#fafafa">
+        <path d="M1 25h30v1H1z" style="opacity:.65;stroke:#415380;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.29"/>
+        <path d="M1 25h30v1H1z" opacity=".65"/>
+    </g>
+</svg>

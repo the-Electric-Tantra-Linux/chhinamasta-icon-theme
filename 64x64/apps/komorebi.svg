@@ -1,1 +1,13 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><path d="m14 62-10-40 49-12 7 38z" opacity=".2"/><path d="m14 61-10-40 49-12 7 38z" fill="#969696"/><path d="m4 16 55-5 1 41-52 8z" opacity=".2"/><path d="m4 15 55-5 1 41-52 8z" fill="#a8a8a8"/><rect height="46" opacity=".2" rx="2.8" width="56" x="4" y="10"/><rect fill="#9a62d9" height="46" rx="2.8" width="56" x="4" y="9"/><circle cx="47" cy="45" opacity=".2" r="13"/><circle cx="47" cy="44" fill="#f4f4f7" r="13"/><circle cx="47" cy="45" opacity=".2" r="10"/><circle cx="47" cy="44" fill="#945e8d" r="10"/><path d="m6.8 9c-1.55 0-2.8 1.25-2.8 2.801v1a2.796 2.796 0 0 1 2.8-2.801h50.4a2.796 2.796 0 0 1 2.8 2.801v-1a2.796 2.796 0 0 0 -2.801-2.801h-50.398z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <path d="M14 62 4 22l49-12 7 38z" opacity=".2"/>
+    <path d="M14 61 4 21 53 9l7 38z" fill="#969696"/>
+    <path d="m4 16 55-5 1 41-52 8z" opacity=".2"/>
+    <path d="m4 15 55-5 1 41-52 8z" fill="#a8a8a8"/>
+    <rect height="46" opacity=".2" rx="2.8" width="56" x="4" y="10"/>
+    <rect fill="#9a62d9" height="46" rx="2.8" width="56" x="4" y="9"/>
+    <circle cx="47" cy="45" opacity=".2" r="13"/>
+    <circle cx="47" cy="44" fill="#f4f4f7" r="13"/>
+    <circle cx="47" cy="45" opacity=".2" r="10"/>
+    <circle cx="47" cy="44" fill="#945e8d" r="10"/>
+    <path d="M6.8 9C5.25 9 4 10.25 4 11.801v1A2.796 2.796 0 0 1 6.8 10h50.4a2.796 2.796 0 0 1 2.8 2.801v-1A2.796 2.796 0 0 0 57.199 9H6.801z" fill="#f4f4f7" opacity=".2"/>
+</svg>

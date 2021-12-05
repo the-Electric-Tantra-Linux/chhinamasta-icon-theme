@@ -1,1 +1,12 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49"><stop offset="0" stop-color="#df2a2a"/><stop offset="1" stop-color="#f83f3f"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="55" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><g fill="#5e4aa6"><circle cx="-1158.1" cy="-1246" r="0"/><circle cx="-1157.3" cy="-1267.7" r="0"/><circle cx="-57.756" cy="-2.1829" fill-rule="evenodd" r="0"/></g><path d="m24 16v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-30 2v4h4v-4zm18 0v4h4v-4zm18 0v4h4v-4zm-24 2v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-30 2v4h4v-4zm18 0v4h4v-4zm18 0v4h4v-4zm-24 2v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-30 2v4h4v-4zm18 0v4h4v-4zm18 0v4h4v-4zm-24 2v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-12 2v4h4v-4zm-6 2v4h4v-4zm12 0v4h4v-4zm-6 4v4h4v-4z" fill="#fff"/><g fill="#5e4aa6"><circle cx="-1321.658" cy="-1241.6" r="0"/><circle cx="-1213.258" cy="-1301.8" r="0"/><circle cx="-1231.058" cy="-1246" r="0"/><circle cx="-1230.3" cy="-1267.7" r="0"/><circle cx="-130.71" cy="-2.1829" fill-rule="evenodd" r="0"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#df2a2a"/>
+        <stop offset="1" stop-color="#f83f3f"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <path d="M24 16v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-30 2v4h4v-4zm18 0v4h4v-4zm18 0v4h4v-4zm-24 2v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-30 2v4h4v-4zm18 0v4h4v-4zm18 0v4h4v-4zm-24 2v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-30 2v4h4v-4zm18 0v4h4v-4zm18 0v4h4v-4zm-24 2v4h4v-4zm12 0v4h4v-4zm-18 2v4h4v-4zm24 0v4h4v-4zm-12 2v4h4v-4zm-6 2v4h4v-4zm12 0v4h4v-4zm-6 4v4h4v-4z" fill="#fff"/>
+</svg>

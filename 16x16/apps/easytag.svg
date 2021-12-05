@@ -1,1 +1,17 @@
-<svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.048" y="-.048"><feGaussianBlur stdDeviation="1.1"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49868" y2="4.49868"><stop offset="0" stop-color="#ffc841"/><stop offset=".4925" stop-color="#ffbe37"/><stop offset="1" stop-color="#ffc841"/></linearGradient><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="49.5" x2="14.97" y1="14.612" y2="49.507"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#ffdc96"/></linearGradient><rect filter="url(#a)" height="55" opacity=".3" rx="13.002" transform="translate(-.000226 -.000226)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="55.001" rx="13.002" width="55.001" x="4.5001" y="4.5013"/><path d="m46.212 14.5h-9.863c-1.8084 0-4.3339 1.0462-5.6124 2.3246l-15.278 15.278c-1.2786 1.2787-1.2786 3.3711 0 4.6494l11.789 11.789c1.2786 1.2787 3.3708 1.2787 4.6495 0l15.278-15.278c1.2786-1.2784 2.3247-3.8042 2.3247-5.6122v-9.863c-.000064-1.8083-1.4794-3.2877-3.2877-3.2877zm-4.3686 10.937c-1.8122 0-3.2812-1.4691-3.2812-3.2812s1.4691-3.2812 3.2812-3.2812c1.8122 0 3.2812 1.4691 3.2812 3.2812s-1.4691 3.2812-3.2812 3.2812z" fill="url(#c)" stroke-width="2.9167"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.048" y="-.048">
+        <feGaussianBlur stdDeviation="1.1"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.499" y2="4.499">
+        <stop offset="0" stop-color="#ffc841"/>
+        <stop offset=".492" stop-color="#ffbe37"/>
+        <stop offset="1" stop-color="#ffc841"/>
+    </linearGradient>
+    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="49.5" x2="14.97" y1="14.612" y2="49.507">
+        <stop offset="0" stop-color="#f4f4f7"/>
+        <stop offset="1" stop-color="#ffdc96"/>
+    </linearGradient>
+    <rect filter="url(#a)" height="55" opacity=".3" rx="13.002" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55.001" rx="13.002" width="55.001" x="4.5" y="4.501"/>
+    <path d="M46.212 14.5h-9.863c-1.808 0-4.334 1.046-5.612 2.325L15.459 32.103a3.297 3.297 0 0 0 0 4.649l11.789 11.789a3.297 3.297 0 0 0 4.65 0l15.277-15.278c1.279-1.278 2.325-3.804 2.325-5.612v-9.863a3.297 3.297 0 0 0-3.288-3.288zm-4.369 10.937a3.281 3.281 0 1 1 0-6.562 3.281 3.281 0 0 1 0 6.562z" fill="url(#c)"/>
+</svg>

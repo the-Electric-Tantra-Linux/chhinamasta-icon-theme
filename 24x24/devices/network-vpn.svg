@@ -1,1 +1,13 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m12 2.5a4 4 0 0 0 -4 4v5h8v-5a4 4 0 0 0 -4-4zm0 2c1.128 0 2 .872 2 2v3h-4v-3c0-1.128.872-2 2-2z" opacity=".2"/><rect height="20" opacity=".2" rx="1" transform="rotate(90)" width="2" x="19.5" y="-22"/><path d="m11 16h2v4h-2z" fill="#828282"/><path d="m12 2a4 4 0 0 0 -4 4v5h8v-5a4 4 0 0 0 -4-4zm0 2c1.128 0 2 .872 2 2v3h-4v-3c0-1.128.872-2 2-2z" fill="#f4f4f7"/><rect height="12" opacity=".2" rx=".7" ry=".857" transform="matrix(0 -1 -1 0 0 0)" width="7" x="-16.5" y="-18"/><rect fill="#fecd38" height="12" rx=".8" ry=".857" transform="matrix(0 -1 -1 0 0 0)" width="8" x="-16" y="-18"/><path d="m6 10h12v4h-12z" fill="#f4f4f7" opacity=".3"/><rect fill="#828282" height="20" rx="1" transform="rotate(90)" width="2" x="19" y="-22"/><path d="m8 22h8v.5h-8z" opacity=".2"/><path d="m8 18h8v4h-8z" fill="#afafb1"/><path d="m8 18h8v.5h-8zm4-16a4 4 0 0 0 -4 4v.5a4 4 0 1 1 8 0v-.5a4 4 0 0 0 -4-4z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M12 2.5a4 4 0 0 0-4 4v5h8v-5a4 4 0 0 0-4-4zm0 2c1.128 0 2 .872 2 2v3h-4v-3c0-1.128.872-2 2-2z" opacity=".2"/>
+    <rect height="20" opacity=".2" rx="1" transform="rotate(90)" width="2" x="19.5" y="-22"/>
+    <path d="M11 16h2v4h-2z" fill="#828282"/>
+    <path d="M12 2a4 4 0 0 0-4 4v5h8V6a4 4 0 0 0-4-4zm0 2c1.128 0 2 .872 2 2v3h-4V6c0-1.128.872-2 2-2z" fill="#f4f4f7"/>
+    <rect height="12" opacity=".2" rx=".7" ry=".857" transform="matrix(0 -1 -1 0 0 0)" width="7" x="-16.5" y="-18"/>
+    <rect fill="#fecd38" height="12" rx=".8" ry=".857" transform="matrix(0 -1 -1 0 0 0)" width="8" x="-16" y="-18"/>
+    <path d="M6 10h12v4H6z" fill="#f4f4f7" opacity=".3"/>
+    <rect fill="#828282" height="20" rx="1" transform="rotate(90)" width="2" x="19" y="-22"/>
+    <path d="M8 22h8v.5H8z" opacity=".2"/>
+    <path d="M8 18h8v4H8z" fill="#afafb1"/>
+    <path d="M8 18h8v.5H8zm4-16a4 4 0 0 0-4 4v.5a4 4 0 1 1 8 0V6a4 4 0 0 0-4-4z" fill="#f4f4f7" opacity=".2"/>
+</svg>

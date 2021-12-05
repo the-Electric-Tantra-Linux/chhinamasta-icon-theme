@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><defs><clipPath id="d"><circle cx="24" cy="24" r="20"/></clipPath><clipPath id="b"><circle cx="24" cy="24" r="20"/></clipPath><clipPath id="c"><circle cx="24" cy="23" r="20"/></clipPath><clipPath id="a"><path d="M2 31h12V21l10 10 10-10v10h12V2H2z"/></clipPath></defs><circle style="opacity:.2" cx="24" cy="25" r="20"/><circle style="fill:#f60" cx="24" cy="24" r="20" clip-path="url(#a)"/><path style="fill:#4d4d4d" d="M3 31h11V21l10 10 10-10v10h11v16H3z" clip-path="url(#b)"/><path style="opacity:.2" transform="translate(0 1)" d="M3 30h8V13l13 13 13-13v17h8v5H32V25l-8 8-8-8v10H3z" clip-path="url(#c)"/><path style="fill:#f2f2f2" d="M3 30h8V13l13 13 13-13v17h8v5H32V25l-8 8-8-8v10H3z" clip-path="url(#d)"/><path style="fill:#f4f4f7;opacity:.2" d="M24 4A20 20 0 0 0 4 24a20 20 0 0 0 .021.582A20 20 0 0 1 24 5a20 20 0 0 1 19.979 19.418A20 20 0 0 0 44 24 20 20 0 0 0 24 4z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
+    <defs>
+        <clipPath id="d">
+            <circle cx="24" cy="24" r="20"/>
+        </clipPath>
+        <clipPath id="b">
+            <circle cx="24" cy="24" r="20"/>
+        </clipPath>
+        <clipPath id="c">
+            <circle cx="24" cy="23" r="20"/>
+        </clipPath>
+        <clipPath id="a">
+            <path d="M2 31h12V21l10 10 10-10v10h12V2H2z"/>
+        </clipPath>
+    </defs>
+    <circle style="opacity:.2" cx="24" cy="25" r="20"/>
+    <circle style="fill:#f60" cx="24" cy="24" r="20" clip-path="url(#a)"/>
+    <path style="fill:#4d4d4d" d="M3 31h11V21l10 10 10-10v10h11v16H3z" clip-path="url(#b)"/>
+    <path style="opacity:.2" transform="translate(0 1)" d="M3 30h8V13l13 13 13-13v17h8v5H32V25l-8 8-8-8v10H3z" clip-path="url(#c)"/>
+    <path style="fill:#f2f2f2" d="M3 30h8V13l13 13 13-13v17h8v5H32V25l-8 8-8-8v10H3z" clip-path="url(#d)"/>
+    <path style="fill:#f4f4f7;opacity:.2" d="M24 4A20 20 0 0 0 4 24a20 20 0 0 0 .021.582A20 20 0 0 1 24 5a20 20 0 0 1 19.979 19.418A20 20 0 0 0 44 24 20 20 0 0 0 24 4z"/>
+</svg>

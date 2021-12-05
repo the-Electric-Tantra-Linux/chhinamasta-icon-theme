@@ -1,1 +1,21 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><rect height="20" opacity=".2" rx="1" width="20" x="2" y="2.5"/><rect fill="#752828" height="20" rx="1" width="20" x="2" y="2"/><path d="m7.5 5.5c3.658 0 5.342 7 9 7" fill="none" opacity=".2" stroke="#000"/><path d="m2 3.5v-.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v.5c0-.554-.446-1-1-1h-18c-.554 0-1 .446-1 1z" fill="#f4f4f7" opacity=".1"/><path d="m7.5 5c3.658 0 5.342 7 9 7" fill="none" stroke="#6c7f94"/><path d="m7.5 12.5c3.658 0 5.342 7 9 7" fill="none" opacity=".2" stroke="#000"/><g fill-rule="evenodd"><path d="m6.008 4.5-.016.018-.992.982 1.008 1h1.992v-2z" opacity=".2"/><path d="m6.008 4-.016.018-.992.982 1.008 1h1.992v-2z" fill="#4c66cc"/><path d="m16 11.5v2h2.011l.989-1-.989-1h-.022z" opacity=".2"/><path d="m16 11v2h2.011l.989-1-.989-1h-.022z" fill="#4c66cc"/></g><path d="m7.5 12c3.658 0 5.342 7 9 7" fill="none" stroke="#6c7f94"/><path d="m6.008 11.5-.016.018-.992.982 1.008 1h1.992v-2z" fill-rule="evenodd" opacity=".2"/><path d="m6.008 11-.016.018-.992.982 1.008 1h1.992v-2z" fill="#4c66cc" fill-rule="evenodd"/><path d="m16 18.5v2h2.011l.989-1-.989-1h-.022z" fill-rule="evenodd" opacity=".2"/><path d="m16 18v2h2.011l.989-1-.989-1h-.022z" fill="#4c66cc" fill-rule="evenodd"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <rect height="20" opacity=".2" rx="1" width="20" x="2" y="2.5"/>
+    <rect fill="#752828" height="20" rx="1" width="20" x="2" y="2"/>
+    <path d="M7.5 5.5c3.658 0 5.342 7 9 7" fill="none" opacity=".2" stroke="#000"/>
+    <path d="M2 3.5V3c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v.5c0-.554-.446-1-1-1H3c-.554 0-1 .446-1 1z" fill="#f4f4f7" opacity=".1"/>
+    <path d="M7.5 5c3.658 0 5.342 7 9 7" fill="none" stroke="#6c7f94"/>
+    <path d="M7.5 12.5c3.658 0 5.342 7 9 7" fill="none" opacity=".2" stroke="#000"/>
+    <g fill-rule="evenodd">
+        <path d="m6.008 4.5-.016.018L5 5.5l1.008 1H8v-2z" opacity=".2"/>
+        <path d="m6.008 4-.016.018L5 5l1.008 1H8V4z" fill="#4c66cc"/>
+        <path d="M16 11.5v2h2.011l.989-1-.989-1h-.022z" opacity=".2"/>
+        <path d="M16 11v2h2.011L19 12l-.989-1h-.022z" fill="#4c66cc"/>
+    </g>
+    <path d="M7.5 12c3.658 0 5.342 7 9 7" fill="none" stroke="#6c7f94"/>
+    <g fill-rule="evenodd">
+        <path d="m6.008 11.5-.016.018L5 12.5l1.008 1H8v-2z" opacity=".2"/>
+        <path d="m6.008 11-.016.018L5 12l1.008 1H8v-2z" fill="#4c66cc"/>
+        <path d="M16 18.5v2h2.011l.989-1-.989-1h-.022z" opacity=".2"/>
+        <path d="M16 18v2h2.011L19 19l-.989-1h-.022z" fill="#4c66cc"/>
+    </g>
+</svg>

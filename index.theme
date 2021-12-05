@@ -341,7 +341,11 @@ Type=Scalable
 [48x48/notifications]
 Context=Status
 Size=48
-
+# Panel
+[16x16/panel]
+Context=Panel
+Size=16
+Type=Fixed
 
 # Places
 

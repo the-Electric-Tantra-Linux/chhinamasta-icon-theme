@@ -1,1 +1,27 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><ellipse cx="13.685" cy="44.822" opacity=".2" rx="26.556" ry="19.995" transform="matrix(.8425 -.5387 .4344 .90072 0 0)"/><ellipse cx="14.123" cy="43.973" fill="#6e6e6e" rx="26.556" ry="19.995" transform="matrix(.8425 -.5387 .4344 .90072 0 0)"/><path d="m38.77 9.008a19.677 26.792 49.086 0 0 -16.458 4.98 19.677 26.792 49.086 0 0 -15.271 25.51 19.677 26.792 49.086 0 1 15.271-24.51 19.677 26.792 49.086 0 1 16.458-4.98 19.677 26.792 49.086 0 1 14.605 8.687 19.677 26.792 49.086 0 1 1.576 6.348 19.677 26.792 49.086 0 0 -1.576-7.348 19.677 26.792 49.086 0 0 -14.605-8.687z" fill="#f4f4f7" opacity=".1"/><g transform="matrix(0 -1 -1 0 0 0)"><rect height="16" opacity=".2" rx="8" width="16" x="-21" y="-38"/><rect fill="#3e3e3e" height="16" rx="8" width="16" x="-20" y="-38"/><rect height="10" opacity=".2" rx="5" width="10" x="-18" y="-35"/><rect fill="#66f" height="10" rx="5" width="10" x="-17" y="-35"/><rect height="16" opacity=".2" rx="8" width="16" x="-35" y="-62"/><rect fill="#3e3e3e" height="16" rx="8" width="16" x="-34" y="-62"/><rect height="10" opacity=".2" rx="5" width="10" x="-32" y="-59"/><rect fill="#66f" height="10" rx="5" width="10" x="-31" y="-59"/><rect height="16" opacity=".2" rx="8" width="16" x="-39" y="-18"/><rect fill="#3e3e3e" height="16" rx="8" width="16" x="-38" y="-18"/><rect height="10" opacity=".2" rx="5" width="10" x="-36" y="-15"/><rect fill="#66f" height="10" rx="5" width="10" x="-35" y="-15"/><rect height="16" opacity=".2" rx="8" width="16" x="-61" y="-24"/><rect fill="#3e3e3e" height="16" rx="8" width="16" x="-60" y="-24"/><rect height="10" opacity=".2" rx="5" width="10" x="-58" y="-21"/><rect fill="#66f" height="10" rx="5" width="10" x="-57" y="-21"/><rect height="16" opacity=".2" rx="8" width="16" x="-57" y="-50"/><rect fill="#3e3e3e" height="16" rx="8" width="16" x="-56" y="-50"/><rect height="10" opacity=".2" rx="5" width="10" x="-54" y="-47"/><rect fill="#66f" height="10" rx="5" width="10" x="-53" y="-47"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <ellipse cx="13.685" cy="44.822" opacity=".2" rx="26.556" ry="19.995" transform="matrix(.8425 -.5387 .4344 .90072 0 0)"/>
+    <ellipse cx="14.123" cy="43.973" fill="#6e6e6e" rx="26.556" ry="19.995" transform="matrix(.8425 -.5387 .4344 .90072 0 0)"/>
+    <path d="M38.77 9.008a19.677 26.792 49.086 0 0-16.458 4.98 19.677 26.792 49.086 0 0-15.271 25.51 19.677 26.792 49.086 0 1 15.271-24.51 19.677 26.792 49.086 0 1 16.458-4.98 19.677 26.792 49.086 0 1 14.605 8.687 19.677 26.792 49.086 0 1 1.576 6.348 19.677 26.792 49.086 0 0-1.576-7.348A19.677 26.792 49.086 0 0 38.77 9.008z" fill="#f4f4f7" opacity=".1"/>
+    <g transform="matrix(0 -1 -1 0 0 0)">
+        <rect height="16" opacity=".2" rx="8" width="16" x="-21" y="-38"/>
+        <rect fill="#3e3e3e" height="16" rx="8" width="16" x="-20" y="-38"/>
+        <rect height="10" opacity=".2" rx="5" width="10" x="-18" y="-35"/>
+        <rect fill="#66f" height="10" rx="5" width="10" x="-17" y="-35"/>
+        <rect height="16" opacity=".2" rx="8" width="16" x="-35" y="-62"/>
+        <rect fill="#3e3e3e" height="16" rx="8" width="16" x="-34" y="-62"/>
+        <rect height="10" opacity=".2" rx="5" width="10" x="-32" y="-59"/>
+        <rect fill="#66f" height="10" rx="5" width="10" x="-31" y="-59"/>
+        <rect height="16" opacity=".2" rx="8" width="16" x="-39" y="-18"/>
+        <rect fill="#3e3e3e" height="16" rx="8" width="16" x="-38" y="-18"/>
+        <rect height="10" opacity=".2" rx="5" width="10" x="-36" y="-15"/>
+        <rect fill="#66f" height="10" rx="5" width="10" x="-35" y="-15"/>
+        <rect height="16" opacity=".2" rx="8" width="16" x="-61" y="-24"/>
+        <rect fill="#3e3e3e" height="16" rx="8" width="16" x="-60" y="-24"/>
+        <rect height="10" opacity=".2" rx="5" width="10" x="-58" y="-21"/>
+        <rect fill="#66f" height="10" rx="5" width="10" x="-57" y="-21"/>
+        <rect height="16" opacity=".2" rx="8" width="16" x="-57" y="-50"/>
+        <rect fill="#3e3e3e" height="16" rx="8" width="16" x="-56" y="-50"/>
+        <rect height="10" opacity=".2" rx="5" width="10" x="-54" y="-47"/>
+        <rect fill="#66f" height="10" rx="5" width="10" x="-53" y="-47"/>
+    </g>
+</svg>

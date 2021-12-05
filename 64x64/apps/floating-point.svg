@@ -1,1 +1,7 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><rect height="56" opacity=".2" rx="16.8" width="56" x="4" y="5"/><rect fill="#546580" height="56" rx="16.8" width="56" x="4" y="4"/><rect height="40" opacity=".2" rx="20" transform="matrix(0 -1 -1 0 0 0)" width="40" x="-53" y="-52"/><rect fill="#e74c3c" height="40" rx="20" transform="matrix(0 -1 -1 0 0 0)" width="40" x="-52" y="-52"/><path d="m20.8 4c-9.305 0-16.8 7.494-16.8 16.8v1c0-9.305 7.494-16.8 16.8-16.8h22.4c9.305 0 16.8 7.494 16.8 16.8v-1c0-9.305-7.494-16.8-16.8-16.8z" fill="#f4f4f7" opacity=".1"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <rect height="56" opacity=".2" rx="16.8" width="56" x="4" y="5"/>
+    <rect fill="#546580" height="56" rx="16.8" width="56" x="4" y="4"/>
+    <rect height="40" opacity=".2" rx="20" transform="matrix(0 -1 -1 0 0 0)" width="40" x="-53" y="-52"/>
+    <rect fill="#e74c3c" height="40" rx="20" transform="matrix(0 -1 -1 0 0 0)" width="40" x="-52" y="-52"/>
+    <path d="M20.8 4C11.495 4 4 11.494 4 20.8v1C4 12.495 11.494 5 20.8 5h22.4C52.505 5 60 12.494 60 21.8v-1C60 11.495 52.506 4 43.2 4z" fill="#f4f4f7" opacity=".1"/>
+</svg>

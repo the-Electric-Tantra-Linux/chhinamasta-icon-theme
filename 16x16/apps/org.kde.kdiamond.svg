@@ -1,1 +1,9 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#f4f4f7" height="16" rx=".8" width="16"/><g transform="matrix(-.70710678 -.70710678 -.70710678 .70710678 0 0)"><rect fill="#49a2d6" height="4.37" rx=".219" width="4.37" x="-9.26" y="-2.19"/><rect fill="#caa52a" height="4.37" rx=".219" width="4.37" x="-13.5" y="-6.43"/><rect fill="#e94a63" height="4.37" rx=".219" width="4.37" x="-13.5" y="2.06"/><rect fill="#6eaa53" height="4.37" rx=".219" width="4.37" x="-17.74" y="-2.19"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#f4f4f7" height="16" rx=".8" width="16"/>
+    <g transform="scale(-1 1) rotate(-45)">
+        <rect fill="#49a2d6" height="4.37" rx=".219" width="4.37" x="-9.26" y="-2.19"/>
+        <rect fill="#caa52a" height="4.37" rx=".219" width="4.37" x="-13.5" y="-6.43"/>
+        <rect fill="#e94a63" height="4.37" rx=".219" width="4.37" x="-13.5" y="2.06"/>
+        <rect fill="#6eaa53" height="4.37" rx=".219" width="4.37" x="-17.74" y="-2.19"/>
+    </g>
+</svg>

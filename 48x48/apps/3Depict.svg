@@ -1,1 +1,36 @@
-<svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><filter id="b" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.490001" y2="4.490001"><stop offset="0" stop-color="#dee0e2"/><stop offset="1" stop-color="#f1f3f5" stop-opacity=".996078"/></linearGradient><linearGradient id="d" gradientUnits="userSpaceOnUse" x1="57.9168615" x2="57.9168615" y1="7.75975" y2="46.9035"><stop offset="0" stop-color="#ff3c64"/><stop offset="1" stop-color="#ff4628"/></linearGradient><linearGradient id="e" gradientTransform="matrix(1 0 0 1.2271 6.577899 -26.337)" gradientUnits="userSpaceOnUse" x1="34.427" x2="34.427" xlink:href="#a" y1="32.234" y2="39.768"/><linearGradient id="f" gradientUnits="userSpaceOnUse" x1="24.900324" x2="24.900324" y1="28.95335" y2="68.9986625"><stop offset="0" stop-color="#14dc78"/><stop offset="1" stop-color="#14a03c"/></linearGradient><linearGradient id="g" gradientTransform="matrix(1 0 0 1.2271 -11.727501 -20.369)" gradientUnits="userSpaceOnUse" x1="34.427" x2="34.427" xlink:href="#a" y1="32.234" y2="39.768"/><linearGradient id="h" gradientUnits="userSpaceOnUse" x1="55.9147665" x2="55.9147665" y1="37.2739625" y2="76.8083375"><stop offset="0" stop-color="#32b4ff"/><stop offset="1" stop-color="#3287ff"/></linearGradient><linearGradient id="i" gradientTransform="matrix(1 0 0 1.2271 1.028959 -11.551)" gradientUnits="userSpaceOnUse" x1="34.427" x2="34.427" xlink:href="#a" y1="32.234" y2="39.768"/><circle cx="-1248.7" cy="-1241.6" fill="#5e4aa6" r="0"/><circle cx="-149.15" cy="23.855" fill="#5e4aa6" fill-rule="evenodd" r="0"/><rect fill="#141414" filter="url(#b)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" width="55" x="4.5" y="4.5"/><rect fill="url(#c)" height="54.999996" ry="14.999999" stroke-linecap="round" stroke-width="2.74436" width="54.999996" x="4.500002" y="4.500002"/><circle cx="41.1525" cy="24.452999" fill="url(#d)" r="12.5"/><ellipse cx="41.1525" cy="18.353001" fill="url(#e)" opacity=".7" rx="7.5523" ry="5.1983" stroke-width=".27607"/><circle cx="22.8475" cy="30.434999" fill="url(#f)" r="12.5"/><ellipse cx="22.8475" cy="24.320999" fill="url(#g)" opacity=".7" rx="7.5523" ry="5.1983" stroke-width=".27607"/><circle cx="35.603497" cy="39.547001" fill="url(#h)" r="12.5"/><ellipse cx="35.603497" cy="33.138" fill="url(#i)" opacity=".7" rx="7.5523" ry="5.1983" stroke-width=".27607"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <linearGradient id="a">
+        <stop offset="0" stop-color="#fff"/>
+        <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="b" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#dee0e2"/>
+        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
+    </linearGradient>
+    <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="57.917" x2="57.917" y1="7.76" y2="46.904">
+        <stop offset="0" stop-color="#ff3c64"/>
+        <stop offset="1" stop-color="#ff4628"/>
+    </linearGradient>
+    <linearGradient id="e" gradientTransform="matrix(1 0 0 1.2271 6.578 -26.337)" gradientUnits="userSpaceOnUse" x1="34.427" x2="34.427" xlink:href="#a" y1="32.234" y2="39.768"/>
+    <linearGradient id="f" gradientUnits="userSpaceOnUse" x1="24.9" x2="24.9" y1="28.953" y2="68.999">
+        <stop offset="0" stop-color="#14dc78"/>
+        <stop offset="1" stop-color="#14a03c"/>
+    </linearGradient>
+    <linearGradient id="g" gradientTransform="matrix(1 0 0 1.2271 -11.728 -20.369)" gradientUnits="userSpaceOnUse" x1="34.427" x2="34.427" xlink:href="#a" y1="32.234" y2="39.768"/>
+    <linearGradient id="h" gradientUnits="userSpaceOnUse" x1="55.915" x2="55.915" y1="37.274" y2="76.808">
+        <stop offset="0" stop-color="#32b4ff"/>
+        <stop offset="1" stop-color="#3287ff"/>
+    </linearGradient>
+    <linearGradient id="i" gradientTransform="matrix(1 0 0 1.2271 1.029 -11.551)" gradientUnits="userSpaceOnUse" x1="34.427" x2="34.427" xlink:href="#a" y1="32.234" y2="39.768"/>
+    <rect fill="#141414" filter="url(#b)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#c)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <circle cx="41.153" cy="24.453" fill="url(#d)" r="12.5"/>
+    <ellipse cx="41.153" cy="18.353" fill="url(#e)" opacity=".7" rx="7.552" ry="5.198"/>
+    <circle cx="22.848" cy="30.435" fill="url(#f)" r="12.5"/>
+    <ellipse cx="22.848" cy="24.321" fill="url(#g)" opacity=".7" rx="7.552" ry="5.198"/>
+    <circle cx="35.603" cy="39.547" fill="url(#h)" r="12.5"/>
+    <ellipse cx="35.603" cy="33.138" fill="url(#i)" opacity=".7" rx="7.552" ry="5.198"/>
+</svg>

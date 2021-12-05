@@ -1,1 +1,14 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="3.26034" x2="17.81224" y1="17.7148" y2="3.1629"><stop offset="0" stop-color="#a53cff"/><stop offset="1" stop-color="#b496ff"/></linearGradient><g transform="translate(-2.0694 -1.9749)"><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" transform="matrix(.26458 0 0 .26458 2.0694 1.9749)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.552" ry="3.9687" stroke-linecap="round" stroke-width=".72611" width="14.552" x="3.26" y="3.1656"/><path d="m10.535 7.1078c-1.8065 0-3.2668 1.4191-3.333 3.2083.47636 1.2521 1.6871 2.1362 3.1107 2.1362 1.0069 0 1.9021-.44162 2.5108-1.1435-.25053 1.173-1.1138 2.1104-2.2415 2.4663 1.8271-.02278 3.2874-1.4993 3.2874-3.333 0-1.8487-1.4854-3.333-3.333-3.333" fill="#fff" stroke-width=".23812"/></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="3.26" x2="17.812" y1="17.715" y2="3.163">
+        <stop offset="0" stop-color="#a53cff"/>
+        <stop offset="1" stop-color="#b496ff"/>
+    </linearGradient>
+    <g transform="translate(-2.07 -1.975)">
+        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="translate(2.07 1.975) scale(.26458)" width="55" x="4.5" y="4.5"/>
+        <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="3.26" y="3.166"/>
+        <path d="M10.535 7.108a3.326 3.326 0 0 0-3.333 3.208 3.32 3.32 0 0 0 3.11 2.136 3.306 3.306 0 0 0 2.512-1.143 3.313 3.313 0 0 1-2.242 2.466 3.322 3.322 0 0 0 3.287-3.333 3.324 3.324 0 0 0-3.333-3.333" fill="#fff"/>
+    </g>
+</svg>

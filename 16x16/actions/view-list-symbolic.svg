@@ -1,1 +1,12 @@
-<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g filter="url(#a)" transform="translate(-585.00035 15.003361)"/><g fill="#4c5263"><rect height="2" ry="1" width="6" x="8.00002" y="10.00336"/><rect height="2" ry="1" width="6" x="8.00002" y="4.003362"/><rect height="4" ry="1" width="4" x="2.00002" y="3.003362"/><rect height="4" ry="1" width="4" x="2.00002" y="9.00336"/></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-585 15.003)"/>
+    <g fill="#f4f4f7">
+        <rect height="2" ry="1" width="6" x="8" y="10.003"/>
+        <rect height="2" ry="1" width="6" x="8" y="4.003"/>
+        <rect height="4" ry="1" width="4" x="2" y="3.003"/>
+        <rect height="4" ry="1" width="4" x="2" y="9.003"/>
+    </g>
+</svg>

@@ -1,1 +1,11 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><rect height="47.025" opacity=".2" rx="2.85" transform="matrix(0 -1 -1 0 0 0)" width="57" x="-61" y="-50.02"/><rect fill="#1e3d7d" height="47.025" rx="2.85" transform="matrix(0 -1 -1 0 0 0)" width="57" x="-60" y="-50.02"/><path d="m5.85 3a2.843 2.843 0 0 0 -2.85 2.85v1c0-1.58 1.27-2.85 2.85-2.85h41.326c1.579 0 2.85 1.27 2.85 2.85v-1c0-1.58-1.271-2.85-2.85-2.85z" fill="#f4f4f7" opacity=".1"/><path d="m3 15v9h9v-9zm0 13v3h31v-3zm0 6v3h31v-3zm0 6v3h31v-3z" opacity=".2"/><path d="m50.025 10.125v38.475h-21.375z" fill="#f4f4f7"/><path d="m3 14v9h9v-9zm0 13v3h31v-3zm0 6v3h31v-3zm0 6v3h31v-3z" fill="#f4f4f7"/><path d="m46.585 4-23.585 43.504v6.496h24v7h9v-7h4v-9h-4v-41h-4.55zm.415 16.32v24.68h-13.889z" opacity=".2"/><path d="m46.585 3-23.585 43.504v6.496h24v7h9v-7h4v-9h-4v-41h-4.55zm.415 16.32v24.68h-13.889z" fill="#ff950e"/><path d="m46.586 3-23.586 43.504v1l23.586-43.504h9.414v-1zm-12.912 41-.563 1h13.889v-1zm22.326 0v1h4v-1z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <rect height="47.025" opacity=".2" rx="2.85" transform="matrix(0 -1 -1 0 0 0)" width="57" x="-61" y="-50.02"/>
+    <rect fill="#1e3d7d" height="47.025" rx="2.85" transform="matrix(0 -1 -1 0 0 0)" width="57" x="-60" y="-50.02"/>
+    <path d="M5.85 3A2.843 2.843 0 0 0 3 5.85v1C3 5.27 4.27 4 5.85 4h41.326c1.579 0 2.85 1.27 2.85 2.85v-1c0-1.58-1.271-2.85-2.85-2.85z" fill="#f4f4f7" opacity=".1"/>
+    <path d="M3 15v9h9v-9zm0 13v3h31v-3zm0 6v3h31v-3zm0 6v3h31v-3z" opacity=".2"/>
+    <path d="M50.025 10.125V48.6H28.65z" fill="#f4f4f7"/>
+    <path d="M3 14v9h9v-9zm0 13v3h31v-3zm0 6v3h31v-3zm0 6v3h31v-3z" fill="#f4f4f7"/>
+    <path d="M46.585 4 23 47.504V54h24v7h9v-7h4v-9h-4V4h-4.55zM47 20.32V45H33.111z" opacity=".2"/>
+    <path d="M46.585 3 23 46.504V53h24v7h9v-7h4v-9h-4V3h-4.55zM47 19.32V44H33.111z" fill="#ff950e"/>
+    <path d="M46.586 3 23 46.504v1L46.586 4H56V3zM33.674 44l-.563 1H47v-1zM56 44v1h4v-1z" fill="#f4f4f7" opacity=".2"/>
+</svg>

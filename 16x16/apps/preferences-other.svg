@@ -1,1 +1,8 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><circle cx="8.5" cy="8.5" fill="#454564" r="7.5"/><g fill="#2196f3"><circle cx="8.5" cy="8.5" r="1.5"/><circle cx="12.5" cy="8.5" r="1.5"/><circle cx="4.5" cy="8.5" r="1.5"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="8.5" cy="8.5" fill="#454564" r="7.5"/>
+    <g fill="#2196f3">
+        <circle cx="8.5" cy="8.5" r="1.5"/>
+        <circle cx="12.5" cy="8.5" r="1.5"/>
+        <circle cx="4.5" cy="8.5" r="1.5"/>
+    </g>
+</svg>

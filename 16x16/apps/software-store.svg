@@ -1,1 +1,14 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.190602" x2="15.742399" y1="15.742398" y2="1.190602"><stop offset="0" stop-color="#ff8228"/><stop offset=".49173453" stop-color="#ff7346"/><stop offset="1" stop-color="#ff8c55"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" transform="scale(.26457812)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.551797" ry="3.940872" width="14.551797" x="1.190602" y="1.190602"/><path d="m11.772 2.7097a3.3072 3.3072 0 0 1 .0027.13228 3.3072 3.3072 0 0 1 -3.3072 3.3072 3.3072 3.3072 0 0 1 -3.3072-3.3072 3.3072 3.3072 0 0 1 .0026-.13247" fill="none" stroke="#fff" stroke-dashoffset=".42096" stroke-width=".52916"/><text style="word-spacing:0;stroke-width:.066664;letter-spacing:0;font-size:2.6665;font-family:sans-serif;fill:#fff" x="4.722727" y="11.117077"><tspan fill="#fff" stroke-width=".066664" x="4.722727" y="11.117077">SHOP</tspan></text></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.742" y1="15.742" y2="1.191">
+        <stop offset="0" stop-color="#ff8228"/>
+        <stop offset=".492" stop-color="#ff7346"/>
+        <stop offset="1" stop-color="#ff8c55"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="14.552" ry="3.941" width="14.552" x="1.191" y="1.191"/>
+    <path d="M11.772 2.71a3.307 3.307 0 0 1 .003.132 3.307 3.307 0 0 1-3.307 3.307A3.307 3.307 0 0 1 5.16 2.842a3.307 3.307 0 0 1 .003-.132" fill="none" stroke="#f4f4f7" stroke-dashoffset=".421" stroke-width=".529"/>
+    <text style="word-spacing:0;stroke-width:.066664;letter-spacing:0;font-size:2.6665;font-family:sans-serif;fill:#f4f4f7" x="4.723" y="11.117"><tspan stroke-width=".067" x="4.723" y="11.117">SHOP</tspan></text>
+</svg>

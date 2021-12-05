@@ -1,1 +1,25 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><clipPath id="a"><circle cx="8.467" cy="288.53" r="6.879"/></clipPath><filter id="b" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="1.19060176" x2="15.74239836" y1="15.7397522" y2="1.1879556"><stop offset="0" stop-color="#ff8228"/><stop offset=".50054371" stop-color="#ff5a1e" stop-opacity=".996078"/><stop offset="1" stop-color="#ff8c55" stop-opacity=".996078"/></linearGradient><rect fill="#141414" filter="url(#b)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" transform="scale(.26457812)" width="55" x="4.5" y="4.5"/><rect fill="url(#c)" height="14.551796" ry="3.968672" stroke-linecap="round" stroke-width=".726098" width="14.551796" x="1.190602" y="1.190602"/><g transform="translate(-19.085 -3.3717)"><path d="m27.552 7.214c-2.273 0-4.1156 1.8426-4.1156 4.1156v2.6458c0 1.0495.74728 1.3349 1.1759 1.4131v-4.0589c0-1.6286 1.3111-2.9397 2.9397-2.9397s2.9397 1.3111 2.9397 2.9397v4.0604c.42861-.07878 1.1759-.36511 1.1759-1.4146v-2.6458c0-2.273-1.8426-4.1156-4.1156-4.1156z" fill="#fff" stroke-width=".26458"/><g fill="#fafafa"><rect height="4.1156" opacity=".75" ry=".287" width="1.4699" x="24.612" y="11.917"/><rect height="4.1156" opacity=".75" ry=".287" width="1.4699" x="29.021" y="11.917"/></g></g><g clip-path="url(#a)" fill="none" stroke="#fff" stroke-opacity=".937" stroke-width=".127" transform="matrix(1.0578 0 0 1.0385 -.4898 -290.77)"><path d="m1.4854 287.74c.719.15538 1.3906.6252 1.9826 1.9807.674 1.544 1.623 2.229 2.772 2.283 1.48.07 2.673-1.226 3.459-2.385 1.602-2.362 4.5188-2.1357 5.8165-1.2509" opacity=".35"/><path d="m1.4927 288.13c.89388-.34988 2.0828-.42377 2.8723.82673.722 1.143 1.576 2.867 4.049 2.709 1.478-.095 2.956-.71 3.718-2.15.52913-.93299 1.2601-1.8714 2.2929-2.1036.38219-.0816.65524-.0703.97604.0566" opacity=".35"/><path d="m1.7748 290.25c.94712-.44412 2.7457-.95337 4.1972-.52987 1.297.379 2.937 1.847 6.056 1.504.824-.09 1.522-.563 2.183-1.464.4785-.6525.75018-1.0197 1.3056-1.1669" opacity=".35"/></g><g fill="#5e4aa6" stroke-width=".264578"><circle cx="-385.06055" cy="-349.05325" r="0"/><circle cx="-94.1437" cy="-14.241576" fill-rule="evenodd" r="0"/></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <clipPath id="c">
+        <circle cx="8.467" cy="288.53" r="6.879"/>
+    </clipPath>
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.742" y1="15.74" y2="1.188">
+        <stop offset="0" stop-color="#ff8228"/>
+        <stop offset=".501" stop-color="#ff5a1e" stop-opacity=".996"/>
+        <stop offset="1" stop-color="#ff8c55" stop-opacity=".996"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
+    <path d="M8.467 3.842a4.116 4.116 0 0 0-4.116 4.116v2.646c0 1.05.748 1.335 1.176 1.413v-4.06c0-1.628 1.311-2.939 2.94-2.939s2.94 1.311 2.94 2.94v4.06c.428-.078 1.176-.365 1.176-1.414V7.958a4.116 4.116 0 0 0-4.116-4.116z" fill="#fff"/>
+    <g fill="#fafafa" transform="translate(-19.085 -3.372)">
+        <rect height="4.116" opacity=".75" ry=".287" width="1.47" x="24.612" y="11.917"/>
+        <rect height="4.116" opacity=".75" ry=".287" width="1.47" x="29.021" y="11.917"/>
+    </g>
+    <g clip-path="url(#c)" fill="none" stroke="#fff" stroke-opacity=".937" stroke-width=".127" transform="matrix(1.0578 0 0 1.0385 -.49 -290.77)">
+        <path d="M1.485 287.74c.72.155 1.391.625 1.983 1.98.674 1.545 1.623 2.23 2.772 2.284 1.48.07 2.673-1.226 3.459-2.385 1.602-2.362 4.519-2.136 5.816-1.251" opacity=".35"/>
+        <path d="M1.493 288.13c.894-.35 2.083-.424 2.872.827.722 1.143 1.576 2.867 4.049 2.709 1.478-.095 2.956-.71 3.718-2.15.53-.933 1.26-1.872 2.293-2.104.382-.081.655-.07.976.057" opacity=".35"/>
+        <path d="M1.775 290.25c.947-.444 2.745-.953 4.197-.53 1.297.38 2.937 1.847 6.056 1.504.824-.09 1.522-.563 2.183-1.464.478-.652.75-1.02 1.306-1.167" opacity=".35"/>
+    </g>
+</svg>

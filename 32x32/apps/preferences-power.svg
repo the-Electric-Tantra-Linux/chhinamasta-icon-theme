@@ -1,1 +1,15 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.19055" x2="13.45145178" y1="15.739804" y2="3.47890222"><stop offset="0" stop-color="#ff7d1e"/><stop offset="1" stop-color="#ffa53c"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" transform="matrix(.26458 0 0 .26458 -.00006 -.00006)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.5519" ry="3.9687" stroke-linecap="round" stroke-width=".726113" width="14.5519" x="1.19055" y="1.19055"/><g fill="#fff" transform="matrix(1.5545 0 0 1.5545 -4.0513 -5.1732)"><path d="m8.0531 5.7079-1.622 3.5312h1.622z"/><path d="m8.0531 11.66 1.622-3.5312h-1.622z" opacity=".5"/></g><g fill="#5e4aa6" stroke-width=".26458"><circle cx="-347.13535" cy="-328.502588" r="0"/><circle cx="-318.454878" cy="-344.430304" r="0"/><circle cx="-323.164402" cy="-329.66674" r="0"/><circle cx="-322.952738" cy="-335.408126" r="0"/><circle cx="-32.03538674458" cy="-.577611682" fill-rule="evenodd" r="0"/></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="13.451" y1="15.74" y2="3.479">
+        <stop offset="0" stop-color="#ff7d1e"/>
+        <stop offset="1" stop-color="#ffa53c"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
+    <g fill="#fff">
+        <path d="M8.467 3.7 5.946 9.189h2.521z"/>
+        <path d="m8.467 12.952 2.522-5.489H8.467z" opacity=".5"/>
+    </g>
+</svg>

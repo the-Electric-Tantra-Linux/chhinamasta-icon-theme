@@ -1,1 +1,27 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="6.88934" x2="21.44124" y1="28.3208" y2="13.7689"><stop offset="0" stop-color="#8cd750"/><stop offset=".49585" stop-color="#7dcd32" stop-opacity=".99608"/><stop offset="1" stop-color="#87d241" stop-opacity=".99608"/></linearGradient><linearGradient id="c" gradientTransform="matrix(-.17678 -.00075272 .00075272 .17591 18.403 17.194)" gradientUnits="userSpaceOnUse" x1="17.483" x2="37.758" xlink:href="#d" y1="4.7157" y2="39.833"/><linearGradient id="d"><stop offset="0" stop-color="#f6fbff"/><stop offset="1" stop-color="#eaeff2"/></linearGradient><linearGradient id="e" gradientTransform="matrix(-.17678 -.00075272 .00075272 .17591 18.403 22.353)" gradientUnits="userSpaceOnUse" x1="17.483" x2="37.758" xlink:href="#d" y1="4.7157" y2="39.833"/><linearGradient id="f" gradientTransform="matrix(-.17678 -.00075272 .00075272 .17591 18.403 19.685)" gradientUnits="userSpaceOnUse" x1="17.483" x2="37.758" xlink:href="#d" y1="4.7157" y2="39.833"/><g transform="translate(-5.6986 -12.581)"><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" transform="matrix(.26458 0 0 .26458 5.6986 12.581)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.552" ry="3.9687" stroke-linecap="round" stroke-width=".72611" width="14.552" x="6.8892" y="13.771"/><path d="m17.367 19.98h-6.4041l-.35578-.35578h7.1156z" fill="#5c9724" fill-opacity=".99608"/><path d="m10.963 22.115h6.4041l.35578.35578h-7.1156z" fill="#5c9724" fill-opacity=".99608"/><g stroke-width=".17789"><path d="m10.607 17.49h7.1156v2.1347h-7.1156z" fill="url(#c)"/><path d="m10.607 22.471h7.1156v2.1347h-7.1156z" fill="url(#e)"/><path d="m10.607 19.98h7.1156v2.1347h-7.1156z" fill="url(#f)"/></g></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <filter id="b" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="6.889" x2="21.441" y1="28.321" y2="13.769">
+        <stop offset="0" stop-color="#8cd750"/>
+        <stop offset=".496" stop-color="#7dcd32" stop-opacity=".996"/>
+        <stop offset="1" stop-color="#87d241" stop-opacity=".996"/>
+    </linearGradient>
+    <linearGradient id="d" gradientTransform="matrix(-.17678 -.00075 .00075 .17591 18.403 17.194)" gradientUnits="userSpaceOnUse" x1="17.483" x2="37.758" xlink:href="#a" y1="4.716" y2="39.833"/>
+    <linearGradient id="a">
+        <stop offset="0" stop-color="#f6fbff"/>
+        <stop offset="1" stop-color="#eaeff2"/>
+    </linearGradient>
+    <linearGradient id="e" gradientTransform="matrix(-.17678 -.00075 .00075 .17591 18.403 22.353)" gradientUnits="userSpaceOnUse" x1="17.483" x2="37.758" xlink:href="#a" y1="4.716" y2="39.833"/>
+    <linearGradient id="f" gradientTransform="matrix(-.17678 -.00075 .00075 .17591 18.403 19.685)" gradientUnits="userSpaceOnUse" x1="17.483" x2="37.758" xlink:href="#a" y1="4.716" y2="39.833"/>
+    <g transform="translate(-5.699 -12.581)">
+        <rect fill="#141414" filter="url(#b)" height="55" opacity=".3" ry="15" transform="translate(5.699 12.581) scale(.26458)" width="55" x="4.5" y="4.5"/>
+        <rect fill="url(#c)" height="14.552" ry="3.969" width="14.552" x="6.889" y="13.771"/>
+        <path d="M17.367 19.98h-6.404l-.356-.356h7.116zM10.963 22.115h6.404l.356.356h-7.116z" fill="#5c9724" fill-opacity=".996"/>
+        <g stroke-width=".178">
+            <path d="M10.607 17.49h7.116v2.135h-7.116z" fill="url(#d)"/>
+            <path d="M10.607 22.471h7.116v2.135h-7.116z" fill="url(#e)"/>
+            <path d="M10.607 19.98h7.116v2.135h-7.116z" fill="url(#f)"/>
+        </g>
+    </g>
+</svg>

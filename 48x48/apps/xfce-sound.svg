@@ -1,1 +1,13 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><rect fill="#4f4f4f" height="40" rx="2" transform="scale(-1 1)" width="32" x="-40" y="4"/><circle cx="-28" cy="24" opacity=".4" r="13" transform="rotate(-90)"/><g transform="matrix(0 -1 -1 0 0 0)"><circle cx="-29" cy="-24" opacity=".2" r="11"/><circle cx="-28" cy="-24" fill="#fec006" r="11"/><circle cx="-28" cy="-24" fill="#17191e" r="5"/></g><circle cx="10" cy="-15" opacity=".4" r="2" transform="rotate(90)"/><circle cx="10" cy="-33" opacity=".4" r="2" transform="rotate(90)"/><path d="m8 42v1c0 1.108.892 2 2 2h28c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2h-28c-1.108 0-2-.892-2-2z" opacity=".2"/><path d="m10 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h28c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" fill="#fff" opacity=".1"/></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#4f4f4f" height="40" rx="2" transform="scale(-1 1)" width="32" x="-40" y="4"/>
+    <circle cx="-28" cy="24" opacity=".4" r="13" transform="rotate(-90)"/>
+    <g transform="matrix(0 -1 -1 0 0 0)">
+        <circle cx="-29" cy="-24" opacity=".2" r="11"/>
+        <circle cx="-28" cy="-24" fill="#fec006" r="11"/>
+        <circle cx="-28" cy="-24" fill="#17191e" r="5"/>
+    </g>
+    <circle cx="10" cy="-15" opacity=".4" r="2" transform="rotate(90)"/>
+    <circle cx="10" cy="-33" opacity=".4" r="2" transform="rotate(90)"/>
+    <path d="M8 42v1c0 1.108.892 2 2 2h28c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2H10c-1.108 0-2-.892-2-2z" opacity=".2"/>
+    <path d="M10 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h28c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z" fill="#fff" opacity=".1"/>
+</svg>

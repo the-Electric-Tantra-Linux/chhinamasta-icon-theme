@@ -1,1 +1,19 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="m1 2v11s0 1 1 1h12s1 0 1-1v-9c0-1-1-1-1-1h-5l-2-2h-5s-1 0-1 1z" fill="#e8a80e"/><g fill="#513b05"><circle cx="3.75" cy="8.75" r=".75"/><circle cx="5.45" cy="8.75" r=".75"/><circle cx="7.15" cy="8.75" r=".75"/><circle cx="8.85" cy="8.75" r=".75"/><circle cx="10.55" cy="8.75" r=".75"/><circle cx="12.25" cy="8.75" r=".75"/><circle cx="5.45" cy="6.75" r=".75"/><circle cx="7.15" cy="6.75" r=".75"/><circle cx="8.85" cy="6.75" r=".75"/><circle cx="10.55" cy="6.75" r=".75"/><circle cx="3.75" cy="10.75" r=".75"/><circle cx="5.45" cy="10.75" r=".75"/><circle cx="10.55" cy="10.75" r=".75"/><circle cx="12.25" cy="10.75" r=".75"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <path d="M1 2v11s0 1 1 1h12s1 0 1-1V4c0-1-1-1-1-1H9L7 1H2S1 1 1 2z" fill="#e8a80e"/>
+    <g fill="#513b05">
+        <circle cx="3.75" cy="8.75" r=".75"/>
+        <circle cx="5.45" cy="8.75" r=".75"/>
+        <circle cx="7.15" cy="8.75" r=".75"/>
+        <circle cx="8.85" cy="8.75" r=".75"/>
+        <circle cx="10.55" cy="8.75" r=".75"/>
+        <circle cx="12.25" cy="8.75" r=".75"/>
+        <circle cx="5.45" cy="6.75" r=".75"/>
+        <circle cx="7.15" cy="6.75" r=".75"/>
+        <circle cx="8.85" cy="6.75" r=".75"/>
+        <circle cx="10.55" cy="6.75" r=".75"/>
+        <circle cx="3.75" cy="10.75" r=".75"/>
+        <circle cx="5.45" cy="10.75" r=".75"/>
+        <circle cx="10.55" cy="10.75" r=".75"/>
+        <circle cx="12.25" cy="10.75" r=".75"/>
+    </g>
+</svg>

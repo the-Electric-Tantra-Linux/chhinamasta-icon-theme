@@ -1,1 +1,12 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49"><stop offset="0" stop-color="#df2a2a"/><stop offset="1" stop-color="#f83f3f"/></linearGradient><g fill="#5e4aa6"><circle cx="-1248.7" cy="-1241.6" r="0"/><circle cx="-1140.3" cy="-1301.8" r="0"/><circle cx="-1158.1" cy="-1246" r="0"/><circle cx="-1157.3" cy="-1267.7" r="0"/><circle cx="-57.756" cy="-2.1829" fill-rule="evenodd" r="0"/></g><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="55" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><path d="m23.656 9-6.656 16.563 21.375 2.688c.016-.051.016-.105.031-.156l-16.406-7.594 1.719-11.5h-.063m5.063 1.125c-.109.02-.211.137-.25.125l-4.563 8.938 13.512 7.242c.352-.016.34-.227.207-.43l-9.219-8.406.563-7.03c-.027-.367-.141-.457-.25-.438m-10.813.188c-5.246 2.336-8.906 7.574-8.906 13.688 0 8.285 6.715 15 15 15 6.152 0 11.438-3.699 13.75-9h-23.438m17.188-18.16-1.656 5.094 7.449 7.227c.215.313 1.395.5 1.645-.414 0-4.898-2.277-8.984-5.906-11.719-.848-.438-1.395-.543-1.531-.188" fill="#fffffe" transform="matrix(1.2767 0 0 1.2767 1.4 1.3585)"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#df2a2a"/>
+        <stop offset="1" stop-color="#f83f3f"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <path d="m31.602 12.849-8.498 21.146 27.29 3.432c.02-.066.02-.135.039-.2l-20.946-9.695 2.195-14.682h-.08m6.464 1.436c-.14.026-.27.175-.32.16l-5.825 11.411 17.25 9.246c.45-.02.435-.29.265-.549l-11.77-10.732.719-8.975c-.035-.469-.18-.584-.32-.56m-13.804.24c-6.698 2.983-11.37 9.67-11.37 17.476 0 10.578 8.572 19.15 19.15 19.15 7.854 0 14.603-4.722 17.554-11.49H19.672m21.944-23.185-2.114 6.504 9.51 9.227c.274.4 1.781.638 2.1-.529 0-6.253-2.907-11.47-7.54-14.962-1.083-.559-1.781-.693-1.955-.24" fill="#fffffe"/>
+</svg>

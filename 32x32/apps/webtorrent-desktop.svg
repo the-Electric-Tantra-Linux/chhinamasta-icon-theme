@@ -1,1 +1,12 @@
-<svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="31.738337" x2="31.738337" y1="6.213918" y2="58.771091"><stop offset="0" stop-color="#1e1e1e"/><stop offset="1" stop-color="#3c3c3c"/></linearGradient><g fill="#5e4aa6"><circle cx="-1325.581" cy="-1264.626" r="0"/><circle cx="-1217.181" cy="-1324.826" r="0"/><circle cx="-1055.83101" cy="-1339.326" r="0"/><circle cx="43.639" cy="-73.831" fill-rule="evenodd" r="0"/><circle cx="-1049.33101" cy="-1348.326" r="0"/><circle cx="50.159" cy="-82.842002" fill-rule="evenodd" r="0"/><circle cx="-1248.7" cy="-1241.6" r="0"/><circle cx="-149.14999" cy="23.855" fill-rule="evenodd" r="0"/></g><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><path d="m19.5 4.5c-8.31 0-15 6.69-15 15v25c0 8.31 6.69 15 15 15h25c8.31 0 15-6.69 15-15v-25c0-8.31-6.69-15-15-15z" fill="url(#b)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.00157"/><path d="m32 14.5-15 8.75v17.5l15 8.75 15-8.75v-17.5zm0 2.8125 12.5 7.1875v15l-12.5 7.1875-12.5-7.1875v-15m8.75 1.25c-2.07125 0-3.75 1.67875-3.75 3.75 0 4.125 5.375 6.25 7.5 10 2.125-3.75 7.5-5.875 7.5-10 0-2.07125-1.67875-3.75-3.75-3.75s-3.75 1.67875-3.75 3.75c0-2.07125-1.67875-3.75-3.75-3.75z" fill="#e50914" fill-rule="evenodd"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="31.738" x2="31.738" y1="6.214" y2="58.771">
+        <stop offset="0" stop-color="#1e1e1e"/>
+        <stop offset="1" stop-color="#3c3c3c"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <path d="M19.5 4.5c-8.31 0-15 6.69-15 15v25c0 8.31 6.69 15 15 15h25c8.31 0 15-6.69 15-15v-25c0-8.31-6.69-15-15-15z" fill="url(#b)"/>
+    <path d="m32 14.5-15 8.75v17.5l15 8.75 15-8.75v-17.5zm0 2.813L44.5 24.5v15L32 46.688 19.5 39.5v-15m8.75 1.25a3.75 3.75 0 0 0-3.75 3.75c0 4.125 5.375 6.25 7.5 10 2.125-3.75 7.5-5.875 7.5-10a3.75 3.75 0 1 0-7.5 0 3.75 3.75 0 0 0-3.75-3.75z" fill="#e50914" fill-rule="evenodd"/>
+</svg>

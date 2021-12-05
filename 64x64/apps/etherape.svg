@@ -1,1 +1,10 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><rect height="56" opacity=".2" rx="28" width="56" x="4" y="5"/><rect fill="#307ada" height="56" rx="28" width="56" x="4" y="4"/><path d="m32 4c-15.512 0-28 12.488-28 28 0 .168.01.333.014.5.266-15.279 12.642-27.5 27.986-27.5s27.72 12.221 27.986 27.5c.003-.167.014-.332.014-.5 0-15.512-12.488-28-28-28z" fill="#f4f4f7" opacity=".1"/><path d="m32 12c-11.046 0-20 8.954-20 20s8.954 20 20 20 20-8.954 20-20-8.954-20-20-20z" fill="#17191e"/><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"><path d="m4 33h19.6l5.6-14 5.6 28 5.6-14h19.6" opacity=".2" stroke="#000"/><path d="m4 32h19.6l5.6-14 5.6 28 5.6-14h19.6" stroke="#22d3ff"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <rect height="56" opacity=".2" rx="28" width="56" x="4" y="5"/>
+    <rect fill="#307ada" height="56" rx="28" width="56" x="4" y="4"/>
+    <path d="M32 4C16.488 4 4 16.488 4 32c0 .168.01.333.014.5C4.28 17.221 16.656 5 32 5s27.72 12.221 27.986 27.5c.003-.167.014-.332.014-.5C60 16.488 47.512 4 32 4z" fill="#f4f4f7" opacity=".1"/>
+    <path d="M32 12c-11.046 0-20 8.954-20 20s8.954 20 20 20 20-8.954 20-20-8.954-20-20-20z" fill="#17191e"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+        <path d="M4 33h19.6l5.6-14 5.6 28 5.6-14H60" opacity=".2" stroke="#000"/>
+        <path d="M4 32h19.6l5.6-14 5.6 28 5.6-14H60" stroke="#22d3ff"/>
+    </g>
+</svg>

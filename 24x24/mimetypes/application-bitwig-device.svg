@@ -1,1 +1,23 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m5 2.5c-.554 0-1 .446-1 1v18c0 .554.446 1 1 1h14c.554 0 1-.446 1-1v-13l-6-6z" opacity=".2"/><path d="m5 2c-.554 0-1 .446-1 1v18c0 .554.446 1 1 1h14c.554 0 1-.446 1-1v-13l-5-1-1-5z" fill="#e8a80e"/><path d="m20 8.5-6-6v5c0 .554.446 1 1 1z" opacity=".2"/><path d="m20 8-6-6v5c0 .554.446 1 1 1z" fill="#ffcc3f"/><path d="m5 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h9v-.5z" fill="#f4f4f7" opacity=".2"/><g fill="#513b05"><circle cx="8.75" cy="12.75" r=".75"/><circle cx="10.75" cy="12.75" r=".75"/><circle cx="12.75" cy="12.75" r=".75"/><circle cx="14.75" cy="12.75" r=".75"/><circle cx="6.75" cy="14.75" r=".75"/><circle cx="8.75" cy="14.75" r=".75"/><circle cx="10.75" cy="14.75" r=".75"/><circle cx="12.75" cy="14.75" r=".75"/><circle cx="14.75" cy="14.75" r=".75"/><circle cx="16.75" cy="14.75" r=".75"/><circle cx="6.75" cy="16.75" r=".75"/><circle cx="8.75" cy="16.75" r=".75"/><circle cx="14.75" cy="16.75" r=".75"/><circle cx="16.75" cy="16.75" r=".75"/></g></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M5 2.5c-.554 0-1 .446-1 1v18c0 .554.446 1 1 1h14c.554 0 1-.446 1-1v-13l-6-6z" opacity=".2"/>
+    <path d="M5 2c-.554 0-1 .446-1 1v18c0 .554.446 1 1 1h14c.554 0 1-.446 1-1V8l-5-1-1-5z" fill="#e8a80e"/>
+    <path d="m20 8.5-6-6v5c0 .554.446 1 1 1z" opacity=".2"/>
+    <path d="m20 8-6-6v5c0 .554.446 1 1 1z" fill="#ffcc3f"/>
+    <path d="M5 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h9V2z" fill="#f4f4f7" opacity=".2"/>
+    <g fill="#513b05">
+        <circle cx="8.75" cy="12.75" r=".75"/>
+        <circle cx="10.75" cy="12.75" r=".75"/>
+        <circle cx="12.75" cy="12.75" r=".75"/>
+        <circle cx="14.75" cy="12.75" r=".75"/>
+        <circle cx="6.75" cy="14.75" r=".75"/>
+        <circle cx="8.75" cy="14.75" r=".75"/>
+        <circle cx="10.75" cy="14.75" r=".75"/>
+        <circle cx="12.75" cy="14.75" r=".75"/>
+        <circle cx="14.75" cy="14.75" r=".75"/>
+        <circle cx="16.75" cy="14.75" r=".75"/>
+        <circle cx="6.75" cy="16.75" r=".75"/>
+        <circle cx="8.75" cy="16.75" r=".75"/>
+        <circle cx="14.75" cy="16.75" r=".75"/>
+        <circle cx="16.75" cy="16.75" r=".75"/>
+    </g>
+</svg>

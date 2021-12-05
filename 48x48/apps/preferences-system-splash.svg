@@ -1,1 +1,23 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.490002" y2="4.490002"><stop offset="0" stop-color="#32d7ff"/><stop offset="1" stop-color="#329bff"/></linearGradient><circle cx="-1124.8" cy="-1279.3" fill="#5e4aa6" r="0"/><g fill="#5e4aa6" stroke-width="1.00000709716"><circle cx="-1006.34655224398" cy="-1318.59973174398" r="0"/><circle cx="93.1917902676" cy="-53.1085144174" fill-rule="evenodd" r="0"/><circle cx="-927.8442565" cy="-1390.10983938" r="0"/><circle cx="171.691100126" cy="-124.5819183384" fill-rule="evenodd" r="0"/></g><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="54.999996" ry="14.999999" stroke-linecap="round" stroke-width="2.74436" width="54.999996" x="4.500002" y="4.500002"/><g fill="#fff"><circle cx="-15.5" cy="8.5" opacity=".6" r="1.5" transform="matrix(-2 0 0 2 1 1)"/><circle cx="-15.5" cy="22.5" r="1.5" transform="matrix(-2 0 0 2 1 1)"/><circle cx="-15.5" cy="-22.5" opacity=".4" r="1.5" transform="matrix(0 -2 -2 0 1 1)"/><circle cx="-15.5" cy="-8.5" opacity=".8" r="1.5" transform="matrix(0 -2 -2 0 1 1)"/><circle cy="-28.92" opacity=".3" r="1.5" transform="matrix(1.41421356 -1.41421356 -1.41421356 -1.41421356 1 1)"/><circle cy="-14.92" opacity=".7" r="1.5" transform="matrix(1.41421356 -1.41421356 -1.41421356 -1.41421356 1 1)"/><circle cx="-21.92" cy="-7" opacity=".9" r="1.5" transform="matrix(-1.41421356 -1.41421356 1.41421356 -1.41421356 1 1)"/><circle cx="-21.92" cy="7" opacity=".5" r="1.5" transform="matrix(-1.41421356 -1.41421356 1.41421356 -1.41421356 1 1)"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#32d7ff"/>
+        <stop offset="1" stop-color="#329bff"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <g fill="#fff">
+        <circle cx="-15.5" cy="8.5" opacity=".6" r="1.5" transform="matrix(-2 0 0 2 1 1)"/>
+        <circle cx="-15.5" cy="22.5" r="1.5" transform="matrix(-2 0 0 2 1 1)"/>
+        <circle cx="-15.5" cy="-22.5" opacity=".4" r="1.5" transform="matrix(0 -2 -2 0 1 1)"/>
+        <circle cx="-15.5" cy="-8.5" opacity=".8" r="1.5" transform="matrix(0 -2 -2 0 1 1)"/>
+        <circle cy="-28.92" opacity=".3" r="1.5" transform="scale(2 -2) rotate(45 .854 .354)"/>
+        <circle cy="-14.92" opacity=".7" r="1.5" transform="scale(2 -2) rotate(45 .854 .354)"/>
+        <g transform="rotate(-135 .707 .293) scale(2)">
+            <circle cx="-21.92" cy="-7" opacity=".9" r="1.5"/>
+            <circle cx="-21.92" cy="7" opacity=".5" r="1.5"/>
+        </g>
+    </g>
+</svg>

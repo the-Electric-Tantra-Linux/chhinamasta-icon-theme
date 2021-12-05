@@ -1,1 +1,12 @@
-<svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49"><stop offset="0" stop-color="#32d7ff"/><stop offset="1" stop-color="#329bff"/></linearGradient><circle cx="-1124.8" cy="-1279.3" fill="#5e4aa6" r="0"/><g fill="#5e4aa6" stroke-width="1.000006568"><circle cx="-1006.345954204" cy="-1318.599054204" r="0"/><circle cx="93.19180648" cy="-53.10850652" fill-rule="evenodd" r="0"/><circle cx="-927.8437" cy="-1390.109124" r="0"/><circle cx="171.6910748" cy="-124.5818726204" fill-rule="evenodd" r="0"/></g><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="55" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><path d="m34.535097 20.85031c-3.4259.0035-6.529131 2.078985-7.9209 5.2975-1.143433-.55063-2.389963-.83809-3.6526-.84232-4.792725.000003-8.677995 3.994562-8.677995 8.9221s3.88527 8.922097 8.677995 8.9221h.003 20.249c3.592008-.0011 6.50323-2.99557 6.5028-6.6888-.0012-3.692019-2.911969-6.684622-6.5028-6.6857v-.0029-.0038c-.003-4.925353-3.887399-8.916501-8.678-8.9165z" fill="#fff" fill-rule="evenodd"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#32d7ff"/>
+        <stop offset="1" stop-color="#329bff"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <path d="M34.535 20.85c-3.426.004-6.529 2.08-7.92 5.298a8.48 8.48 0 0 0-3.653-.843c-4.793 0-8.678 3.995-8.678 8.923s3.885 8.922 8.678 8.922h20.252c3.592-.001 6.503-2.996 6.502-6.69 0-3.691-2.912-6.684-6.502-6.685v-.007c-.003-4.925-3.888-8.916-8.678-8.916z" fill="#fff" fill-rule="evenodd"/>
+</svg>

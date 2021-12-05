@@ -1,1 +1,14 @@
-<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g transform="translate(-745.0004 75)"><g filter="url(#a)"/><g fill="#4c5263" fill-opacity=".984436"><rect height="12" ry="2.999993" width="6.000014" x="750.00018" y="-72"/><rect height="1" ry=".5" width="12" x="747.00018" y="-69"/><rect height="1" ry=".5" width="12" x="747.00018" y="-66"/><rect height="1" ry=".5" width="12" x="747.00018" y="-63"/><rect height="5" ry=".5" transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)" width="1" x="581.44904" y="477.74631"/><rect height="5" ry=".5" transform="matrix(-.70710678 -.70710678 -.70710678 .70710678 0 0)" width="1" x="-483.45407" y="-587.1568"/></g></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-745 75)"/>
+    <g fill="#f4f4f7" fill-opacity=".984" transform="translate(-745 75)">
+        <rect height="12" ry="3" width="6" x="750" y="-72"/>
+        <rect height="1" ry=".5" width="12" x="747" y="-69"/>
+        <rect height="1" ry=".5" width="12" x="747" y="-66"/>
+        <rect height="1" ry=".5" width="12" x="747" y="-63"/>
+        <rect height="5" ry=".5" transform="rotate(-45)" width="1" x="581.449" y="477.746"/>
+        <rect height="5" ry=".5" transform="scale(-1 1) rotate(-45)" width="1" x="-483.454" y="-587.157"/>
+    </g>
+</svg>

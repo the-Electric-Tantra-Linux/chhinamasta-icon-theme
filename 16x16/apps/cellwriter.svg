@@ -1,1 +1,12 @@
-<svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49"><stop offset="0" stop-color="#32d7ff"/><stop offset="1" stop-color="#329bff"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="55" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><g fill="#5e4aa6"><g><circle cx="-1066" cy="-1329.5" r="0"/><circle cx="33.512" cy="-63.971" fill-rule="evenodd" r="0"/><circle cx="-987.52" cy="-1401" r="0"/><circle cx="112.01" cy="-135.44" fill-rule="evenodd" r="0"/></g><g><circle cx="-1401.7" cy="-1262.9" r="0"/><circle cx="-302.14" cy="2.5994" fill-rule="evenodd" r="0"/><circle cx="-1124.8" cy="-1279.3" r="0"/></g><g stroke-width="1.000006568"><circle cx="-1006.345992" cy="-1318.599092" r="0"/><circle cx="93.19180648" cy="-53.10850652" fill-rule="evenodd" r="0"/><circle cx="-927.8437" cy="-1390.109124" r="0"/><circle cx="171.6910748" cy="-124.5818764" fill-rule="evenodd" r="0"/></g></g><text style="fill:#fff;font-family:'Noto Sans Tamil UI';font-size:25.413;font-weight:bold;letter-spacing:0;stroke-width:.63532;word-spacing:0" x="10.780184" y="41.123268"><tspan fill="#fff" font-family="'Noto Sans Tamil UI'" font-size="25.413" font-weight="bold" stroke-width=".63532" x="10.780184" y="41.123268">CW</tspan></text><circle cx="-1184.5" cy="-1290.2" fill="#5e4aa6" r="0"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#32d7ff"/>
+        <stop offset="1" stop-color="#329bff"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <text style="fill:#f4f4f7;font-family:Noto Sans Tamil UI;font-size:25.413;font-weight:700;letter-spacing:0;stroke-width:.63532;word-spacing:0" x="10.78" y="41.123"><tspan font-family="'Noto Sans Tamil UI'" font-weight="bold" stroke-width=".635" x="10.78" y="41.123">CW</tspan></text>
+</svg>

@@ -1,1 +1,14 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><circle cx="14" cy="14" fill="#4caf50" r="2"/><circle cx="6" cy="10" fill="#3f51b5" r="2"/><circle cx="6" cy="6" fill="#4caf50" r="2"/><circle cx="2" cy="2" fill="#4caf50" r="2"/><circle cx="6" cy="2" fill="#f44336" r="2"/><circle cx="14" cy="2" fill="#3f51b5" r="2"/><circle cx="10" cy="6" fill="#3f51b5" r="2"/><circle cx="14" cy="10" fill="#f44336" r="2"/><g fill="#3f51b5"><circle cx="2" cy="14" r="2"/><circle cx="10" cy="14" r="2"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="14" cy="14" fill="#4caf50" r="2"/>
+    <circle cx="6" cy="10" fill="#3f51b5" r="2"/>
+    <circle cx="6" cy="6" fill="#4caf50" r="2"/>
+    <circle cx="2" cy="2" fill="#4caf50" r="2"/>
+    <circle cx="6" cy="2" fill="#f44336" r="2"/>
+    <circle cx="14" cy="2" fill="#3f51b5" r="2"/>
+    <circle cx="10" cy="6" fill="#3f51b5" r="2"/>
+    <circle cx="14" cy="10" fill="#f44336" r="2"/>
+    <g fill="#3f51b5">
+        <circle cx="2" cy="14" r="2"/>
+        <circle cx="10" cy="14" r="2"/>
+    </g>
+</svg>

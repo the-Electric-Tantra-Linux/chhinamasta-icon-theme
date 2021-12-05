@@ -1,1 +1,24 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect height="28" opacity=".2" rx="2.1" width="28" x="2" y="3"/><rect fill="#533f3f" height="28" rx="2.1" width="28" x="2" y="2"/><path d="m21 17 5-5h-5z" opacity=".2"/><path d="m21 16 5-5h-5z" fill="#005680"/><path d="m11 10h5v12.6h-5z" fill="#f02e00"/><path d="m6 7 10 10v-10z" opacity=".2"/><path d="m6 6 10 10v-10z" fill="#ffb900"/><path d="m16 17-10 10h10z" opacity=".2"/><path d="m16 16-10 10h10z" fill="#ff8900"/><path d="m26 21-5-5v5z" fill="#006c80"/><path d="m26 26.99-5-4.995v4.994z" opacity=".2"/><path d="m26 25.99-5-4.995v4.994z" fill="#008052"/><path d="m21 22 5 4.995v-4.995z" opacity=".2"/><path d="m21 21 5 4.995v-4.995z" fill="#00aa80"/><path d="m21 12-5 5h5zm5-5-5 5h5z" opacity=".2"/><path d="m21 11-5 5h5z" fill="#008900"/><path d="m26 6-5 5h5z" fill="#008080"/><g fill="#f4f4f7"><path d="m4.1 2c-1.164 0-2.1.936-2.1 2.1v1c0-1.164.936-2.1 2.1-2.1h23.8c1.164 0 2.1.936 2.1 2.1v-1c0-1.164-.936-2.1-2.1-2.1z" opacity=".1"/><path d="m6 6 1 1h9v-1zm20 0-5 5h1l4-4zm-5 5-5 5h1l4-4zm-5.5 5.5-9.5 9.5h1l9-9zm5.5 4.5 1.002 1h3.998v-1z" opacity=".2"/><path d="m21 16v1l4 4h1z" opacity=".1"/></g></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect height="28" opacity=".2" rx="2.1" width="28" x="2" y="3"/>
+    <rect fill="#533f3f" height="28" rx="2.1" width="28" x="2" y="2"/>
+    <path d="m21 17 5-5h-5z" opacity=".2"/>
+    <path d="m21 16 5-5h-5z" fill="#005680"/>
+    <path d="M11 10h5v12.6h-5z" fill="#f02e00"/>
+    <path d="m6 7 10 10V7z" opacity=".2"/>
+    <path d="m6 6 10 10V6z" fill="#ffb900"/>
+    <path d="M16 17 6 27h10z" opacity=".2"/>
+    <path d="M16 16 6 26h10z" fill="#ff8900"/>
+    <path d="m26 21-5-5v5z" fill="#006c80"/>
+    <path d="m26 26.99-5-4.995v4.994z" opacity=".2"/>
+    <path d="m26 25.99-5-4.995v4.994z" fill="#008052"/>
+    <path d="m21 22 5 4.995V22z" opacity=".2"/>
+    <path d="m21 21 5 4.995V21z" fill="#00aa80"/>
+    <path d="m21 12-5 5h5zm5-5-5 5h5z" opacity=".2"/>
+    <path d="m21 11-5 5h5z" fill="#008900"/>
+    <path d="m26 6-5 5h5z" fill="teal"/>
+    <g fill="#f4f4f7">
+        <path d="M4.1 2C2.936 2 2 2.936 2 4.1v1C2 3.936 2.936 3 4.1 3h23.8c1.164 0 2.1.936 2.1 2.1v-1c0-1.164-.936-2.1-2.1-2.1z" opacity=".1"/>
+        <path d="m6 6 1 1h9V6zm20 0-5 5h1l4-4zm-5 5-5 5h1l4-4zm-5.5 5.5L6 26h1l9-9zM21 21l1.002 1H26v-1z" opacity=".2"/>
+        <path d="M21 16v1l4 4h1z" opacity=".1"/>
+    </g>
+</svg>

@@ -1,1 +1,17 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect height="28" opacity=".2" rx="1.4" width="28" x="2" y="3"/><rect fill="#8e8e8e" height="28" rx="1.4" width="28" x="2" y="2"/><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"><path d="m6.5 8.5 4.5 5 4.5-5" opacity=".2" stroke="#000"/><path d="m6.5 7.5 4.5 5 4.5-5" stroke="#17191e"/><path d="m6.5 19.5v6h6" opacity=".2" stroke="#000"/><path d="m6.5 18.5v6h6" stroke="#17191e"/><path d="m25.514 13.484-4.5-5-4.5 5" opacity=".2" stroke="#000"/></g><path d="m3.4 2c-.775 0-1.4.625-1.4 1.4v1c0-.775.625-1.4 1.4-1.4h25.2c.775 0 1.4.625 1.4 1.4v-1c0-.775-.625-1.4-1.4-1.4z" fill="#f4f4f7" opacity=".2"/><path d="m25.514 12.484-4.5-5-4.5 5" fill="none" stroke="#17191e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/><path d="m25.514 25.484-4.5-5-4.5 5" style="opacity:.2;fill:none;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"/><path d="m25.514 24.484-4.5-5-4.5 5" fill="none" stroke="#17191e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect height="28" opacity=".2" rx="1.4" width="28" x="2" y="3"/>
+    <rect fill="#8e8e8e" height="28" rx="1.4" width="28" x="2" y="2"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+        <path d="m6.5 8.5 4.5 5 4.5-5" opacity=".2" stroke="#000"/>
+        <path d="m6.5 7.5 4.5 5 4.5-5" stroke="#17191e"/>
+        <path d="M6.5 19.5v6h6" opacity=".2" stroke="#000"/>
+        <path d="M6.5 18.5v6h6" stroke="#17191e"/>
+        <path d="m25.514 13.484-4.5-5-4.5 5" opacity=".2" stroke="#000"/>
+    </g>
+    <path d="M3.4 2C2.625 2 2 2.625 2 3.4v1C2 3.625 2.625 3 3.4 3h25.2c.775 0 1.4.625 1.4 1.4v-1c0-.775-.625-1.4-1.4-1.4z" fill="#f4f4f7" opacity=".2"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+        <path d="m25.514 12.484-4.5-5-4.5 5" stroke="#17191e"/>
+        <path d="m25.514 25.484-4.5-5-4.5 5" opacity=".2" stroke="#000"/>
+        <path d="m25.514 24.484-4.5-5-4.5 5" stroke="#17191e"/>
+    </g>
+</svg>

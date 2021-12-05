@@ -1,1 +1,15 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(0 -1 -1 0 0 0)"><rect height="28" opacity=".2" rx="1.5" width="22" x="-28" y="-30"/><rect fill="#0245c5" height="28" rx="1.5" width="22" x="-27" y="-30"/><path d="m-25.5-30h19c.831 0 1.5.669 1.5 1.5v12.5h-22v-12.5c0-.831.669-1.5 1.5-1.5z" fill="#f4f4f7" opacity=".2"/><path d="m-16-30h9.5c.831 0 1.5.669 1.5 1.5v25c0 .831-.669 1.5-1.5 1.5h-9.5z" fill="#f4f4f7" opacity=".1"/></g><path d="m3.5 5c-.831 0-1.5.669-1.5 1.5v1c0-.831.669-1.5 1.5-1.5h25c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5z" fill="#fff" opacity=".1"/><rect height="15" opacity=".2" rx=".5" transform="matrix(0 -1 -1 0 0 0)" width="12" x="-17" y="-16"/><rect fill="#ebebeb" height="15" rx=".5" transform="matrix(0 -1 -1 0 0 0)" width="12" x="-16" y="-16"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <g transform="matrix(0 -1 -1 0 0 0)">
+        <rect height="28" opacity=".2" rx="1.5" width="22" x="-28" y="-30"/>
+        <rect fill="#0245c5" height="28" rx="1.5" width="22" x="-27" y="-30"/>
+        <g fill="#f4f4f7">
+            <path d="M-25.5-30h19c.831 0 1.5.669 1.5 1.5V-16h-22v-12.5c0-.831.669-1.5 1.5-1.5z" opacity=".2"/>
+            <path d="M-16-30h9.5c.831 0 1.5.669 1.5 1.5v25C-5-2.669-5.669-2-6.5-2H-16z" opacity=".1"/>
+        </g>
+    </g>
+    <path d="M3.5 5C2.669 5 2 5.669 2 6.5v1C2 6.669 2.669 6 3.5 6h25c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5z" fill="#fff" opacity=".1"/>
+    <g transform="matrix(0 -1 -1 0 0 0)">
+        <rect height="15" opacity=".2" rx=".5" width="12" x="-17" y="-16"/>
+        <rect fill="#ebebeb" height="15" rx=".5" width="12" x="-16" y="-16"/>
+    </g>
+</svg>

@@ -1,1 +1,16 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><rect height="40" opacity=".2" rx="3" width="20" x="26" y="5"/><rect height="28.8" opacity=".2" rx="1.667" ry="1.778" width="20" x="10" y="16.56"/><rect fill="#939393" height="40" rx="3" width="20" x="26" y="4"/><path d="m28 9h16v6h-16z" opacity=".2"/><circle cx="42" cy="29" opacity=".2" r="2"/><circle cx="42" cy="28" fill="#f4f4f7" r="2"/><rect fill="#c8c8c8" height="28.8" rx="1.667" ry="1.778" width="20" x="10" y="15.56"/><rect height="28" opacity=".2" rx="1.8" ry="1.75" width="36" x="2" y="13"/><rect fill="#f4f4f7" height="28" rx="1.8" ry="1.75" width="36" x="2" y="12"/><path d="m6 16h28v20h-28z" fill="#2463bf"/><path d="m6 16h28v1h-28z" opacity=".2"/><g fill="#f4f4f7"><path d="m6 36h28v1h-28zm23-32c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3h14c1.662 0 3 1.338 3 3v-1c0-1.662-1.338-3-3-3z" opacity=".2"/><path d="m3.8 12c-.996 0-1.8.78-1.8 1.75v1c0-.97.804-1.75 1.8-1.75h32.4c.996 0 1.8.78 1.8 1.75v-1c0-.97-.804-1.75-1.8-1.75z" opacity=".2"/></g></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <rect height="40" opacity=".2" rx="3" width="20" x="26" y="5"/>
+    <rect height="28.8" opacity=".2" rx="1.667" ry="1.778" width="20" x="10" y="16.56"/>
+    <rect fill="#939393" height="40" rx="3" width="20" x="26" y="4"/>
+    <path d="M28 9h16v6H28z" opacity=".2"/>
+    <circle cx="42" cy="29" opacity=".2" r="2"/>
+    <circle cx="42" cy="28" fill="#f4f4f7" r="2"/>
+    <rect fill="#c8c8c8" height="28.8" rx="1.667" ry="1.778" width="20" x="10" y="15.56"/>
+    <rect height="28" opacity=".2" rx="1.8" ry="1.75" width="36" x="2" y="13"/>
+    <rect fill="#f4f4f7" height="28" rx="1.8" ry="1.75" width="36" x="2" y="12"/>
+    <path d="M6 16h28v20H6z" fill="#2463bf"/>
+    <path d="M6 16h28v1H6z" opacity=".2"/>
+    <g fill="#f4f4f7">
+        <path d="M6 36h28v1H6zM29 4c-1.662 0-3 1.338-3 3v1c0-1.662 1.338-3 3-3h14c1.662 0 3 1.338 3 3V7c0-1.662-1.338-3-3-3zM3.8 12c-.996 0-1.8.78-1.8 1.75v1c0-.97.804-1.75 1.8-1.75h32.4c.996 0 1.8.78 1.8 1.75v-1c0-.97-.804-1.75-1.8-1.75z" opacity=".2"/>
+    </g>
+</svg>

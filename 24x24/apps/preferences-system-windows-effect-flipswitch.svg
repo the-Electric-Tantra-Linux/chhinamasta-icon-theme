@@ -1,1 +1,11 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><rect height="18" opacity=".2" rx="1" width="20" x="2" y="3.5"/><rect fill="#1e88e5" height="18" rx="1" width="20" x="2" y="3"/><rect height="7" opacity=".2" rx=".5" width="10" x="13" y="6.5"/><rect fill="#ebebeb" height="7" rx=".5" width="10" x="13" y="6"/><rect height="7" opacity=".2" rx=".5" width="10" x="1" y="6.5"/><rect fill="#ebebeb" height="7" rx=".5" width="10" x="1" y="6"/><rect height="7" opacity=".2" rx=".5" width="10" x="7" y="15.5"/><rect fill="#ebebeb" height="7" rx=".5" width="10" x="7" y="15"/><path d="m3 3c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <rect height="18" opacity=".2" rx="1" width="20" x="2" y="3.5"/>
+    <rect fill="#1e88e5" height="18" rx="1" width="20" x="2" y="3"/>
+    <rect height="7" opacity=".2" rx=".5" width="10" x="13" y="6.5"/>
+    <rect fill="#ebebeb" height="7" rx=".5" width="10" x="13" y="6"/>
+    <rect height="7" opacity=".2" rx=".5" width="10" x="1" y="6.5"/>
+    <rect fill="#ebebeb" height="7" rx=".5" width="10" x="1" y="6"/>
+    <rect height="7" opacity=".2" rx=".5" width="10" x="7" y="15.5"/>
+    <rect fill="#ebebeb" height="7" rx=".5" width="10" x="7" y="15"/>
+    <path d="M3 3c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V4c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/>
+</svg>

@@ -1,1 +1,21 @@
-<svg enable-background="new 0 0 1024 1024" height="64" image-rendering="optimizeSpeed" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.490002" y2="4.490002"><stop offset="0" stop-color="#32d7ff"/><stop offset="1" stop-color="#329bff"/></linearGradient><circle cx="-1124.8" cy="-1279.3" fill="#5e4aa6" r="0"/><g fill="#5e4aa6" stroke-width="1.000006568"><circle cx="-1006.345954204" cy="-1318.599054204" r="0"/><circle cx="93.19180648" cy="-53.10850652" fill-rule="evenodd" r="0"/><circle cx="-927.8437" cy="-1390.109124" r="0"/><circle cx="171.6910748" cy="-124.5818726204" fill-rule="evenodd" r="0"/></g><g stroke-linecap="round"><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-width="2.74436" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="54.999996" ry="14.999999" stroke-width="2.74436" width="54.999996" x="4.500002" y="4.500002"/><circle cx="15.577497" cy="17.498223" fill="#fff" r="5" stroke-width="2.57961"/><rect fill="#fff" height="1" rx="0" ry=".5" stroke-width="1.33714" width="30" x="23.422503" y="16.998223"/><circle cx="15.577497" cy="31.999999" fill="#fff" r="5" stroke-width="2.57961"/><rect fill="#fff" height="1" rx="0" ry=".5" stroke-width="1.33714" width="30" x="23.422503" y="31.499999"/><circle cx="15.577497" cy="46.501778" fill="#fff" r="5" stroke-width="2.57961"/><rect fill="#fff" height="1" rx="0" ry=".5" stroke-width="1.33714" width="30" x="23.422503" y="46.001778"/></g></svg>
+<svg enable-background="new 0 0 1024 1024" height="64" image-rendering="optimizeSpeed" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#32d7ff"/>
+        <stop offset="1" stop-color="#329bff"/>
+    </linearGradient>
+    <g stroke-linecap="round">
+        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+        <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+        <g fill="#f4f4f7">
+            <circle cx="15.577" cy="17.498" r="5"/>
+            <rect height="1" rx="0" ry=".5" width="30" x="23.423" y="16.998"/>
+            <circle cx="15.577" cy="32" r="5"/>
+            <rect height="1" rx="0" ry=".5" width="30" x="23.423" y="31.5"/>
+            <circle cx="15.577" cy="46.502" r="5"/>
+            <rect height="1" rx="0" ry=".5" width="30" x="23.423" y="46.002"/>
+        </g>
+    </g>
+</svg>

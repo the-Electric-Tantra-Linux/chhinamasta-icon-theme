@@ -1,1 +1,13 @@
-<svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.281" x2="58.897" y1="59.492" y2="4.8762"><stop offset="0" stop-color="#ff7832"/><stop offset=".50754" stop-color="#ffbe37"/><stop offset="1" stop-color="#ffdc32"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><path d="m17.502 4.5c-7.2031 0-13.002 5.7988-13.002 13.002v28.996c0 7.2031 5.7988 13.002 13.002 13.002h28.996c7.2031 0 13.002-5.7988 13.002-13.002v-28.996c0-7.2031-5.7988-13.002-13.002-13.002z" fill="url(#b)" stroke-linecap="round" stroke-width="4.648"/><path d="m22.625 17c-3.1062 0-5.625 2.5125-5.625 5.625 0 3.1062 2.5125 5.625 5.625 5.625h5.195l-7.93 7.8912c-2.1962 2.1962-2.1962 5.7725 0 7.9688s5.7725 2.1962 7.9688 0l7.8912-7.93v5.195c0 3.1062 2.5125 5.625 5.625 5.625 3.1062 0 5.625-2.5125 5.625-5.625v-18.75c0-3.1062-2.5125-5.625-5.625-5.625z" fill="#ff5326"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.281" x2="58.897" y1="59.492" y2="4.876">
+        <stop offset="0" stop-color="#ff7832"/>
+        <stop offset=".508" stop-color="#ffbe37"/>
+        <stop offset="1" stop-color="#ffdc32"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <path d="M17.502 4.5A12.973 12.973 0 0 0 4.5 17.502v28.996A12.973 12.973 0 0 0 17.502 59.5h28.996A12.973 12.973 0 0 0 59.5 46.498V17.502A12.973 12.973 0 0 0 46.498 4.5z" fill="url(#b)"/>
+    <path d="M22.625 17A5.621 5.621 0 0 0 17 22.625a5.621 5.621 0 0 0 5.625 5.625h5.195l-7.93 7.891c-2.196 2.196-2.196 5.773 0 7.969s5.772 2.196 7.969 0l7.891-7.93v5.195A5.621 5.621 0 0 0 41.375 47 5.621 5.621 0 0 0 47 41.375v-18.75A5.621 5.621 0 0 0 41.375 17z" fill="#ff5326"/>
+</svg>

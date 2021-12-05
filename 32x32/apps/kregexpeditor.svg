@@ -1,1 +1,17 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect height="28" opacity=".2" rx="1.4" width="28" x="2" y="3"/><rect fill="#5ca6ff" height="28" rx="1.4" width="28" x="2" y="2"/><rect height="9" opacity=".1" rx=".667" ry=".643" width="24" x="4" y="12"/><rect fill="#3e49db" height="9" rx=".667" ry=".643" width="24" x="4" y="11"/><g transform="rotate(90)"><rect height="6" opacity=".2" rx=".333" width="10" x="8" y="-13"/><rect fill="#00f0d7" height="6" rx=".333" width="10" x="7" y="-13"/><rect height="7" opacity=".2" rx=".333" ry=".35" width="10" x="8" y="-25"/><rect fill="#fff528" height="7" rx=".333" ry=".35" width="10" x="7" y="-25"/></g><rect height="10" opacity=".1" rx=".75" ry=".769" transform="scale(-1)" width="12" x="-22" y="-25"/><rect fill="#cf4950" height="10" rx=".75" ry=".769" transform="scale(-1)" width="12" x="-22" y="-24"/><path d="m7.334 7a.334.334 0 0 0 -.334.334v1c0-.185.15-.334.334-.334h5.332c.185 0 .334.15.334.334v-1a.334.334 0 0 0 -.334-.334zm11.016 0c-.194 0-.35.15-.35.334v1c0-.185.156-.334.35-.334h6.3c.194 0 .35.15.35.334v-1a.341.341 0 0 0 -.35-.334z" fill="#f4f4f7" opacity=".2"/><path d="m3.4 2c-.775 0-1.4.625-1.4 1.4v1c0-.775.625-1.4 1.4-1.4h25.2c.775 0 1.4.625 1.4 1.4v-1c0-.775-.625-1.4-1.4-1.4z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect height="28" opacity=".2" rx="1.4" width="28" x="2" y="3"/>
+    <rect fill="#5ca6ff" height="28" rx="1.4" width="28" x="2" y="2"/>
+    <rect height="9" opacity=".1" rx=".667" ry=".643" width="24" x="4" y="12"/>
+    <rect fill="#3e49db" height="9" rx=".667" ry=".643" width="24" x="4" y="11"/>
+    <g transform="rotate(90)">
+        <rect height="6" opacity=".2" rx=".333" width="10" x="8" y="-13"/>
+        <rect fill="#00f0d7" height="6" rx=".333" width="10" x="7" y="-13"/>
+        <rect height="7" opacity=".2" rx=".333" ry=".35" width="10" x="8" y="-25"/>
+        <rect fill="#fff528" height="7" rx=".333" ry=".35" width="10" x="7" y="-25"/>
+    </g>
+    <rect height="10" opacity=".1" rx=".75" ry=".769" transform="scale(-1)" width="12" x="-22" y="-25"/>
+    <rect fill="#cf4950" height="10" rx=".75" ry=".769" transform="scale(-1)" width="12" x="-22" y="-24"/>
+    <g fill="#f4f4f7">
+        <path d="M7.334 7A.334.334 0 0 0 7 7.334v1C7 8.149 7.15 8 7.334 8h5.332c.185 0 .334.15.334.334v-1A.334.334 0 0 0 12.666 7zM18.35 7c-.194 0-.35.15-.35.334v1c0-.185.156-.334.35-.334h6.3c.194 0 .35.15.35.334v-1A.341.341 0 0 0 24.65 7zM3.4 2C2.625 2 2 2.625 2 3.4v1C2 3.625 2.625 3 3.4 3h25.2c.775 0 1.4.625 1.4 1.4v-1c0-.775-.625-1.4-1.4-1.4z" opacity=".2"/>
+    </g>
+</svg>

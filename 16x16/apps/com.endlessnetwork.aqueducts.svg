@@ -1,1 +1,10 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#0da1dc" height="16" rx="2" width="16"/><path d="m7 5h9v5h-9z" fill="#fda701"/><path d="m6 7h-2v1h-1v2h-1v6h1v-4h1v-2h2z" fill="#76edfd"/><path d="m6 3h1v9h-1z" fill="#76908e"/><path d="m5 4h3v7h-3z" fill="#9badab"/><path d="m7 6h9v3h-9z" fill="#fec91a"/><path d="m5 5h3v5h-3z" fill="#adcdce"/><path d="m6 6v1h1v-1zm0 2v1h1v-1z" fill="#f4f4f7"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#0da1dc" height="16" rx="2" width="16"/>
+    <path d="M7 5h9v5H7z" fill="#fda701"/>
+    <path d="M6 7H4v1H3v2H2v6h1v-4h1v-2h2z" fill="#76edfd"/>
+    <path d="M6 3h1v9H6z" fill="#76908e"/>
+    <path d="M5 4h3v7H5z" fill="#9badab"/>
+    <path d="M7 6h9v3H7z" fill="#fec91a"/>
+    <path d="M5 5h3v5H5z" fill="#adcdce"/>
+    <path d="M6 6v1h1V6zm0 2v1h1V8z" fill="#f4f4f7"/>
+</svg>

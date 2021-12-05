@@ -1,1 +1,11 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><rect height="56" opacity=".2" rx="2.8" transform="matrix(0 -1 -1 0 0 0)" width="56" x="-59" y="-60"/><rect fill="#dfa46d" height="56" rx="2.8" transform="matrix(0 -1 -1 0 0 0)" width="56" x="-58" y="-60"/><path d="m26 2v22h-22v12h22v22h12v-22h22v-12h-22v-22z" opacity=".3"/><circle cx="48" cy="47" opacity=".2" r="16"/><circle cx="48" cy="46" fill="#8c45c7" r="16"/><g fill="#f4f4f7"><path d="m40 38v3.77l4.23 4.23-4.23 4.23v3.77h3.77l4.23-4.23 4.23 4.23h3.77v-3.77l-4.23-4.23 4.23-4.23v-3.77h-3.77l-4.23 4.23-4.23-4.23z"/><path d="m6.8 2c-1.55 0-2.8 1.25-2.8 2.8v1c0-1.55 1.25-2.8 2.8-2.8h50.4c1.55 0 2.8 1.25 2.8 2.8v-1c0-1.55-1.25-2.8-2.8-2.8z" opacity=".2"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <rect height="56" opacity=".2" rx="2.8" transform="matrix(0 -1 -1 0 0 0)" width="56" x="-59" y="-60"/>
+    <rect fill="#dfa46d" height="56" rx="2.8" transform="matrix(0 -1 -1 0 0 0)" width="56" x="-58" y="-60"/>
+    <path d="M26 2v22H4v12h22v22h12V36h22V24H38V2z" opacity=".3"/>
+    <circle cx="48" cy="47" opacity=".2" r="16"/>
+    <circle cx="48" cy="46" fill="#8c45c7" r="16"/>
+    <g fill="#f4f4f7">
+        <path d="M40 38v3.77L44.23 46 40 50.23V54h3.77L48 49.77 52.23 54H56v-3.77L51.77 46 56 41.77V38h-3.77L48 42.23 43.77 38z"/>
+        <path d="M6.8 2C5.25 2 4 3.25 4 4.8v1C4 4.25 5.25 3 6.8 3h50.4C58.75 3 60 4.25 60 5.8v-1C60 3.25 58.75 2 57.2 2z" opacity=".2"/>
+    </g>
+</svg>

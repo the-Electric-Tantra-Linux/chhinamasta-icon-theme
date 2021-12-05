@@ -1,1 +1,19 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><path d="m6.8 61c-1.55 0-2.8-1.25-2.8-2.8v-2c0 1.55 1.25 2.8 2.8 2.8h50.4c1.55 0 2.8-1.25 2.8-2.8v2c0 1.55-1.25 2.8-2.8 2.8h-25.2z" opacity=".2"/><path d="m32 4h-25.2a2.794 2.794 0 0 0 -2.8 2.8v25.2h28z" fill="#f7c73c"/><path d="m32 4h25.2c1.551 0 2.8 1.249 2.8 2.8v25.2h-28z" fill="#cf4f8c"/><path d="m32 60h-25.2a2.794 2.794 0 0 1 -2.8-2.8v-25.2h28z" fill="#6655e4"/><path d="m32 60h25.2c1.551 0 2.8-1.249 2.8-2.8v-25.2h-28z" fill="#f7c73c"/><path d="m6.8 4c-1.55 0-2.8 1.25-2.8 2.8v1c0-1.55 1.25-2.8 2.8-2.8h50.4c1.55 0 2.8 1.25 2.8 2.8v-1c0-1.55-1.25-2.8-2.8-2.8z" fill="#f4f4f7" opacity=".2"/><path d="m12 12h40v40h-40z" fill="#17191e"/><g fill="none" stroke-linecap="round" stroke-width="4"><path d="m18 47h16" opacity=".2" stroke="#000"/><path d="m18 46h16" stroke="#f4f4f7"/><path d="m18 35s8.088.7 8-8c-.087-8.701-8-8-8-8m-.028 15.987v-16" opacity=".2" stroke="#000" stroke-linejoin="bevel"/><path d="m18 34s8.088.7 8-8c-.087-8.7-8-8-8-8m-.028 15.987v-16" stroke="#f4f4f7" stroke-linejoin="bevel"/><path d="m46 35v-16m-12 0 6 8 6-8m-12 16v-16" opacity=".2" stroke="#000" stroke-linejoin="round"/><path d="m46 34v-16m-12 0 6 8 6-8m-12 16v-16" stroke="#f4f4f7" stroke-linejoin="round"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <path d="M6.8 61C5.25 61 4 59.75 4 58.2v-2C4 57.75 5.25 59 6.8 59h50.4c1.55 0 2.8-1.25 2.8-2.8v2c0 1.55-1.25 2.8-2.8 2.8H32z" opacity=".2"/>
+    <path d="M32 4H6.8A2.794 2.794 0 0 0 4 6.8V32h28z" fill="#f7c73c"/>
+    <path d="M32 4h25.2C58.751 4 60 5.249 60 6.8V32H32z" fill="#cf4f8c"/>
+    <path d="M32 60H6.8A2.794 2.794 0 0 1 4 57.2V32h28z" fill="#6655e4"/>
+    <path d="M32 60h25.2c1.551 0 2.8-1.249 2.8-2.8V32H32z" fill="#f7c73c"/>
+    <path d="M6.8 4C5.25 4 4 5.25 4 6.8v1C4 6.25 5.25 5 6.8 5h50.4C58.75 5 60 6.25 60 7.8v-1C60 5.25 58.75 4 57.2 4z" fill="#f4f4f7" opacity=".2"/>
+    <path d="M12 12h40v40H12z" fill="#17191e"/>
+    <g fill="none" stroke-linecap="round" stroke-width="4">
+        <path d="M18 47h16" opacity=".2" stroke="#000"/>
+        <path d="M18 46h16" stroke="#f4f4f7"/>
+        <path d="M18 35s8.088.7 8-8c-.087-8.701-8-8-8-8m-.028 15.987v-16" opacity=".2" stroke="#000" stroke-linejoin="bevel"/>
+        <path d="M18 34s8.088.7 8-8c-.087-8.7-8-8-8-8m-.028 15.987v-16" stroke="#f4f4f7" stroke-linejoin="bevel"/>
+        <g stroke-linejoin="round">
+            <path d="M46 35V19m-12 0 6 8 6-8M34 35V19" opacity=".2" stroke="#000"/>
+            <path d="M46 34V18m-12 0 6 8 6-8M34 34V18" stroke="#f4f4f7"/>
+        </g>
+    </g>
+</svg>

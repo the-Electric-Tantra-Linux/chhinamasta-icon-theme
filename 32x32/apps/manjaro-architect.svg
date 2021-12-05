@@ -1,1 +1,11 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="m6 8v1h-1.5v1h1.5v3h-1.5v1h1.5v1h1v-1h2v1h1v-1h1.5v-1h-1.5v-3h1.5v-1h-1.5v-1h-1v1h-2v-1zm1 2h2v3h-2zm6 4v1h6v-1z" opacity=".2"/><rect fill="#4f4f4f" height="24" rx="1.5" width="28" x="2" y="4"/><path d="m6 8v1h-1.5v1h1.5v3h-1.5v1h1.5v1h1v-1h2v1h1v-1h1.5v-1h-1.5v-3h1.5v-1h-1.5v-1h-1v1h-2v-1zm1 2h2v3h-2zm6 4v1h6v-1z" opacity=".2"/><path d="m6 7v1h-1.5v1h1.5v3h-1.5v1h1.5v1h1v-1h2v1h1v-1h1.5v-1h-1.5v-3h1.5v-1h-1.5v-1h-1v1h-2v-1zm1 2h2v3h-2zm6 4v1h6v-1z" fill="#f4f4f7"/><path d="m3.5 4c-.831 0-1.5.669-1.5 1.5v1c0-.831.669-1.5 1.5-1.5h25c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5z" fill="#f4f4f7" opacity=".1"/><path d="m2 26.5v1c0 .831.669 1.5 1.5 1.5h25c.831 0 1.5-.669 1.5-1.5v-1c0 .831-.669 1.5-1.5 1.5h-25c-.831 0-1.5-.669-1.5-1.5z" opacity=".1"/><circle cx="24" cy="23" fill="#16a086" r="8"/><path d="m23.983 27-2.983-4h2v-4h2v4h2z" fill="#f4f4f7"/><path d="m31.979 23.424a8 8 0 0 1 -7.979 7.576 8 8 0 0 1 -7.979-7.424 8 8 0 0 0 -.021.424 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0 -.021-.576z" opacity=".2"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <path d="M6 8v1H4.5v1H6v3H4.5v1H6v1h1v-1h2v1h1v-1h1.5v-1H10v-3h1.5V9H10V8H9v1H7V8zm1 2h2v3H7zm6 4v1h6v-1z" opacity=".2"/>
+    <rect fill="#4f4f4f" height="24" rx="1.5" width="28" x="2" y="4"/>
+    <path d="M6 8v1H4.5v1H6v3H4.5v1H6v1h1v-1h2v1h1v-1h1.5v-1H10v-3h1.5V9H10V8H9v1H7V8zm1 2h2v3H7zm6 4v1h6v-1z" opacity=".2"/>
+    <path d="M6 7v1H4.5v1H6v3H4.5v1H6v1h1v-1h2v1h1v-1h1.5v-1H10V9h1.5V8H10V7H9v1H7V7zm1 2h2v3H7zm6 4v1h6v-1z" fill="#f4f4f7"/>
+    <path d="M3.5 4C2.669 4 2 4.669 2 5.5v1C2 5.669 2.669 5 3.5 5h25c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5z" fill="#f4f4f7" opacity=".1"/>
+    <path d="M2 26.5v1c0 .831.669 1.5 1.5 1.5h25c.831 0 1.5-.669 1.5-1.5v-1c0 .831-.669 1.5-1.5 1.5h-25c-.831 0-1.5-.669-1.5-1.5z" opacity=".1"/>
+    <circle cx="24" cy="23" fill="#16a086" r="8"/>
+    <path d="M23.983 27 21 23h2v-4h2v4h2z" fill="#f4f4f7"/>
+    <path d="M31.979 23.424A8 8 0 0 1 24 31a8 8 0 0 1-7.979-7.424A8 8 0 0 0 16 24a8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-.021-.576z" opacity=".2"/>
+</svg>

@@ -1,1 +1,8 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="none" height="5" rx=".778" ry=".714" stroke="#f4f4f7" stroke-linejoin="round" stroke-width="2" width="7" x="6" y="8"/><rect fill="#1fa8f3" height="5" rx=".778" ry=".714" width="7" x="6" y="8"/><rect fill="none" height="5" rx=".778" ry=".714" stroke="#f4f4f7" stroke-linejoin="round" stroke-width="2" width="7" x="1" y="9"/><rect fill="#2475c2" height="5" rx=".778" ry=".714" width="7" x="1" y="9"/><rect fill="none" height="8" rx="1.154" ry="1.091" stroke="#f4f4f7" stroke-linejoin="round" stroke-width="2" width="10" x="5" y="2"/><rect fill="#15477d" height="8" rx="1.154" ry="1.091" width="10" x="5" y="2"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="none" height="5" rx=".778" ry=".714" stroke="#f4f4f7" stroke-linejoin="round" stroke-width="2" width="7" x="6" y="8"/>
+    <rect fill="#1fa8f3" height="5" rx=".778" ry=".714" width="7" x="6" y="8"/>
+    <rect fill="none" height="5" rx=".778" ry=".714" stroke="#f4f4f7" stroke-linejoin="round" stroke-width="2" width="7" x="1" y="9"/>
+    <rect fill="#2475c2" height="5" rx=".778" ry=".714" width="7" x="1" y="9"/>
+    <rect fill="none" height="8" rx="1.154" ry="1.091" stroke="#f4f4f7" stroke-linejoin="round" stroke-width="2" width="10" x="5" y="2"/>
+    <rect fill="#15477d" height="8" rx="1.154" ry="1.091" width="10" x="5" y="2"/>
+</svg>

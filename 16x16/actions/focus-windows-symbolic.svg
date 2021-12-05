@@ -1,1 +1,10 @@
-<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g transform="translate(-304.99981 -145.00334)"><g filter="url(#a)"/><g fill="#4c5263"><path d="m305.99958 159.50292v-8c0-.5.51955-.5.51955-.5h3.48045v3h-2v4.0025h6v-2h2v3.4975c0 .47672-.5.5-.5.5h-9s-.5 0-.5-.5z"/><path d="m311.49958 146.00292c-.5 0-.5.5-.5.5v8c0 .5.5.5.5.5h9s.5 0 .5-.5v-8c0-.5-.5-.5-.5-.5zm1.5 3h6v3.99664h-6z"/></g></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-305 -145.003)"/>
+    <g fill="#f4f4f7">
+        <path d="M1 14.5v-8c0-.5.52-.5.52-.5H5v3H3v4.002h6v-2h2V14.5c0 .476-.5.5-.5.5h-9s-.5 0-.5-.5z"/>
+        <path d="M6.5 1c-.5 0-.5.5-.5.5v8c0 .5.5.5.5.5h9s.5 0 .5-.5v-8c0-.5-.5-.5-.5-.5zM8 4h6v3.996H8z"/>
+    </g>
+</svg>

@@ -1,1 +1,14 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="15.12734" x2="29.67924" y1="19.3946" y2="4.8427"><stop offset="0" stop-color="#32d7ff"/><stop offset="1" stop-color="#329bff"/></linearGradient><g transform="translate(-13.936 -3.6548)"><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" transform="matrix(.26458 0 0 .26458 13.936 3.6548)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.552" ry="3.9687" stroke-linecap="round" stroke-width=".72611" width="14.552" x="15.127" y="4.8454"/><path d="m22.403 7.3589c-.42447 1.0382-.68034 1.7185-1.1512 2.7273.2884.30546.64305.66328 1.221 1.0663-.62124-.25429-1.0429-.51135-1.3591-.77634-.60418 1.2599-1.5511 3.0542-3.4711 6.5039 1.5095-.87076 2.6793-1.4087 3.7703-1.613-.048-.20152-.07458-.41852-.07299-.64623l.0016-.048c.02499-.96716.52682-1.711 1.1235-1.6598.59505.04959 1.0584.87552 1.035 1.8427-.0048.18129-.02499.35624-.06189.51928 1.0786.21065 2.2362.74858 3.7254 1.6086-.29277-.5407-.55618-1.0306-.8057-1.494-.39353-.30546-.8057-.70216-1.6443-1.1314.57641.15035.98858.32252 1.3111.51611-2.5444-4.737-2.7507-5.3646-3.6231-7.412" fill="#f9f9f9" fill-rule="evenodd"/></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="15.127" x2="29.679" y1="19.395" y2="4.843">
+        <stop offset="0" stop-color="#32d7ff"/>
+        <stop offset="1" stop-color="#329bff"/>
+    </linearGradient>
+    <g transform="translate(-13.936 -3.655)">
+        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="translate(13.936 3.655) scale(.26458)" width="55" x="4.5" y="4.5"/>
+        <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="15.127" y="4.845"/>
+        <path d="M22.403 7.359c-.424 1.038-.68 1.718-1.151 2.727.288.306.643.663 1.22 1.066-.62-.254-1.042-.51-1.358-.776-.604 1.26-1.551 3.054-3.471 6.504 1.51-.87 2.679-1.409 3.77-1.613a2.708 2.708 0 0 1-.073-.646l.002-.048c.024-.967.526-1.711 1.123-1.66.595.05 1.058.876 1.035 1.843a2.684 2.684 0 0 1-.062.519c1.079.21 2.236.749 3.726 1.609l-.806-1.494c-.394-.306-.806-.703-1.644-1.132.576.15.988.323 1.31.516-2.544-4.737-2.75-5.364-3.622-7.412" fill="#f9f9f9" fill-rule="evenodd"/>
+    </g>
+</svg>

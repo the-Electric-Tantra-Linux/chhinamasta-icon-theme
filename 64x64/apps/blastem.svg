@@ -1,1 +1,14 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><path d="m29 12v3h-3v3h-3v3h-3v3h-6v3h-10v12h10v3h6v3h3v3h3v3h3v3h19v-3h3v-3h3v-3h3v-3h3v-18h-3v-3h-3v-3h-3v-3h-3v-3z" opacity=".2"/><path d="m29 11v3h-3v3h-3v3h-3v3h-6v3h-10v12h10v3h6v3h3v3h3v3h3v3h19v-3h3v-3h3v-3h3v-3h3v-18h-3v-3h-3v-3h-3v-3h-3v-3z" fill="#17191e"/><path d="m32 15v3h-3v3h3v3h-9v3h-6v3h-9v6h9v3h6v3h9v3h-3v3h3v3h12v-3h3v-3h3v-3h3v-3h3v-12h-3v-3h-3v-3h-3v-3h-3v-3z" opacity=".2"/><path d="m32 14v3h-3v3h3v3h-9v3h-6v3h-9v6h9v3h6v3h9v3h-3v3h3v3h12v-3h3v-3h3v-3h3v-3h3v-12h-3v-3h-3v-3h-3v-3h-3v-3z" fill="#eb2d21"/><path d="m32 18v3h3v3h-3v3h-9v3h-6v6h6v3h9v3h3v3h-3v3h12v-3h3v-3h3v-3h3v-12h-3v-3h-3v-3h-3v-3z" opacity=".2"/><path d="m32 17v3h3v3h-3v3h-9v3h-6v6h6v3h9v3h3v3h-3v3h12v-3h3v-3h3v-3h3v-12h-3v-3h-3v-3h-3v-3z" fill="#f58800"/><path d="m38 24v3h-3v3h-9v6h9v3h3v3h6v-3h3v-3h3v-6h-3v-3h-3v-3z" opacity=".2"/><path d="m38 23v3h-3v3h-9v6h9v3h3v3h6v-3h3v-3h3v-6h-3v-3h-3v-3z" fill="#dcfa20"/><g fill="#f4f4f7"><path d="m29 11v1h19v-1zm-3 3v1h3v-1zm22 0v1h3v-1zm-25 3v1h3v-1zm28 0v1h3v-1zm-31 3v1h3v-1zm34 0v1h3v-1zm-40 3v1h6v-1zm43 0v1h3v-1zm-53 3v1h10v-1z" opacity=".1"/><path d="m32 14v1h12v-1zm-3 3v1h3v-1zm15 0v1h3v-1zm3 3v1h3v-1zm-24 3v1h9v-1zm27 0v1h3v-1zm-33 3v1h6v-1zm36 0v1h3v-1zm-45 3v1h9v-1zm21 15v1h3v-1zm3-27v1h12v-1zm12 3v1h3v-1zm-12 3v1h3v-1zm15 0v1h3v-1zm-24 3v1h9v-1zm27 0v1h3v-1zm-33 3v1h6v-1zm15 15v1h3v-1zm6-21v1h6v-1zm-3 3v1h3v-1zm9 0v1h3v-1zm-18 3v1h9v-1zm21 0v1h3v-1z" opacity=".2"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <path d="M29 12v3h-3v3h-3v3h-3v3h-6v3H4v12h10v3h6v3h3v3h3v3h3v3h19v-3h3v-3h3v-3h3v-3h3V24h-3v-3h-3v-3h-3v-3h-3v-3z" opacity=".2"/>
+    <path d="M29 11v3h-3v3h-3v3h-3v3h-6v3H4v12h10v3h6v3h3v3h3v3h3v3h19v-3h3v-3h3v-3h3v-3h3V23h-3v-3h-3v-3h-3v-3h-3v-3z" fill="#17191e"/>
+    <path d="M32 15v3h-3v3h3v3h-9v3h-6v3H8v6h9v3h6v3h9v3h-3v3h3v3h12v-3h3v-3h3v-3h3v-3h3V27h-3v-3h-3v-3h-3v-3h-3v-3z" opacity=".2"/>
+    <path d="M32 14v3h-3v3h3v3h-9v3h-6v3H8v6h9v3h6v3h9v3h-3v3h3v3h12v-3h3v-3h3v-3h3v-3h3V26h-3v-3h-3v-3h-3v-3h-3v-3z" fill="#eb2d21"/>
+    <path d="M32 18v3h3v3h-3v3h-9v3h-6v6h6v3h9v3h3v3h-3v3h12v-3h3v-3h3v-3h3V27h-3v-3h-3v-3h-3v-3z" opacity=".2"/>
+    <path d="M32 17v3h3v3h-3v3h-9v3h-6v6h6v3h9v3h3v3h-3v3h12v-3h3v-3h3v-3h3V26h-3v-3h-3v-3h-3v-3z" fill="#f58800"/>
+    <path d="M38 24v3h-3v3h-9v6h9v3h3v3h6v-3h3v-3h3v-6h-3v-3h-3v-3z" opacity=".2"/>
+    <path d="M38 23v3h-3v3h-9v6h9v3h3v3h6v-3h3v-3h3v-6h-3v-3h-3v-3z" fill="#dcfa20"/>
+    <g fill="#f4f4f7">
+        <path d="M29 11v1h19v-1zm-3 3v1h3v-1zm22 0v1h3v-1zm-25 3v1h3v-1zm28 0v1h3v-1zm-31 3v1h3v-1zm34 0v1h3v-1zm-40 3v1h6v-1zm43 0v1h3v-1zM4 26v1h10v-1z" opacity=".1"/>
+        <path d="M32 14v1h12v-1zm-3 3v1h3v-1zm15 0v1h3v-1zm3 3v1h3v-1zm-24 3v1h9v-1zm27 0v1h3v-1zm-33 3v1h6v-1zm36 0v1h3v-1zM8 29v1h9v-1zm21 15v1h3v-1zm3-27v1h12v-1zm12 3v1h3v-1zm-12 3v1h3v-1zm15 0v1h3v-1zm-24 3v1h9v-1zm27 0v1h3v-1zm-33 3v1h6v-1zm15 15v1h3v-1zm6-21v1h6v-1zm-3 3v1h3v-1zm9 0v1h3v-1zm-18 3v1h9v-1zm21 0v1h3v-1z" opacity=".2"/>
+    </g>
+</svg>

@@ -1,1 +1,14 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><rect height="53" opacity=".2" rx="2.65" width="53" x="5" y="7"/><rect fill="#ef4e4e" height="53" rx="2.65" width="53" x="5" y="6"/><path d="m7.65 6a2.645 2.645 0 0 0 -2.65 2.65v1a2.645 2.645 0 0 1 2.65-2.65h47.7a2.645 2.645 0 0 1 2.65 2.65v-1a2.645 2.645 0 0 0 -2.65-2.65z" fill="#f4f4f7" opacity=".1"/><path d="m31.5 6.5v52m-14-52v52m28-52v52" fill="none" stroke="#656565" stroke-linecap="round" stroke-width="5"/><path d="m5.5 17a2.5 2.5 0 1 0 0 5h52a2.5 2.5 0 1 0 0-5zm0 14a2.5 2.5 0 1 0 0 5h52a2.5 2.5 0 1 0 0-5zm0 14a2.5 2.5 0 1 0 0 5h52a2.5 2.5 0 1 0 0-5z" opacity=".2"/><path d="m57.5 32.5h-52m52-14h-52m52 28h-52" fill="none" stroke="#656565" stroke-linecap="round" stroke-width="5"/><path d="m40.5 44v-7.5c0-2.387 1.971-4 5.167-4 3.055 0 4.833 1.73 4.833 4v7.5" fill="none" stroke="#ffa02e" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/><circle cx="45.5" cy="49.5" opacity=".2" r="10.5"/><circle cx="45.5" cy="48.5" fill="#ffce23" r="10.5"/><circle cx="45.5" cy="47.5" fill="#7f4a04" r="2.5"/><path d="m44 46v4.5a1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5v-4.5z" fill="#7f4a04"/><path d="m45.5 38a10.5 10.5 0 0 0 -10.5 10.5 10.5 10.5 0 0 0 .02.596 10.5 10.5 0 0 1 10.48-10.096 10.5 10.5 0 0 1 10.48 9.904 10.5 10.5 0 0 0 .02-.404 10.5 10.5 0 0 0 -10.5-10.5z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <rect height="53" opacity=".2" rx="2.65" width="53" x="5" y="7"/>
+    <rect fill="#ef4e4e" height="53" rx="2.65" width="53" x="5" y="6"/>
+    <path d="M7.65 6A2.645 2.645 0 0 0 5 8.65v1A2.645 2.645 0 0 1 7.65 7h47.7A2.645 2.645 0 0 1 58 9.65v-1A2.645 2.645 0 0 0 55.35 6z" fill="#f4f4f7" opacity=".1"/>
+    <path d="M31.5 6.5v52m-14-52v52m28-52v52" fill="none" stroke="#656565" stroke-linecap="round" stroke-width="5"/>
+    <path d="M5.5 17a2.5 2.5 0 1 0 0 5h52a2.5 2.5 0 1 0 0-5zm0 14a2.5 2.5 0 1 0 0 5h52a2.5 2.5 0 1 0 0-5zm0 14a2.5 2.5 0 1 0 0 5h52a2.5 2.5 0 1 0 0-5z" opacity=".2"/>
+    <path d="M57.5 32.5h-52m52-14h-52m52 28h-52" fill="none" stroke="#656565" stroke-linecap="round" stroke-width="5"/>
+    <path d="M40.5 44v-7.5c0-2.387 1.971-4 5.167-4 3.055 0 4.833 1.73 4.833 4V44" fill="none" stroke="#ffa02e" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <circle cx="45.5" cy="49.5" opacity=".2" r="10.5"/>
+    <circle cx="45.5" cy="48.5" fill="#ffce23" r="10.5"/>
+    <circle cx="45.5" cy="47.5" fill="#7f4a04" r="2.5"/>
+    <path d="M44 46v4.5a1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5V46z" fill="#7f4a04"/>
+    <path d="M45.5 38A10.5 10.5 0 0 0 35 48.5a10.5 10.5 0 0 0 .02.596A10.5 10.5 0 0 1 45.5 39a10.5 10.5 0 0 1 10.48 9.904A10.5 10.5 0 0 0 56 48.5 10.5 10.5 0 0 0 45.5 38z" fill="#f4f4f7" opacity=".2"/>
+</svg>

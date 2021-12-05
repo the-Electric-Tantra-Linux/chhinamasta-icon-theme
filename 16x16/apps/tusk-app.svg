@@ -1,1 +1,4 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#20c88c" height="16" rx=".8" width="16"/><rect fill="#f4f4f7" height="8" rx=".8" transform="matrix(0 -1 -1 0 0 0)" width="8" x="-12" y="-12"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#20c88c" height="16" rx=".8" width="16"/>
+    <rect fill="#f4f4f7" height="8" rx=".8" transform="matrix(0 -1 -1 0 0 0)" width="8" x="-12" y="-12"/>
+</svg>

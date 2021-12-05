@@ -1,1 +1,21 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.048" y="-.048"><feGaussianBlur stdDeviation="1.1"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1=".3301" x2="14.882" y1="24.94622" y2="10.39432"><stop offset="0" stop-color="#ffc841"/><stop offset=".4925" stop-color="#ffbe37"/><stop offset="1" stop-color="#ffc841"/></linearGradient><g transform="translate(.8599 -9.2037)"><rect filter="url(#a)" height="55" opacity=".3" rx="13.002" transform="matrix(.26458 0 0 .26458 -.8599 9.2037)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.552" rx="3.4401" stroke-width=".26458" width="14.552" x=".33073" y="10.394"/><path d="m4.608 11.982c-1.49 0-2.6898 1.1997-2.6898 2.6898v5.9976c0 1.49 1.1997 2.6898 2.6898 2.6898h5.0142l3.6732-3.6876v-4.9997c0-1.49-1.1997-2.6898-2.6898-2.6898z" fill="#fafafa" stroke-width=".20686"/><path d="m3.8507 20.396c.00452.04063.00882.08118.013833.12163h7.4855c.0047-.04371.0087-.07849.01284-.12163z" fill="#f08705" opacity=".6" stroke-width=".64018"/><path d="m9.6222 23.359 3.6732-3.6876h-.9834c-1.49 0-2.6898 1.1997-2.6898 2.6898z" fill="#f9dfa9" stroke-width=".20686"/><path d="m3.8507 17.832c.00452.04063.00882.08118.013833.12163h7.4855c.0047-.04371.0087-.07849.01284-.12163z" fill="#f08705" opacity=".6" stroke-width=".64018"/><path d="m3.718 21.678c-.00321.03965-.0052.08101-.00829.12164h4.9415c-.00291-.04063-.00505-.08201-.00861-.12164z" fill="#f08705" opacity=".6" stroke-width=".51925"/><rect fill="#ffc841" height="3.4396" ry=".98121" stroke-width=".37539" width="7.9375" x="3.6927" y="13.287"/><path d="m5.6224 13.551c-.29316 0-.52917.23601-.52917.52917v1.8521c0 .29316.23601.52917.52917.52917h3.9688c.29316 0 .52917-.23601.52917-.52917v-1.8521c0-.29316-.23601-.52917-.52917-.52917zm0 .26458h3.9688c.14658 0 .26458.118.26458.26458v1.8521c0 .14658-.118.26458-.26458.26458h-3.9688c-.14658 0-.26458-.118-.26458-.26458v-1.8521c0-.14658.118-.26458.26458-.26458zm0 .26458v1.8521h.52917v-1.1038l.52917.52917.52917-.52917v1.1038h.52917v-1.8521h-.52917l-.52917.52917-.52917-.52917zm2.9104 0v1.0583h-.52917l.79375.79375.79375-.79375h-.52917v-1.0583z" fill="#fff" stroke-width=".26458"/><path d="m3.8507 19.114c.00452.04062.00882.08118.013833.12163h7.4855c.0047-.04371.0087-.07849.01284-.12163z" fill="#f08705" opacity=".6" stroke-width=".64018"/></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.048" y="-.048">
+        <feGaussianBlur stdDeviation="1.1"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1=".33" x2="14.882" y1="24.946" y2="10.394">
+        <stop offset="0" stop-color="#ffc841"/>
+        <stop offset=".492" stop-color="#ffbe37"/>
+        <stop offset="1" stop-color="#ffc841"/>
+    </linearGradient>
+    <g transform="translate(.86 -9.204)">
+        <rect filter="url(#a)" height="55" opacity=".3" rx="13.002" transform="translate(-.86 9.204) scale(.26458)" width="55" x="4.5" y="4.5"/>
+        <rect fill="url(#b)" height="14.552" rx="3.44" width="14.552" x=".331" y="10.394"/>
+        <path d="M4.608 11.982c-1.49 0-2.69 1.2-2.69 2.69v5.997c0 1.49 1.2 2.69 2.69 2.69h5.014l3.673-3.687v-5c0-1.49-1.2-2.69-2.69-2.69z" fill="#fafafa"/>
+        <path d="m3.85 20.396.015.122h7.485l.013-.122z" fill="#f08705" opacity=".6"/>
+        <path d="m9.622 23.359 3.673-3.688h-.983c-1.49 0-2.69 1.2-2.69 2.69z" fill="#f9dfa9"/>
+        <path d="m3.85 17.832.015.122h7.485l.013-.122zM3.718 21.678l-.008.122H8.65l-.008-.122z" fill="#f08705" opacity=".6"/>
+        <rect fill="#ffc841" height="3.44" ry=".981" width="7.938" x="3.693" y="13.287"/>
+        <path d="M5.622 13.551a.528.528 0 0 0-.529.53v1.851c0 .293.236.53.53.53H9.59c.293 0 .53-.237.53-.53V14.08a.528.528 0 0 0-.53-.529zm0 .265h3.97c.146 0 .264.118.264.264v1.852a.264.264 0 0 1-.265.265H5.622a.264.264 0 0 1-.264-.265V14.08c0-.146.118-.264.264-.264zm0 .264v1.852h.53v-1.104l.529.53.529-.53v1.104h.53V14.08h-.53l-.53.53-.528-.53zm2.91 0v1.058h-.528l.793.794.794-.794h-.529V14.08z" fill="#fff"/>
+        <path d="m3.85 19.114.015.122h7.485l.013-.122z" fill="#f08705" opacity=".6"/>
+    </g>
+</svg>

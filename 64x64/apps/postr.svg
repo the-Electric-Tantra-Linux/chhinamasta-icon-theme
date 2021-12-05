@@ -1,1 +1,14 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><rect height="56" opacity=".2" rx="16.8" width="56" x="4" y="5"/><rect fill="#f4f4f7" height="56" rx="16.8" width="56" x="4" y="4"/><circle cx="19.5" cy="32.5" opacity=".1" r="10.5"/><circle cx="19.5" cy="31.5" fill="#296ec6" r="10.5"/><circle cx="44.5" cy="32.5" opacity=".1" r="10.5"/><circle cx="44.5" cy="31.5" fill="#e03c90" r="10.5"/><circle cx="50" cy="49" opacity=".2" r="14"/><circle cx="50" cy="48" fill="#9a3cdb" r="14"/><g fill="#f4f4f7"><path d="m49.966 40-5.966 8h4v8h4v-8h4z"/><path d="m20.8 4c-9.305 0-16.8 7.494-16.8 16.8v1c0-9.305 7.494-16.8 16.8-16.8h22.4c9.305 0 16.8 7.494 16.8 16.8v-1c0-9.305-7.494-16.8-16.8-16.8z" opacity=".2"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <rect height="56" opacity=".2" rx="16.8" width="56" x="4" y="5"/>
+    <rect fill="#f4f4f7" height="56" rx="16.8" width="56" x="4" y="4"/>
+    <circle cx="19.5" cy="32.5" opacity=".1" r="10.5"/>
+    <circle cx="19.5" cy="31.5" fill="#296ec6" r="10.5"/>
+    <circle cx="44.5" cy="32.5" opacity=".1" r="10.5"/>
+    <circle cx="44.5" cy="31.5" fill="#e03c90" r="10.5"/>
+    <circle cx="50" cy="49" opacity=".2" r="14"/>
+    <circle cx="50" cy="48" fill="#9a3cdb" r="14"/>
+    <g fill="#f4f4f7">
+        <path d="M49.966 40 44 48h4v8h4v-8h4z"/>
+        <path d="M20.8 4C11.495 4 4 11.494 4 20.8v1C4 12.495 11.494 5 20.8 5h22.4C52.505 5 60 12.494 60 21.8v-1C60 11.495 52.506 4 43.2 4z" opacity=".2"/>
+    </g>
+</svg>

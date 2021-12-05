@@ -1,1 +1,16 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m11.5 3.5a9.5 9.5 0 0 0 -9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0 -9.5-9.5z" opacity=".2"/><path d="m11.5 3a9.5 9.5 0 0 0 -9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0 -9.5-9.5z" fill="#484b61"/><path d="m11 19.5h1v2h-1z" opacity=".1"/><circle cx="11.5" cy="13" opacity=".2" r="5.5"/><circle cx="11.5" cy="12.5" fill="#9499b2" r="5.5"/><rect height="8" opacity=".1" rx="1" ry=".889" transform="matrix(.8660254 .5 -.5 .8660254 0 0)" width="2" x="15.66" y="-2.2"/><rect fill="#f4f4f7" height="8" rx="1" ry=".889" transform="matrix(.8660254 .5 -.5 .8660254 0 0)" width="2" x="15.41" y="-2.64"/><path d="m11 4.5h1v2h-1z" opacity=".1"/><path d="m11 4h1v2h-1zm0 15h1v2h-1z" fill="#9499b2"/><g transform="rotate(90)"><path d="m12.5-20h1v2h-1z" opacity=".1"/><path d="m12-20h1v2h-1z" fill="#9499b2"/><path d="m12.5-5h1v2h-1z" opacity=".1"/><path d="m12-5h1v2h-1z" fill="#9499b2"/></g><path d="m11.5 3a9.5 9.5 0 0 0 -9.5 9.5 9.5 9.5 0 0 0 .01.207 9.5 9.5 0 0 1 9.49-9.207 9.5 9.5 0 0 1 9.49 9.293 9.5 9.5 0 0 0 .01-.293 9.5 9.5 0 0 0 -9.5-9.5z" fill="#f4f4f7" opacity=".1"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M11.5 3.5A9.5 9.5 0 0 0 2 13a9.5 9.5 0 0 0 9.5 9.5A9.5 9.5 0 0 0 21 13a9.5 9.5 0 0 0-9.5-9.5z" opacity=".2"/>
+    <path d="M11.5 3A9.5 9.5 0 0 0 2 12.5a9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5A9.5 9.5 0 0 0 11.5 3z" fill="#484b61"/>
+    <path d="M11 19.5h1v2h-1z" opacity=".1"/>
+    <circle cx="11.5" cy="13" opacity=".2" r="5.5"/>
+    <circle cx="11.5" cy="12.5" fill="#9499b2" r="5.5"/>
+    <rect height="8" opacity=".1" rx="1" ry=".889" transform="rotate(30)" width="2" x="15.66" y="-2.2"/>
+    <rect fill="#f4f4f7" height="8" rx="1" ry=".889" transform="rotate(30)" width="2" x="15.41" y="-2.64"/>
+    <path d="M11 4.5h1v2h-1z" opacity=".1"/>
+    <path d="M11 4h1v2h-1zm0 15h1v2h-1z" fill="#9499b2"/>
+    <path d="M20 12.5v1h-2v-1z" opacity=".1"/>
+    <path d="M20 12v1h-2v-1z" fill="#9499b2"/>
+    <path d="M5 12.5v1H3v-1z" opacity=".1"/>
+    <path d="M5 12v1H3v-1z" fill="#9499b2"/>
+    <path d="M11.5 3A9.5 9.5 0 0 0 2 12.5a9.5 9.5 0 0 0 .01.207A9.5 9.5 0 0 1 11.5 3.5a9.5 9.5 0 0 1 9.49 9.293A9.5 9.5 0 0 0 21 12.5 9.5 9.5 0 0 0 11.5 3z" fill="#f4f4f7" opacity=".1"/>
+</svg>

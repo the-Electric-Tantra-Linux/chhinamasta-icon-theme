@@ -1,1 +1,13 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="m16 3a14 14 0 0 0 -14 14 14 14 0 0 0 14 14 14 14 0 0 0 14-14 14 14 0 0 0 -14-14z" opacity=".2"/><path d="m16 2a14 14 0 0 0 -14 14 14 14 0 0 0 14 14 14 14 0 0 0 14-14 14 14 0 0 0 -14-14z" fill="#9aca3c"/><path d="m11.5 10.5 5.2 6.5m-4.2 6.5 10-13" style="opacity:.2;stroke-linejoin:round;stroke:#000;stroke-linecap:round;stroke-width:3;fill:none"/><path d="m12.5 22.5 10-13m-11 0 5.2 6.5" fill="none" stroke="#f4f4f7" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/><path d="m16 2a14 14 0 0 0 -14 14 14 14 0 0 0 .021.414 14 14 0 0 1 13.979-13.414 14 14 0 0 1 13.979 13.586 14 14 0 0 0 .021-.586 14 14 0 0 0 -14-14z" fill="#f4f4f7" opacity=".2"/><circle cx="24" cy="24" opacity=".2" r="8"/><circle cx="24" cy="23" fill="#4f4f4f" r="8"/><g fill="#f4f4f7"><path d="m22 19a4 4 0 0 0 -4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0 -4-4zm0 2a2 2 0 0 1 2 2 2 2 0 0 1 -2 2 2 2 0 0 1 -2-2 2 2 0 0 1 2-2z"/><path d="m25 22h5v2h-5z"/><path d="m24-29h2v1h-2z" transform="rotate(90)"/></g></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <path d="M16 3A14 14 0 0 0 2 17a14 14 0 0 0 14 14 14 14 0 0 0 14-14A14 14 0 0 0 16 3z" opacity=".2"/>
+    <path d="M16 2A14 14 0 0 0 2 16a14 14 0 0 0 14 14 14 14 0 0 0 14-14A14 14 0 0 0 16 2z" fill="#9aca3c"/>
+    <path d="m11.5 10.5 5.2 6.5m-4.2 6.5 10-13" style="opacity:.2;stroke-linejoin:round;stroke:#000;stroke-linecap:round;stroke-width:3;fill:none"/>
+    <path d="m12.5 22.5 10-13m-11 0 5.2 6.5" fill="none" stroke="#f4f4f7" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path d="M16 2A14 14 0 0 0 2 16a14 14 0 0 0 .021.414A14 14 0 0 1 16 3a14 14 0 0 1 13.979 13.586A14 14 0 0 0 30 16 14 14 0 0 0 16 2z" fill="#f4f4f7" opacity=".2"/>
+    <circle cx="24" cy="24" opacity=".2" r="8"/>
+    <circle cx="24" cy="23" fill="#4f4f4f" r="8"/>
+    <g fill="#f4f4f7">
+        <path d="M22 19a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4zm0 2a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z"/>
+        <path d="M25 22h5v2h-5zM29 24v2h-1v-2z"/>
+    </g>
+</svg>

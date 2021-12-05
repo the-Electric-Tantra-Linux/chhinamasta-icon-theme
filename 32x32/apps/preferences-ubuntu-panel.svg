@@ -1,1 +1,14 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="m3.4 4c-.775 0-1.4.62-1.4 1.389v22.221c0 .771.625 1.39 1.4 1.39h25.2c.775 0 1.4-.62 1.4-1.389v-22.221c0-.769-.625-1.388-1.4-1.388h-25.2z" fill="#8b346f"/><path d="m3.4 4c-.775 0-1.4.62-1.4 1.389v22.221c0 .771.625 1.39 1.4 1.39h5.6v-24.998h-5.6z" opacity=".2"/><path d="m3.4 4c-.775 0-1.4.62-1.4 1.389v1c0-.77.625-1.389 1.4-1.389h25.2c.775 0 1.4.62 1.4 1.389v-1c0-.77-.625-1.389-1.4-1.389z" fill="#fff" opacity=".1"/><rect height="3" opacity=".2" rx=".375" width="3" x="4" y="19"/><rect height="3" opacity=".2" rx=".375" width="3" x="4" y="7"/><rect fill="#f4f4f7" height="3" rx=".375" width="3" x="4" y="6"/><rect height="3" opacity=".2" rx=".375" width="3" x="4" y="11"/><rect fill="#f4f4f7" height="3" rx=".375" width="3" x="4" y="10"/><rect height="3" opacity=".2" rx=".375" width="3" x="4" y="15"/><rect fill="#f4f4f7" height="3" rx=".375" width="3" x="4" y="14"/><rect fill="#f4f4f7" height="3" rx=".375" width="3" x="4" y="18"/><path d="m2 27.611v1c0 .77.625 1.389 1.4 1.389h25.2c.775 0 1.4-.619 1.4-1.389v-1c0 .77-.625 1.389-1.4 1.389h-25.2c-.775 0-1.4-.619-1.4-1.389z" opacity=".2"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <path d="M3.4 4C2.625 4 2 4.62 2 5.389V27.61c0 .771.625 1.39 1.4 1.39h25.2c.775 0 1.4-.62 1.4-1.389V5.39c0-.769-.625-1.388-1.4-1.388H3.4z" fill="#8b346f"/>
+    <path d="M3.4 4C2.625 4 2 4.62 2 5.389V27.61c0 .771.625 1.39 1.4 1.39H9V4.002H3.4z" opacity=".2"/>
+    <path d="M3.4 4C2.625 4 2 4.62 2 5.389v1C2 5.619 2.625 5 3.4 5h25.2c.775 0 1.4.62 1.4 1.389v-1C30 4.619 29.375 4 28.6 4z" fill="#fff" opacity=".1"/>
+    <rect height="3" opacity=".2" rx=".375" width="3" x="4" y="19"/>
+    <rect height="3" opacity=".2" rx=".375" width="3" x="4" y="7"/>
+    <rect fill="#f4f4f7" height="3" rx=".375" width="3" x="4" y="6"/>
+    <rect height="3" opacity=".2" rx=".375" width="3" x="4" y="11"/>
+    <rect fill="#f4f4f7" height="3" rx=".375" width="3" x="4" y="10"/>
+    <rect height="3" opacity=".2" rx=".375" width="3" x="4" y="15"/>
+    <rect fill="#f4f4f7" height="3" rx=".375" width="3" x="4" y="14"/>
+    <rect fill="#f4f4f7" height="3" rx=".375" width="3" x="4" y="18"/>
+    <path d="M2 27.611v1C2 29.381 2.625 30 3.4 30h25.2c.775 0 1.4-.619 1.4-1.389v-1c0 .77-.625 1.389-1.4 1.389H3.4c-.775 0-1.4-.619-1.4-1.389z" opacity=".2"/>
+</svg>

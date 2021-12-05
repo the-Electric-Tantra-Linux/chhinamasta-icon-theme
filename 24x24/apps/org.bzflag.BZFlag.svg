@@ -1,1 +1,14 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><rect fill="#df5555" height="20" rx="1" width="20" x="2" y="2"/><rect height="13" opacity=".1" rx=".6" ry=".5" width="3" x="15" y="6.5"/><rect height="13" opacity=".1" rx=".6" ry=".5" width="3" x="6" y="6.5"/><path d="m3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/><path d="m3 22.5c-.554 0-1-.446-1-1v-.5c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v.5c0 .554-.446 1-1 1z" opacity=".2"/><rect fill="#17191e" height="13" rx=".6" ry=".5" width="3" x="6" y="6"/><rect fill="#17191e" height="13" rx=".6" ry=".5" width="3" x="15" y="6"/><rect height="9" opacity=".1" rx=".56" ry=".558" width="8" x="8" y="9.5"/><rect fill="#545454" height="9" rx=".56" ry=".558" width="8" x="8" y="9"/><rect fill="#6c6c6c" height="7.5" rx=".5" width="2" x="11" y="5"/><path d="m12 11.5a2 2 0 0 0 -1.997 2.083c0 .006-.003.01-.003.017v2.3c0 .333.223.6.5.6h3c.277 0 .5-.267.5-.6v-2.3c0-.008-.004-.015-.004-.023l.004-.077a2 2 0 0 0 -2-2z" opacity=".1"/><path d="m12 11a2 2 0 0 0 -1.997 2.083c0 .006-.003.01-.003.017v2.3c0 .333.223.6.5.6h3c.277 0 .5-.267.5-.6v-2.3c0-.008-.004-.015-.004-.023l.004-.077a2 2 0 0 0 -2-2z" fill="#868686"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#df5555" height="20" rx="1" width="20" x="2" y="2"/>
+    <rect height="13" opacity=".1" rx=".6" ry=".5" width="3" x="15" y="6.5"/>
+    <rect height="13" opacity=".1" rx=".6" ry=".5" width="3" x="6" y="6.5"/>
+    <path d="M3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/>
+    <path d="M3 22.5c-.554 0-1-.446-1-1V21c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v.5c0 .554-.446 1-1 1z" opacity=".2"/>
+    <rect fill="#17191e" height="13" rx=".6" ry=".5" width="3" x="6" y="6"/>
+    <rect fill="#17191e" height="13" rx=".6" ry=".5" width="3" x="15" y="6"/>
+    <rect height="9" opacity=".1" rx=".56" ry=".558" width="8" x="8" y="9.5"/>
+    <rect fill="#545454" height="9" rx=".56" ry=".558" width="8" x="8" y="9"/>
+    <rect fill="#6c6c6c" height="7.5" rx=".5" width="2" x="11" y="5"/>
+    <path d="M12 11.5a2 2 0 0 0-1.997 2.083c0 .006-.003.01-.003.017v2.3c0 .333.223.6.5.6h3c.277 0 .5-.267.5-.6v-2.3c0-.008-.004-.015-.004-.023L14 13.5a2 2 0 0 0-2-2z" opacity=".1"/>
+    <path d="M12 11a2 2 0 0 0-1.997 2.083c0 .006-.003.01-.003.017v2.3c0 .333.223.6.5.6h3c.277 0 .5-.267.5-.6v-2.3c0-.008-.004-.015-.004-.023L14 13a2 2 0 0 0-2-2z" fill="#868686"/>
+</svg>

@@ -1,1 +1,10 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="m5 5-3-4m9 4 3-4" fill="none" stroke="#434343" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/><rect fill="#ff57a3" height="13" ry=".857" width="14" x="1" y="3"/><path d="m3 10h10v5h-10z" fill="#17191e"/><circle cx="4.5" cy="6.5" fill="#fb3705" r="2.5"/><circle cx="11.5" cy="6.5" fill="#fb3705" r="2.5"/><circle cx="4.5" cy="6.5" fill="#17191e" r=".5"/><circle cx="11.5" cy="6.5" fill="#17191e" r=".5"/><path d="m4 11v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h2v-1zm-6 2v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h2v-1z" fill="#f4f4f7"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <path d="M5 5 2 1m9 4 3-4" fill="none" stroke="#434343" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect fill="#ff57a3" height="13" ry=".857" width="14" x="1" y="3"/>
+    <path d="M3 10h10v5H3z" fill="#17191e"/>
+    <circle cx="4.5" cy="6.5" fill="#fb3705" r="2.5"/>
+    <circle cx="11.5" cy="6.5" fill="#fb3705" r="2.5"/>
+    <circle cx="4.5" cy="6.5" fill="#17191e" r=".5"/>
+    <circle cx="11.5" cy="6.5" fill="#17191e" r=".5"/>
+    <path d="M4 11v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h2v-1zm-6 2v1h1v-1zm2 0v1h1v-1zm2 0v1h1v-1zm2 0v1h2v-1z" fill="#f4f4f7"/>
+</svg>

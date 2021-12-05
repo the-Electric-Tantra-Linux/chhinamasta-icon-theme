@@ -1,1 +1,17 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><g fill="#ffa800"><path d="m4.5 5h8v6h-8z"/><circle cx="4.5" cy="8.5" r="3.5"/><circle cx="12.5" cy="8.5" r="3.5"/></g><g fill="#f4f4f7"><rect height="3" rx=".25" width="1" x="4" y="7"/><circle cx="12.509" cy="7.5" r=".5"/><circle cx="12.5" cy="9.5" r=".5"/><g transform="rotate(90)"><circle cx="8.5" cy="-13.5" r=".5"/><circle cx="8.495" cy="-11.5" r=".5"/><rect height="3" rx=".25" width="1" x="8" y="-6"/></g></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#ffa800">
+        <path d="M4.5 5h8v6h-8z"/>
+        <circle cx="4.5" cy="8.5" r="3.5"/>
+        <circle cx="12.5" cy="8.5" r="3.5"/>
+    </g>
+    <g fill="#f4f4f7">
+        <rect height="3" rx=".25" width="1" x="4" y="7"/>
+        <circle cx="12.509" cy="7.5" r=".5"/>
+        <circle cx="12.5" cy="9.5" r=".5"/>
+        <g transform="rotate(90)">
+            <circle cx="8.5" cy="-13.5" r=".5"/>
+            <circle cx="8.495" cy="-11.5" r=".5"/>
+            <rect height="3" rx=".25" width="1" x="8" y="-6"/>
+        </g>
+    </g>
+</svg>

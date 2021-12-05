@@ -1,1 +1,10 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="m8 14 8 17 8-17-8-11z" opacity=".2"/><path d="m8 13 8 17 8-17-8-11z" fill="#17191e"/><circle cx="16" cy="14" opacity=".2" r="4"/><circle cx="16" cy="13" fill="#e33755" r="4"/><path d="m16 3-7.715 10.607 7.715 16.393v-19l7.6 2.85.115-.243z" opacity=".2"/><path d="m16 11v-9l-8 11z" fill="#4f4f4f"/><path d="m16 2v8l8 3zm0 8-8 3 8 17z" fill="#5e5e5e"/><path d="m16 2-8 11 1-.375 7-9.625 7 9.625 1 .375z" fill="#f4f4f7" opacity=".1"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <path d="m8 14 8 17 8-17-8-11z" opacity=".2"/>
+    <path d="m8 13 8 17 8-17-8-11z" fill="#17191e"/>
+    <circle cx="16" cy="14" opacity=".2" r="4"/>
+    <circle cx="16" cy="13" fill="#e33755" r="4"/>
+    <path d="M16 3 8.285 13.607 16 30V11l7.6 2.85.115-.243z" opacity=".2"/>
+    <path d="M16 11V2L8 13z" fill="#4f4f4f"/>
+    <path d="M16 2v8l8 3zm0 8-8 3 8 17z" fill="#5e5e5e"/>
+    <path d="M16 2 8 13l1-.375L16 3l7 9.625L24 13z" fill="#f4f4f7" opacity=".1"/>
+</svg>

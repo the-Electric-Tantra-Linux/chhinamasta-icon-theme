@@ -1,1 +1,7 @@
-<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><g fill="#8b9cbe"><path d="m4 3v17h17v-17zm1 1h15v7h-15zm0 8h15v7h-15z" fill-opacity=".1"/><path d="m5 4v7h7v-7zm8 0v7h7v-7zm-8 8v7h7v-7zm8 0v7h7v-7z" fill-opacity=".5"/><path d="m12 3v17h1v-17z"/></g></svg>
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#8b9cbe">
+        <path d="M4 3v17h17V3zm1 1h15v7H5zm0 8h15v7H5z" fill-opacity=".1"/>
+        <path d="M5 4v7h7V4zm8 0v7h7V4zm-8 8v7h7v-7zm8 0v7h7v-7z" fill-opacity=".5"/>
+        <path d="M12 3v17h1V3z"/>
+    </g>
+</svg>

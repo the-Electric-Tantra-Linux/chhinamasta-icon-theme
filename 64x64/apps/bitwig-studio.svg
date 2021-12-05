@@ -1,1 +1,37 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><rect height="56" opacity=".2" rx="28" width="56" x="4" y="5"/><rect fill="#ff5722" height="56" rx="28" width="56" x="4" y="4"/><path d="m32 4c-15.512 0-28 12.488-28 28 0 .168.01.333.014.5.266-15.279 12.642-27.5 27.986-27.5s27.72 12.221 27.986 27.5c.003-.167.014-.332.014-.5 0-15.512-12.488-28-28-28z" fill="#f4f4f7" opacity=".2"/><g opacity=".2"><circle cx="20" cy="25" r="3"/><circle cx="28" cy="25" r="3"/><circle cx="36" cy="25" r="3"/><circle cx="44" cy="25" r="3"/><circle cx="12" cy="33" r="3"/><circle cx="20" cy="33" r="3"/><circle cx="28" cy="33" r="3"/><circle cx="36" cy="33" r="3"/><circle cx="44" cy="33" r="3"/><circle cx="52" cy="33" r="3"/><circle cx="12" cy="41" r="3"/><circle cx="20" cy="41" r="3"/><circle cx="44" cy="41" r="3"/><circle cx="52" cy="41" r="3"/></g><g fill="#f4f4f7"><circle cx="20" cy="24" r="3"/><circle cx="28" cy="24" r="3"/><circle cx="36" cy="24" r="3"/><circle cx="44" cy="24" r="3"/><circle cx="12" cy="32" r="3"/><circle cx="20" cy="32" r="3"/><circle cx="28" cy="32" r="3"/><circle cx="36" cy="32" r="3"/><circle cx="44" cy="32" r="3"/><circle cx="52" cy="32" r="3"/><circle cx="12" cy="40" r="3"/><circle cx="20" cy="40" r="3"/><circle cx="44" cy="40" r="3"/><circle cx="52" cy="40" r="3"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <rect height="56" opacity=".2" rx="28" width="56" x="4" y="5"/>
+    <rect fill="#ff5722" height="56" rx="28" width="56" x="4" y="4"/>
+    <path d="M32 4C16.488 4 4 16.488 4 32c0 .168.01.333.014.5C4.28 17.221 16.656 5 32 5s27.72 12.221 27.986 27.5c.003-.167.014-.332.014-.5C60 16.488 47.512 4 32 4z" fill="#f4f4f7" opacity=".2"/>
+    <g opacity=".2">
+        <circle cx="20" cy="25" r="3"/>
+        <circle cx="28" cy="25" r="3"/>
+        <circle cx="36" cy="25" r="3"/>
+        <circle cx="44" cy="25" r="3"/>
+        <circle cx="12" cy="33" r="3"/>
+        <circle cx="20" cy="33" r="3"/>
+        <circle cx="28" cy="33" r="3"/>
+        <circle cx="36" cy="33" r="3"/>
+        <circle cx="44" cy="33" r="3"/>
+        <circle cx="52" cy="33" r="3"/>
+        <circle cx="12" cy="41" r="3"/>
+        <circle cx="20" cy="41" r="3"/>
+        <circle cx="44" cy="41" r="3"/>
+        <circle cx="52" cy="41" r="3"/>
+    </g>
+    <g fill="#f4f4f7">
+        <circle cx="20" cy="24" r="3"/>
+        <circle cx="28" cy="24" r="3"/>
+        <circle cx="36" cy="24" r="3"/>
+        <circle cx="44" cy="24" r="3"/>
+        <circle cx="12" cy="32" r="3"/>
+        <circle cx="20" cy="32" r="3"/>
+        <circle cx="28" cy="32" r="3"/>
+        <circle cx="36" cy="32" r="3"/>
+        <circle cx="44" cy="32" r="3"/>
+        <circle cx="52" cy="32" r="3"/>
+        <circle cx="12" cy="40" r="3"/>
+        <circle cx="20" cy="40" r="3"/>
+        <circle cx="44" cy="40" r="3"/>
+        <circle cx="52" cy="40" r="3"/>
+    </g>
+</svg>

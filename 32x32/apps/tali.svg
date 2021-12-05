@@ -1,1 +1,14 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect fill="#f4f4f7" height="28" rx="1.5" width="28" x="2" y="2"/><path d="m3.5 2c-.831 0-1.5.669-1.5 1.5v1c0-.831.669-1.5 1.5-1.5h25c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5z" fill="#fff" opacity=".1"/><path d="m2 28.5v1c0 .831.669 1.5 1.5 1.5h25c.831 0 1.5-.669 1.5-1.5v-1c0 .831-.669 1.5-1.5 1.5h-25c-.831 0-1.5-.669-1.5-1.5z" opacity=".2"/><g fill="#4d4d4d"><circle cx="16" cy="16" r="3"/><circle cx="23" cy="24" r="3"/><circle cx="8" cy="8" r="3"/><circle cx="23" cy="-8" r="3" transform="scale(1 -1)"/><circle cx="8" cy="-24" r="3" transform="scale(1 -1)"/></g></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#f4f4f7" height="28" rx="1.5" width="28" x="2" y="2"/>
+    <path d="M3.5 2C2.669 2 2 2.669 2 3.5v1C2 3.669 2.669 3 3.5 3h25c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5z" fill="#fff" opacity=".1"/>
+    <path d="M2 28.5v1c0 .831.669 1.5 1.5 1.5h25c.831 0 1.5-.669 1.5-1.5v-1c0 .831-.669 1.5-1.5 1.5h-25c-.831 0-1.5-.669-1.5-1.5z" opacity=".2"/>
+    <g fill="#4d4d4d">
+        <circle cx="16" cy="16" r="3"/>
+        <circle cx="23" cy="24" r="3"/>
+        <circle cx="8" cy="8" r="3"/>
+        <g transform="scale(1 -1)">
+            <circle cx="23" cy="-8" r="3"/>
+            <circle cx="8" cy="-24" r="3"/>
+        </g>
+    </g>
+</svg>

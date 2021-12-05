@@ -1,1 +1,12 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="m30 37h8v8z" opacity=".2"/><path d="m30 36h8v8z" fill="#ccc"/><rect height="40" opacity=".2" rx="2" transform="matrix(0 -1 -1 0 0 0)" width="32" x="-37" y="-44"/><rect fill="#f4f4f7" height="40" rx="2" transform="matrix(0 -1 -1 0 0 0)" width="32" x="-36" y="-44"/><path d="m6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" fill="#f4f4f7" opacity=".2"/><path d="m24 12a9 9 0 1 0 0 18 9 9 0 0 0 0-18z" opacity=".1"/><path d="m24 11a9 9 0 1 0 0 18 9 9 0 0 0 0-18z" fill="#3f7ed9"/><path d="m20 17v2h2v-2zm6 0v2h2v-2zm4 5c-1.413 1.35-3.635 2-6.129 2-2.382 0-4.453-.586-5.871-1.834.725 1.996 2.185 4.859 6.018 4.834 3.832-.025 5.34-2.911 5.982-5z" opacity=".2"/><path d="m20 16v2h2v-2zm6 0v2h2v-2zm4 5c-1.413 1.35-3.635 2-6.129 2-2.382 0-4.453-.586-5.871-1.834.725 1.996 2.185 4.859 6.018 4.834 3.832-.025 5.34-2.911 5.982-5z" fill="#f4f4f7"/><path d="m18.57 14.09h16v16h-16z" fill="none"/></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <path d="M30 37h8v8z" opacity=".2"/>
+    <path d="M30 36h8v8z" fill="#ccc"/>
+    <rect height="40" opacity=".2" rx="2" transform="matrix(0 -1 -1 0 0 0)" width="32" x="-37" y="-44"/>
+    <rect fill="#f4f4f7" height="40" rx="2" transform="matrix(0 -1 -1 0 0 0)" width="32" x="-36" y="-44"/>
+    <path d="M6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z" fill="#f4f4f7" opacity=".2"/>
+    <path d="M24 12a9 9 0 1 0 0 18 9 9 0 0 0 0-18z" opacity=".1"/>
+    <path d="M24 11a9 9 0 1 0 0 18 9 9 0 0 0 0-18z" fill="#3f7ed9"/>
+    <path d="M20 17v2h2v-2zm6 0v2h2v-2zm4 5c-1.413 1.35-3.635 2-6.129 2-2.382 0-4.453-.586-5.871-1.834.725 1.996 2.185 4.859 6.018 4.834 3.832-.025 5.34-2.911 5.982-5z" opacity=".2"/>
+    <path d="M20 16v2h2v-2zm6 0v2h2v-2zm4 5c-1.413 1.35-3.635 2-6.129 2-2.382 0-4.453-.586-5.871-1.834.725 1.996 2.185 4.859 6.018 4.834 3.832-.025 5.34-2.911 5.982-5z" fill="#f4f4f7"/>
+    <path d="M18.57 14.09h16v16h-16z" fill="none"/>
+</svg>

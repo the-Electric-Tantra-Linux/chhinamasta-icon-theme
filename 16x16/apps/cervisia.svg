@@ -1,1 +1,11 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#4f4f4f" height="16" rx=".8" width="16"/><g fill="#ff6363"><rect height="3" rx=".625" ry=".6" width="5" x="2" y="2"/><rect height="3" rx=".625" ry=".6" width="5" x="9" y="2"/><rect height="3" rx=".625" ry=".6" width="5" x="6" y="7"/><rect height="3" rx=".5" width="1" x="13" y="7"/><rect height="3" rx=".625" ry=".6" width="5" x="2" y="12"/><rect height="3" rx=".625" ry=".6" width="5" x="9" y="12"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#4f4f4f" height="16" rx=".8" width="16"/>
+    <g fill="#ff6363">
+        <rect height="3" rx=".625" ry=".6" width="5" x="2" y="2"/>
+        <rect height="3" rx=".625" ry=".6" width="5" x="9" y="2"/>
+        <rect height="3" rx=".625" ry=".6" width="5" x="6" y="7"/>
+        <rect height="3" rx=".5" width="1" x="13" y="7"/>
+        <rect height="3" rx=".625" ry=".6" width="5" x="2" y="12"/>
+        <rect height="3" rx=".625" ry=".6" width="5" x="9" y="12"/>
+    </g>
+</svg>

@@ -1,1 +1,18 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><circle cx="8.5" cy="8.5" fill="#50b590" r="7.5"/><rect fill="#30706b" height="5" rx=".722" ry=".833" width="13" x="2" y="6"/><g fill="#f4f4f7"><rect height="3" rx=".375" width=".75" x="7.13" y="7"/><rect height="3" rx=".375" transform="rotate(90)" width=".75" x="8.13" y="-9"/><rect height="3" rx=".375" transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)" width=".75" x="-1.08" y="9.81"/><rect height="3" rx=".375" transform="matrix(.70710678 .70710678 -.70710678 .70710678 0 0)" width=".75" x="10.94" y="-.79"/><rect height="3" rx=".375" width=".75" x="4.13" y="7"/><rect height="3" rx=".375" transform="rotate(90)" width=".75" x="8.13" y="-6"/><rect height="3" rx=".375" transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)" width=".75" x="-3.2" y="7.69"/><rect height="3" rx=".375" transform="matrix(.70710678 .70710678 -.70710678 .70710678 0 0)" width=".75" x="8.82" y="1.33"/><rect height="3" rx=".375" width=".75" x="10.13" y="7"/><rect height="3" rx=".375" transform="rotate(90)" width=".75" x="8.13" y="-12"/><rect height="3" rx=".375" transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)" width=".75" x="1.04" y="11.94"/><rect height="3" rx=".375" transform="matrix(.70710678 .70710678 -.70710678 .70710678 0 0)" width=".75" x="13.06" y="-2.91"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="8.5" cy="8.5" fill="#50b590" r="7.5"/>
+    <rect fill="#30706b" height="5" rx=".722" ry=".833" width="13" x="2" y="6"/>
+    <g fill="#f4f4f7">
+        <rect height="3" rx=".375" width=".75" x="7.13" y="7"/>
+        <rect height="3" rx=".375" transform="rotate(90)" width=".75" x="8.13" y="-9"/>
+        <rect height="3" rx=".375" transform="rotate(-45)" width=".75" x="-1.08" y="9.81"/>
+        <rect height="3" rx=".375" transform="rotate(45)" width=".75" x="10.94" y="-.79"/>
+        <rect height="3" rx=".375" width=".75" x="4.13" y="7"/>
+        <rect height="3" rx=".375" transform="rotate(90)" width=".75" x="8.13" y="-6"/>
+        <rect height="3" rx=".375" transform="rotate(-45)" width=".75" x="-3.2" y="7.69"/>
+        <rect height="3" rx=".375" transform="rotate(45)" width=".75" x="8.82" y="1.33"/>
+        <rect height="3" rx=".375" width=".75" x="10.13" y="7"/>
+        <rect height="3" rx=".375" transform="rotate(90)" width=".75" x="8.13" y="-12"/>
+        <rect height="3" rx=".375" transform="rotate(-45)" width=".75" x="1.04" y="11.94"/>
+        <rect height="3" rx=".375" transform="rotate(45)" width=".75" x="13.06" y="-2.91"/>
+    </g>
+</svg>

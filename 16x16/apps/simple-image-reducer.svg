@@ -1,1 +1,12 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#4cc74c" height="15" rx=".75" width="15" x="1" y="1"/><path d="m2 5.071v6.858l2.286-3.429zm13 0v6.858l-2.286-3.429z" fill="#2bffbf"/><path d="m4.759 4.972a5.497 5.497 0 0 1 7.765.283m-.297 6.785a5.497 5.497 0 0 1 -7.759-.304" fill="none" stroke="#bfecbf" stroke-width="1.028571"/><path d="m3.643 6.143 1.143-3.714.571 2 1.714 1.143zm9.714 4.714-1.143 3.714-.571-2-1.714-1.143z" fill="#bfecbf"/><g fill="#f4f4f7"><circle cx="8.5" cy="7" r="1.5"/><circle cx="10.5" cy="8.5" r="1.5"/><circle cx="6.5" cy="8.5" r="1.5"/><path d="m8 7.7h1v3.8h-1z"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#4cc74c" height="15" rx=".75" width="15" x="1" y="1"/>
+    <path d="M2 5.071v6.858L4.286 8.5zm13 0v6.858L12.714 8.5z" fill="#2bffbf"/>
+    <path d="M4.759 4.972a5.497 5.497 0 0 1 7.765.283m-.297 6.785a5.497 5.497 0 0 1-7.759-.304" fill="none" stroke="#bfecbf" stroke-width="1.029"/>
+    <path d="m3.643 6.143 1.143-3.714.571 2 1.714 1.143zm9.714 4.714-1.143 3.714-.571-2-1.714-1.143z" fill="#bfecbf"/>
+    <g fill="#f4f4f7">
+        <circle cx="8.5" cy="7" r="1.5"/>
+        <circle cx="10.5" cy="8.5" r="1.5"/>
+        <circle cx="6.5" cy="8.5" r="1.5"/>
+        <path d="M8 7.7h1v3.8H8z"/>
+    </g>
+</svg>

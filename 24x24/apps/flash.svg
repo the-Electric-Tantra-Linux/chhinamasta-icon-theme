@@ -1,1 +1,12 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.490002" y2="4.490002"><stop offset="0" stop-color="#df2a2a"/><stop offset="1" stop-color="#f83f3f"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="54.999996" ry="14.999999" stroke-linecap="round" stroke-width="2.74436" width="54.999996" x="4.500002" y="4.500002"/><circle cx="-1157.3" cy="-1267.7" fill="#5e4aa6" r="0"/><circle cx="-57.756" cy="-2.1829" fill="#5e4aa6" fill-rule="evenodd" r="0"/><path d="m44.723 15.089v6.8241c-6.3887.12156-8.2205 7.3046-8.2205 7.3046h5.3894v5.6538h-7.7965c-4.4947 14.786-14.818 14.079-14.818 14.079v-6.8241s6.5597 1.2975 9.9082-11.739c4.1852-16.299 15.537-15.333 15.537-15.333" fill="#fff" stroke-width=".95648"/><g fill="#5e4aa6"><circle cx="-1225.7142" cy="-1267.6785" r="0" stroke-width="1.00001"/><circle cx="-126.19398" cy="-2.18272" fill-rule="evenodd" r="0" stroke-width="1.00001"/><g><circle cx="-1317.137884" cy="-1241.6" r="0"/><circle cx="-1208.737884" cy="-1301.8" r="0"/><circle cx="-1226.537884" cy="-1246" r="0"/></g><circle cx="-1225.7379" cy="-1267.7" r="0"/><circle cx="-126.19389" cy="-2.1829" fill-rule="evenodd" r="0"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#df2a2a"/>
+        <stop offset="1" stop-color="#f83f3f"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <path d="M44.723 15.089v6.824c-6.389.122-8.22 7.305-8.22 7.305h5.389v5.654h-7.797C29.601 49.656 19.277 48.95 19.277 48.95v-6.824s6.56 1.298 9.909-11.739c4.185-16.299 15.537-15.333 15.537-15.333" fill="#f4f4f7"/>
+</svg>

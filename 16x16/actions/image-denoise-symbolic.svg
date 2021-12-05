@@ -1,1 +1,10 @@
-<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g filter="url(#a)" transform="translate(-685.0002 75)"/><g fill="#4c5263"><path d="m.99998 1h2v2h-2z"/><path d="m2.99998 1h2v2h-2z"/><path d="m4.99998 1h2v2h-2z"/><path d="m4.99998 3h2v2h-2z"/><path d="m2.99998 5h2v2h-2z"/><path d="m.99998 7h2v2h-2z"/><path d="m2.99998 9h2v2h-2z"/><path d="m4.99998 7h2v2h-2z"/><path d="m6.99998 5h2v2h-2z"/><path d="m8.99998 5h2v2h-2z"/><path d="m8.99998 1h2v2h-2z"/><path d="m10.99998 3h2v2h-2z"/><path d="m10.99998 9h2v2h-2z"/><path d="m6.99998 11h2v2h-2z"/><path d="m8.99998 13h2v2h-2z"/><path d="m2.99998 13h2v2h-2z"/><path d="m12.99998 11h2v2h-2z"/><path d="m12.99998 13h2v2h-2z"/><path d="m12.99998 13h2v2h-2z"/></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-685 75)"/>
+    <g fill="#f4f4f7">
+        <path d="M1 1h2v2H1zM3 1h2v2H3zM5 1h2v2H5zM5 3h2v2H5zM3 5h2v2H3zM1 7h2v2H1zM3 9h2v2H3zM5 7h2v2H5zM7 5h2v2H7zM9 5h2v2H9zM9 1h2v2H9zM11 3h2v2h-2zM11 9h2v2h-2zM7 11h2v2H7zM9 13h2v2H9zM3 13h2v2H3zM13 11h2v2h-2zM13 13h2v2h-2z"/>
+        <path d="M13 13h2v2h-2z"/>
+    </g>
+</svg>

@@ -1,1 +1,18 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#797979" height="16" rx=".8" transform="matrix(0 -1 -1 0 0 0)" width="12" x="-12" y="-16"/><path d="m1 8h14v2h-14z" opacity=".2"/><path d="m2 9v6.2c0 .443.334.8.75.8h10.5c.415 0 .75-.357.75-.8v-6.2z" fill="#f4f4f7"/><path d="m4 13h8.4v1h-8.4zm0-2h6.8v1h-6.8z" opacity=".5"/><g fill="#f4f4f7"><rect height="1" rx=".375" width="1" x="14" y="1"/><rect height="1" rx=".375" width="1" x="12" y="1"/><rect height="1" rx=".375" width="1" x="10" y="1"/><rect height="1" rx=".375" width="1" x="14" y="3"/><rect height="1" rx=".375" width="1" x="12" y="3"/><rect height="1" rx=".375" width="1" x="10" y="3"/></g><rect fill="#ff5a5a" height="1" rx=".375" width="1" x="14" y="5"/><rect fill="#f4f4f7" height="1" rx=".375" width="1" x="12" y="5"/><rect fill="#6bd70f" height="1" rx=".375" width="1" x="10" y="5"/><path d="m2 2h6v3h-6z" fill="#48cdff"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#797979" height="16" rx=".8" transform="matrix(0 -1 -1 0 0 0)" width="12" x="-12" y="-16"/>
+    <path d="M1 8h14v2H1z" opacity=".2"/>
+    <path d="M2 9v6.2c0 .443.334.8.75.8h10.5c.415 0 .75-.357.75-.8V9z" fill="#f4f4f7"/>
+    <path d="M4 13h8.4v1H4zm0-2h6.8v1H4z" opacity=".5"/>
+    <g fill="#f4f4f7">
+        <rect height="1" rx=".375" width="1" x="14" y="1"/>
+        <rect height="1" rx=".375" width="1" x="12" y="1"/>
+        <rect height="1" rx=".375" width="1" x="10" y="1"/>
+        <rect height="1" rx=".375" width="1" x="14" y="3"/>
+        <rect height="1" rx=".375" width="1" x="12" y="3"/>
+        <rect height="1" rx=".375" width="1" x="10" y="3"/>
+    </g>
+    <rect fill="#ff5a5a" height="1" rx=".375" width="1" x="14" y="5"/>
+    <rect fill="#f4f4f7" height="1" rx=".375" width="1" x="12" y="5"/>
+    <rect fill="#6bd70f" height="1" rx=".375" width="1" x="10" y="5"/>
+    <path d="M2 2h6v3H2z" fill="#48cdff"/>
+</svg>

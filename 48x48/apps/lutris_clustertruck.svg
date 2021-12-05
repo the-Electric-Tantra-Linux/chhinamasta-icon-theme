@@ -1,1 +1,16 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><rect height="30" opacity=".2" rx="2" width="32" x="8" y="5"/><rect height="11" opacity=".2" rx="3" width="6" x="27" y="33"/><rect height="11" opacity=".2" rx="2.876" ry="3" width="6" x="15" y="33"/><rect fill="#c9c9c9" height="30" rx="2" width="32" x="8" y="4"/><rect fill="#4f4f4f" height="11" rx="3" width="6" x="27" y="32"/><rect fill="#4f4f4f" height="11" rx="2.876" ry="3" width="6" x="15" y="32"/><rect height="24" opacity=".2" rx="2.087" ry="2.083" width="24" x="12" y="15"/><rect fill="#f4f4f7" height="24" rx="2.087" ry="2.083" width="24" x="12" y="14"/><rect height="11.083" opacity=".1" rx="2" width="18" x="15" y="17.917"/><rect fill="#4f4f4f" height="11.083" rx="2" width="18" x="15" y="17"/><g fill="#f4f4f7"><path d="m10 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h28c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" opacity=".1"/><path d="m14.088 14c-1.156 0-2.088.93-2.088 2.084v1c0-1.154.932-2.084 2.088-2.084h19.824c1.156 0 2.088.93 2.088 2.084v-1a2.082 2.082 0 0 0 -2.088-2.084z" opacity=".2"/></g></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <rect height="30" opacity=".2" rx="2" width="32" x="8" y="5"/>
+    <rect height="11" opacity=".2" rx="3" width="6" x="27" y="33"/>
+    <rect height="11" opacity=".2" rx="2.876" ry="3" width="6" x="15" y="33"/>
+    <rect fill="#c9c9c9" height="30" rx="2" width="32" x="8" y="4"/>
+    <rect fill="#4f4f4f" height="11" rx="3" width="6" x="27" y="32"/>
+    <rect fill="#4f4f4f" height="11" rx="2.876" ry="3" width="6" x="15" y="32"/>
+    <rect height="24" opacity=".2" rx="2.087" ry="2.083" width="24" x="12" y="15"/>
+    <rect fill="#f4f4f7" height="24" rx="2.087" ry="2.083" width="24" x="12" y="14"/>
+    <rect height="11.083" opacity=".1" rx="2" width="18" x="15" y="17.917"/>
+    <rect fill="#4f4f4f" height="11.083" rx="2" width="18" x="15" y="17"/>
+    <g fill="#f4f4f7">
+        <path d="M10 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h28c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z" opacity=".1"/>
+        <path d="M14.088 14C12.932 14 12 14.93 12 16.084v1C12 15.93 12.932 15 14.088 15h19.824c1.156 0 2.088.93 2.088 2.084v-1A2.082 2.082 0 0 0 33.912 14z" opacity=".2"/>
+    </g>
+</svg>

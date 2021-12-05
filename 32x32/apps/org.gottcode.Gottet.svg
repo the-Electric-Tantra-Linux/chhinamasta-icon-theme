@@ -1,1 +1,29 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(0 -1 -1 0 0 0)"><rect height="7" opacity=".2" rx=".7" width="7" x="-31" y="-9"/><rect height="7" opacity=".2" rx=".7" width="7" x="-31" y="-16"/><rect height="7" opacity=".2" rx=".7" width="7" x="-31" y="-23"/><rect fill="#5ba8da" height="7" rx=".7" width="7" x="-30" y="-9"/><rect fill="#2d89c3" height="7" rx=".7" width="7" x="-30" y="-16"/><rect fill="#5ba8da" height="7" rx=".7" width="7" x="-30" y="-23"/><rect height="7" opacity=".2" rx=".7" width="7" x="-24" y="-9"/><rect fill="#fc965f" height="7" rx=".7" width="7" x="-23" y="-9"/><rect height="7" opacity=".2" rx=".7" width="7" x="-24" y="-16"/><rect fill="#5ba8da" height="7" rx=".7" width="7" x="-23" y="-16"/><rect height="7" opacity=".2" rx=".7" width="7" x="-24" y="-23"/><rect fill="#d83535" height="7" rx=".7" width="7" x="-23" y="-23"/><rect height="7" opacity=".2" rx=".7" width="7" x="-24" y="-30"/><rect fill="#dd5252" height="7" rx=".7" width="7" x="-23" y="-30"/><rect height="7" opacity=".2" rx=".7" width="7" x="-17" y="-9"/><rect fill="#fc7c35" height="7" rx=".7" width="7" x="-16" y="-9"/><rect height="7" opacity=".2" rx=".7" width="7" x="-17" y="-16"/><rect fill="#d83535" height="7" rx=".7" width="7" x="-16" y="-16"/><rect height="7" opacity=".2" rx=".7" width="7" x="-17" y="-23"/><rect fill="#dd5252" height="7" rx=".7" width="7" x="-16" y="-23"/><rect height="7" opacity=".2" rx=".7" width="7" x="-10" y="-9"/><rect fill="#fc965f" height="7" rx=".7" width="7" x="-9" y="-9"/><rect height="7" opacity=".2" rx=".7" width="7" x="-10" y="-16"/><rect fill="#fc7c35" height="7" rx=".7" width="7" x="-9" y="-16"/></g><path d="m23.7 16c-.389 0-.7.311-.7.7v1c0-.389.311-.7.7-.7h5.6c.389 0 .7.311.7.7v-1c0-.389-.311-.7-.7-.7zm-7-7c-.389 0-.7.311-.7.7v1c0-.389.311-.7.7-.7h5.6c.389 0 .7.311.7.7v-1c0-.389-.311-.7-.7-.7zm-14-7c-.389 0-.7.311-.7.7v1c0-.389.311-.7.7-.7h5.6c.389 0 .7.311.7.7v-1c0-.389-.311-.7-.7-.7zm7 0c-.389 0-.7.311-.7.7v1c0-.389.311-.7.7-.7h5.6c.389 0 .7.311.7.7v-1c0-.389-.311-.7-.7-.7z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <g transform="matrix(0 -1 -1 0 0 0)">
+        <rect height="7" opacity=".2" rx=".7" width="7" x="-31" y="-9"/>
+        <rect height="7" opacity=".2" rx=".7" width="7" x="-31" y="-16"/>
+        <rect height="7" opacity=".2" rx=".7" width="7" x="-31" y="-23"/>
+        <rect fill="#5ba8da" height="7" rx=".7" width="7" x="-30" y="-9"/>
+        <rect fill="#2d89c3" height="7" rx=".7" width="7" x="-30" y="-16"/>
+        <rect fill="#5ba8da" height="7" rx=".7" width="7" x="-30" y="-23"/>
+        <rect height="7" opacity=".2" rx=".7" width="7" x="-24" y="-9"/>
+        <rect fill="#fc965f" height="7" rx=".7" width="7" x="-23" y="-9"/>
+        <rect height="7" opacity=".2" rx=".7" width="7" x="-24" y="-16"/>
+        <rect fill="#5ba8da" height="7" rx=".7" width="7" x="-23" y="-16"/>
+        <rect height="7" opacity=".2" rx=".7" width="7" x="-24" y="-23"/>
+        <rect fill="#d83535" height="7" rx=".7" width="7" x="-23" y="-23"/>
+        <rect height="7" opacity=".2" rx=".7" width="7" x="-24" y="-30"/>
+        <rect fill="#dd5252" height="7" rx=".7" width="7" x="-23" y="-30"/>
+        <rect height="7" opacity=".2" rx=".7" width="7" x="-17" y="-9"/>
+        <rect fill="#fc7c35" height="7" rx=".7" width="7" x="-16" y="-9"/>
+        <rect height="7" opacity=".2" rx=".7" width="7" x="-17" y="-16"/>
+        <rect fill="#d83535" height="7" rx=".7" width="7" x="-16" y="-16"/>
+        <rect height="7" opacity=".2" rx=".7" width="7" x="-17" y="-23"/>
+        <rect fill="#dd5252" height="7" rx=".7" width="7" x="-16" y="-23"/>
+        <rect height="7" opacity=".2" rx=".7" width="7" x="-10" y="-9"/>
+        <rect fill="#fc965f" height="7" rx=".7" width="7" x="-9" y="-9"/>
+        <rect height="7" opacity=".2" rx=".7" width="7" x="-10" y="-16"/>
+        <rect fill="#fc7c35" height="7" rx=".7" width="7" x="-9" y="-16"/>
+    </g>
+    <path d="M23.7 16c-.389 0-.7.311-.7.7v1c0-.389.311-.7.7-.7h5.6c.389 0 .7.311.7.7v-1c0-.389-.311-.7-.7-.7zm-7-7c-.389 0-.7.311-.7.7v1c0-.389.311-.7.7-.7h5.6c.389 0 .7.311.7.7v-1c0-.389-.311-.7-.7-.7zm-14-7c-.389 0-.7.311-.7.7v1c0-.389.311-.7.7-.7h5.6c.389 0 .7.311.7.7v-1c0-.389-.311-.7-.7-.7zm7 0c-.389 0-.7.311-.7.7v1c0-.389.311-.7.7-.7h5.6c.389 0 .7.311.7.7v-1c0-.389-.311-.7-.7-.7z" fill="#f4f4f7" opacity=".2"/>
+</svg>

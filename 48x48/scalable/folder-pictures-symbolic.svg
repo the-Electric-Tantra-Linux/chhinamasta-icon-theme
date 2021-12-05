@@ -1,1 +1,8 @@
-<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="m0 2.987v13.013h13v-12.998zm1 1.013h11v11h-11z" style="display:block;fill:#fff;stroke-width:.13;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.964"/><path d="m2 5h9v2l-1-1h-1l-3 3-1-1h-1l-2 2z" display="block" fill="#fbfaff" opacity=".1" stroke-opacity=".344" stroke-width=".82"/><g fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".964" stroke-width=".13"><path d="m9 8-3 3h-.429l-.571-1h-1l-2 2v2h9l.02-4.306-1.02-1.694z" fill-rule="evenodd"/><path d="m13 13h3v-12.998l-13-.015v3.013h1v-2h11v11h-2z" display="block" fill-opacity=".995"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <path d="M0 2.987V16h13V3.002zM1 4h11v11H1z" style="display:block;fill:#fff;stroke-width:.13;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:.964"/>
+    <path d="M2 5h9v2l-1-1H9L6 9 5 8H4l-2 2z" display="block" fill="#fbfaff" opacity=".1"/>
+    <g fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".964" stroke-width=".13">
+        <path d="m9 8-3 3h-.429L5 10H4l-2 2v2h9l.02-4.306L10 8z" fill-rule="evenodd"/>
+        <path d="M13 13h3V.002L3-.013V3h1V1h11v11h-2z" display="block" fill-opacity=".995"/>
+    </g>
+</svg>

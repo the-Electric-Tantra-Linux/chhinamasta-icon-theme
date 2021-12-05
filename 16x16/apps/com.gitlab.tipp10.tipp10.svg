@@ -1,1 +1,14 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#f4f4f7" height="15" rx=".75" width="15" x="1" y="1"/><g fill="#d07517"><rect height="1" ry=".24" width="1" x="8" y="12"/><rect height="1" ry=".24" width="1" x="8" y="10"/><rect height="1" ry=".24" width="1" x="8" y="8"/><rect height="1" ry=".24" width="1" x="8" y="6"/><rect height="1" ry=".24" width="1" x="8" y="4"/><rect height="1" ry=".24" width="1" x="6" y="4"/><rect height="1" ry=".24" width="1" x="4" y="4"/><rect height="1" ry=".24" width="1" x="12" y="4"/><rect height="1" ry=".24" width="1" x="10" y="4"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#f4f4f7" height="15" rx=".75" width="15" x="1" y="1"/>
+    <g fill="#d07517">
+        <rect height="1" ry=".24" width="1" x="8" y="12"/>
+        <rect height="1" ry=".24" width="1" x="8" y="10"/>
+        <rect height="1" ry=".24" width="1" x="8" y="8"/>
+        <rect height="1" ry=".24" width="1" x="8" y="6"/>
+        <rect height="1" ry=".24" width="1" x="8" y="4"/>
+        <rect height="1" ry=".24" width="1" x="6" y="4"/>
+        <rect height="1" ry=".24" width="1" x="4" y="4"/>
+        <rect height="1" ry=".24" width="1" x="12" y="4"/>
+        <rect height="1" ry=".24" width="1" x="10" y="4"/>
+    </g>
+</svg>

@@ -1,1 +1,20 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><clipPath id="a"><path d="m-1 1335h1029v-1334h-1029z"/></clipPath><filter id="b" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="1.19107" x2="15.74352" y1="15.7403" y2="1.18785"><stop offset="0" stop-color="#32d7ff"/><stop offset="1" stop-color="#329bff"/></linearGradient><rect fill="#141414" filter="url(#b)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" transform="matrix(.26459 0 0 .26459 -.00006 -.00006)" width="55" x="4.5" y="4.5"/><rect fill="url(#c)" height="14.552" ry="3.9688" stroke-linecap="round" stroke-width=".72612" width="14.552" x="1.1905" y="1.1905"/><g fill="#fff" transform="translate(1.0016 -1.9277)"><circle cx="7.465" cy="-6.5303" fill-rule="evenodd" r=".94496" stroke-width=".30041" transform="scale(1 -1)"/><g clip-path="url(#a)" fill="#fff" transform="matrix(.15891 0 0 .15891 -91.65 -76.761)"><path d="m618.69 538.71c0-2.761 2.239-5 5-5 2.762 0 5 2.239 5 5v35c0 2.762-2.238 5-5 5-2.761 0-5-2.238-5-5z" fill="#fff"/></g></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <clipPath id="c">
+        <path d="M-1 1335h1029V1H-1z"/>
+    </clipPath>
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.744" y1="15.74" y2="1.188">
+        <stop offset="0" stop-color="#32d7ff"/>
+        <stop offset="1" stop-color="#329bff"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26459)" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.19" y="1.19"/>
+    <g fill="#fff" transform="translate(1.002 -1.928)">
+        <circle cx="7.465" cy="-6.53" fill-rule="evenodd" r=".945" transform="scale(1 -1)"/>
+        <g clip-path="url(#c)" transform="translate(-91.65 -76.761) scale(.15891)">
+            <path d="M618.69 538.71a5 5 0 0 1 10 0v35a5 5 0 1 1-10 0z"/>
+        </g>
+    </g>
+</svg>

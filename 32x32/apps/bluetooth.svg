@@ -1,1 +1,12 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.19060176" x2="15.74239836" y1="15.7397522" y2="1.1879556"><stop offset="0" stop-color="#32d7ff"/><stop offset="1" stop-color="#329bff"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" transform="scale(.26457812)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.551797" ry="3.968672" stroke-linecap="round" stroke-width=".726108" width="14.551797" x="1.190602" y="1.190602"/><g fill="#5e4aa6" stroke-width=".26458"><circle cx="-347.64" cy="-328.38" r="0"/><circle cx="-56.726" cy="6.44" fill-rule="evenodd" r="0"/><circle cx="-330.3772" cy="-328.3735" r="0"/><circle cx="-312.1372" cy="-326.2435" r="0"/><circle cx="-306.0472" cy="-333.0635" r="0"/><circle cx="-308.8672" cy="-326.0035" r="0"/></g><path d="m6.1807 10.63 4.5667-4.3264-2.2833-2.2833v8.8934l2.2833-2.2833-4.5667-4.3264" fill="none" stroke="#fff" stroke-linecap="square" stroke-width=".48071"/><g fill="#5e4aa6"><circle cx="-318.64783" cy="-342.74667" r="0" stroke-width=".264578"/><circle cx="-287.30762" cy="-353.14453" r="0" stroke-width=".26458"/><circle cx="3.606159" cy="-18.323235" fill-rule="evenodd" r="0" stroke-width=".26458"/><circle cx="-266.53763" cy="-372.06454" r="0" stroke-width=".26458"/><circle cx="24.375359" cy="-37.233532" fill-rule="evenodd" r="0" stroke-width=".26458"/></g></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.742" y1="15.74" y2="1.188">
+        <stop offset="0" stop-color="#32d7ff"/>
+        <stop offset="1" stop-color="#329bff"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
+    <path d="m6.18 10.63 4.567-4.326L8.464 4.02v8.894l2.283-2.284-4.566-4.326" fill="none" stroke="#fff" stroke-linecap="square" stroke-width=".481"/>
+</svg>

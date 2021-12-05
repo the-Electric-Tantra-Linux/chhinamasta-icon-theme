@@ -1,1 +1,4 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#97417c" height="16" rx=".8" width="16"/><path d="m2.5 4 3 8.5 3-6 3 6 3-8.5" fill="none" opacity=".99" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#97417c" height="16" rx=".8" width="16"/>
+    <path d="m2.5 4 3 8.5 3-6 3 6 3-8.5" fill="none" opacity=".99" stroke="#f4f4f7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

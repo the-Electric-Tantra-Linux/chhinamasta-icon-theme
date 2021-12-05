@@ -1,1 +1,9 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#4f4f4f" height="16" rx="1" width="16"/><path d="m1 1h2v2h-2zm0 3h2v2h-2zm0 3h2v2h-2zm0 3h2v2h-2zm0 3h2v2h-2zm12-12h2v2h-2zm0 3h2v2h-2zm0 3h2v2h-2zm0 3h2v2h-2zm0 3h2v2h-2z" fill="#f4f4f7"/><g fill="#28a1e1"><rect height="4" rx="1" ry=".844" width="8" x="4" y="1"/><rect height="4" rx="1" ry=".844" width="8" x="4" y="11"/><rect height="4" rx="1" ry=".844" width="8" x="4" y="6"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#4f4f4f" height="16" rx="1" width="16"/>
+    <path d="M1 1h2v2H1zm0 3h2v2H1zm0 3h2v2H1zm0 3h2v2H1zm0 3h2v2H1zM13 1h2v2h-2zm0 3h2v2h-2zm0 3h2v2h-2zm0 3h2v2h-2zm0 3h2v2h-2z" fill="#f4f4f7"/>
+    <g fill="#28a1e1">
+        <rect height="4" rx="1" ry=".844" width="8" x="4" y="1"/>
+        <rect height="4" rx="1" ry=".844" width="8" x="4" y="11"/>
+        <rect height="4" rx="1" ry=".844" width="8" x="4" y="6"/>
+    </g>
+</svg>

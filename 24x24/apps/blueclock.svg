@@ -1,1 +1,16 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49"><stop offset="0" stop-color="#dee0e2"/><stop offset="1" stop-color="#f1f3f5" stop-opacity=".99608"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="55" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><circle cx="32" cy="32" fill="#323232" r="18.325" stroke="#232323" stroke-dashoffset=".42096" stroke-width="2.4026"/><g stroke-width="3.7796"><rect fill="#fff" height="11.422" ry=".51939" width="1.3292" x="31.335" y="21.248"/><rect fill="#f04646" height="14.544" rx=".16797" ry=".16374" transform="matrix(.70710678 -.70710678 .70710678 .70710678 0 0)" width=".62435" x="-.29271" y="45.895"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#dee0e2"/>
+        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <circle cx="32" cy="32" fill="#323232" r="18.325" stroke="#232323" stroke-dashoffset=".421" stroke-width="2.403"/>
+    <g stroke-width="3.78">
+        <rect fill="#f4f4f7" height="11.422" ry=".519" width="1.329" x="31.335" y="21.248"/>
+        <rect fill="#f04646" height="14.544" rx=".168" ry=".164" transform="rotate(-45)" width=".624" x="-.293" y="45.895"/>
+    </g>
+</svg>

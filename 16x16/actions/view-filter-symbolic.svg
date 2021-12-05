@@ -1,1 +1,19 @@
-<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g filter="url(#a)" transform="translate(-585.00022 -4.99664)"/><g fill="#4c5263"><rect height="2" ry="1" width="2" x="8.99996" y="3.003357"/><rect height="2" ry="1" width="2" x="12.99996" y="3.003357"/><rect height="2" ry="1" width="2" x="12.99996" y="7.003357"/><rect height="2" ry="1" width="2" x="12.99996" y="11.003357"/><rect height="2" ry="1" width="2" x="8.99996" y="11.003357"/><rect height="2" ry="1" width="2" x="8.99996" y="7.003357"/><rect height="12.00378" ry=".4999" width=".9998" x="6.00021" y="1.999573"/><rect height="1" ry=".4999" width="2" x="1.99996" y="3.003357"/><rect height="1" ry=".4999" width="2" x="1.99996" y="6.003357"/><rect height="1" ry=".4999" width="2" x="1.99996" y="9.003357"/><rect height="1" ry=".4999" width="2" x="1.99996" y="12.003356"/></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-585 -4.997)"/>
+    <g fill="#f4f4f7">
+        <rect height="2" ry="1" width="2" x="9" y="3.003"/>
+        <rect height="2" ry="1" width="2" x="13" y="3.003"/>
+        <rect height="2" ry="1" width="2" x="13" y="7.003"/>
+        <rect height="2" ry="1" width="2" x="13" y="11.003"/>
+        <rect height="2" ry="1" width="2" x="9" y="11.003"/>
+        <rect height="2" ry="1" width="2" x="9" y="7.003"/>
+        <rect height="12.004" ry=".5" width="1" x="6" y="2"/>
+        <rect height="1" ry=".5" width="2" x="2" y="3.003"/>
+        <rect height="1" ry=".5" width="2" x="2" y="6.003"/>
+        <rect height="1" ry=".5" width="2" x="2" y="9.003"/>
+        <rect height="1" ry=".5" width="2" x="2" y="12.003"/>
+    </g>
+</svg>

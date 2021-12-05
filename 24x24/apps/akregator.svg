@@ -1,1 +1,13 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49"><stop offset="0" stop-color="#ff8228"/><stop offset=".50054371" stop-color="#ff5a1e" stop-opacity=".996078"/><stop offset="1" stop-color="#ff8c55" stop-opacity=".996078"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="54.999996" ry="14.999999" stroke-linecap="round" stroke-width="2.74436" width="54.999996" x="4.500002" y="4.500002"/><path d="m21.2 15.8v5.4c11.93 0 21.6 9.67 21.6 21.6h5.4c0-14.918-12.088-27-27-27m0 10.8v5.4c5.9643 0 10.8 4.8357 10.8 10.8h5.4c0-8.9464-7.2536-16.2-16.2-16.2m0 10.8c-2.9822 0-5.4 2.4178-5.4 5.4s2.4178 5.4 5.4 5.4 5.4-2.4178 5.4-5.4-2.4178-5.4-5.4-5.4" fill="#fff" stroke-linejoin="round" stroke-width="5.9999"/><g fill="#5e4aa6"><circle cx="-1365.4042" cy="-1290.3292" r="0"/><circle cx="-265.85428" cy="-24.874281" fill-rule="evenodd" r="0"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#ff8228"/>
+        <stop offset=".501" stop-color="#ff5a1e" stop-opacity=".996"/>
+        <stop offset="1" stop-color="#ff8c55" stop-opacity=".996"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <path d="M21.2 15.8v5.4c11.93 0 21.6 9.67 21.6 21.6h5.4c0-14.918-12.088-27-27-27m0 10.8V32C27.164 32 32 36.836 32 42.8h5.4c0-8.946-7.254-16.2-16.2-16.2m0 10.8a5.4 5.4 0 1 0 0 10.8 5.4 5.4 0 0 0 0-10.8" fill="#f4f4f7"/>
+</svg>

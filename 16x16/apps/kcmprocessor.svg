@@ -1,1 +1,5 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#419d45" height="15" rx=".8" width="15"/><rect fill="#37474f" height="5" rx="1.6" width="5" x="5" y="5"/><path d="m3 3h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm-2 0h1v1h-1zm-2 0h1v1h-1zm-2 0h1v1h-1zm-2 0h1v1h-1zm0-2h1v1h-1zm0-2h1v1h-1zm0-2h1v1h-1zm2-4h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm2 0h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm-2 0h1v1h-1zm-2 0h1v1h-1zm-2 0h1v1h-1zm-2 0h1v1h-1zm-4 0h1v1h-1zm0-2h1v1h-1zm0-2h1v1h-1zm0-2h1v1h-1zm0-2h1v1h-1zm0-2h1v1h-1z" fill="#ffdc65"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#419d45" height="15" rx=".8" width="15"/>
+    <rect fill="#37474f" height="5" rx="1.6" width="5" x="5" y="5"/>
+    <path d="M3 3h1v1H3zm2 0h1v1H5zm2 0h1v1H7zm2 0h1v1H9zm2 0h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm-2 0h1v1H9zm-2 0h1v1H7zm-2 0h1v1H5zm-2 0h1v1H3zm0-2h1v1H3zm0-2h1v1H3zm0-2h1v1H3zm2-4h1v1H5zm2 0h1v1H7zm2 0h1v1H9zm2 0h1v1h-1zm2 0h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm0 2h1v1h-1zm-2 0h1v1h-1zm-2 0h1v1H9zm-2 0h1v1H7zm-2 0h1v1H5zm-4 0h1v1H1zm0-2h1v1H1zm0-2h1v1H1zm0-2h1v1H1zm0-2h1v1H1zm0-2h1v1H1z" fill="#ffdc65"/>
+</svg>

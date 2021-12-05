@@ -1,1 +1,9 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><rect height="36" opacity=".2" rx="18" transform="matrix(0 -1 -1 0 0 0)" width="36" x="-43" y="-42"/><rect fill="#d83b2f" height="36" rx="18" transform="matrix(0 -1 -1 0 0 0)" width="36" x="-42" y="-42"/><path d="m24 6c-9.972 0-18 8.028-18 18 0 .169.02.332.025.5.266-9.737 8.172-17.5 17.975-17.5s17.71 7.763 17.975 17.5c.004-.168.025-.331.025-.5 0-9.972-8.028-18-18-18z" fill="#f4f4f7" opacity=".1"/><circle cx="24" cy="25" opacity=".2" r="11"/><circle cx="24" cy="24" fill="#f4f4f7" r="11"/><rect height="8" opacity=".2" rx="2" width="42" x="3" y="21"/><rect fill="#3a72e1" height="8" rx="2" width="42" x="3" y="20"/></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <rect height="36" opacity=".2" rx="18" transform="matrix(0 -1 -1 0 0 0)" width="36" x="-43" y="-42"/>
+    <rect fill="#d83b2f" height="36" rx="18" transform="matrix(0 -1 -1 0 0 0)" width="36" x="-42" y="-42"/>
+    <path d="M24 6C14.028 6 6 14.028 6 24c0 .169.02.332.025.5C6.291 14.763 14.197 7 24 7s17.71 7.763 17.975 17.5c.004-.168.025-.331.025-.5 0-9.972-8.028-18-18-18z" fill="#f4f4f7" opacity=".1"/>
+    <circle cx="24" cy="25" opacity=".2" r="11"/>
+    <circle cx="24" cy="24" fill="#f4f4f7" r="11"/>
+    <rect height="8" opacity=".2" rx="2" width="42" x="3" y="21"/>
+    <rect fill="#3a72e1" height="8" rx="2" width="42" x="3" y="20"/>
+</svg>

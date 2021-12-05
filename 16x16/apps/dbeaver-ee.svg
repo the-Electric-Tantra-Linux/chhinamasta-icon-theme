@@ -1,1 +1,20 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><g enable-background="new" transform="translate(-16 -270)"><circle cx="24" cy="278" fill="#f4f4f7" r="8"/><circle cx="28" cy="277" fill="#6d4c41" r="3"/><circle cx="20" cy="277" fill="#6d4c41" r="3"/><path d="m24 273.99c-3.615 0-6 2.443-6 5.455v3.828a8 8 0 0 0 6 2.72 8 8 0 0 0 6-2.719v-3.832c0-3.012-2.385-5.455-6-5.455z" fill="#a1887f"/><path d="m22.5 282h1.5v2h-1.5z" fill="#fff"/><path d="m24 281.75h1.5v2.25h-1.5z" fill="#f2f2f2"/><path d="m22.841 280c-.552-.02-.841 1.11-.841 1.78s.448 1.22 1 1.22c.51 0 .993-.542.993-.542h.014s.484.541.993.542c.552 0 1-.55 1-1.22 0-.674-.271-1.673-.823-1.694z" fill="#6d4c41"/><path d="m24.99 279.51c.1.7-.556 1.49-.979 1.49s-1.101-.782-1-1.491c.076-.544.577-.509 1-.509s.903-.024.98.509z" fill="#3e2723"/><g transform="translate(0 1)"><circle cx="21.5" cy="276.5" fill="#fefefe" r="1.5"/><circle cx="-21.25" cy="276.25" fill="#333" r=".75" transform="scale(-1 1)"/></g><g transform="translate(5 1)"><circle cx="21.5" cy="276.5" fill="#fefefe" r="1.5"/><circle cx="-21.25" cy="276.25" fill="#333" r=".75" transform="scale(-1 1)"/></g></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(-16 -270)">
+        <circle cx="24" cy="278" fill="#f4f4f7" r="8"/>
+        <circle cx="28" cy="277" fill="#6d4c41" r="3"/>
+        <circle cx="20" cy="277" fill="#6d4c41" r="3"/>
+        <path d="M24 273.99c-3.615 0-6 2.443-6 5.455v3.828a8 8 0 0 0 6 2.72 8 8 0 0 0 6-2.719v-3.832c0-3.012-2.385-5.455-6-5.455z" fill="#a1887f"/>
+        <path d="M22.5 282H24v2h-1.5z" fill="#f4f4f7"/>
+        <path d="M24 281.75h1.5V284H24z" fill="#f2f2f2"/>
+        <path d="M22.841 280c-.552-.02-.841 1.11-.841 1.78s.448 1.22 1 1.22c.51 0 .993-.542.993-.542h.014s.484.541.993.542c.552 0 1-.55 1-1.22 0-.674-.271-1.673-.823-1.694z" fill="#6d4c41"/>
+        <path d="M24.99 279.51c.1.7-.556 1.49-.979 1.49s-1.101-.782-1-1.491c.076-.544.577-.509 1-.509s.903-.024.98.509z" fill="#3e2723"/>
+        <g transform="translate(0 1)">
+            <circle cx="21.5" cy="276.5" fill="#fefefe" r="1.5"/>
+            <circle cx="-21.25" cy="276.25" fill="#333" r=".75" transform="scale(-1 1)"/>
+        </g>
+        <g transform="translate(5 1)">
+            <circle cx="21.5" cy="276.5" fill="#fefefe" r="1.5"/>
+            <circle cx="-21.25" cy="276.25" fill="#333" r=".75" transform="scale(-1 1)"/>
+        </g>
+    </g>
+</svg>

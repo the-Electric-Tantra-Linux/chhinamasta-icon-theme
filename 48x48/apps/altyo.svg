@@ -1,1 +1,13 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><rect height="34" opacity=".2" rx="1.8" ry="1.7" width="36" x="6" y="9"/><rect fill="#4f4f4f" height="34" rx="1.8" ry="1.7" width="36" x="6" y="8"/><rect height="4" opacity=".2" rx="2" width="44" x="2" y="7"/><rect fill="#a5b1b3" height="4" rx="2" width="44" x="2" y="6"/><path d="m15.621 17.879-2.121 2.121 4.94 4.94-4.94 4.939 2.121 2.121 6-6 1.06-1.06 4.94-4.94-2.121-2.121-4.94 4.94z" opacity=".2"/><path d="m26.56 17.94-6 6" fill="none" stroke="#236ac6" stroke-width="3"/><path d="m25.5 16.879-6 6 .5.5 5.5-5.5 1.621 1.621.5-.5z" fill="#f4f4f7" opacity=".1"/><path d="m14.56 17.94 6 6-6 6" fill="none" stroke="#3498db" stroke-width="3"/><path d="m24 33v3h11v-3z" opacity=".2"/><path d="m24 33.5h11" fill="none" stroke="#3498db" stroke-width="3"/><path d="m4 6c-1.108 0-2 .892-2 2 0 .174.029.34.07.5a1.99 1.99 0 0 1 1.93-1.5h40a1.99 1.99 0 0 1 1.93 1.5c.041-.16.07-.326.07-.5 0-1.108-.892-2-2-2zm11.621 10.879-2.121 2.121.5.5 1.621-1.621 6.56 6.56.5-.5zm2.318 7.56-4.439 4.441.5.5 4.44-4.44-.5-.5zm6.061 7.561v1h11v-1z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <rect height="34" opacity=".2" rx="1.8" ry="1.7" width="36" x="6" y="9"/>
+    <rect fill="#4f4f4f" height="34" rx="1.8" ry="1.7" width="36" x="6" y="8"/>
+    <rect height="4" opacity=".2" rx="2" width="44" x="2" y="7"/>
+    <rect fill="#a5b1b3" height="4" rx="2" width="44" x="2" y="6"/>
+    <path d="M15.621 17.879 13.5 20l4.94 4.94-4.94 4.939L15.621 32l6-6 1.06-1.06 4.94-4.94-2.121-2.121-4.94 4.94z" opacity=".2"/>
+    <path d="m26.56 17.94-6 6" fill="none" stroke="#236ac6" stroke-width="3"/>
+    <path d="m25.5 16.879-6 6 .5.5 5.5-5.5 1.621 1.621.5-.5z" fill="#f4f4f7" opacity=".1"/>
+    <path d="m14.56 17.94 6 6-6 6" fill="none" stroke="#3498db" stroke-width="3"/>
+    <path d="M24 33v3h11v-3z" opacity=".2"/>
+    <path d="M24 33.5h11" fill="none" stroke="#3498db" stroke-width="3"/>
+    <path d="M4 6c-1.108 0-2 .892-2 2 0 .174.029.34.07.5A1.99 1.99 0 0 1 4 7h40a1.99 1.99 0 0 1 1.93 1.5c.041-.16.07-.326.07-.5 0-1.108-.892-2-2-2zm11.621 10.879L13.5 19l.5.5 1.621-1.621 6.56 6.56.5-.5zm2.318 7.56L13.5 28.88l.5.5 4.44-4.44-.5-.5zM24 32v1h11v-1z" fill="#f4f4f7" opacity=".2"/>
+</svg>

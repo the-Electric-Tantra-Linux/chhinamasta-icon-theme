@@ -1,1 +1,12 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#f4f4f7" height="16" rx=".75" ry=".8" transform="scale(-1 1)" width="12" x="-14"/><circle cx="-10" cy="8" fill="#17191e" r="5" transform="rotate(-90)"/><circle cx="-10" cy="-8" fill="#fec006" r="4" transform="matrix(0 -1 -1 0 0 0)"/><g fill="#17191e"><circle cx="-10" cy="-8" r="2" transform="matrix(0 -1 -1 0 0 0)"/><circle cx="3" cy="-5" r="1" transform="rotate(90)"/><circle cx="3" cy="-11" r="1" transform="rotate(90)"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#f4f4f7" height="16" rx=".75" ry=".8" transform="scale(-1 1)" width="12" x="-14"/>
+    <circle cx="-10" cy="8" fill="#17191e" r="5" transform="rotate(-90)"/>
+    <circle cx="-10" cy="-8" fill="#fec006" r="4" transform="matrix(0 -1 -1 0 0 0)"/>
+    <g fill="#17191e">
+        <circle cx="-10" cy="-8" r="2" transform="matrix(0 -1 -1 0 0 0)"/>
+        <g transform="rotate(90)">
+            <circle cx="3" cy="-5" r="1"/>
+            <circle cx="3" cy="-11" r="1"/>
+        </g>
+    </g>
+</svg>

@@ -1,1 +1,13 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><path d="m8 8h-8l4-4h4" fill="#fec006"/><path d="m8 8v-8l4 4v4" fill="#f34235"/><path d="m4 8v4l4 4v-8" fill="#4bae4f"/><path d="m8 8h8l-4 4h-4" fill="#2095f2"/><path d="m8 8 4-4v4z" fill="#9c27b0"/><path d="m8 8-4 4v-4z" fill="#1ea362"/><path d="m12 12-4-4v4z" fill="#3e50b4"/><path d="m4 4 4 4v-4z" fill="#fe9700"/><path d="m8 6-.75 1.25-1.25.75 1.25.75.75 1.25.75-1.25 1.25-.75-1.25-.75z" fill="#f4f4f7"/><path d="m6 8 1.25.75.75 1.25v-2z" fill="#ebebeb"/><path d="m10 8-1.25.75-.75 1.25v-2z" fill="#dfdfdf"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <path d="M8 8H0l4-4h4" fill="#fec006"/>
+    <path d="M8 8V0l4 4v4" fill="#f34235"/>
+    <path d="M4 8v4l4 4V8" fill="#4bae4f"/>
+    <path d="M8 8h8l-4 4H8" fill="#2095f2"/>
+    <path d="m8 8 4-4v4z" fill="#9c27b0"/>
+    <path d="m8 8-4 4V8z" fill="#1ea362"/>
+    <path d="M12 12 8 8v4z" fill="#3e50b4"/>
+    <path d="m4 4 4 4V4z" fill="#fe9700"/>
+    <path d="m8 6-.75 1.25L6 8l1.25.75L8 10l.75-1.25L10 8l-1.25-.75z" fill="#f4f4f7"/>
+    <path d="m6 8 1.25.75L8 10V8z" fill="#ebebeb"/>
+    <path d="m10 8-1.25.75L8 10V8z" fill="#dfdfdf"/>
+</svg>

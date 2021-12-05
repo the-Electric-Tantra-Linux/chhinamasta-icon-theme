@@ -1,1 +1,9 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><rect height="40" opacity=".2" rx="2" width="40" x="4" y="5"/><rect fill="#546e7a" height="40" rx="2" width="40" x="4" y="4"/><path d="m21 14v8h-4l7 8 7-8h-4v-8zm-10 14v8h26v-8h-4v4h-18v-4z" opacity=".2"/><g fill="#f4f4f7"><path d="m21 13v8h-4l7 8 7-8h-4v-8zm-10 14v8h26v-8h-4v4h-18v-4z"/><path d="m6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" opacity=".1"/></g></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <rect height="40" opacity=".2" rx="2" width="40" x="4" y="5"/>
+    <rect fill="#546e7a" height="40" rx="2" width="40" x="4" y="4"/>
+    <path d="M21 14v8h-4l7 8 7-8h-4v-8zM11 28v8h26v-8h-4v4H15v-4z" opacity=".2"/>
+    <g fill="#f4f4f7">
+        <path d="M21 13v8h-4l7 8 7-8h-4v-8zM11 27v8h26v-8h-4v4H15v-4z"/>
+        <path d="M6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z" opacity=".1"/>
+    </g>
+</svg>

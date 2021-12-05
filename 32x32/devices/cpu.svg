@@ -1,1 +1,12 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><g transform="translate(-376.57 -491.8)"><path d="m381.57 494.8c-1.108 0-2 .892-2 2v2.5l2 1.5-2 1v17c0 1.108.892 2 2 2h22c1.108 0 2-.892 2-2v-22c0-1.108-.892-2-2-2z" fill="#679c4f" stroke="#507344" stroke-linecap="round" stroke-width="2"/><path d="m381.57 494.8c-1.108 0-2 .892-2 2v2.5l2 1.5-2 1v17c0 1.108.892 2 2 2h22c1.108 0 2-.892 2-2v-22c0-1.108-.892-2-2-2z" fill="#679c4f"/><path d="m400.57 516.8v1h-1v-1zm-1 1v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1z" fill="#fff"/><path d="m404.57 516.8-2 2h2z" fill="#e6ea97" fill-rule="evenodd"/><path d="m404.57 514.8h-1v-1h1zm-1-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1z" fill="#fff"/><rect fill="#333" height="18" rx="3" width="18" x="383.57" y="497.8"/><rect fill="#4d4d4d" height="16" rx="2" width="16" x="384.57" y="498.8"/><path d="m386.57 509.8h4v1h-4zm0 2h2v1h-2zm7-11v1h2v-1h-1zm2 1v1h-2v3h1v-2h1v2h3v-1h-1v-1h-1v-1h1v-1h-1zm2 0h1v-1h-1zm0 1v1h1v-1z" fill="#e6e6e6"/></g></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(-376.57 -491.8)">
+        <path d="M381.57 494.8c-1.108 0-2 .892-2 2v2.5l2 1.5-2 1v17c0 1.108.892 2 2 2h22c1.108 0 2-.892 2-2v-22c0-1.108-.892-2-2-2z" fill="#679c4f" stroke="#507344" stroke-linecap="round" stroke-width="2"/>
+        <path d="M381.57 494.8c-1.108 0-2 .892-2 2v2.5l2 1.5-2 1v17c0 1.108.892 2 2 2h22c1.108 0 2-.892 2-2v-22c0-1.108-.892-2-2-2z" fill="#679c4f"/>
+        <path d="M400.57 516.8v1h-1v-1zm-1 1v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1zm-1 0h-1v-1h1zm-1 0v1h-1v-1z" fill="#fff"/>
+        <path d="m404.57 516.8-2 2h2z" fill="#e6ea97" fill-rule="evenodd"/>
+        <path d="M404.57 514.8h-1v-1h1zm-1-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1zm0-1v-1h1v1zm0-1h-1v-1h1z" fill="#fff"/>
+        <rect fill="#333" height="18" rx="3" width="18" x="383.57" y="497.8"/>
+        <rect fill="#4d4d4d" height="16" rx="2" width="16" x="384.57" y="498.8"/>
+        <path d="M386.57 509.8h4v1h-4zm0 2h2v1h-2zm7-11v1h2v-1h-1zm2 1v1h-2v3h1v-2h1v2h3v-1h-1v-1h-1v-1h1v-1h-1zm2 0h1v-1h-1zm0 1v1h1v-1z" fill="#e6e6e6"/>
+    </g>
+</svg>

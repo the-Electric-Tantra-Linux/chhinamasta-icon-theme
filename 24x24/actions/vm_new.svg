@@ -1,1 +1,6 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><g fill="#8b9cbe" transform="translate(1 1)"><path d="m9 4h4v14h-4z"/><path d="m4 9h14v4h-14z"/></g></svg>
+<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#f4f4f7">
+        <path d="M9 4h4v14H9z"/>
+        <path d="M4 9h14v4H4z"/>
+    </g>
+</svg>

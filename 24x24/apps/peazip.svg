@@ -1,1 +1,17 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><g transform="translate(1 1)"><rect fill="#7de63e" height="20" rx="1" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-21" y="-21"/><path d="m5.912 5.907a16.79 16.806 0 0 0 -4.652 14.828 16.79 16.806 0 0 0 14.828-4.642 16.79 16.806 0 0 0 4.65-14.828 16.79 16.806 0 0 0 -14.828 4.642z" opacity=".2"/><path d="m2 1c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1z" fill="#fff" opacity=".2"/><path d="m2 21.5c-.554 0-1-.446-1-1v-.5c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v.5c0 .554-.446 1-1 1z" opacity=".2"/><circle cx="11" cy="11" opacity=".2" r="5"/><circle cx="11" cy="11.5" opacity=".2" r="3"/><circle cx="11" cy="11" fill="#ffc20c" r="3"/><circle cx="17" cy="5" opacity=".2" r="3"/><circle cx="17" cy="5.5" opacity=".2" r="2"/><circle cx="17" cy="5" fill="#ffc20c" r="2"/><circle cx="5" cy="17" opacity=".2" r="3"/><circle cx="5" cy="17.5" opacity=".2" r="2"/><circle cx="5" cy="17" fill="#ffc20c" r="2"/></g></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g transform="translate(1 1)">
+        <rect fill="#7de63e" height="20" rx="1" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-21" y="-21"/>
+        <path d="M5.912 5.907A16.79 16.806 0 0 0 1.26 20.735a16.79 16.806 0 0 0 14.828-4.642 16.79 16.806 0 0 0 4.65-14.828A16.79 16.806 0 0 0 5.91 5.907z" opacity=".2"/>
+        <path d="M2 1c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V2c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/>
+        <path d="M2 21.5c-.554 0-1-.446-1-1V20c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v.5c0 .554-.446 1-1 1z" opacity=".2"/>
+        <circle cx="11" cy="11" opacity=".2" r="5"/>
+        <circle cx="11" cy="11.5" opacity=".2" r="3"/>
+        <circle cx="11" cy="11" fill="#ffc20c" r="3"/>
+        <circle cx="17" cy="5" opacity=".2" r="3"/>
+        <circle cx="17" cy="5.5" opacity=".2" r="2"/>
+        <circle cx="17" cy="5" fill="#ffc20c" r="2"/>
+        <circle cx="5" cy="17" opacity=".2" r="3"/>
+        <circle cx="5" cy="17.5" opacity=".2" r="2"/>
+        <circle cx="5" cy="17" fill="#ffc20c" r="2"/>
+    </g>
+</svg>

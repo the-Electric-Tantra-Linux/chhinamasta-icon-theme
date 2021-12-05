@@ -1,1 +1,7 @@
-<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g transform="translate(-265.0002 35)"><g filter="url(#a)"/><path d="m266.99958-33.99666c-.55235-.00016-1.00016.44765-1 1-.00016.55235.44765 1.00016 1 1h12c.55235.00016 1.00016-.44765 1-1 .00016-.55235-.44765-1.00016-1-1zm0 4c-.55235-.00016-1.00016.44765-1 1-.00016.55235.44765 1.00016 1 1v.004h12v-.004c.55235.00016 1.00016-.44765 1-1 .00016-.55235-.44765-1.00016-1-1zm0 4c-.55235-.00016-1.00016.44765-1 1-.00016.55235.44765 1.00016 1 1v.004h12v-.004c.55235.00016 1.00016-.44765 1-1 .00016-.55235-.44765-1.00016-1-1zm0 4c-.55235-.00016-1.00016.44765-1 1-.00016.55235.44765 1.00016 1 1h12c.55235.00016 1.00016-.44765 1-1 .00016-.55235-.44765-1.00016-1-1z" fill="#4c5263"/></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-265 35)"/>
+    <path d="M2 1.003a1 1 0 1 0 0 2h12a1 1 0 1 0 0-2zm0 4a1 1 0 1 0 0 2v.004h12v-.004a1 1 0 1 0 0-2zm0 4a1 1 0 1 0 0 2v.004h12v-.004a1 1 0 1 0 0-2zm0 4a1 1 0 1 0 0 2h12a1 1 0 1 0 0-2z" fill="#f4f4f7"/>
+</svg>

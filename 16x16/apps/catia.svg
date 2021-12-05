@@ -1,1 +1,7 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#752828" height="16" rx=".8" width="16"/><path d="m4.5 2c2.927 0 4.073 6 7 6" fill="none" stroke="#6c7f94" stroke-width=".8"/><path d="m3.016.982-.016.018-.992.982 1.008 1h1.992v-2zm7.984 6.018v2h2.011l.989-1-.989-1h-.022z" fill="#4c66cc" fill-rule="evenodd"/><path d="m4.5 8c2.927 0 4.073 6 7 6" fill="none" stroke="#6c7f94" stroke-width=".8"/><path d="m3.016 6.982-.016.018-.992.982 1.008 1h1.992v-2zm7.984 6.018v2h2.011l.989-1-.989-1h-.022z" fill="#4c66cc" fill-rule="evenodd"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#752828" height="16" rx=".8" width="16"/>
+    <path d="M4.5 2c2.927 0 4.073 6 7 6" fill="none" stroke="#6c7f94" stroke-width=".8"/>
+    <path d="M3.016.982 3 1l-.992.982 1.008 1h1.992v-2zM11 7v2h2.011L14 8l-.989-1h-.022z" fill="#4c66cc" fill-rule="evenodd"/>
+    <path d="M4.5 8c2.927 0 4.073 6 7 6" fill="none" stroke="#6c7f94" stroke-width=".8"/>
+    <path d="M3.016 6.982 3 7l-.992.982 1.008 1h1.992v-2zM11 13v2h2.011L14 14l-.989-1h-.022z" fill="#4c66cc" fill-rule="evenodd"/>
+</svg>

@@ -1,1 +1,22 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#4f4f4f" height="3" rx=".15" width="3" x="1" y="1"/><rect fill="#f4f4f7" height="3" rx=".15" width="3" x="5" y="1"/><rect fill="#ff5757" height="3" rx=".15" width="3" x="9" y="1"/><g fill="#f4f4f7"><rect height="3" rx=".15" width="3" x="13" y="1"/><rect height="3" rx=".15" width="3" x="1" y="5"/><rect height="3" rx=".15" width="3" x="5" y="5"/></g><rect fill="#ff5757" height="3" rx=".15" width="3" x="9" y="5"/><rect fill="#f4f4f7" height="3" rx=".15" width="3" x="13" y="5"/><rect fill="#f4f4f7" height="3" rx=".15" width="3" x="1" y="9"/><rect fill="#4f4f4f" height="3" rx=".15" width="3" x="5" y="9"/><rect fill="#f4f4f7" height="3" rx=".15" width="3" x="9" y="9"/><rect fill="#4ac73e" height="3" rx=".15" width="3" x="13" y="9"/><g fill="#f4f4f7"><rect height="3" rx=".15" width="3" x="1" y="13"/><rect height="3" rx=".15" width="3" x="5" y="13"/><rect height="3" rx=".15" width="3" x="9" y="13"/><rect height="3" rx=".15" width="3" x="13" y="13"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#4f4f4f" height="3" rx=".15" width="3" x="1" y="1"/>
+    <rect fill="#f4f4f7" height="3" rx=".15" width="3" x="5" y="1"/>
+    <rect fill="#ff5757" height="3" rx=".15" width="3" x="9" y="1"/>
+    <g fill="#f4f4f7">
+        <rect height="3" rx=".15" width="3" x="13" y="1"/>
+        <rect height="3" rx=".15" width="3" x="1" y="5"/>
+        <rect height="3" rx=".15" width="3" x="5" y="5"/>
+    </g>
+    <rect fill="#ff5757" height="3" rx=".15" width="3" x="9" y="5"/>
+    <rect fill="#f4f4f7" height="3" rx=".15" width="3" x="13" y="5"/>
+    <rect fill="#f4f4f7" height="3" rx=".15" width="3" x="1" y="9"/>
+    <rect fill="#4f4f4f" height="3" rx=".15" width="3" x="5" y="9"/>
+    <rect fill="#f4f4f7" height="3" rx=".15" width="3" x="9" y="9"/>
+    <rect fill="#4ac73e" height="3" rx=".15" width="3" x="13" y="9"/>
+    <g fill="#f4f4f7">
+        <rect height="3" rx=".15" width="3" x="1" y="13"/>
+        <rect height="3" rx=".15" width="3" x="5" y="13"/>
+        <rect height="3" rx=".15" width="3" x="9" y="13"/>
+        <rect height="3" rx=".15" width="3" x="13" y="13"/>
+    </g>
+</svg>

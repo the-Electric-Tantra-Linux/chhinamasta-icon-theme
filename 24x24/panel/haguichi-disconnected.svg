@@ -1,1 +1,6 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><g fill="#bebebe"><path d="m12.524 20h5.476l-7.047-7.494-3.308 2.291z" opacity=".3"/><path d="m12.524 4h5.476l-7.524 8-2.822 2.807-2.654-2.807z" opacity=".3"/></g></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#bebebe">
+        <path d="M12.524 20H18l-7.047-7.494-3.308 2.291z" opacity=".3"/>
+        <path d="M12.524 4H18l-7.524 8-2.822 2.807L5 12z" opacity=".3"/>
+    </g>
+</svg>

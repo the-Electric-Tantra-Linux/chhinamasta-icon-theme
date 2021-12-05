@@ -1,1 +1,10 @@
-<svg enable-background="new" height="16.000427" width="16.000061" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g transform="translate(-525.0002 14.000009)"><g filter="url(#a)"/><g fill="#4c5263"><path d="m529-13c-1.6447 0-3 1.355297-3 3v8c0 1.64470277 1.3553 3 3 3h8c1.6447 0 3-1.35529723 3-3v-8c0-1.644703-1.3553-3-3-3zm0 2h8c.5713 0 1 .428703 1 1v8c0 .5712972-.4287 1-1 1h-8c-.5713 0-1-.4287028-1-1v-8c0-.571297.4287-1 1-1z"/><path d="m531-10v4.578125l4.5 2.5976562 1-1.7324218-3.5-2.0214844v-3.421875z"/><path d="m530.00018-14.00001h6v1h-6z"/><path d="m530.00018.999993h6v1h-6z"/></g></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-525 14)"/>
+    <g fill="#f4f4f7">
+        <path d="M4 1C2.355 1 1 2.355 1 4v8c0 1.645 1.355 3 3 3h8c1.645 0 3-1.355 3-3V4c0-1.645-1.355-3-3-3zm0 2h8c.571 0 1 .429 1 1v8c0 .571-.429 1-1 1H4c-.571 0-1-.429-1-1V4c0-.571.429-1 1-1z"/>
+        <path d="M6 4v4.578l4.5 2.598 1-1.733L8 7.422V4zM5 0h6v1H5zM5 15h6v1H5z"/>
+    </g>
+</svg>

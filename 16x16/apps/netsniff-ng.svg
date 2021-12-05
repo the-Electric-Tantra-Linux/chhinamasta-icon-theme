@@ -1,1 +1,9 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#4f4f4f" height="11" rx="1" width="10" x="3" y="5"/><path d="m5 5-2 3s-3-2-3-4 3-4 3-4-1 2-1 3c0 2 3 2 3 2zm6 0 2 3s3-2 3-4-3-4-3-4 1 2 1 3c0 2-3 2-3 2z" fill="#de081c"/><circle cx="6" cy="10" fill="#f4f4f7" r="2"/><circle cx="10" cy="10" fill="#f4f4f7" r="2"/><circle cx="6" cy="10" fill="#de081c" r="1"/><circle cx="10" cy="10" fill="#de081c" r="1"/><path d="m4 8 4 3 4-3z" fill="#4f4f4f"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#4f4f4f" height="11" rx="1" width="10" x="3" y="5"/>
+    <path d="M5 5 3 8S0 6 0 4s3-4 3-4-1 2-1 3c0 2 3 2 3 2zm6 0 2 3s3-2 3-4-3-4-3-4 1 2 1 3c0 2-3 2-3 2z" fill="#de081c"/>
+    <circle cx="6" cy="10" fill="#f4f4f7" r="2"/>
+    <circle cx="10" cy="10" fill="#f4f4f7" r="2"/>
+    <circle cx="6" cy="10" fill="#de081c" r="1"/>
+    <circle cx="10" cy="10" fill="#de081c" r="1"/>
+    <path d="m4 8 4 3 4-3z" fill="#4f4f4f"/>
+</svg>

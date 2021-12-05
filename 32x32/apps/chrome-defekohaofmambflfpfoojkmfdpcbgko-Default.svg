@@ -1,1 +1,13 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="16.1189105" x2="16.1189105" y1="-13.99788" y2="-17.99798"><stop offset="0" stop-color="#2a2c2f"/><stop offset="1" stop-color="#424649"/></linearGradient><path d="m31 16a15 15 0 0 1 -15 15 15 15 0 0 1 -15-15 15 15 0 0 1 15-15 15 15 0 0 1 15 15z" fill="#4f4f4f"/><path d="m16 1a15 15 0 0 0 -15 15 15 15 0 0 0 .02.586 15 15 0 0 1 14.98-14.586 15 15 0 0 1 14.98 14.414 15 15 0 0 0 .02-.414 15 15 0 0 0 -15-15z" fill="#fff" opacity=".1"/><path d="m7.686 3.532a14.96 14.96 0 0 0 -6.67 12.486h12c0-1.216.728-2.256 1.767-2.728l-7.099-9.757zm16.628 24.936a14.959 14.959 0 0 0 6.67-12.486h-12a2.995 2.995 0 0 1 -1.767 2.728z" fill="#fff" opacity=".1"/><rect fill="#fe774b" height="12" ry="6" width="12" x="10" y="10"/><rect fill="url(#a)" height="4" ry="2" transform="scale(1 -1)" width="4" x="14" y="-18"/><path d="m30.98 16.414a15 15 0 0 1 -14.98 14.586 15 15 0 0 1 -14.98-14.414 15 15 0 0 0 -.02.414 15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0 -.02-.586z" opacity=".2"/><path d="m16 11c-2.77 0-5 2.23-5 5s2.23 5 5 5 5-2.23 5-5-2.23-5-5-5zm0 1c2.216 0 4 1.784 4 4s-1.784 4-4 4-4-1.784-4-4 1.784-4 4-4z" fill="#f4f4f7" opacity=".5"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="16.119" x2="16.119" y1="-13.998" y2="-17.998">
+        <stop offset="0" stop-color="#2a2c2f"/>
+        <stop offset="1" stop-color="#424649"/>
+    </linearGradient>
+    <path d="M31 16a15 15 0 0 1-15 15A15 15 0 0 1 1 16 15 15 0 0 1 16 1a15 15 0 0 1 15 15z" fill="#4f4f4f"/>
+    <path d="M16 1A15 15 0 0 0 1 16a15 15 0 0 0 .02.586A15 15 0 0 1 16 2a15 15 0 0 1 14.98 14.414A15 15 0 0 0 31 16 15 15 0 0 0 16 1z" fill="#fff" opacity=".1"/>
+    <path d="M7.686 3.532a14.96 14.96 0 0 0-6.67 12.486h12c0-1.216.728-2.256 1.767-2.728L7.684 3.533zm16.628 24.936a14.959 14.959 0 0 0 6.67-12.486h-12a2.995 2.995 0 0 1-1.767 2.728z" fill="#fff" opacity=".1"/>
+    <rect fill="#fe774b" height="12" ry="6" width="12" x="10" y="10"/>
+    <rect fill="url(#a)" height="4" ry="2" transform="scale(1 -1)" width="4" x="14" y="-18"/>
+    <path d="M30.98 16.414A15 15 0 0 1 16 31 15 15 0 0 1 1.02 16.586 15 15 0 0 0 1 17a15 15 0 0 0 15 15 15 15 0 0 0 15-15 15 15 0 0 0-.02-.586z" opacity=".2"/>
+    <path d="M16 11c-2.77 0-5 2.23-5 5s2.23 5 5 5 5-2.23 5-5-2.23-5-5-5zm0 1c2.216 0 4 1.784 4 4s-1.784 4-4 4-4-1.784-4-4 1.784-4 4-4z" fill="#f4f4f7" opacity=".5"/>
+</svg>

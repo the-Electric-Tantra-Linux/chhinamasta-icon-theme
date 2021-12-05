@@ -1,1 +1,9 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><rect height="18" opacity=".2" rx="9" transform="matrix(0 -1 -1 0 0 0)" width="18" x="-21.5" y="-20.5"/><rect fill="#d83b2f" height="18" rx="9" transform="matrix(0 -1 -1 0 0 0)" width="18" x="-21" y="-20.5"/><circle cx="11.5" cy="12.5" opacity=".2" r="5"/><path d="m11.5 3a8.98 8.98 0 0 0 -9 9c0 .084.01.166.013.25a8.973 8.973 0 0 1 8.987-8.75 8.973 8.973 0 0 1 8.987 8.75c.003-.084.013-.166.013-.25 0-4.986-4.014-9-9-9z" fill="#f4f4f7" opacity=".1"/><circle cx="11.5" cy="12" fill="#f4f4f7" r="5"/><rect height="4" opacity=".2" rx="1" width="21" x="1" y="10.5"/><rect fill="#3a72e1" height="4" rx="1" width="21" x="1" y="10"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <rect height="18" opacity=".2" rx="9" transform="matrix(0 -1 -1 0 0 0)" width="18" x="-21.5" y="-20.5"/>
+    <rect fill="#d83b2f" height="18" rx="9" transform="matrix(0 -1 -1 0 0 0)" width="18" x="-21" y="-20.5"/>
+    <circle cx="11.5" cy="12.5" opacity=".2" r="5"/>
+    <path d="M11.5 3a8.98 8.98 0 0 0-9 9c0 .084.01.166.013.25A8.973 8.973 0 0 1 11.5 3.5a8.973 8.973 0 0 1 8.987 8.75c.003-.084.013-.166.013-.25 0-4.986-4.014-9-9-9z" fill="#f4f4f7" opacity=".1"/>
+    <circle cx="11.5" cy="12" fill="#f4f4f7" r="5"/>
+    <rect height="4" opacity=".2" rx="1" width="21" x="1" y="10.5"/>
+    <rect fill="#3a72e1" height="4" rx="1" width="21" x="1" y="10"/>
+</svg>

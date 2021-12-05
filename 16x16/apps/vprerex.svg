@@ -1,1 +1,7 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#ffb943" height="16" rx=".917" ry="1" transform="matrix(0 -1 -1 0 0 0)" width="11" x="-14" y="-16"/><path d="m3.806.805 2.4 4" fill="none" stroke="#17191e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/><path d="m4.256 4.864a.51.504 0 0 0 0 .873l1.488.848 1.49.848a.51.504 0 0 0 .766-.437v-3.392a.51.504 0 0 0 -.767-.436l-1.488.848z" fill="#4f4f4f"/><path d="m9.106 9.805 2.4 4" fill="none" stroke="#17191e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/><path d="m9.256 13.369a.51.504 0 0 0 0 .873l1.488.848 1.49.847a.51.504 0 0 0 .766-.436v-3.391a.51.504 0 0 0 -.767-.436l-1.488.848z" fill="#4f4f4f"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#ffb943" height="16" rx=".917" ry="1" transform="matrix(0 -1 -1 0 0 0)" width="11" x="-14" y="-16"/>
+    <path d="m3.806.805 2.4 4" fill="none" stroke="#17191e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path d="M4.256 4.864a.51.504 0 0 0 0 .873l1.488.848 1.49.848A.51.504 0 0 0 8 6.996V3.604a.51.504 0 0 0-.767-.436l-1.488.848z" fill="#4f4f4f"/>
+    <path d="m9.106 9.805 2.4 4" fill="none" stroke="#17191e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+    <path d="M9.256 13.369a.51.504 0 0 0 0 .873l1.488.848 1.49.847a.51.504 0 0 0 .766-.436V12.11a.51.504 0 0 0-.767-.436l-1.488.848z" fill="#4f4f4f"/>
+</svg>

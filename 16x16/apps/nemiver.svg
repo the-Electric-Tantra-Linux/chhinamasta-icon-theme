@@ -1,1 +1,13 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#64b515" height="16" rx=".8" width="16"/><g fill="#17191e"><g fill-rule="evenodd" stroke="#17191e"><path d="m4 8.343h8" stroke-width=".737338"/><path d="m3.958 12.625 8.085-8.251" stroke-width=".742462"/><path d="m12.043 12.625-8.085-8.25" stroke-width=".742462"/></g><ellipse cx="8" cy="6.25" rx="1.5" ry="2.25"/><ellipse cx="8" cy="10.375" rx="2" ry="2.625"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#64b515" height="16" rx=".8" width="16"/>
+    <g fill="#17191e">
+        <g fill-rule="evenodd" stroke="#17191e">
+            <path d="M4 8.343h8" stroke-width=".737"/>
+            <g stroke-width=".742">
+                <path d="m3.958 12.625 8.085-8.251M12.043 12.625l-8.085-8.25"/>
+            </g>
+        </g>
+        <ellipse cx="8" cy="6.25" rx="1.5" ry="2.25"/>
+        <ellipse cx="8" cy="10.375" rx="2" ry="2.625"/>
+    </g>
+</svg>

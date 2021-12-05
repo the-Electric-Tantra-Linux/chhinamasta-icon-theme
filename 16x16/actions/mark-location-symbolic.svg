@@ -1,1 +1,7 @@
-<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g transform="translate(-805.00042 55.003361)"><g filter="url(#a)"/><path d="m813.00027-54.000023c-2.76142 0-5 2.23858-5 5 0 .17259.0142.33191.0312.5.0137.16725.0358.33617.0625.5.57248 3.51444 2.9063 6.00336 4.9063 8.00336 2-2 4.33372-4.48892 4.9062-8.00336.0267-.16383.0488-.33275.0625-.5.0171-.16809.0312-.32741.0312-.5 0-2.76142-2.23858-5-5-5zm0 3c1.10457 0 2 .89543 2 2s-.89543 2-2 2-2-.89543-2-2 .89543-2 2-2z" fill="#4c5263"/></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-805 55.003)"/>
+    <path d="M8 1.003a5 5 0 0 0-5 5c0 .173.014.332.031.5.014.168.036.337.063.5C3.666 10.518 6 13.007 8 15.007c2-2 4.334-4.49 4.906-8.004.027-.163.049-.332.063-.5.017-.168.03-.327.03-.5a5 5 0 0 0-5-5zm0 3a2 2 0 1 1 0 4 2 2 0 0 1 0-4z" fill="#f4f4f7"/>
+</svg>

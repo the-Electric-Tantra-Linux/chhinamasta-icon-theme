@@ -1,1 +1,16 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(0 -1 -1 0 0 0)"><rect height="12" opacity=".2" rx="1" width="16" x="-21.5" y="-18"/><rect fill="#8e8e8e" height="12" rx="1" width="16" x="-21" y="-18"/><rect height="20" opacity=".2" rx="1" width="16" x="-19.5" y="-22"/><rect fill="#4f4f4f" height="20" rx="1" width="16" x="-19" y="-22"/></g><path d="m3 3c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".1"/><path d="m-18-21h14v18h-14z" fill="#1d83af" transform="matrix(0 -1 -1 0 0 0)"/><path d="m16.5 5.5a2.5 2.5 0 0 0 -2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0 -2.5-2.5zm-5.5 2a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0 -1-1zm-4 2a2 2 0 0 0 -2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0 -2-2zm11 3a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0 -1-1zm-4.5 1a1.5 1.5 0 0 0 -1.5 1.5 1.5 1.5 0 0 0 1.5 1.5 1.5 1.5 0 0 0 1.5-1.5 1.5 1.5 0 0 0 -1.5-1.5z" opacity=".2"/><circle cx="16.5" cy="7.5" fill="#f0f9fd" r="2.5"/><circle cx="7" cy="11" fill="#c4e7f5" r="2"/><circle cx="13.5" cy="14.5" fill="#a6daf0" r="1.5"/><circle cx="11" cy="8" fill="#c4e7f5" r="1"/><circle cx="18" cy="13" fill="#d3edf8" r="1"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g transform="matrix(0 -1 -1 0 0 0)">
+        <rect height="12" opacity=".2" rx="1" width="16" x="-21.5" y="-18"/>
+        <rect fill="#8e8e8e" height="12" rx="1" width="16" x="-21" y="-18"/>
+        <rect height="20" opacity=".2" rx="1" width="16" x="-19.5" y="-22"/>
+        <rect fill="#4f4f4f" height="20" rx="1" width="16" x="-19" y="-22"/>
+    </g>
+    <path d="M3 3c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V4c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".1"/>
+    <path d="M21 18V4H3v14z" fill="#1d83af"/>
+    <path d="M16.5 5.5A2.5 2.5 0 0 0 14 8a2.5 2.5 0 0 0 2.5 2.5A2.5 2.5 0 0 0 19 8a2.5 2.5 0 0 0-2.5-2.5zm-5.5 2a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm-4 2a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm11 3a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1zm-4.5 1A1.5 1.5 0 0 0 12 15a1.5 1.5 0 0 0 1.5 1.5A1.5 1.5 0 0 0 15 15a1.5 1.5 0 0 0-1.5-1.5z" opacity=".2"/>
+    <circle cx="16.5" cy="7.5" fill="#f0f9fd" r="2.5"/>
+    <circle cx="7" cy="11" fill="#c4e7f5" r="2"/>
+    <circle cx="13.5" cy="14.5" fill="#a6daf0" r="1.5"/>
+    <circle cx="11" cy="8" fill="#c4e7f5" r="1"/>
+    <circle cx="18" cy="13" fill="#d3edf8" r="1"/>
+</svg>

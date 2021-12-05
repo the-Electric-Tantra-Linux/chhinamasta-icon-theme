@@ -1,1 +1,13 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><path d="m6.375 3c-.762 0-1.375.624-1.375 1.4v25.2c0 .776.613 1.4 1.375 1.4h19.25c.762 0 1.375-.624 1.375-1.4v-18.6l-7-1-1-7z" opacity=".2"/><path d="m6.375 2c-.762 0-1.375.624-1.375 1.4v25.2c0 .776.613 1.4 1.375 1.4h19.25c.762 0 1.375-.624 1.375-1.4v-18.6l-7-1-1-7z" fill="#4f4f4f"/><path d="m27 11-8-8v6.667a1.33 1.33 0 0 0 1.333 1.333z" opacity=".2"/><path d="m27 10-8-8v6.667a1.33 1.33 0 0 0 1.333 1.333z" fill="#696969"/><rect height="9" opacity=".1" rx=".692" width="9" x="13" y="19"/><rect fill="#1190e6" height="9" rx=".692" width="9" x="13" y="18"/><rect height="9" opacity=".1" rx=".692" width="9" x="11" y="17"/><rect fill="#6eca60" height="9" rx=".692" width="9" x="11" y="16"/><rect height="9" opacity=".1" rx=".692" width="9" x="9" y="15"/><rect fill="#ffd748" height="9" rx=".692" width="9" x="9" y="14"/><path d="m6.375 2c-.762 0-1.375.625-1.375 1.4v1c0-.775.613-1.4 1.375-1.4h12.625v-1z" fill="#f4f4f7" opacity=".1"/></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <path d="M6.375 3C5.613 3 5 3.624 5 4.4v25.2c0 .776.613 1.4 1.375 1.4h19.25c.762 0 1.375-.624 1.375-1.4V11l-7-1-1-7z" opacity=".2"/>
+    <path d="M6.375 2C5.613 2 5 2.624 5 3.4v25.2c0 .776.613 1.4 1.375 1.4h19.25c.762 0 1.375-.624 1.375-1.4V10l-7-1-1-7z" fill="#4f4f4f"/>
+    <path d="m27 11-8-8v6.667A1.33 1.33 0 0 0 20.333 11z" opacity=".2"/>
+    <path d="m27 10-8-8v6.667A1.33 1.33 0 0 0 20.333 10z" fill="#696969"/>
+    <rect height="9" opacity=".1" rx=".692" width="9" x="13" y="19"/>
+    <rect fill="#1190e6" height="9" rx=".692" width="9" x="13" y="18"/>
+    <rect height="9" opacity=".1" rx=".692" width="9" x="11" y="17"/>
+    <rect fill="#6eca60" height="9" rx=".692" width="9" x="11" y="16"/>
+    <rect height="9" opacity=".1" rx=".692" width="9" x="9" y="15"/>
+    <rect fill="#ffd748" height="9" rx=".692" width="9" x="9" y="14"/>
+    <path d="M6.375 2C5.613 2 5 2.625 5 3.4v1C5 3.625 5.613 3 6.375 3H19V2z" fill="#f4f4f7" opacity=".1"/>
+</svg>

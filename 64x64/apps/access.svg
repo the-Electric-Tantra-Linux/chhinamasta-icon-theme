@@ -1,1 +1,17 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.490002" y2="4.490002"><stop offset="0" stop-color="#32d7ff"/><stop offset="1" stop-color="#329bff"/></linearGradient><circle cx="-1124.8" cy="-1279.3" fill="#5e4aa6" r="0"/><g fill="#5e4aa6" stroke-width="1.000006568"><circle cx="-1006.345992" cy="-1318.599092" r="0"/><circle cx="93.19180648" cy="-53.10850652" fill-rule="evenodd" r="0"/><circle cx="-927.8437" cy="-1390.109124" r="0"/><circle cx="171.6910748" cy="-124.5818764" fill-rule="evenodd" r="0"/></g><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="54.999996" ry="14.999999" stroke-linecap="round" stroke-width="2.74436" width="54.999996" x="4.500002" y="4.500002"/><g fill="#fff" transform="matrix(.03125 0 0 .03125 16 16)"><path d="m512 800c-247.42 0-448-71.63-448-160v160c0 88.37 200.58 160 448 160s448-71.63 448-160v-160c0 88.37-200.58 160-448 160z"/><path d="m512 608c-247.42 0-448-71.63-448-160v160c0 88.37 200.58 160 448 160s448-71.63 448-160v-160c0 88.37-200.58 160-448 160z"/><path d="m512 416c-247.42 0-448-71.63-448-160v160c0 88.37 200.58 160 448 160s448-71.63 448-160v-160c0 88.37-200.58 160-448 160z"/><path d="m64 224a448 160 0 1 0 896 0 448 160 0 1 0 -896 0z"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#32d7ff"/>
+        <stop offset="1" stop-color="#329bff"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <g fill="#fff">
+        <path d="M32 41c-7.732 0-14-2.238-14-5v5c0 2.762 6.268 5 14 5s14-2.238 14-5v-5c0 2.762-6.268 5-14 5z"/>
+        <path d="M32 35c-7.732 0-14-2.238-14-5v5c0 2.762 6.268 5 14 5s14-2.238 14-5v-5c0 2.762-6.268 5-14 5z"/>
+        <path d="M32 29c-7.732 0-14-2.238-14-5v5c0 2.762 6.268 5 14 5s14-2.238 14-5v-5c0 2.762-6.268 5-14 5z"/>
+        <path d="M18 23a14 5 0 1 0 28 0 14 5 0 1 0-28 0z"/>
+    </g>
+</svg>

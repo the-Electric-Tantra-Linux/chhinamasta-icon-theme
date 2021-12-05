@@ -1,1 +1,20 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="3.4631" x2="13.8551" y1="13.6227" y2="3.175"><stop offset="0" stop-color="#ff503c"/><stop offset="1" stop-color="#ff4646"/></linearGradient><filter id="b" color-interpolation-filters="sRGB" height="1.168" width="1.168" x="-.084" y="-.084"><feGaussianBlur stdDeviation="1.4131935"/></filter><filter id="c" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="d" gradientUnits="userSpaceOnUse" x1="1.19060176" x2="15.74239836" y1="15.7397532" y2="1.1879566"><stop offset="0" stop-color="#dee0e2"/><stop offset="1" stop-color="#f1f3f5" stop-opacity=".996078"/></linearGradient><rect fill="#141414" filter="url(#c)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" transform="scale(.26457812)" width="55" x="4.5" y="4.5"/><rect fill="url(#d)" height="14.551796" ry="3.968672" stroke-linecap="round" stroke-width=".726098" width="14.551796" x="1.190602" y="1.190602"/><path d="m143.5 11a20.189 20.189 0 0 0 -20.189 20.189 20.189 20.189 0 0 0 20.189 20.188 20.189 20.189 0 0 0 20.188-20.188 20.189 20.189 0 0 0 -20.188-20.189zm0 6.75a13.439 13.439 0 0 1 13.438 13.439 13.439 13.439 0 0 1 -13.438 13.438 13.439 13.439 0 0 1 -13.439-13.438 13.439 13.439 0 0 1 13.439-13.439z" fill="#ff4646" filter="url(#b)" opacity=".7" transform="matrix(.26458 0 0 .26458 -29.500598 .214647)"/><circle cx="8.4665" cy="8.4665" fill="none" r="3.5557" stroke="url(#a)" stroke-dashoffset=".42096" stroke-width="3.534"/></svg>
+<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
+    <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="3.463" x2="13.855" y1="13.623" y2="3.175">
+        <stop offset="0" stop-color="#ff503c"/>
+        <stop offset="1" stop-color="#ff4646"/>
+    </linearGradient>
+    <filter id="c" color-interpolation-filters="sRGB" height="1.168" width="1.168" x="-.084" y="-.084">
+        <feGaussianBlur stdDeviation="1.413"/>
+    </filter>
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.742" y1="15.74" y2="1.188">
+        <stop offset="0" stop-color="#dee0e2"/>
+        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
+    <path d="M143.5 11a20.189 20.189 0 0 0-20.189 20.189A20.189 20.189 0 0 0 143.5 51.377a20.189 20.189 0 0 0 20.188-20.188A20.189 20.189 0 0 0 143.5 11zm0 6.75a13.439 13.439 0 0 1 13.438 13.439A13.439 13.439 0 0 1 143.5 44.627a13.439 13.439 0 0 1-13.439-13.438A13.439 13.439 0 0 1 143.5 17.75z" fill="#ff4646" filter="url(#c)" opacity=".7" transform="translate(-29.5 .215) scale(.26458)"/>
+    <circle cx="8.466" cy="8.466" fill="none" r="3.556" stroke="url(#d)" stroke-dashoffset=".421" stroke-width="3.534"/>
+</svg>

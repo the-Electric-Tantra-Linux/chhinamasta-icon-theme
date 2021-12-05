@@ -1,1 +1,13 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="m24 5a9 9 0 0 0 -9 9v12h18v-12a9 9 0 0 0 -9-9zm0 4c2.809 0 5 2.191 5 5v8h-10v-8c0-2.809 2.191-5 5-5z" opacity=".2"/><rect height="40" opacity=".2" rx="2" transform="rotate(90)" width="4" x="39" y="-44"/><path d="m22 32h4v8h-4z" fill="#828282"/><path d="m24 4a9 9 0 0 0 -9 9v12h18v-12a9 9 0 0 0 -9-9zm0 4c2.809 0 5 2.191 5 5v8h-10v-8c0-2.809 2.191-5 5-5z" fill="#f4f4f7"/><rect height="24" opacity=".2" rx="1.6" ry="1.714" transform="matrix(0 -1 -1 0 0 0)" width="16" x="-33" y="-36"/><rect fill="#fecd38" height="24" rx="1.6" ry="1.714" transform="matrix(0 -1 -1 0 0 0)" width="16" x="-32" y="-36"/><path d="m12 19h24v10h-24z" fill="#f4f4f7" opacity=".3"/><rect fill="#828282" height="40" rx="2" transform="rotate(90)" width="4" x="38" y="-44"/><path d="m17 44h14v1h-14z" opacity=".2"/><path d="m17 36h14v8h-14z" fill="#afafb1"/><path d="m24 4a9 9 0 0 0 -9 9v1a9 9 0 1 1 18 0v-1a9 9 0 0 0 -9-9zm-7 32h14v1h-14z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <path d="M24 5a9 9 0 0 0-9 9v12h18V14a9 9 0 0 0-9-9zm0 4c2.809 0 5 2.191 5 5v8H19v-8c0-2.809 2.191-5 5-5z" opacity=".2"/>
+    <rect height="40" opacity=".2" rx="2" transform="rotate(90)" width="4" x="39" y="-44"/>
+    <path d="M22 32h4v8h-4z" fill="#828282"/>
+    <path d="M24 4a9 9 0 0 0-9 9v12h18V13a9 9 0 0 0-9-9zm0 4c2.809 0 5 2.191 5 5v8H19v-8c0-2.809 2.191-5 5-5z" fill="#f4f4f7"/>
+    <rect height="24" opacity=".2" rx="1.6" ry="1.714" transform="matrix(0 -1 -1 0 0 0)" width="16" x="-33" y="-36"/>
+    <rect fill="#fecd38" height="24" rx="1.6" ry="1.714" transform="matrix(0 -1 -1 0 0 0)" width="16" x="-32" y="-36"/>
+    <path d="M12 19h24v10H12z" fill="#f4f4f7" opacity=".3"/>
+    <rect fill="#828282" height="40" rx="2" transform="rotate(90)" width="4" x="38" y="-44"/>
+    <path d="M17 44h14v1H17z" opacity=".2"/>
+    <path d="M17 36h14v8H17z" fill="#afafb1"/>
+    <path d="M24 4a9 9 0 0 0-9 9v1a9 9 0 1 1 18 0v-1a9 9 0 0 0-9-9zm-7 32h14v1H17z" fill="#f4f4f7" opacity=".2"/>
+</svg>

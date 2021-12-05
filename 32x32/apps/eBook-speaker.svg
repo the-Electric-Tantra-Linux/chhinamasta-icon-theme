@@ -1,1 +1,15 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg"><rect height="28" opacity=".2" rx="1.5" width="22" x="5" y="3"/><rect fill="#f4f4f7" height="28" rx="1.5" width="22" x="5" y="2"/><path d="m9 23h14v1h-14zm0-3h14v1h-14zm0-3h14v1h-14zm0-3h14v1h-14zm0-3h14v1h-14zm0-3h14v1h-14z" fill="#4c4c4c"/><path d="m6.5 2c-.831 0-1.5.669-1.5 1.5v1c0-.831.669-1.5 1.5-1.5h19c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5z" fill="#f4f4f7" opacity=".2"/><path d="m9 17h8v1h-8zm0-3h14v1h-14zm0-3h14v1h-14zm0-3h14v1h-14z" fill="#f4f4f7" opacity=".5"/><path d="m2 2c-.554 0-1 .446-1 1v10c0 .554.446 1 1 1h11l4 4v-15c0-.554-.446-1-1-1z" opacity=".2"/><path d="m2 1c-.554 0-1 .446-1 1v10c0 .554.446 1 1 1h11l4 4v-15c0-.554-.446-1-1-1z" fill="#ab47bc"/><g fill="#f4f4f7"><path d="m4 5v4h2l2 2v-8l-2 2z"/><rect height="4" rx=".5" width="1" x="9" y="5"/><rect height="6" rx=".471" ry=".5" width="1" x="11" y="4"/><path d="m2 1c-.554 0-1 .446-1 1v1c0-.554.446-1 1-1h14c.554 0 1 .446 1 1v-1c0-.554-.446-1-1-1z" opacity=".1"/></g></svg>
+<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
+    <rect height="28" opacity=".2" rx="1.5" width="22" x="5" y="3"/>
+    <rect fill="#f4f4f7" height="28" rx="1.5" width="22" x="5" y="2"/>
+    <path d="M9 23h14v1H9zm0-3h14v1H9zm0-3h14v1H9zm0-3h14v1H9zm0-3h14v1H9zm0-3h14v1H9z" fill="#4c4c4c"/>
+    <path d="M6.5 2C5.669 2 5 2.669 5 3.5v1C5 3.669 5.669 3 6.5 3h19c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5z" fill="#f4f4f7" opacity=".2"/>
+    <path d="M9 17h8v1H9zm0-3h14v1H9zm0-3h14v1H9zm0-3h14v1H9z" fill="#f4f4f7" opacity=".5"/>
+    <path d="M2 2c-.554 0-1 .446-1 1v10c0 .554.446 1 1 1h11l4 4V3c0-.554-.446-1-1-1z" opacity=".2"/>
+    <path d="M2 1c-.554 0-1 .446-1 1v10c0 .554.446 1 1 1h11l4 4V2c0-.554-.446-1-1-1z" fill="#ab47bc"/>
+    <g fill="#f4f4f7">
+        <path d="M4 5v4h2l2 2V3L6 5z"/>
+        <rect height="4" rx=".5" width="1" x="9" y="5"/>
+        <rect height="6" rx=".471" ry=".5" width="1" x="11" y="4"/>
+        <path d="M2 1c-.554 0-1 .446-1 1v1c0-.554.446-1 1-1h14c.554 0 1 .446 1 1V2c0-.554-.446-1-1-1z" opacity=".1"/>
+    </g>
+</svg>

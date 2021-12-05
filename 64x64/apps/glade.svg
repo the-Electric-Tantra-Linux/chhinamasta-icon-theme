@@ -1,1 +1,32 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><linearGradient id="a" gradientUnits="userSpaceOnUse" x1="29.59999948" x2="29.59999948" y1="21.27272758" y2="50.36363606"><stop offset="0" stop-color="#4cde04"/><stop offset="1" stop-color="#7ae317"/></linearGradient><filter id="b" color-interpolation-filters="sRGB" height="1.15" width="1.1" x="-.05" y="-.075"><feGaussianBlur stdDeviation="1"/></filter><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="-107.930657" x2="-107.930657" y1="62.09682" y2="2.09562"><stop offset="0" stop-color="#3889e9"/><stop offset="1" stop-color="#5ea5fb"/></linearGradient><filter id="d" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="e" gradientUnits="userSpaceOnUse" x1="4.4999" x2="59.4999" y1="59.48954" y2="4.48954"><stop offset="0" stop-color="#dee0e2"/><stop offset="1" stop-color="#f1f3f5" stop-opacity=".99608"/></linearGradient><rect fill="#141414" filter="url(#d)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><rect fill="url(#e)" height="55.000999" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55.000999" x="4.4995" y="4.4995"/><g transform="translate(2.4 .315494)"><g fill="#b3b3b3" transform="matrix(.90909089 0 0 .90909089 .509091 -2.363636)"><path d="m11 20h42v1h-42z" opacity=".5"/><path d="m11 24h42v1h-42z" opacity=".5"/><path d="m11 47h42v1h-42z" opacity=".5"/><path d="m11 51h42v1h-42z" opacity=".5"/><g transform="rotate(90)"><path d="m18-15h36v1h-36z" opacity=".5"/><path d="m18-50h36v1h-36z" opacity=".5"/></g></g><path d="m8 54h48v-32zm41-7h-18l18-12z" filter="url(#b)" opacity=".15" stroke-width="1.1606" transform="matrix(.90909089 0 0 .90909089 .509091 1.272728)"/><path d="m7.7818181 50.363636h43.6363629v-29.090909zm37.2727269-6.363637h-16.363636l16.363636-10.90909z" fill="url(#a)" stroke-width="1.05509"/><g fill="none" stroke="#c9caca" stroke-miterlimit="10" stroke-width=".909091"><circle cx="20.054544" cy="25.363636" r="1.818182"/><circle cx="20.054544" cy="34.454544" r="1.818182"/></g></g><circle cx="-105.81222" cy="32" fill="url(#c)" r="0" stroke-width="1.5715"/><g fill="#5e4aa6"><circle cx="-1459.2291" cy="-1255.998" r="0"/><circle cx="-1369.7291" cy="-1261.998" r="0"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="29.6" x2="29.6" y1="21.273" y2="50.364">
+        <stop offset="0" stop-color="#4cde04"/>
+        <stop offset="1" stop-color="#7ae317"/>
+    </linearGradient>
+    <filter id="c" color-interpolation-filters="sRGB" height="1.15" width="1.1" x="-.05" y="-.075">
+        <feGaussianBlur stdDeviation="1"/>
+    </filter>
+    <linearGradient id="e" gradientUnits="userSpaceOnUse" x1="-107.931" x2="-107.931" y1="62.097" y2="2.096">
+        <stop offset="0" stop-color="#3889e9"/>
+        <stop offset="1" stop-color="#5ea5fb"/>
+    </linearGradient>
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#dee0e2"/>
+        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55.001" ry="15" width="55.001" x="4.5" y="4.5"/>
+    <g fill="#b3b3b3">
+        <path d="M12.91 16.134h38.18v.909H12.91zM12.91 19.77h38.18v.91H12.91zM12.91 40.68h38.18v.908H12.91zM12.91 44.315h38.18v.91H12.91z" opacity=".5"/>
+        <path d="M16.545 14.315v32.728h-.909V14.315zM48.364 14.315v32.728h-.91V14.315z" opacity=".5"/>
+    </g>
+    <path d="M8 54h48V22zm41-7H31l18-12z" filter="url(#c)" opacity=".15" transform="matrix(.9091 0 0 .9091 2.91 1.588)"/>
+    <path d="M7.782 50.364h43.636V21.273zM45.055 44H28.69l16.364-10.91z" fill="url(#d)" transform="translate(2.4 .315)"/>
+    <g fill="none" stroke="#c9caca" stroke-miterlimit="10" stroke-width=".909" transform="translate(2.4 .315)">
+        <circle cx="20.055" cy="25.364" r="1.818"/>
+        <circle cx="20.055" cy="34.455" r="1.818"/>
+    </g>
+</svg>

@@ -1,1 +1,12 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" fill="#b5b5b5" r="8"/><circle cx="8" cy="8" opacity=".4" r="6"/><g fill="#e5e5e5"><path d="m23.308 11.154 3.709 7.514 8.291 1.204-6 5.849 1.417 8.258-7.417-3.899-7.416 3.9 1.416-8.26-6-5.848 8.292-1.204z" transform="matrix(.4 0 0 .38554 -1.323 -1.1)"/><circle cx="8" cy="3.2" r="1"/><circle cx="3.4" cy="7" r="1"/><circle cx="12.6" cy="7" r="1"/><circle cx="5" cy="11.7" r="1"/><circle cx="11" cy="11.7" r="1"/></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="8" cy="8" fill="#b5b5b5" r="8"/>
+    <circle cx="8" cy="8" opacity=".4" r="6"/>
+    <g fill="#e5e5e5">
+        <path d="m8 3.2 1.484 2.897 3.316.464-2.4 2.255.567 3.184L8 10.497l-2.966 1.504.566-3.185-2.4-2.255 3.317-.464z"/>
+        <circle cx="8" cy="3.2" r="1"/>
+        <circle cx="3.4" cy="7" r="1"/>
+        <circle cx="12.6" cy="7" r="1"/>
+        <circle cx="5" cy="11.7" r="1"/>
+        <circle cx="11" cy="11.7" r="1"/>
+    </g>
+</svg>

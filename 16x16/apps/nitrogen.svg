@@ -1,1 +1,12 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><circle cx="11" cy="8" fill="#5792f1" r="5"/><circle cx="11" cy="8" fill="#006ec9" r="3"/><circle cx="5" cy="8" fill="#5792f1" r="5"/><circle cx="5" cy="8" fill="#006ec9" r="3"/><circle cx="8" cy="11" fill="#5792f1" r="5"/><circle cx="8" cy="11" fill="#006ec9" r="3"/><circle cx="8" cy="5" fill="#5792f1" r="5"/><circle cx="8" cy="5" fill="#006ec9" r="3"/><circle cx="8" cy="8" fill="#5792f1" r="5"/><circle cx="8" cy="8" fill="#006ec9" r="3"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="11" cy="8" fill="#5792f1" r="5"/>
+    <circle cx="11" cy="8" fill="#006ec9" r="3"/>
+    <circle cx="5" cy="8" fill="#5792f1" r="5"/>
+    <circle cx="5" cy="8" fill="#006ec9" r="3"/>
+    <circle cx="8" cy="11" fill="#5792f1" r="5"/>
+    <circle cx="8" cy="11" fill="#006ec9" r="3"/>
+    <circle cx="8" cy="5" fill="#5792f1" r="5"/>
+    <circle cx="8" cy="5" fill="#006ec9" r="3"/>
+    <circle cx="8" cy="8" fill="#5792f1" r="5"/>
+    <circle cx="8" cy="8" fill="#006ec9" r="3"/>
+</svg>

@@ -1,1 +1,7 @@
-<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB"><feBlend in2="BackgroundImage" mode="darken"/></filter><g transform="translate(-505.0004 -104.99702)"><g filter="url(#a)"/><path d="m516.0004 119.0005v-6-5.0039a1 1 0 0 0 -1-1h-4c-.55152 0-.99892.4466-1 .9981v4.5937c.00082.2875.12535.5607.3418.75l.002.01z" fill="#4c5263"/></g></svg>
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB">
+        <feBlend in2="BackgroundImage" mode="darken"/>
+    </filter>
+    <g filter="url(#a)" transform="translate(-505 -104.997)"/>
+    <path d="M11 14.003V3a1 1 0 0 0-1-1H6a1 1 0 0 0-1 .998V7.59a1 1 0 0 0 .342.75l.002.01z" fill="#f4f4f7"/>
+</svg>

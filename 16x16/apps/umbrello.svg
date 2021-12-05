@@ -1,1 +1,10 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#f4f4f7" height="16" rx=".8" width="16"/><g stroke="#f00"><ellipse cx="10.5" cy="11.5" fill="#ffff76" rx="3.1" ry="2.1" stroke-width=".800237"/><path d="m10.877 9.501-4.972-4.654" fill="none" stroke-width=".8"/><ellipse cx="4.5" cy="4.242" fill="#ffff76" rx="2.1" ry="1.837" stroke-width=".800138"/><g stroke-width=".8"><path d="m4.622 5.699v3.107" fill="#ffffc6" fill-rule="evenodd"/><path d="m4.634 8.76-1.576 1.888m3.085-.008-1.545-1.898m1.602-1.344-3.2.002" fill="none"/></g></g></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#f4f4f7" height="16" rx=".8" width="16"/>
+    <g stroke="red" stroke-width=".8">
+        <ellipse cx="10.5" cy="11.5" fill="#f4f4f7f76" rx="3.1" ry="2.1"/>
+        <path d="M10.877 9.501 5.905 4.847" fill="none"/>
+        <ellipse cx="4.5" cy="4.242" fill="#f4f4f7f76" rx="2.1" ry="1.837"/>
+        <path d="M4.622 5.699v3.107" fill="#f4f4f7fc6" fill-rule="evenodd"/>
+        <path d="m4.634 8.76-1.576 1.888m3.085-.008L4.598 8.742M6.2 7.398 3 7.4" fill="none"/>
+    </g>
+</svg>

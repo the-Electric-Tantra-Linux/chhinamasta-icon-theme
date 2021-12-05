@@ -1,1 +1,25 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><rect height="56" opacity=".2" rx="4.2" width="56" x="4" y="5"/><rect fill="#533f3f" height="56" rx="4.2" width="56" x="4" y="4"/><path d="m54 54.988-10.999-10.988v10.988z" opacity=".2"/><path d="m54 53.988-10.999-10.988v10.988z" fill="#008052"/><path d="m43 33 11-11h-11z" opacity=".2"/><path d="m43 32 11-11h-11z" fill="#005680"/><path d="m21 19.4h11v25.2h-11z" fill="#f02e00"/><path d="m10 11 22 22v-22z" opacity=".2"/><path d="m10 10 22 22v-22z" fill="#ffb900"/><path d="m32 33-22 22h22z" opacity=".2"/><path d="m32 32-22 22h22z" fill="#ff8900"/><path d="m54 43-11-11v11z" fill="#006c80"/><path d="m43 44.012 10.999 10.988v-10.988z" opacity=".2"/><path d="m43 43.012 10.999 10.988v-10.988z" fill="#00aa80"/><path d="m43 22-11 11h11z" opacity=".2"/><path d="m43 21-11 11h11z" fill="#008900"/><path d="m54 11-11 11h11z" opacity=".2"/><path d="m54 10-11 11h11z" fill="#008080"/><g fill="#f4f4f7"><path d="m8.2 4a4.19 4.19 0 0 0 -4.2 4.2v1a4.19 4.19 0 0 1 4.2-4.2h47.6a4.19 4.19 0 0 1 4.2 4.2v-1a4.19 4.19 0 0 0 -4.2-4.2z" opacity=".1"/><path d="m10 10 1 1h21v-1zm44 0-11 11h1l10-10zm-11 11-11 11h1l10-10zm-11.5 11.5-21.5 21.5h1l21-21zm11.5 10.512 1 1h9.998v-1z" opacity=".2"/><path d="m43 32v1l10 10h1z" opacity=".1"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <rect height="56" opacity=".2" rx="4.2" width="56" x="4" y="5"/>
+    <rect fill="#533f3f" height="56" rx="4.2" width="56" x="4" y="4"/>
+    <path d="M54 54.988 43.001 44v10.988z" opacity=".2"/>
+    <path d="M54 53.988 43.001 43v10.988z" fill="#008052"/>
+    <path d="m43 33 11-11H43z" opacity=".2"/>
+    <path d="m43 32 11-11H43z" fill="#005680"/>
+    <path d="M21 19.4h11v25.2H21z" fill="#f02e00"/>
+    <path d="m10 11 22 22V11z" opacity=".2"/>
+    <path d="m10 10 22 22V10z" fill="#ffb900"/>
+    <path d="M32 33 10 55h22z" opacity=".2"/>
+    <path d="M32 32 10 54h22z" fill="#ff8900"/>
+    <path d="M54 43 43 32v11z" fill="#006c80"/>
+    <path d="M43 44.012 53.999 55V44.012z" opacity=".2"/>
+    <path d="M43 43.012 53.999 54V43.012z" fill="#00aa80"/>
+    <path d="M43 22 32 33h11z" opacity=".2"/>
+    <path d="M43 21 32 32h11z" fill="#008900"/>
+    <path d="M54 11 43 22h11z" opacity=".2"/>
+    <path d="M54 10 43 21h11z" fill="teal"/>
+    <g fill="#f4f4f7">
+        <path d="M8.2 4A4.19 4.19 0 0 0 4 8.2v1A4.19 4.19 0 0 1 8.2 5h47.6A4.19 4.19 0 0 1 60 9.2v-1A4.19 4.19 0 0 0 55.8 4z" opacity=".1"/>
+        <path d="m10 10 1 1h21v-1zm44 0L43 21h1l10-10zM43 21 32 32h1l10-10zM31.5 32.5 10 54h1l21-21zM43 43.012l1 1h9.998v-1z" opacity=".2"/>
+        <path d="M43 32v1l10 10h1z" opacity=".1"/>
+    </g>
+</svg>

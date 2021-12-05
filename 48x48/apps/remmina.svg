@@ -1,1 +1,15 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49"><stop offset="0" stop-color="#32d7ff"/><stop offset="1" stop-color="#329bff"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="55" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="4.5" y="4.5"/><g enable-background="new" fill="#fff" transform="matrix(.52053 0 0 .52053 12 12)"><path d="m20.618 17.742v9.181l8.931 5.954-8.931 5.954v9.181l22.702-15.135z"/><path d="m55.388 59.232v-9.181l-8.931-5.954 8.931-5.954v-9.181l-22.703 15.135z"/><path d="m64.776 23.074c2.632 4.509 4.147 9.75 4.147 15.348 0 16.845-13.656 30.5-30.5 30.5-9.922 0-18.734-4.741-24.304-12.077l-6.589 4.393c7.005 9.461 18.243 15.607 30.892 15.607 21.186 0 38.423-17.236 38.423-38.423 0-7.215-2.002-13.97-5.476-19.744z"/><path d="m7.922 38.423c0-16.845 13.656-30.5 30.5-30.5 9.826 0 18.561 4.652 24.139 11.868l6.596-4.397c-7.015-9.341-18.181-15.394-30.734-15.394-21.187 0-38.423 17.236-38.423 38.423 0 7.12 1.954 13.789 5.343 19.513l6.594-4.396c-2.55-4.457-4.015-9.615-4.015-15.117z"/></g><g fill="#5e4aa6"><g stroke-width="1.000006568"><circle cx="-1248.6931" cy="-1241.120669" r="0"/><circle cx="-1179.753196" cy="-1233.070121" r="0"/><circle cx="-1156.735432" cy="-1258.846993" r="0"/><circle cx="-1167.393904" cy="-1232.163017" r="0"/></g><circle cx="-1196.4816" cy="-1279.3" r="0"/><g stroke-width="1.000006568"><circle cx="-1078.027412204" cy="-1318.599054204" r="0"/><circle cx="21.51034848" cy="-53.10850652" fill-rule="evenodd" r="0"/><circle cx="-999.525158" cy="-1390.109124" r="0"/><circle cx="100.0096168" cy="-124.5818726204" fill-rule="evenodd" r="0"/></g></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#32d7ff"/>
+        <stop offset="1" stop-color="#329bff"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <g fill="#fff">
+        <path d="M22.732 21.235v4.78l4.65 3.098-4.65 3.1v4.779l11.817-7.879zM40.831 42.832v-4.779l-4.649-3.1 4.65-3.098v-4.78l-11.818 7.879z"/>
+        <path d="M45.718 24.01A15.796 15.796 0 0 1 47.876 32c0 8.768-7.108 15.876-15.876 15.876-5.164 0-9.751-2.468-12.65-6.286l-3.43 2.286C19.566 48.801 25.416 52 32 52c11.028 0 20-8.972 20-20 0-3.756-1.042-7.272-2.85-10.278zM16.124 32c0-8.768 7.108-15.876 15.876-15.876 5.115 0 9.661 2.422 12.565 6.178l3.433-2.289C44.347 15.151 38.535 12 32 12c-11.028 0-20 8.972-20 20 0 3.706 1.017 7.178 2.781 10.157l3.433-2.288A15.795 15.795 0 0 1 16.124 32z"/>
+    </g>
+</svg>

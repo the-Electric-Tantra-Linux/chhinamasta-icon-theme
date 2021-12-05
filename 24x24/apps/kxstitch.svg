@@ -1,1 +1,15 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><rect fill="#f4f4f7" height="20" rx="1" width="20" x="2" y="2"/><path d="m3 22.5c-.554 0-1-.446-1-1v-.5c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v.5c0 .554-.446 1-1 1z" opacity=".2"/><path d="m3 2c-.554 0-1 .446-1 1v7c0 .554.446 1 1 1h7c.554 0 1-.446 1-1v-7c0-.554-.446-1-1-1zm1.556 2h3.888c.308 0 .556.248.556.556v3.888" opacity=".3"/><g fill="none" stroke-linecap="round" stroke-width="4"><path d="m7 17.5 10-10" opacity=".1" stroke="#000"/><path d="m7 17 10-10" stroke="#c5251a"/><path d="m17 17.5-10-10" opacity=".1" stroke="#000"/><path d="m17 17-10-10" stroke="#f44336"/></g><path d="m3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v-.5c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/><path d="m6.979 4.98a2 2 0 0 0 -1.981 2.26 2 2 0 0 1 1.98-1.76 2 2 0 0 1 1.436.606l10 10a2 2 0 0 1 .598 1.187 2 2 0 0 0 -.598-1.687l-10-10a2 2 0 0 0 -1.434-.606z" fill="#f4f4f7" opacity=".1"/></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#f4f4f7" height="20" rx="1" width="20" x="2" y="2"/>
+    <path d="M3 22.5c-.554 0-1-.446-1-1V21c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v.5c0 .554-.446 1-1 1z" opacity=".2"/>
+    <path d="M3 2c-.554 0-1 .446-1 1v7c0 .554.446 1 1 1h7c.554 0 1-.446 1-1V3c0-.554-.446-1-1-1zm1.556 2h3.888c.308 0 .556.248.556.556v3.888" opacity=".3"/>
+    <g fill="none" stroke-linecap="round" stroke-width="4">
+        <path d="m7 17.5 10-10" opacity=".1" stroke="#000"/>
+        <path d="M7 17 17 7" stroke="#c5251a"/>
+        <path d="M17 17.5 7 7.5" opacity=".1" stroke="#000"/>
+        <path d="M17 17 7 7" stroke="#f44336"/>
+    </g>
+    <g fill="#f4f4f7">
+        <path d="M3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z" opacity=".2"/>
+        <path d="M6.979 4.98a2 2 0 0 0-1.981 2.26 2 2 0 0 1 1.98-1.76 2 2 0 0 1 1.436.606l10 10a2 2 0 0 1 .598 1.187 2 2 0 0 0-.598-1.687l-10-10A2 2 0 0 0 6.98 4.98z" opacity=".1"/>
+    </g>
+</svg>

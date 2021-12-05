@@ -1,1 +1,16 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg"><rect height="56" opacity=".2" rx="2.8" width="56" x="4" y="5"/><rect fill="#568156" height="56" rx="2.8" width="56" x="4" y="4"/><g fill-rule="evenodd"><path d="m9 28v6h6v-6z" opacity=".2"/><path d="m9 27v6h6v-6z" fill="#17191e"/><path d="m49 28v6h6v-6z" opacity=".2"/><path d="m49 27v6h6v-6z" fill="#17191e"/><path d="m24 38v3h15v-3zm15 3v3h4v3h-22.9v-3h3.9v-3h-7v6h-3v7h3v-4h26v5h3.2v-14h-3.2z" opacity=".2"/><path d="m24 37v3h15v-3zm15 3v3h4v3h-22.9v-3h3.9v-3h-7v6h-3v7h3v-4h26v5h3.2v-14h-3.2z" fill="#17191e"/><path d="m24 41v3h-4v3h23v-3h-4v-3z" opacity=".2"/><path d="m24 40v3h-4v3h23v-3h-4v-3z" fill="#c03c3c"/><path d="m24 40v1h15v-1zm-4 3v1h4v-1zm19 0v1h4v-1z" fill="#f4f4f7" opacity=".1"/></g><path d="m6.8 4c-1.55 0-2.8 1.25-2.8 2.8v1c0-1.55 1.25-2.8 2.8-2.8h50.4c1.55 0 2.8 1.25 2.8 2.8v-1c0-1.55-1.25-2.8-2.8-2.8z" fill="#f4f4f7" opacity=".2"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <rect height="56" opacity=".2" rx="2.8" width="56" x="4" y="5"/>
+    <rect fill="#568156" height="56" rx="2.8" width="56" x="4" y="4"/>
+    <g fill-rule="evenodd">
+        <path d="M9 28v6h6v-6z" opacity=".2"/>
+        <path d="M9 27v6h6v-6z" fill="#17191e"/>
+        <path d="M49 28v6h6v-6z" opacity=".2"/>
+        <path d="M49 27v6h6v-6z" fill="#17191e"/>
+        <path d="M24 38v3h15v-3zm15 3v3h4v3H20.1v-3H24v-3h-7v6h-3v7h3v-4h26v5h3.2V41H43z" opacity=".2"/>
+        <path d="M24 37v3h15v-3zm15 3v3h4v3H20.1v-3H24v-3h-7v6h-3v7h3v-4h26v5h3.2V40H43z" fill="#17191e"/>
+        <path d="M24 41v3h-4v3h23v-3h-4v-3z" opacity=".2"/>
+        <path d="M24 40v3h-4v3h23v-3h-4v-3z" fill="#c03c3c"/>
+        <path d="M24 40v1h15v-1zm-4 3v1h4v-1zm19 0v1h4v-1z" fill="#f4f4f7" opacity=".1"/>
+    </g>
+    <path d="M6.8 4C5.25 4 4 5.25 4 6.8v1C4 6.25 5.25 5 6.8 5h50.4C58.75 5 60 6.25 60 7.8v-1C60 5.25 58.75 4 57.2 4z" fill="#f4f4f7" opacity=".2"/>
+</svg>

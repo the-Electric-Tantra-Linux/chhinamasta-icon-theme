@@ -1,1 +1,15 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.490001" y2="4.490001"><stop offset="0" stop-color="#dee0e2"/><stop offset="1" stop-color="#f1f3f5" stop-opacity=".996078"/></linearGradient><circle cx="-1248.7" cy="-1241.6" fill="#5e4aa6" r="0"/><circle cx="-149.14999" cy="23.855" fill="#5e4aa6" fill-rule="evenodd" r="0"/><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="54.999996" ry="14.999999" stroke-linecap="round" stroke-width="2.74436" width="54.999996" x="4.500002" y="4.500002"/><path d="m33.784891 12c-.468379 0-.851783.383404-.851783.851781v38.296821c0 .468377.383404.851398.851783.851398h5.629731c.468377 0 .851781-.383021.851781-.851398v-38.296821c0-.468377-.383404-.851781-.851781-.851781z" fill="#14d571"/><rect fill="#32a9ff" height="33.917824" rx=".603226" width="7.497869" x="42.035637" y="18.082174"/><rect fill="#ffc846" height="28.3957" rx=".603226" width="7.610027" x="23.60993" y="23.6043"/><rect fill="#ff4242" height="18.266161" rx=".603226" width="7.527264" x="14.466496" y="33.733837"/></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
+        <stop offset="0" stop-color="#dee0e2"/>
+        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
+    </linearGradient>
+    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
+    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
+    <path d="M33.785 12a.854.854 0 0 0-.852.852v38.297c0 .468.384.851.852.851h5.63a.854.854 0 0 0 .851-.851V12.852a.854.854 0 0 0-.851-.852z" fill="#14d571"/>
+    <rect fill="#32a9ff" height="33.918" rx=".603" width="7.498" x="42.036" y="18.082"/>
+    <rect fill="#ffc846" height="28.396" rx=".603" width="7.61" x="23.61" y="23.604"/>
+    <rect fill="#ff4242" height="18.266" rx=".603" width="7.527" x="14.466" y="33.734"/>
+</svg>

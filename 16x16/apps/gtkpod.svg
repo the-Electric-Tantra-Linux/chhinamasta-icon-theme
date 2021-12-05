@@ -1,1 +1,6 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg"><rect fill="#8e8e8e" height="16" rx=".75" ry=".8" transform="scale(-1 1)" width="12" x="-14"/><path d="m3 1h10v7h-10z" fill="#333"/><circle cx="8" cy="12" fill="#f4f4f7" r="3"/><circle cx="8" cy="12" fill="#8e8e8e" r="1"/></svg>
+<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#8e8e8e" height="16" rx=".75" ry=".8" transform="scale(-1 1)" width="12" x="-14"/>
+    <path d="M3 1h10v7H3z" fill="#333"/>
+    <circle cx="8" cy="12" fill="#f4f4f7" r="3"/>
+    <circle cx="8" cy="12" fill="#8e8e8e" r="1"/>
+</svg>

@@ -1,1 +1,15 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><rect fill="#bc5ae7" height="20" rx="1" width="20" x="2" y="2"/><path d="m7.5 9v4.5c0 1.13-.787 1.518-1.5 1.5-.669.002-1.5-.356-1.5-1.5v-4.5" fill="none" opacity=".2" stroke="#000" stroke-linecap="round" stroke-linejoin="bevel"/><path d="m2 3.5v-.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v.5c0-.554-.446-1-1-1h-18c-.554 0-1 .446-1 1z" fill="#f4f4f7" opacity=".2"/><path d="m2 21v.5c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v-.5c0 .554-.446 1-1 1h-18c-.554 0-1-.446-1-1z" opacity=".2"/><g fill="none" stroke-linecap="round"><path d="m7.5 8.5v4.5c0 1.13-.787 1.518-1.5 1.5-.669.002-1.5-.356-1.5-1.5v-4.5" stroke="#f4f4f7" stroke-linejoin="bevel"/><path d="m12.507 14.993-1.902-2.953m-1.098-.047s3 .339 3-1.5-3-1.5-3-1.5m0 6v-6" opacity=".2" stroke="#000"/><path d="m12.507 14.493-1.902-2.953m-1.098-.047s3 .339 3-1.5-3-1.5-3-1.5m0 6v-6" stroke="#f4f4f7"/><path d="m19.5 14.993v-6m-4.996 0 2.496 3.007 2.5-3.007m-4.996 6v-6" opacity=".2" stroke="#000" stroke-linejoin="round"/><path d="m19.5 14.493v-6m-4.996 0 2.496 3.007 2.5-3.007m-4.996 6v-6" stroke="#f4f4f7" stroke-linejoin="round"/></g></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <rect fill="#bc5ae7" height="20" rx="1" width="20" x="2" y="2"/>
+    <path d="M7.5 9v4.5c0 1.13-.787 1.518-1.5 1.5-.669.002-1.5-.356-1.5-1.5V9" fill="none" opacity=".2" stroke="#000" stroke-linecap="round" stroke-linejoin="bevel"/>
+    <path d="M2 3.5V3c0-.554.446-1 1-1h18c.554 0 1 .446 1 1v.5c0-.554-.446-1-1-1H3c-.554 0-1 .446-1 1z" fill="#f4f4f7" opacity=".2"/>
+    <path d="M2 21v.5c0 .554.446 1 1 1h18c.554 0 1-.446 1-1V21c0 .554-.446 1-1 1H3c-.554 0-1-.446-1-1z" opacity=".2"/>
+    <g fill="none" stroke-linecap="round">
+        <path d="M7.5 8.5V13c0 1.13-.787 1.518-1.5 1.5-.669.002-1.5-.356-1.5-1.5V8.5" stroke="#f4f4f7" stroke-linejoin="bevel"/>
+        <path d="m12.507 14.993-1.902-2.953m-1.098-.047s3 .339 3-1.5-3-1.5-3-1.5m0 6v-6" opacity=".2" stroke="#000"/>
+        <path d="m12.507 14.493-1.902-2.953m-1.098-.047s3 .339 3-1.5-3-1.5-3-1.5m0 6v-6" stroke="#f4f4f7"/>
+        <g stroke-linejoin="round">
+            <path d="M19.5 14.993v-6m-4.996 0L17 12l2.5-3.007m-4.996 6v-6" opacity=".2" stroke="#000"/>
+            <path d="M19.5 14.493v-6m-4.996 0L17 11.5l2.5-3.007m-4.996 6v-6" stroke="#f4f4f7"/>
+        </g>
+    </g>
+</svg>

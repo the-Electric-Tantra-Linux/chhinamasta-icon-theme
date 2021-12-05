@@ -1,1 +1,18 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><path d="m44 40v-32c0-1.108-.892-2-2-2h-36c-1.108 0-2 .892-2 2v32c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2z" fill="#54402a"/><path d="m18.765 20a.75.778 0 0 0 -.765.778v12.8" opacity=".2"/><path d="m18.765 19a.75.778 0 0 0 -.765.778v12.8" fill="#d2d2d2"/><path d="m6 6c-1.108 0-2 .892-2 2v6h40v-6c0-1.108-.892-2-2-2z" opacity=".2"/><path d="m6 6c-1.108 0-2 .892-2 2v2h40v-2c0-1.108-.892-2-2-2z" opacity=".2"/><path d="m6 6c-1.108 0-2 .892-2 2v6h9v-4l-4-4z" fill="#d2d2d2"/><g fill-rule="evenodd"><path d="m19 10-4-4h5l4 4z" fill="#bebebe"/><path d="m19 10-4 4h5l4-4z" fill="#d2d2d2"/><path d="m29 10-4-4h5l4 4z" fill="#bebebe"/><path d="m29 10-4 4h5l4-4z" fill="#d2d2d2"/><path d="m39 10-4-4h5l4 4z" fill="#bebebe"/><path d="m39 10-4 4h5l4-4z" fill="#d2d2d2"/></g><path d="m6 6c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" fill="#fff" opacity=".2"/><path d="m4 40v1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2h-36c-1.108 0-2-.892-2-2z" opacity=".2"/></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <path d="M44 40V8c0-1.108-.892-2-2-2H6c-1.108 0-2 .892-2 2v32c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2z" fill="#54402a"/>
+    <path d="M18.765 20a.75.778 0 0 0-.765.778v12.8" opacity=".2"/>
+    <path d="M18.765 19a.75.778 0 0 0-.765.778v12.8" fill="#d2d2d2"/>
+    <path d="M6 6c-1.108 0-2 .892-2 2v6h40V8c0-1.108-.892-2-2-2z" opacity=".2"/>
+    <path d="M6 6c-1.108 0-2 .892-2 2v2h40V8c0-1.108-.892-2-2-2z" opacity=".2"/>
+    <path d="M6 6c-1.108 0-2 .892-2 2v6h9v-4L9 6z" fill="#d2d2d2"/>
+    <g fill-rule="evenodd">
+        <path d="m19 10-4-4h5l4 4z" fill="#bebebe"/>
+        <path d="m19 10-4 4h5l4-4z" fill="#d2d2d2"/>
+        <path d="m29 10-4-4h5l4 4z" fill="#bebebe"/>
+        <path d="m29 10-4 4h5l4-4z" fill="#d2d2d2"/>
+        <path d="m39 10-4-4h5l4 4z" fill="#bebebe"/>
+        <path d="m39 10-4 4h5l4-4z" fill="#d2d2d2"/>
+    </g>
+    <path d="M6 6c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V8c0-1.108-.892-2-2-2z" fill="#fff" opacity=".2"/>
+    <path d="M4 40v1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2H6c-1.108 0-2-.892-2-2z" opacity=".2"/>
+</svg>

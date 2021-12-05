@@ -1,1 +1,6 @@
-<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><g fill="#555" transform="translate(-55.999997 -396.36216)"><path d="m60.9998 415.36549 14-14v14z" opacity=".35"/><path d="m72 404.36549-11 11h11z"/></g></svg>
+<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#555">
+        <path d="m5 19.003 14-14v14z" opacity=".35"/>
+        <path d="m16 8.003-11 11h11z"/>
+    </g>
+</svg>

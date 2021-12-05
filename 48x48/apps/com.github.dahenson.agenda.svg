@@ -1,1 +1,9 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg"><rect height="40" opacity=".2" rx="2" width="40" x="4" y="5"/><rect fill="#f4f4f7" height="40" rx="2" width="40" x="4" y="4"/><path d="m6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" fill="#f4f4f7" opacity=".2"/><g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"><path d="m15.046 27 7 5 11-14" opacity=".1" stroke="#000"/><path d="m15.046 26 7 5 11-14" stroke="#3b89e1"/></g></svg>
+<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
+    <rect height="40" opacity=".2" rx="2" width="40" x="4" y="5"/>
+    <rect fill="#f4f4f7" height="40" rx="2" width="40" x="4" y="4"/>
+    <path d="M6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z" fill="#f4f4f7" opacity=".2"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="8">
+        <path d="m15.046 27 7 5 11-14" opacity=".1" stroke="#000"/>
+        <path d="m15.046 26 7 5 11-14" stroke="#3b89e1"/>
+    </g>
+</svg>

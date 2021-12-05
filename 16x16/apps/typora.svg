@@ -1,1 +1,14 @@
-<svg height="64" viewBox="0 0 64 64" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-45.398" x2="9.602" y1="68.2703" y2="13.2703"><stop offset="0" stop-color="#dee0e2"/><stop offset="1" stop-color="#f1f3f5" stop-opacity=".99608"/></linearGradient><g transform="translate(49.898 -8.7803)"><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="-45.398" y="13.28"/><rect fill="url(#b)" height="55" ry="15" stroke-linecap="round" stroke-width="2.7444" width="55" x="-45.398" y="13.28"/><path d="m-12.247 53.01-.0093 1.0243-11.653.009.0093-1.0243.7329-.000567c1.1726-.000907 2.203-.47446 2.6862-1.2234.44584-.67009.56151-1.3005.58016-3.3492l.17432-19.147-2.3819.0018c-3.7378.0029-5.0671 1.107-5.3541 4.456l-.95277.000738.45977-6.2251 20.228-.01565.34642 6.2245-.91613.000709c-.2986-3.4273-1.4253-4.4508-4.9798-4.448l-2.7117.0021-.17432 19.147c-.01901 2.0881.04926 2.6396.48254 3.3484.50622.74815 1.4913 1.2202 2.7006 1.2192z" fill="#202020" image-rendering="optimizeSpeed"/></g></svg>
+<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
+    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
+        <feGaussianBlur stdDeviation=".619"/>
+    </filter>
+    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-45.398" x2="9.602" y1="68.27" y2="13.27">
+        <stop offset="0" stop-color="#dee0e2"/>
+        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
+    </linearGradient>
+    <g transform="translate(49.898 -8.78)">
+        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="-45.398" y="13.28"/>
+        <rect fill="url(#b)" height="55" ry="15" width="55" x="-45.398" y="13.28"/>
+        <path d="m-12.247 53.01-.01 1.024-11.652.01.009-1.025h.733c1.173-.001 2.203-.475 2.686-1.224.446-.67.562-1.3.58-3.35l.175-19.146-2.382.002c-3.738.003-5.067 1.107-5.354 4.456h-.953l.46-6.225 20.228-.015.346 6.224h-.916c-.299-3.426-1.425-4.45-4.98-4.447l-2.712.002-.174 19.147c-.019 2.088.05 2.64.483 3.348.506.748 1.49 1.22 2.7 1.22z" fill="#202020" image-rendering="optimizeSpeed"/>
+    </g>
+</svg>
