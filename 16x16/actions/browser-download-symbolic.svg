@@ -3,7 +3,5 @@
         <feBlend in2="BackgroundImage" mode="darken"/>
     </filter>
     <g filter="url(#a)" transform="translate(-765 14.996)"/>
-    <g fill="#f4f4f7">
-        <path d="M7 1a1 1 0 0 0-1 1v5H3.658L8 13l4.373-6H10V2a1 1 0 0 0-1-1zM3 14a1 1 0 0 0 0 2h10a1 1 0 0 0 0-2z"/>
-    </g>
+    <path d="M7 1a1 1 0 0 0-1 1v5H3.658L8 13l4.373-6H10V2a1 1 0 0 0-1-1zM3 14a1 1 0 0 0 0 2h10a1 1 0 0 0 0-2z" fill="#f4f4f7"/>
 </svg>
