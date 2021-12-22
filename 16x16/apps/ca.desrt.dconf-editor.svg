@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path style="fill:#f4f4f7" d="M16 6.76v7.96c0 .707-.551 1.28-1.23 1.28H1.23C.552 16 0 15.427 0 14.72V6.76z"/><path style="fill:#cdcdcd" d="M1.23 0C.55 0 0 .577 0 1.295V7h16V1.295C16 .577 15.451 0 14.77 0z"/><path style="fill:#3584e4" d="M12.08 9H9.03C7.91 9 7 9.896 7 11c0 1.105.91 2 2.031 2h3.049s.131-.895.131-2c0-1.104-.211-2-.131-2z"/><path style="fill:#f4f4f7" d="M10 11a2 2 0 1 0 4 0 2 2 0 0 0-4 0zm0 0"/><path style="opacity:.1" d="M2.125 9h3.75c.069 0 .125.042.125.094v.812c0 .052-.056.094-.125.094h-3.75C2.056 10 2 9.958 2 9.906v-.812C2 9.042 2.056 9 2.125 9zm0 0"/><path style="fill:#797979" d="M5 2h1v1H5zm0 0"/><path style="opacity:.1" d="M2.094 12h1.812c.052 0 .094.042.094.094v.812a.094.094 0 0 1-.094.094H2.094A.094.094 0 0 1 2 12.906v-.812c0-.052.042-.094.094-.094zm0 0"/><path style="fill:#797979" d="M9 2h5v1H9zm0 0"/><path style="opacity:.2" d="M8.133 1h.647L7.447 5H6.8zm0 0"/><path style="fill:#3584e4" d="M9 4h5v.5H9zm0 0"/><path style="opacity:.2" d="M3.333 1h.63L2.63 5H2zm0 0"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path style="fill:#f4f4f7" d="M16 6.76v7.96c0 .707-.551 1.28-1.23 1.28H1.23C.552 16 0 15.427 0 14.72V6.76z"/>
+    <path style="fill:#cdcdcd" d="M1.23 0C.55 0 0 .577 0 1.295V7h16V1.295C16 .577 15.451 0 14.77 0z"/>
+    <path style="fill:#3584e4" d="M12.08 9H9.03C7.91 9 7 9.896 7 11c0 1.105.91 2 2.031 2h3.049s.131-.895.131-2c0-1.104-.211-2-.131-2z"/>
+    <path style="fill:#f4f4f7" d="M10 11a2 2 0 1 0 4 0 2 2 0 0 0-4 0zm0 0"/>
+    <path style="opacity:.1" d="M2.125 9h3.75c.069 0 .125.042.125.094v.812c0 .052-.056.094-.125.094h-3.75C2.056 10 2 9.958 2 9.906v-.812C2 9.042 2.056 9 2.125 9zm0 0"/>
+    <path style="fill:#797979" d="M5 2h1v1H5zm0 0"/>
+    <path style="opacity:.1" d="M2.094 12h1.812c.052 0 .094.042.094.094v.812a.094.094 0 0 1-.094.094H2.094A.094.094 0 0 1 2 12.906v-.812c0-.052.042-.094.094-.094zm0 0"/>
+    <path style="fill:#797979" d="M9 2h5v1H9zm0 0"/>
+    <path style="opacity:.2" d="M8.133 1h.647L7.447 5H6.8zm0 0"/>
+    <path style="fill:#3584e4" d="M9 4h5v.5H9zm0 0"/>
+    <path style="opacity:.2" d="M3.333 1h.63L2.63 5H2zm0 0"/>
+</svg>
