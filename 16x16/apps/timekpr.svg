@@ -1,15 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M8.5 0C6.007 0 4 2.04 4 4.534V9h2V4.933C6 3.133 6.661 2 8.5 2s2.28 1.146 2.5 2.933V9h2V4.534C13 2.04 10.993 0 8.5 0z" fill="#adadad" fill-rule="evenodd"/>
-    <rect fill="#f74242" height="9" rx=".786" ry=".818" width="11" x="3" y="7"/>
-    <path d="M12 11.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0z" fill="#f4f4f7"/>
-    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M8.897 8.389v.778" stroke="#6c0061" stroke-width=".198"/>
-        <g stroke-width=".583">
-            <path d="m7.1 9.548 1.36 2.356" stroke="#e0e0e0"/>
-            <path d="M8.46 9.183v2.721" stroke="#bfbfbf"/>
-            <path d="m9.82 9.548-1.36 2.356" stroke="gray"/>
-            <path d="m6.662 10.866 1.798 1.038 2.356-1.36" stroke="#f4f4f7"/>
-        </g>
-        <path d="M8.897 13.833v.778m2.714-2.708h-.778m-4.666 0h-.778" stroke="#6c0061" stroke-width=".198"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path style="fill:#adadad;fill-rule:evenodd" d="M8.5 0C6.007 0 4 2.04 4 4.534V9h2V4.933C6 3.133 6.661 2 8.5 2s2.28 1.146 2.5 2.933V9h2V4.534C13 2.04 10.993 0 8.5 0z"/><rect style="fill:#f74242" width="11" height="9" x="3" y="7" rx=".786" ry=".818"/><path style="fill:#f4f4f7" d="M12 11.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0z"/><path style="fill:none;stroke:#6c0061;stroke-width:.198b9cbe445;stroke-linecap:round;stroke-linejoin:round" d="M8.897 8.389v.778"/><path style="fill:none;stroke:#e0e0e0;stroke-width:.58333337;stroke-linecap:round;stroke-linejoin:round" d="m7.1 9.548 1.36 2.356"/><path style="fill:none;stroke:#bfbfbf;stroke-width:.58333337;stroke-linecap:round;stroke-linejoin:round" d="M8.46 9.183v2.721"/><path style="fill:none;stroke:gray;stroke-width:.58333337;stroke-linecap:round;stroke-linejoin:round" d="m9.82 9.548-1.36 2.356"/><path style="fill:none;stroke:#8b9cbe;stroke-width:.58333337;stroke-linecap:round;stroke-linejoin:round" d="m6.662 10.866 1.798 1.038 2.356-1.36"/><path style="fill:none;stroke:#6c0061;stroke-width:.198b9cbe445;stroke-linecap:round;stroke-linejoin:round" d="M8.897 13.833v.778M11.611 11.903h-.778M6.167 11.903h-.778"/></svg>

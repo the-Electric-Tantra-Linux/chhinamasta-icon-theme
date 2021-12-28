@@ -1,14 +1,1 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
-    <path d="M10 5c-1.108 0-2 .892-2 2v36c0 1.108.892 2 2 2h28c1.108 0 2-.892 2-2V17l-11-1-1-11z" opacity=".2"/>
-    <path d="M10 4c-1.108 0-2 .892-2 2v36c0 1.108.892 2 2 2h28c1.108 0 2-.892 2-2V16l-11-1-1-11z" fill="#e47234"/>
-    <path d="M10 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h18V4z" fill="#f4f4f7" opacity=".2"/>
-    <path d="M28 5v10a2 2 0 0 0 2 2h10z" opacity=".2"/>
-    <path d="M28 4v10a2 2 0 0 0 2 2h10z" fill="#efaa85"/>
-    <path d="M24 18a11 11 0 0 0-11 11 11 11 0 0 0 11 11 11 11 0 0 0 11-11 11 11 0 0 0-11-11zm1 2a8 8 0 0 1 8 8 8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8z" fill="#f4f4f7" opacity=".5"/>
-    <rect height="8" opacity=".2" rx="1.6" width="8" x="12" y="26"/>
-    <rect fill="#f4f4f7" height="8" rx="1.6" width="8" x="12" y="25"/>
-    <rect height="5" opacity=".2" rx="1" width="5" x="30" y="32"/>
-    <rect fill="#f4f4f7" height="5" rx="1" width="5" x="30" y="31"/>
-    <rect height="4" opacity=".2" rx=".8" width="4" x="28" y="20"/>
-    <rect fill="#f4f4f7" height="4" rx=".8" width="4" x="28" y="19"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><path style="opacity:.2" d="M10 5c-1.108 0-2 .892-2 2v36c0 1.108.892 2 2 2h28c1.108 0 2-.892 2-2V17l-11-1-1-11z"/><path style="fill:#e47234" d="M10 4c-1.108 0-2 .892-2 2v36c0 1.108.892 2 2 2h28c1.108 0 2-.892 2-2V16l-11-1-1-11z"/><path style="fill:#f4f4f7;opacity:.2" d="M10 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h18V4H10z"/><path style="opacity:.2" d="M28 5v10a2 2 0 0 0 2 2h10z"/><path style="fill:#efaa85" d="M28 4v10a2 2 0 0 0 2 2h10z"/><path style="fill:#f4f4f7;opacity:.5" d="M24 18a11 11 0 0 0-11 11 11 11 0 0 0 11 11 11 11 0 0 0 11-11 11 11 0 0 0-11-11zm1 2a8 8 0 0 1 8 8 8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8z"/><rect style="opacity:.2" width="8" height="8" x="12" y="26" rx="1.6" ry="1.6"/><rect style="fill:#f4f4f7" width="8" height="8" x="12" y="25" rx="1.6" ry="1.6"/><rect style="opacity:.2" width="5" height="5" x="30" y="32" rx="1" ry="1"/><rect style="fill:#f4f4f7" width="5" height="5" x="30" y="31" rx="1" ry="1"/><rect style="opacity:.2" width="4" height="4" x="28" y="20" rx=".8" ry=".8"/><rect style="fill:#f4f4f7" width="4" height="4" x="28" y="19" rx=".8" ry=".8"/></svg>

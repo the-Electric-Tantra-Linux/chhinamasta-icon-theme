@@ -1,12 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="12" cy="12.5" opacity=".2" r="10"/>
-    <circle cx="12" cy="12" fill="#17191e" r="10"/>
-    <path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 .01.291A10 10 0 0 1 12 2.5a10 10 0 0 1 9.99 9.709A10 10 0 0 0 22 12 10 10 0 0 0 12 2z" fill="#f4f4f7" opacity=".1"/>
-    <path d="M14.751 16.766a5.504 5.504 0 0 1-6.966-1.226 5.504 5.504 0 0 1-.006-7.073 5.504 5.504 0 0 1 6.964-1.238" fill="none" stroke="#f4f4f7" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
-    <circle cx="12" cy="12.5" opacity=".2" r="2"/>
-    <circle cx="12" cy="12" fill="#f4f4f7" r="2"/>
-    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
-        <path d="M14.751 17.266a5.504 5.504 0 0 1-6.966-1.226 5.504 5.504 0 0 1-.006-7.073 5.504 5.504 0 0 1 6.964-1.238" opacity=".2" stroke="#000"/>
-        <path d="M14.751 16.766a5.504 5.504 0 0 1-6.966-1.226 5.504 5.504 0 0 1-.006-7.073 5.504 5.504 0 0 1 6.964-1.238" stroke="#f4f4f7"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><circle style="opacity:.2" cx="12" cy="12.5" r="10"/><circle style="fill:#17191e" cx="12" cy="12" r="10"/><path style="opacity:.1;fill:#f4f4f7" d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 .01.291A10 10 0 0 1 12 2.5a10 10 0 0 1 9.99 9.709A10 10 0 0 0 22 12 10 10 0 0 0 12 2z"/><path style="fill:none;stroke:#f4f4f7;stroke-width:3.00049019;stroke-linecap:round;stroke-linejoin:round" d="M14.751 16.766a5.504 5.504 0 0 1-6.966-1.226 5.504 5.504 0 0 1-.006-7.073 5.504 5.504 0 0 1 6.964-1.238"/><circle style="opacity:.2" cx="12" cy="12.5" r="2"/><circle style="fill:#f4f4f7" cx="12" cy="12" r="2"/><path style="opacity:.2;fill:none;stroke:#000;stroke-width:3.00049019;stroke-linecap:round;stroke-linejoin:round" d="M14.751 17.266a5.504 5.504 0 0 1-6.966-1.226 5.504 5.504 0 0 1-.006-7.073 5.504 5.504 0 0 1 6.964-1.238"/><path style="fill:none;stroke:#f4f4f7;stroke-width:3.00049019;stroke-linecap:round;stroke-linejoin:round" d="M14.751 16.766a5.504 5.504 0 0 1-6.966-1.226 5.504 5.504 0 0 1-.006-7.073 5.504 5.504 0 0 1 6.964-1.238"/></svg>

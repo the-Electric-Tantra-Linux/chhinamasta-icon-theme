@@ -1,9 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(1 1)">
-        <rect height="20" opacity=".2" rx="1" width="20" x="1" y="1.5"/>
-        <rect fill="#f6531c" height="20" rx="1" width="20" x="1" y="1"/>
-        <path d="M2 1c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V2c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/>
-        <path d="M10 1.5v14h11v-1h-9v-13z" opacity=".2"/>
-        <path d="M10 1v14h11v-1h-9V1z" fill="#f4f4f7"/>
-    </g>
-</svg>
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg"><g transform="translate(1 1)"><rect x="1" y="1.5" width="20" height="20" rx="1" ry="1" style="opacity:.2"/><rect x="1" y="1" width="20" height="20" rx="1" ry="1" style="fill:#f6531c"/><path d="M2 1c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V2c0-.554-.446-1-1-1z" style="fill:#f4f4f7;opacity:.2"/><path d="M10 1.5v14h11v-1h-9v-13z" style="opacity:.2"/><path d="M10 1v14h11v-1h-9V1z" style="fill:#f4f4f7"/></g></svg>

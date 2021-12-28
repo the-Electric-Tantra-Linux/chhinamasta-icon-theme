@@ -1,6 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(-14 -15)">
-        <circle cx="22" cy="23" fill="#86ff7b" r="8"/>
-        <path d="M22 18a5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5 5 5 0 0 0-5-5zm0 3a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" fill="#f4f4f7"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16"><g transform="translate(-14 -15)"><circle cx="22" cy="23" r="8" style="fill:#86ff7b"/><path style="fill:#f4f4f7" d="M22 18a5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5 5 5 0 0 0-5-5zm0 3a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z"/></g></svg>

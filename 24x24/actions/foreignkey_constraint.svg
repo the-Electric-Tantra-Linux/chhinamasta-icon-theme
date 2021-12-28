@@ -1,3 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <path d="M6 4v16h1v-8h8v-1H7V5h10V4z" fill="#555e70"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path style="fill:currentColor;fill-opacity:1;stroke:none;color:#555e70" d="M5 3v16h1v-8h8v-1H6V4h10V3H5z" transform="translate(1 1)"/></svg>

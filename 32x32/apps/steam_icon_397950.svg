@@ -1,16 +1,1 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <rect height="21" opacity=".2" rx="2" width="22" x="5" y="3"/>
-    <rect height="8" opacity=".2" rx="2" width="4" x="10" y="23"/>
-    <rect height="8" opacity=".2" rx="1.932" ry="2" width="4" x="18" y="23"/>
-    <rect fill="#4f4f4f" height="8" rx="2" width="4" x="10" y="22"/>
-    <rect fill="#4f4f4f" height="8" rx="1.932" ry="2" width="4" x="18" y="22"/>
-    <rect fill="#c9c9c9" height="21" rx="2" width="22" x="5" y="2"/>
-    <rect height="17" opacity=".2" rx="2" width="16" x="8" y="10"/>
-    <rect fill="#f4f4f7" height="17" rx="2" width="16" x="8" y="9"/>
-    <rect height="8" opacity=".1" rx="2" width="12" x="10" y="12"/>
-    <rect fill="#4f4f4f" height="8" rx="2" width="12" x="10" y="11"/>
-    <g fill="#f4f4f7">
-        <path d="M7 2c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h18c1.108 0 2 .892 2 2V4c0-1.108-.892-2-2-2z" opacity=".1"/>
-        <path d="M10 9c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h12c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" opacity=".2"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32"><rect style="opacity:.2" rx="2" ry="2" height="21" width="22" y="3" x="5"/><rect style="opacity:.2" rx="2" ry="2" height="8" width="4" y="23" x="10"/><rect style="opacity:.2" rx="1.932" ry="2" height="8" width="4" y="23" x="18"/><rect style="fill:#4f4f4f" rx="2" ry="2" height="8" width="4" y="22" x="10"/><rect style="fill:#4f4f4f" rx="1.932" ry="2" height="8" width="4" y="22" x="18"/><rect style="fill:#c9c9c9" rx="2" ry="2" height="21" width="22" y="2" x="5"/><rect style="opacity:.2" rx="2" ry="2" height="17" width="16" y="10" x="8"/><rect style="fill:#f4f4f7" rx="2" ry="2" height="17" width="16" y="9" x="8"/><rect style="opacity:.1" rx="2" ry="2" height="8" width="12" y="12" x="10"/><rect style="fill:#4f4f4f" rx="2" ry="2" height="8" width="12" y="11" x="10"/><path style="opacity:.1;fill:#f4f4f7" d="M7 2c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h18c1.108 0 2 .892 2 2V4c0-1.108-.892-2-2-2H7z"/><path style="opacity:.2;fill:#f4f4f7" d="M10 9c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h12c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2H10z"/></svg>

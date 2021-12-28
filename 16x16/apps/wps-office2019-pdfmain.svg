@@ -1,13 +1,1 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.743" y1="15.74" y2="1.188">
-        <stop offset="0" stop-color="#ff8228"/>
-        <stop offset=".501" stop-color="#ff5a1e" stop-opacity=".996"/>
-        <stop offset="1" stop-color="#ff8c55" stop-opacity=".996"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.19" y="1.19"/>
-    <path d="M7.673 4.498a.396.396 0 0 0-.397.397V8.07a.396.396 0 1 0 .794 0V5.292h1.323a1.852 1.852 0 0 1 1.852 1.852 1.852 1.852 0 0 1-1.852 1.852h-2.91v.006a1.72 1.72 0 0 0-1.588 1.713 1.72 1.72 0 0 0 1.72 1.72h1.058c.22 0 .397-.177.397-.397v-1.323a.396.396 0 1 0-.794 0v.926h-.662a.926.926 0 0 1-.926-.926.926.926 0 0 1 .926-.926h2.779a2.646 2.646 0 0 0 2.645-2.645 2.646 2.646 0 0 0-2.645-2.646z" fill="#f4f4f7" fill-rule="evenodd"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect style="fill:#dc4c3a" width="16" height="16" rx=".8" ry=".8"/><path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M7 6V2.994h2.6S12 3.1 12 6 9.6 9 9.6 9H5.4s-1.393.402-1.4 2c-.007 1.598 1.4 2 1.4 2H7v-1"/></svg>

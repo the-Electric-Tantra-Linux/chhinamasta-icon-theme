@@ -1,1 +1,7 @@
-<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><g fill="#eaeef7"><path d="m0 2 .071 14h11.929v-9l-4-5zm1 1h7v4h3v8h-10z" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".201" stroke-width=".183"/><path d="m15 14v-10l-3.5-4h-7.5v2h1v-1h6v3h3v9h-2v1z" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".201" stroke-width=".183"/><path d="m7 4v4h3v6h-8v-10z" display="block" opacity=".224" stroke-width=".369"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16">
+    <g color="#000" fill="#eaeef7">
+        <path style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;isolation:auto;mix-blend-mode:normal;marker:none" d="m0 2 .071 14H12V7L8 2zm1 1h7v4h3v8H1z" font-weight="400" font-family="sans-serif" overflow="visible"/>
+        <path d="M15 14V4l-3.5-4H4v2h1V1h6v3h3v9h-2v1z" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;isolation:auto;mix-blend-mode:normal;marker:none" font-weight="400" font-family="sans-serif" overflow="visible"/>
+        <path style="isolation:auto;mix-blend-mode:normal;marker:none" d="M7 4v4h3v6H2V4z" display="block" overflow="visible" opacity=".224" paint-order="fill markers stroke"/>
+    </g>
+</svg>

@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <rect style="fill:#4f4f4f" width="15" height="9" x="1" y="3" rx="1.429" ry="1.5"/>
-    <path style="fill:#4f4f4f" d="M4 11h1v3H4z"/>
-    <rect style="fill:#4f4f4f" width="2" height="13" y="1" rx="1" ry="1"/>
-    <circle style="fill:#f4f4f7" cx="5.5" cy="7.5" r="3.5"/>
-    <path style="fill:#34ae72" d="M5 5h1v5H5z"/>
-    <path style="fill:#34ae72" transform="rotate(90)" d="M7-8h1v5H7z"/>
-    <path style="fill:#34ae72" transform="rotate(135)" d="M.91-11.69h1v5h-1z"/>
-    <path style="fill:#34ae72" transform="scale(1 -1) rotate(-45)" d="M8.69-3.91h1v5h-1z"/>
-    <path style="fill:#4f4f4f" d="M6 11h1v3H6zm2 0h1v3H8z"/>
-    <circle style="fill:#f4f4f7" cx="12.5" cy="7.5" r="2.5"/>
-    <path style="fill:#34ae72" d="M12.2 6h.6v3h-.6z"/>
-    <path style="fill:#34ae72" transform="rotate(90)" d="M7.2-14h.6v3h-.6z"/>
-    <path style="fill:#34ae72" transform="rotate(135)" d="M-3.84-15.64h.6v3h-.6z"/>
-    <path style="fill:#34ae72" transform="scale(1 -1) rotate(-45)" d="M13.84 2.04h.6v3h-.6z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><rect style="fill:#4f4f4f" width="15" height="9" x="1" y="3" rx="1.429" ry="1.5"/><path style="fill:#4f4f4f" d="M4 11h1v3H4z"/><rect style="fill:#4f4f4f" width="2" height="13" y="1" rx="1" ry="1"/><circle style="fill:#f4f4f7" cx="5.5" cy="7.5" r="3.5"/><path style="fill:#34ae72" d="M5 5h1v5H5z"/><path style="fill:#34ae72" transform="rotate(90)" d="M7-8h1v5H7z"/><path style="fill:#34ae72" transform="rotate(135)" d="M.91-11.69h1v5h-1z"/><path style="fill:#34ae72" transform="scale(1 -1) rotate(-45)" d="M8.69-3.91h1v5h-1z"/><path style="fill:#4f4f4f" d="M6 11h1v3H6zM8 11h1v3H8z"/><circle style="fill:#f4f4f7" cx="12.5" cy="7.5" r="2.5"/><path style="fill:#34ae72" d="M12.2 6h.6v3h-.6z"/><path style="fill:#34ae72" transform="rotate(90)" d="M7.2-14h.6v3h-.6z"/><path style="fill:#34ae72" transform="rotate(135)" d="M-3.84-15.64h.6v3h-.6z"/><path style="fill:#34ae72" transform="scale(1 -1) rotate(-45)" d="M13.84 2.04h.6v3h-.6z"/></svg>

@@ -1,14 +1,1 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(-34.29 -66.041)">
-        <circle cx="50.29" cy="83.041" opacity=".2" r="14"/>
-        <circle cx="50.29" cy="82.041" fill="#545454" r="14"/>
-        <circle cx="50.29" cy="83.041" opacity=".2" r="12"/>
-        <circle cx="50.29" cy="82.041" fill="#f4f4f7" r="12"/>
-        <path d="M62.29 82.041s-5.373 5-12 5c-6.628 0-12-5-12-5s5.372-5 12-5c6.627 0 12 5 12 5z" fill="#545454"/>
-        <circle cx="50.29" cy="83.041" opacity=".2" r="3"/>
-        <g fill="#f4f4f7">
-            <circle cx="50.29" cy="82.041" r="3"/>
-            <path d="M50.29 68.041a14 14 0 0 0-14 14 14 14 0 0 0 .021.586A14 14 0 0 1 50.29 69.041a14 14 0 0 1 13.979 13.414 14 14 0 0 0 .021-.414 14 14 0 0 0-14-14z" opacity=".1"/>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><g transform="translate(-34.29 -66.041)"><circle style="opacity:.2" cx="50.29" cy="83.041" r="14"/><circle style="fill:#545454" cx="50.29" cy="82.041" r="14"/><circle style="opacity:.2" cx="50.29" cy="83.041" r="12"/><circle style="fill:#f4f4f7" cx="50.29" cy="82.041" r="12"/><path style="fill:#545454" d="M62.29 82.041s-5.373 5-12 5c-6.628 0-12-5-12-5s5.372-5 12-5c6.627 0 12 5 12 5z"/><circle style="opacity:.2" cx="50.29" cy="83.041" r="3"/><circle style="fill:#f4f4f7" cx="50.29" cy="82.041" r="3"/><path style="opacity:.1;fill:#f4f4f7" transform="translate(34.29 66.041)" d="M16 2A14 14 0 0 0 2 16a14 14 0 0 0 .021.586A14 14 0 0 1 16 3a14 14 0 0 1 13.979 13.414A14 14 0 0 0 30 16 14 14 0 0 0 16 2z"/></g></svg>

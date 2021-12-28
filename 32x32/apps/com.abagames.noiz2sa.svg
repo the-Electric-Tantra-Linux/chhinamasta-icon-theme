@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
-    <path style="opacity:.2;fill:none;stroke:#000;stroke-width:8" d="m6 7 20 20"/>
-    <path style="opacity:.2" d="M4.666 3C3.189 3 2 4.25 2 5.8v22.4C2 29.75 3.189 31 4.666 31h2.668C8.811 31 10 29.75 10 28.2V5.8C10 4.25 8.811 3 7.334 3zm20 0C23.189 3 22 4.25 22 5.8v22.4c0 1.55 1.189 2.8 2.666 2.8h2.668C28.811 31 30 29.75 30 28.2V5.8C30 4.25 28.811 3 27.334 3z"/>
-    <path style="fill:none;stroke:#17191e;stroke-width:8" d="m6 6 20 20"/>
-    <path style="opacity:.1;fill:#f4f4f7" d="M8.828 3.172 3.172 8.828l.5.5 5.156-5.156 19.5 19.5.5-.5-20-20z"/>
-    <rect style="fill:#4f4f4f" width="8" height="28" x="2" y="2" rx="2.667" ry="2.8"/>
-    <rect style="fill:#4f4f4f" width="8" height="28" x="22" y="2" rx="2.667" ry="2.8"/>
-    <path style="opacity:.1;fill:#f4f4f7" d="M4.666 2C3.189 2 2 3.25 2 4.8v1C2 4.25 3.189 3 4.666 3h2.668C8.811 3 10 4.25 10 5.8v-1C10 3.25 8.811 2 7.334 2H4.666zm20 0C23.189 2 22 3.25 22 4.8v1C22 4.25 23.189 3 24.666 3h2.668C28.811 3 30 4.25 30 5.8v-1C30 3.25 28.811 2 27.334 2h-2.668z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><path style="opacity:.2;fill:none;stroke:#000;stroke-width:8" d="m6 7 20 20"/><path style="opacity:.2" d="M4.666 3C3.189 3 2 4.25 2 5.8v22.4C2 29.75 3.189 31 4.666 31h2.668C8.811 31 10 29.75 10 28.2V5.8C10 4.25 8.811 3 7.334 3zm20 0C23.189 3 22 4.25 22 5.8v22.4c0 1.55 1.189 2.8 2.666 2.8h2.668C28.811 31 30 29.75 30 28.2V5.8C30 4.25 28.811 3 27.334 3z"/><path style="fill:none;stroke:#17191e;stroke-width:8" d="m6 6 20 20"/><path style="opacity:.1;fill:#f4f4f7" d="M8.828 3.172 3.172 8.828l.5.5 5.156-5.156 19.5 19.5.5-.5-20-20z"/><rect style="fill:#4f4f4f" width="8" height="28" x="2" y="2" rx="2.667" ry="2.8"/><rect style="fill:#4f4f4f" width="8" height="28" x="22" y="2" rx="2.667" ry="2.8"/><path style="opacity:.1;fill:#f4f4f7" d="M4.666 2C3.189 2 2 3.25 2 4.8v1C2 4.25 3.189 3 4.666 3h2.668C8.811 3 10 4.25 10 5.8v-1C10 3.25 8.811 2 7.334 2H4.666zm20 0C23.189 2 22 3.25 22 4.8v1C22 4.25 23.189 3 24.666 3h2.668C28.811 3 30 4.25 30 5.8v-1C30 3.25 28.811 2 27.334 2h-2.668z"/></svg>

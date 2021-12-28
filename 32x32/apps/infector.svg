@@ -1,11 +1,1 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <g fill-rule="evenodd">
-        <path d="M3.25 2A2.245 2.245 0 0 0 1 4.25v25.5A2.245 2.245 0 0 0 3.25 32h25.5A2.245 2.245 0 0 0 31 29.75V4.25A2.245 2.245 0 0 0 28.75 2H7z" opacity=".2"/>
-        <path d="M7 1v6H1v18h6v6h18v-6h6V7h-6V1z" fill="#ccc"/>
-        <path d="M3.25 1A2.245 2.245 0 0 0 1 3.25V7h6V1zM25 25v6h3.75A2.245 2.245 0 0 0 31 28.75V25z" fill="#33d533"/>
-        <path d="M1 25v3.75A2.245 2.245 0 0 0 3.25 31H7v-6zM25 1v6h6V3.25A2.245 2.245 0 0 0 28.75 1z" fill="#ff5b5b"/>
-        <path d="M7 1v6h6V1zm6 6v6h6V7zm6 0h6V1h-6zm6 0v6h6V7zm0 6h-6v6h6zm0 6v6h6v-6zm0 6h-6v6h6zm-6 0v-6h-6v6zm-6 0H7v6h6zm-6 0v-6H1v6zm0-6h6v-6H7zm0-6V7H1v6z" fill="#696969"/>
-        <path d="M1 7v1h6V7zm12 0v1h6V7zm12 0v1h6V7zM7 13v1h6v-1zm12 0v1h6v-1zM1 19v1h6v-1zm12 0v1h6v-1zm12 0v1h6v-1zM7 25v1h6v-1zm12 0v1h6v-1z" opacity=".2"/>
-        <path d="M3.25 1A2.245 2.245 0 0 0 1 3.25v1A2.245 2.245 0 0 1 3.25 2h25.5A2.245 2.245 0 0 1 31 4.25v-1A2.245 2.245 0 0 0 28.75 1z" fill="#f4f4f7" opacity=".2"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><path style="opacity:.2;fill-rule:evenodd" d="M3.25 2A2.245 2.245 0 0 0 1 4.25v25.5A2.245 2.245 0 0 0 3.25 32h25.5A2.245 2.245 0 0 0 31 29.75V4.25A2.245 2.245 0 0 0 28.75 2H7z"/><path style="fill:#ccc;fill-rule:evenodd" d="M7 1v6H1v18h6v6h18v-6h6V7h-6V1z"/><path style="fill:#33d533;fill-rule:evenodd" d="M3.25 1A2.245 2.245 0 0 0 1 3.25V7h6V1zM25 25v6h3.75A2.245 2.245 0 0 0 31 28.75V25z"/><path style="fill:#ff5b5b;fill-rule:evenodd" d="M1 25v3.75A2.245 2.245 0 0 0 3.25 31H7v-6zM25 1v6h6V3.25A2.245 2.245 0 0 0 28.75 1z"/><path style="fill:#696969;fill-rule:evenodd" d="M7 1v6h6V1zm6 6v6h6V7zm6 0h6V1h-6zm6 0v6h6V7zm0 6h-6v6h6zm0 6v6h6v-6zm0 6h-6v6h6zm-6 0v-6h-6v6zm-6 0H7v6h6zm-6 0v-6H1v6zm0-6h6v-6H7zm0-6V7H1v6z"/><path style="fill-rule:evenodd;opacity:.2" d="M1 7v1h6V7zm12 0v1h6V7zm12 0v1h6V7zM7 13v1h6v-1zm12 0v1h6v-1zM1 19v1h6v-1zm12 0v1h6v-1zm12 0v1h6v-1zM7 25v1h6v-1zm12 0v1h6v-1z"/><path style="fill:#f4f4f7;fill-rule:evenodd;opacity:.2" d="M3.25 1A2.245 2.245 0 0 0 1 3.25v1A2.245 2.245 0 0 1 3.25 2h25.5A2.245 2.245 0 0 1 31 4.25v-1A2.245 2.245 0 0 0 28.75 1H3.25z"/></svg>

@@ -1,6 +1,1 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg">
-    <g fill="#f4f4f7">
-        <path d="M8 9s-1 0-1 1v5c0 1 1 1 1 1h4l1.5 2 1.5-2h1s1 0 1-1v-5c0-1-1-1-1-1z"/>
-        <path d="M6 5S5 5 5 6v5c0 1 1 1 1 1V9c0-1 1-1 1-1h8V6c0-1-1-1-1-1z" opacity=".3"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path style="fill:currentColor;fill-opacity:1;stroke:none;color:#8b9cbe" d="M11 5v7H4v1h7v7h1v-7h7v-1h-7V5h-1z"/></svg>

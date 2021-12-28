@@ -1,3 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M2 1v11h3v3l3-3h4l3-3V1zm3 3h2v5H5zm5 0h2v5h-2z" fill="#bebebe" fill-rule="evenodd"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M2 1v11h3v3l3-3h4l3-3V1H2zm3 3h2v5H5V4zm5 0h2v5h-2V4z" fill="currentColor" fill-rule="evenodd" color="#bebebe"/></svg>

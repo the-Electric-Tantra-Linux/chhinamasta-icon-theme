@@ -1,15 +1,1 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.742" y1="15.74" y2="1.188">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
-    <g font-family="sans-serif" letter-spacing="0" word-spacing="0">
-        <text fill="#009bff" font-size="8.066" stroke-width=".202" x="4.433" y="13.222" transform="translate(-.409 -.72)"><tspan x="4.433" y="13.222">27</tspan></text>
-        <text fill="#323232" font-size="1.658" stroke-width=".041" x="4.072" y="5.981" transform="translate(-.409 -.72)"><tspan x="4.072" y="5.981">Wednesday</tspan></text>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><path style="fill:#f4f4f7" d="M1 4.56v9.64c0 .443.357.8.8.8h13.4c.443 0 .754-.359.8-.8V4.56z"/><path style="fill:#f54b3e" d="M16 5V1.8c0-.443-.357-.8-.8-.8H1.8c-.443 0-.8.357-.8.8V5z"/><path style="opacity:.2" d="M9 6h2v2H9zM12 6h2v2h-2zM6 6h2v2H6zM3 6h2v2H3z"/><circle style="fill:#f54b3e" cx="10" cy="10" r="1"/><circle style="fill:#f4f4f7" cx="3.5" cy="2.5" r=".5"/><circle style="fill:#f4f4f7" cx="13.5" cy="2.5" r=".5"/><path style="opacity:.2" d="M12 9h2v2h-2zM6 9h2v2H6zM3 9h2v2H3zM9 12h2v2H9zM12 12h2v2h-2zM6 12h2v2H6zM3 12h2v2H3z"/></svg>

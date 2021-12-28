@@ -1,18 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#747474"/>
-        <stop offset="1" stop-color="#929292"/>
-    </linearGradient>
-    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="4.52" x2="61.348" y1="32" y2="32">
-        <stop offset="0" stop-color="#5bb365"/>
-        <stop offset="1" stop-color="#5ab760"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55.001" ry="15" width="55.001" x="4.5" y="4.5"/>
-    <path d="M4.697 17.16A15.152 15.152 0 0 0 4.5 19.5v25c0 .798.078 1.576.197 2.34h54.605c.12-.764.198-1.542.198-2.34v-25c0-.799-.079-1.576-.198-2.34z" fill="url(#c)"/>
-    <text fill="#fff" font-family="TSCu_Paranar" font-size="21.896" stroke-width=".547" x="12.057" y="36.239"><tspan x="12.057" y="36.239">nqq</tspan></text>
-    <path d="M48.084 4.945v54.11a14.88 14.88 0 0 0 2.674-.925V5.87c-.851-.39-1.745-.699-2.674-.925z" fill="#414342"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><path style="opacity:.2" d="M10 5c-1.108 0-2 .892-2 2v36c0 1.108.892 2 2 2h25c2.77 0 5-2.23 5-5V10c0-2.77-2.23-5-5-5z"/><path style="fill:#7a7a7a" d="M10 4c-1.108 0-2 .892-2 2v36c0 1.108.892 2 2 2h25c2.77 0 5-2.23 5-5V9c0-2.77-2.23-5-5-5z"/><rect style="opacity:.2" width="32" height="16" x="8" y="17" ry="0"/><rect style="fill:#34c637" width="32" height="16" x="8" y="16" ry="0"/><rect style="opacity:.2;fill:#f4f4f7" width="32" height="1" x="8" y="16" ry="0"/><path style="fill:#4f4f4f" d="M34 4v40h1c.343 0 .677-.034 1-.1V4.1a5.054 5.054 0 0 0-1-.1h-1z"/><path style="opacity:.2" d="M13 22v6h1v-5h2c.554 0 1 .446 1 1v4h1v-4c0-1-1-2-2-2z"/><path style="fill:#f4f4f7" d="M13 21v6h1v-5h2c.554 0 1 .446 1 1v4h1v-4c0-1-1-2-2-2z"/><path style="opacity:.2" d="M22 22c-1.108 0-2 .892-2 2v2c0 1.108.892 2 2 2h2v2h1v-8zm0 1h2v4h-2c-.5 0-1-.523-1-1v-2c0-.5.5-1 1-1z"/><path style="fill:#f4f4f7" d="M22 21c-1.108 0-2 .892-2 2v2c0 1.108.892 2 2 2h2v2h1v-8zm0 1h2v4h-2c-.5 0-1-.523-1-1v-2c0-.5.5-1 1-1z"/><path style="opacity:.2" d="M29 22c-1.108 0-2 .892-2 2v2c0 1.108.892 2 2 2h2v2h1v-8zm0 1h2v4h-2c-.5 0-1-.523-1-1v-2c0-.5.5-1 1-1z"/><path style="fill:#f4f4f7" d="M29 21c-1.108 0-2 .892-2 2v2c0 1.108.892 2 2 2h2v2h1v-8zm0 1h2v4h-2c-.5 0-1-.523-1-1v-2c0-.5.5-1 1-1z"/><path style="opacity:.1;fill:#f4f4f7" d="M10 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h25c2.77 0 5 2.23 5 5V9c0-2.77-2.23-5-5-5H10z"/></svg>

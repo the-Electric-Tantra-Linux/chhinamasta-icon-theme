@@ -1,12 +1,9 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#02db96"/>
-        <stop offset="1" stop-color="#13d39b"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
-    <path d="M34.535 20.85a8.678 8.922 0 0 0-7.92 5.298 8.678 8.922 0 0 0-3.653-.843 8.678 8.922 0 0 0-8.678 8.923 8.678 8.922 0 0 0 8.678 8.922 8.678 8.922 0 0 0 .003 0h20.249a6.505 6.688 0 0 0 6.502-6.69 6.505 6.688 0 0 0-6.502-6.685 8.678 8.922 0 0 1 0-.003 8.678 8.922 0 0 0 0-.004 8.678 8.922 0 0 0-8.678-8.916z" fill="#0e7e69" fill-rule="evenodd"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+    <circle style="fill:#88ba14" cx="-12.571" cy="10.571" r="3.429" transform="scale(-1 1)"/>
+    <circle style="fill:#88ba14" cx="-9" cy="7" r="4" transform="scale(-1 1)"/>
+    <circle style="fill:#88ba14" cx="-5.667" cy="7.723" r="2.667" transform="scale(-1 1)"/>
+    <circle style="fill:#88ba14" cx="-3.429" cy="10.571" r="3.429" transform="scale(-1 1)"/>
+    <path style="fill:#88ba14" transform="scale(-1 1)" d="M-12.57 9.43h9.143v4.571h-9.143z"/>
+    <path style="fill:#f4f4f7" d="M5 7h1.5v5H5zm4.5 0H11v5H9.5z"/>
+    <path style="fill:#f4f4f7" transform="rotate(90)" d="M7-11h1v6H7zm4 0h1v6h-1zm-2 0h1v6H9z"/>
 </svg>

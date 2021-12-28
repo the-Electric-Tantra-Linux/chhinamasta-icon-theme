@@ -1,7 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <rect height="20" opacity=".2" rx="1.5" width="20" x="2" y="2.5"/>
-    <rect fill="#ffc107" height="20" rx="1.5" width="20" x="2" y="2"/>
-    <path d="M3.5 2C2.669 2 2 2.669 2 3.5V4c0-.831.669-1.5 1.5-1.5h17c.831 0 1.5.669 1.5 1.5v-.5c0-.831-.669-1.5-1.5-1.5z" fill="#f4f4f7" opacity=".2"/>
-    <path d="M6.8 6.5h4.4L12.8 9l2-2.5H20l-5.2 6 3.2 6h-4.8l-1.6-2.4-2 2.4H4l5.6-6.4z" opacity=".1"/>
-    <path d="M6.8 6h4.4l1.6 2.5 2-2.5H20l-5.2 6 3.2 6h-4.8l-1.6-2.4-2 2.4H4l5.6-6.4z" fill="#3e3e3e"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect style="opacity:.2" width="20" height="20" x="2" y="2.5" rx="1.5" ry="1.5"/><rect style="fill:#ffc107" width="20" height="20" x="2" y="2" rx="1.5" ry="1.5"/><path style="opacity:.2;fill:#f4f4f7" d="M3.5 2C2.669 2 2 2.669 2 3.5V4c0-.831.669-1.5 1.5-1.5h17c.831 0 1.5.669 1.5 1.5v-.5c0-.831-.669-1.5-1.5-1.5z"/><path style="opacity:.1" d="M6.8 6.5h4.4L12.8 9l2-2.5H20l-5.2 6 3.2 6h-4.8l-1.6-2.4-2 2.4H4l5.6-6.4z"/><path style="fill:#3e3e3e" d="M6.8 6h4.4l1.6 2.5 2-2.5H20l-5.2 6 3.2 6h-4.8l-1.6-2.4-2 2.4H4l5.6-6.4z"/></svg>

@@ -1,7 +1,0 @@
-<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB">
-        <feBlend in2="BackgroundImage" mode="darken"/>
-    </filter>
-    <g filter="url(#a)" transform="translate(-345 -45)"/>
-    <path d="M7 1C4.247 1 2 3.246 2 6v4.003a1 1 0 0 0 1 1 1 1 0 0 0 1-1V6C4 4.32 5.32 3 7 3s3 1.321 3 3v3H8l3 5 3-5h-2V6c0-2.752-2.248-5-5-5z" fill="#f4f4f7"/>
-</svg>

@@ -1,17 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <rect height="56" opacity=".2" ry="16.8" width="56" x="4" y="5"/>
-    <rect fill="#80cb1e" height="56" ry="16.8" width="56" x="4" y="4"/>
-    <path d="M19 22c-2.5 0-4.65 1.158-6.246 2.754C11.158 26.351 10 28.5 10 31v14a3 3 0 1 0 6 0V31c0-.5.342-1.35.996-2.004C17.65 28.343 18.5 28 19 28h26c.5 0 1.35.343 2.004.996C47.658 29.65 48 30.5 48 31v14a3 3 0 1 0 6 0V31c0-2.5-1.158-4.65-2.754-6.246S47.5 22 45 22z" opacity=".1"/>
-    <path d="M19 21c-2.5 0-4.65 1.158-6.246 2.754S10 27.5 10 30v14a3 3 0 1 0 6 0V30c0-.5.342-1.35.996-2.004S18.5 27 19 27h26c.5 0 1.35.342 2.004.996S48 29.5 48 30v14a3 3 0 1 0 6 0V30c0-2.5-1.158-4.65-2.754-6.246S47.5 21 45 21z" fill="#4f4f4f"/>
-    <circle cx="21" cy="36" opacity=".1" r="3"/>
-    <circle cx="21" cy="35" fill="#4f4f4f" r="3"/>
-    <path d="M26 22v6s0 3 6 3 6-3 6-3v-6z" opacity=".1"/>
-    <path d="M26 21v6s0 3 6 3 6-3 6-3v-6z" fill="#4f4f4f"/>
-    <circle cx="43" cy="36" opacity=".1" r="3"/>
-    <circle cx="43" cy="35" fill="#4f4f4f" r="3"/>
-    <circle cx="28" cy="36" opacity=".1" r="3"/>
-    <circle cx="28" cy="35" fill="#4f4f4f" r="3"/>
-    <circle cx="36" cy="36" opacity=".1" r="3"/>
-    <circle cx="36" cy="35" fill="#4f4f4f" r="3"/>
-    <path d="M20.8 4C11.495 4 4 11.494 4 20.8v1C4 12.495 11.494 5 20.8 5h22.4C52.505 5 60 12.494 60 21.8v-1C60 11.495 52.506 4 43.2 4z" fill="#f4f4f7" opacity=".2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="64" width="64"><rect style="opacity:.2" ry="16.8" height="56" width="56" y="5" x="4"/><rect style="fill:#80cb1e" ry="16.8" height="56" width="56" y="4" x="4"/><path style="opacity:.1" d="M19 22c-2.5 0-4.65 1.158-6.246 2.754C11.158 26.351 10 28.5 10 31v14a3 3 0 1 0 6 0V31c0-.5.342-1.35.996-2.004C17.65 28.343 18.5 28 19 28h26c.5 0 1.35.343 2.004.996C47.658 29.65 48 30.5 48 31v14a3 3 0 1 0 6 0V31c0-2.5-1.158-4.65-2.754-6.246S47.5 22 45 22z"/><path style="fill:#4f4f4f" d="M19 21c-2.5 0-4.65 1.158-6.246 2.754S10 27.5 10 30v14a3 3 0 1 0 6 0V30c0-.5.342-1.35.996-2.004C17.65 27.342 18.5 27 19 27h26c.5 0 1.35.342 2.004.996C47.658 28.65 48 29.5 48 30v14a3 3 0 1 0 6 0V30c0-2.5-1.158-4.65-2.754-6.246S47.5 21 45 21z"/><circle r="3" style="opacity:.1" cx="21" cy="36"/><circle r="3" style="fill:#4f4f4f" cx="21" cy="35"/><path style="opacity:.1" d="M26 22v6s0 3 6 3 6-3 6-3v-6z"/><path style="fill:#4f4f4f" d="M26 21v6s0 3 6 3 6-3 6-3v-6z"/><circle r="3" style="opacity:.1" cx="43" cy="36"/><circle r="3" style="fill:#4f4f4f" cx="43" cy="35"/><circle r="3" style="opacity:.1" cx="28" cy="36"/><circle r="3" style="fill:#4f4f4f" cx="28" cy="35"/><circle r="3" style="opacity:.1" cx="36" cy="36"/><circle r="3" style="fill:#4f4f4f" cx="36" cy="35"/><path style="opacity:.2;fill:#f4f4f7" d="M20.8 4C11.495 4 4 11.494 4 20.8v1C4 12.495 11.494 5 20.8 5h22.4C52.505 5 60 12.494 60 21.8v-1C60 11.495 52.506 4 43.2 4H20.8z"/></svg>

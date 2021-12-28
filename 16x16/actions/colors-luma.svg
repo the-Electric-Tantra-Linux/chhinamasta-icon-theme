@@ -1,3 +1,18 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg">
-    <path d="M11 4c1 4 5 7 5 9.5S13.77 18 11 18s-5-2-5-4.5S10 8 11 4z" fill="#f4f4f7"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16">
+    <defs id="defs3051">
+        <linearGradient xlink:href="#linearGradient4012" id="linearGradient5517" gradientUnits="userSpaceOnUse" gradientTransform="matrix(.6 0 0 .5625 2.2 -576.266)" x1="3" y1="1049.362" x2="19" y2="1033.362"/>
+        <linearGradient id="linearGradient4012">
+            <stop id="stop4014" offset="0" style="stop-color:#1d99f3;stop-opacity:1"/>
+            <stop style="stop-color:#48acf5;stop-opacity:.76119405" offset=".417" id="stop4016"/>
+            <stop style="stop-color:#73c0f7;stop-opacity:0" offset=".667" id="stop4018"/>
+            <stop id="stop4020" offset="1" style="stop-color:#cae7fc;stop-opacity:0"/>
+        </linearGradient>
+        <style type="text/css" id="current-color-scheme">
+            .ColorScheme-Text{color:#8b9cbe}
+        </style>
+    </defs>
+    <path style="fill:currentColor;fill-opacity:1;stroke:none" d="M8 2c-.24.786-.236 1.283-.625 2H8zm0 2v3h2c-.564-.91-.786-1.916-1.375-3zm0 3H6c-.134.216-.914.795-1.031 1L4 10h4zm0 3v3h2c.305-.214.959-.214 1.188-.5l.813-2.5zm0 3H6.469v.438H8z" class="ColorScheme-Text"/>
+    <path style="fill:url(#linearGradient5517);fill-opacity:1;stroke:none" d="M8 2c-.778 2.554-2.387 4.692-3.503 6.538-.294.522-.32 1.078-.32 1.712 0 2.077 1.585 3.54 3.8 3.54 2.217 0 3.88-1.463 3.88-3.54 0-.634-.292-1.057-.586-1.58C10.365 6.935 8.778 4.554 8 2z"/>
+    <path style="fill:currentColor;fill-opacity:.25;stroke:none" d="M8 2c-.778 2.554-2.354 4.813-3.359 6.516C4.347 9.039 4 9.616 4 10.25 4 12.327 5.784 14 8 14s4-1.673 4-3.75c0-.634-.347-1.123-.641-1.646C10.243 6.88 8.778 4.554 8 2" class="ColorScheme-Text"/>
+    <path style="fill:currentColor;fill-opacity:1;stroke:none" d="M8 2c-1.072 3.818-4 6.079-4 8.188 0 2.109 1.791 3.813 4 3.813s4-1.704 4-3.813S9.072 5.819 8 2m-.031 1.438c.862 3.137 3.219 4.986 3.219 6.719 0 1.733-1.441 3.125-3.219 3.125-1.778 0-3.188-1.392-3.188-3.125s2.325-3.582 3.188-6.719" class="ColorScheme-Text"/>
 </svg>

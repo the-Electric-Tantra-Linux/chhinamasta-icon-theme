@@ -1,6 +1,6 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M8 0C3.586 0 0 3.586 0 8s3.586 8 8 8 8-3.586 8-8-3.586-8-8-8z" fill="#4f4f4f"/>
-    <path d="M8 2C4.69 2 2 4.69 2 8s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6z" fill="#ef8a24"/>
-    <path d="m8 8 6-6M4.5 6 8 8" fill="none" stroke="#f4f4f7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="M8 6a2 2 0 1 0 .001 4.001A2 2 0 0 0 8 6z" fill="#4f4f4f"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path style="fill:#4f4f4f" d="M8 0C3.586 0 0 3.586 0 8s3.586 8 8 8 8-3.586 8-8-3.586-8-8-8z"/>
+    <path style="fill:#ef8a24" d="M8 2C4.69 2 2 4.69 2 8s2.69 6 6 6 6-2.69 6-6-2.69-6-6-6z"/>
+    <path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="m8 8 6-6M4.5 6 8 8"/>
+    <path style="fill:#4f4f4f" d="M8 6a2 2 0 1 0 .001 4.001A2 2 0 0 0 8 6z"/>
 </svg>

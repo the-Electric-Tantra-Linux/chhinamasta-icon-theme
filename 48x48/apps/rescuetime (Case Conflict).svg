@@ -1,11 +1,1 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
-    <rect fill="#f4f4f7" height="40" rx="2" width="16" x="16" y="4"/>
-    <rect fill="#f4f4f7" height="40" rx="2" transform="rotate(90)" width="16" x="16" y="-44"/>
-    <rect height="16" opacity=".2" rx="2" transform="rotate(90)" width="4" x="23" y="-40"/>
-    <rect fill="#3e3e3e" height="16" rx="2" width="4" x="22" y="8"/>
-    <rect fill="#3e3e3e" height="16" rx="2" transform="rotate(90)" width="4" x="22" y="-40"/>
-    <circle cx="24" cy="25" opacity=".2" r="6"/>
-    <circle cx="24" cy="24" fill="#df574d" r="6"/>
-    <path d="M4 30v1c0 1.108.892 2 2 2h10v-1H6c-1.108 0-2-.892-2-2zm40 0c0 1.108-.892 2-2 2H32v1h10c1.108 0 2-.892 2-2zM16 42v1c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2H18c-1.108 0-2-.892-2-2z" opacity=".2"/>
-    <path d="M18 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h12c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2zM6 16c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h10v-1zm26 0v1h10c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2z" fill="#fff" opacity=".2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><rect fill="#f4f4f7" width="16" height="40" x="16" y="4" rx="2" ry="2"/><rect fill="#f4f4f7" width="16" height="40" x="16" y="-44" rx="2" ry="2" transform="rotate(90)"/><rect opacity=".2" width="4" height="16" x="23" y="-40" rx="2" ry="2" transform="rotate(90)"/><rect fill="#3e3e3e" width="4" height="16" x="22" y="8" rx="2" ry="2"/><rect fill="#3e3e3e" width="4" height="16" x="22" y="-40" rx="2" ry="2" transform="rotate(90)"/><circle opacity=".2" cx="24" cy="25" r="6"/><circle fill="#df574d" cx="24" cy="24" r="6"/><path opacity=".2" d="M4 30v1c0 1.108.892 2 2 2h10v-1H6c-1.108 0-2-.892-2-2zm40 0c0 1.108-.892 2-2 2H32v1h10c1.108 0 2-.892 2-2v-1zM16 42v1c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2H18c-1.108 0-2-.892-2-2z"/><path fill="#fff" opacity=".2" d="M18 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h12c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2H18zM6 16c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h10v-1H6zm26 0v1h10c1.108 0 2 .892 2 2v-1c0-1.108-.892-2-2-2H32z"/></svg>

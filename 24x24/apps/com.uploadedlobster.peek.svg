@@ -1,19 +1,31 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.19" x2="15.742" y1="15.74" y2="1.188">
-        <stop offset="0" stop-color="#323741"/>
-        <stop offset="1" stop-color="#465064"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.19" y="1.191"/>
-    <rect fill="#ffb414" height="6.293" rx=".425" ry=".393" width="9.354" x="3.79" y="6.774"/>
-    <g fill="none" stroke="#f4f4f7" stroke-linecap="round" stroke-width=".529">
-        <path d="M4.498 8.862V7.539h1.587M12.435 8.862V7.539h-1.588M12.435 10.979v1.323h-1.588M4.498 10.979v1.323h1.587"/>
-    </g>
-    <g stroke-width=".265">
-        <circle cx="12.657" cy="4.661" fill="#ed333b" r=".794"/>
-        <path d="M7.144 4.396h2.645v.529H7.144z" fill="#deddda"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="matrix(.26458 0 0 .26458 34.792 -.1349)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#323741" offset="0"/>
+   <stop stop-color="#465064" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect transform="scale(.26458)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+ <rect x="1.1905" y="1.1906" width="14.552" height="14.552" ry="3.9687" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width=".72611"/>
+ <rect x="3.7897" y="6.7736" width="9.3536" height="6.2934" rx=".42516" ry=".39333" enable-background="new" fill="#ffb414" stroke-width=".20447" style="paint-order:normal"/>
+ <g transform="translate(-8.849,-9.5344)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width=".52917">
+  <path d="m13.347 18.396v-1.3229h1.5875" enable-background="new"/>
+  <path d="m21.284 18.396v-1.3229h-1.5875" enable-background="new"/>
+  <path d="m21.284 20.513v1.3229h-1.5875" enable-background="new"/>
+  <path d="m13.347 20.513v1.3229h1.5875" enable-background="new"/>
+ </g>
+ <circle cx="12.657" cy="4.6606" r=".79375" enable-background="new" fill="#ed333b" stroke-width=".26458"/>
+ <rect x="7.1436" y="4.3956" width="2.6458" height=".52917" fill="#deddda" stroke-width=".26458"/>
 </svg>

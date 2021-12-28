@@ -1,18 +1,1 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
-    <path d="M24 4H6c-1.108 0-2 .892-2 2v18h20z" fill="#cf4f8c"/>
-    <path d="M24 4h18c1.108 0 2 .892 2 2v18H24zm0 40H6c-1.108 0-2-.892-2-2V24h20z" fill="#14ddb1"/>
-    <path d="M24 44h18c1.108 0 2-.892 2-2V24H24z" fill="#6655e4"/>
-    <path d="M6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z" fill="#fff" opacity=".2"/>
-    <path d="M6 45c-1.108 0-2-.892-2-2v-1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v1c0 1.108-.892 2-2 2z" opacity=".2"/>
-    <path d="M10 10h28v28H10z" fill="#17191e"/>
-    <g fill="none" stroke-linecap="round" stroke-width="2">
-        <path d="M16 33h8" opacity=".2" stroke="#000"/>
-        <path d="M16 32h8" stroke="#f4f4f7"/>
-        <g stroke-linejoin="bevel">
-            <path d="M16 25s4.044.35 4-4-4-4-4-4m-.014 7.993v-8" opacity=".2" stroke="#000"/>
-            <path d="M16 24s4.044.35 4-4-4-4-4-4m-.014 7.994v-8" stroke="#f4f4f7"/>
-            <path d="M24 21s4 .464 4-2c0-2.465-4-2-4-2m0 8v-8" opacity=".2" stroke="#000"/>
-            <path d="M24 20s4 .464 4-2c0-2.465-4-2-4-2m0 8v-8" stroke="#f4f4f7"/>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><path style="fill:#cf4f8c" d="M24 4H6c-1.108 0-2 .892-2 2v18h20z"/><path style="fill:#14ddb1" d="M24 4h18c1.108 0 2 .892 2 2v18H24zM24 44H6c-1.108 0-2-.892-2-2V24h20z"/><path style="fill:#6655e4" d="M24 44h18c1.108 0 2-.892 2-2V24H24z"/><path fill="#fff" opacity=".2" d="M6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2H6z"/><path opacity=".2" d="M6 45c-1.108 0-2-.892-2-2v-1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v1c0 1.108-.892 2-2 2H6z"/><path style="fill:#17191e" d="M10 10h28v28H10z"/><path style="opacity:.2;fill:none;stroke:#000;stroke-width:2;stroke-linecap:round" d="M16 33h8"/><path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round" d="M16 32h8"/><path style="opacity:.2;fill:none;stroke:#000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:bevel" d="M16 25s4.044.35 4-4c-.044-4.35-4-4-4-4m-.014 7.993v-8"/><path style="fill:none;stroke:#f4f4f7;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:bevel" d="M16 24s4.044.35 4-4c-.044-4.35-4-4-4-4m-.014 7.994v-8"/><path style="opacity:.2;fill:none;stroke:#000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:bevel" d="M24 21s4 .464 4-2c0-2.465-4-2-4-2m0 8v-8"/><path style="fill:none;stroke:#f4f4f7;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:bevel" d="M24 20s4 .464 4-2c0-2.465-4-2-4-2m0 8v-8"/></svg>

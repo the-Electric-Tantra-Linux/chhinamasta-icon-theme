@@ -1,18 +1,1 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <rect fill="#8e8e8e" height="22" rx="2" transform="matrix(0 -1 -1 0 0 0)" width="28" x="-30" y="-27"/>
-    <rect fill="#f4f4f7" height="1" opacity=".2" ry=".5" width="11" x="7" y="29"/>
-    <rect height="25" opacity=".2" rx="2" width="22" x="5" y="3"/>
-    <rect fill="#f49c35" height="25" rx="2" width="22" x="5" y="2"/>
-    <path d="M7 2c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h18c1.108 0 2 .892 2 2V4c0-1.108-.892-2-2-2z" fill="#f4f4f7" opacity=".2"/>
-    <path d="M5 28v1c0 1.108.892 2 2 2h18c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2H7c-1.108 0-2-.892-2-2z" opacity=".2"/>
-    <circle cx="24.5" cy="29.5" opacity=".2" r=".5"/>
-    <rect fill="#3b3a36" height="1" ry=".5" width="11" x="7" y="28"/>
-    <circle cx="21.5" cy="29.5" opacity=".2" r=".5"/>
-    <circle cx="24.5" cy="28.5" fill="#b7b7b7" r=".5"/>
-    <circle cx="21.5" cy="28.5" fill="#b7b7b7" r=".5"/>
-    <circle cx="16" cy="15" opacity=".2" r="8"/>
-    <g transform="translate(8 6)">
-        <circle cx="8" cy="8" fill="#252a35" r="8"/>
-        <path d="m6.75 3-.11 1.3a3.929 3.929 0 0 0-1.152.7l-1.193-.6-1.25 2.2 1.084.7a3.929 3.929 0 0 0-.057.7 3.929 3.929 0 0 0 .059.7l-1.086.7 1.25 2.2 1.197-.6a3.929 3.929 0 0 0 1.149.7L6.75 13h2.5l.11-1.3a3.929 3.929 0 0 0 1.152-.7l1.193.6 1.25-2.2-1.084-.7a3.929 3.929 0 0 0 .057-.7 3.929 3.929 0 0 0-.059-.7l1.086-.7-1.25-2.2-1.197.6a3.929 3.929 0 0 0-1.149-.7L9.25 3zM8 6c1.105 0 2 .9 2 2s-.895 2-2 2-2-.9-2-2 .895-2 2-2z" fill="#f4f4f7"/>
-    </g>
-</svg>
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg"><rect transform="matrix(0 -1 -1 0 0 0)" x="-30" y="-27" width="28" height="22" rx="2" ry="2" style="fill:#8e8e8e"/><rect x="7" y="29" width="11" height="1" ry=".5" style="fill:#f4f4f7;opacity:.2"/><rect x="5" y="3" width="22" height="25" rx="2" ry="2" style="opacity:.2"/><rect x="5" y="2" width="22" height="25" rx="2" ry="2" style="fill:#f49c35"/><path d="M7 2c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h18c1.108 0 2 .892 2 2V4c0-1.108-.892-2-2-2z" style="fill:#f4f4f7;opacity:.2"/><path d="M5 28v1c0 1.108.892 2 2 2h18c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2H7c-1.108 0-2-.892-2-2z" style="opacity:.2"/><circle cx="24.5" cy="29.5" r=".5" style="opacity:.2"/><rect x="7" y="28" width="11" height="1" ry=".5" style="fill:#3b3a36"/><circle cx="21.5" cy="29.5" r=".5" style="opacity:.2"/><circle cx="24.5" cy="28.5" r=".5" style="fill:#b7b7b7"/><circle cx="21.5" cy="28.5" r=".5" style="fill:#b7b7b7"/><circle cx="16" cy="15" r="8" style="opacity:.2"/><g transform="translate(8 6)"><circle cx="8" cy="8" r="8" style="fill:#252a35"/><path d="m6.75 3-.11 1.3a3.929 3.929 0 0 0-1.152.7l-1.193-.6-1.25 2.2 1.084.7a3.929 3.929 0 0 0-.057.7 3.929 3.929 0 0 0 .059.7l-1.086.7 1.25 2.2 1.197-.6a3.929 3.929 0 0 0 1.149.7L6.75 13h2.5l.11-1.3a3.929 3.929 0 0 0 1.152-.7l1.193.6 1.25-2.2-1.084-.7a3.929 3.929 0 0 0 .057-.7 3.929 3.929 0 0 0-.059-.7l1.086-.7-1.25-2.2-1.197.6a3.929 3.929 0 0 0-1.149-.7L9.25 3h-2.5zM8 6c1.105 0 2 .9 2 2s-.895 2-2 2-2-.9-2-2 .895-2 2-2z" style="fill:#f4f4f7"/></g></svg>

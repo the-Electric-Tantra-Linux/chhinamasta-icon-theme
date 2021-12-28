@@ -1,15 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <rect height="20" opacity=".2" rx="1.5" width="20" x="2" y="2.5"/>
-    <rect fill="#2ec27e" height="20" rx="1.5" width="20" x="2" y="2"/>
-    <path d="M8 2h1v20H8zm7 0h1v20h-1z" fill="#26a269"/>
-    <path d="M22 8v1H2V8zm0 7v1H2v-1z" fill="#26a269"/>
-    <circle cx="12" cy="12.5" opacity=".2" r="2"/>
-    <circle cx="12" cy="12" fill="#f4f4f7" r="2"/>
-    <circle cx="19" cy="19.5" opacity=".2" r="2"/>
-    <circle cx="19" cy="19" fill="#f4f4f7" r="2"/>
-    <circle cx="19" cy="12.5" opacity=".1" r="2"/>
-    <circle cx="19" cy="12" fill="#3d3846" r="2"/>
-    <circle cx="12" cy="19.5" opacity=".1" r="2"/>
-    <circle cx="12" cy="19" fill="#3d3846" r="2"/>
-    <path d="M3.5 2C2.669 2 2 2.669 2 3.5V4c0-.831.669-1.5 1.5-1.5h17c.831 0 1.5.669 1.5 1.5v-.5c0-.831-.669-1.5-1.5-1.5z" fill="#f4f4f7" opacity=".2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect style="opacity:.2" width="20" height="20" x="2" y="2.5" rx="1.5" ry="1.5"/><rect style="fill:#2ec27e" width="20" height="20" x="2" y="2" rx="1.5" ry="1.5"/><path style="fill:#26a269" d="M8 2h1v20H8zM15 2h1v20h-1z"/><path style="fill:#26a269" transform="rotate(90)" d="M8-22h1v20H8zM15-22h1v20h-1z"/><circle style="opacity:.2" cx="12" cy="12.5" r="2"/><circle style="fill:#f4f4f7" cx="12" cy="12" r="2"/><circle style="opacity:.2" cx="19" cy="19.5" r="2"/><circle style="fill:#f4f4f7" cx="19" cy="19" r="2"/><circle style="opacity:.1" cx="19" cy="12.5" r="2"/><circle style="fill:#3d3846" cx="19" cy="12" r="2"/><circle style="opacity:.1" cx="12" cy="19.5" r="2"/><circle style="fill:#3d3846" cx="12" cy="19" r="2"/><path style="opacity:.2;fill:#f4f4f7" d="M3.5 2C2.669 2 2 2.669 2 3.5V4c0-.831.669-1.5 1.5-1.5h17c.831 0 1.5.669 1.5 1.5v-.5c0-.831-.669-1.5-1.5-1.5z"/></svg>

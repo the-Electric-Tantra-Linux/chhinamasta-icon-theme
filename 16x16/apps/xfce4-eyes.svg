@@ -1,8 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="4.5" cy="5.5" fill="#ccc" r="4.5"/>
-    <circle cx="4.5" cy="4.5" fill="#478be5" r="1.5"/>
-    <circle cx="4.5" cy="4.5" fill="#17191e" r=".5"/>
-    <circle cx="10.5" cy="8.5" fill="#f4f4f7" r="5.5"/>
-    <circle cx="11.5" cy="7.5" fill="#478be5" r="2.5"/>
-    <circle cx="11.5" cy="7.5" fill="#17191e" r=".5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><circle style="fill:#ccc" cx="4.5" cy="5.5" r="4.5"/><circle style="fill:#478be5" cx="4.5" cy="4.5" r="1.5"/><circle style="fill:#17191e" cx="4.5" cy="4.5" r=".5"/><circle style="fill:#f4f4f7" cx="10.5" cy="8.5" r="5.5"/><circle style="fill:#478be5" cx="11.5" cy="7.5" r="2.5"/><circle style="fill:#17191e" cx="11.5" cy="7.5" r=".5"/></svg>

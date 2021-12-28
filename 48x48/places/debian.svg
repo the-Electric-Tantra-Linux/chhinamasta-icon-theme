@@ -1,9 +1,414 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <path d="M16 1c8.31 0 15 6.69 15 15s-6.69 15-15 15S1 24.31 1 16 7.69 1 16 1z" fill="#ae395a"/>
-    <path d="M16 2c7.756 0 14 6.244 14 14s-6.244 14-14 14S2 23.756 2 16 8.244 2 16 2z" fill="#ff608e"/>
-    <g fill="#fee7ed">
-        <path d="M17.725 16.623c-.364.005.07.188.545.261.132-.102.251-.206.357-.307a2.72 2.72 0 0 1-.902.046M19.682 16.136c.217-.3.375-.628.431-.967-.049.242-.18.45-.303.67-.682.43-.064-.254 0-.514-.734.922-.101.553-.128.81M20.404 14.256c.044-.656-.129-.449-.187-.198.068.035.121.463.187.198M16.343 5.284c.195.035.42.061.389.108.213-.047.26-.09-.389-.108M16.732 5.392l-.138.028.128-.011z"/>
-        <path d="M22.798 14.505c.022.59-.172.876-.347 1.382l-.315.158c-.258.5.025.317-.16.716-.403.357-1.221 1.12-1.484 1.189-.19-.004.13-.226.172-.313-.539.37-.432.556-1.256.78l-.024-.053c-2.033.956-4.856-.939-4.819-3.524-.021.164-.061.123-.106.19-.105-1.33.614-2.667 1.827-3.212 1.186-.587 2.577-.346 3.427.446-.467-.612-1.396-1.26-2.497-1.2-1.079.018-2.088.703-2.425 1.447-.552.348-.616 1.341-.857 1.523-.324 2.381.61 3.41 2.188 4.62.249.167.07.193.104.32a4.284 4.284 0 0 1-1.4-1.07c.21.307.436.605.728.84-.495-.168-1.155-1.2-1.348-1.241.852 1.526 3.459 2.677 4.824 2.106-.632.023-1.434.013-2.144-.25-.298-.153-.703-.47-.63-.53 1.862.696 3.786.527 5.398-.765.41-.32.858-.862.987-.87-.195.293.034.141-.116.4.408-.659-.178-.268.422-1.138l.222.305c-.083-.547.679-1.21.602-2.076.174-.264.195.285.01.893.256-.675.067-.783.133-1.34.072.187.165.386.213.583-.167-.652.172-1.098.256-1.477-.082-.037-.258.288-.299-.483.006-.334.094-.175.127-.257-.065-.038-.238-.295-.343-.787.076-.116.204.3.307.317-.067-.391-.181-.69-.186-.99-.302-.632-.107.084-.352-.271-.322-1.004.267-.233.307-.69.487.707.766 1.802.893 2.256a9.241 9.241 0 0 0-.447-1.607c.148.062-.238-1.138.193-.343-.46-1.694-1.971-3.277-3.36-4.02.17.155.384.35.307.381-.69-.411-.57-.443-.668-.617-.563-.23-.6.018-.973 0-1.061-.562-1.266-.503-2.242-.855l.045.207c-.703-.234-.82.09-1.58.001-.045-.036.244-.13.483-.165-.68.09-.648-.134-1.313.025.164-.115.337-.191.512-.29-.554.034-1.323.323-1.086.06-.904.404-2.51.97-3.41 1.815l-.028-.19c-.413.496-1.8 1.48-1.911 2.122l-.11.026c-.215.364-.354.776-.525 1.15-.28.48-.411.185-.372.26-.552 1.12-.827 2.062-1.064 2.834.17.252.004 1.52.068 2.535-.277 5.011 3.517 9.877 7.665 11 .608.218 1.512.21 2.281.232-.907-.26-1.024-.138-1.908-.446-.638-.3-.777-.643-1.229-1.035l.179.316c-.886-.313-.515-.388-1.236-.616l.191-.25c-.287-.021-.76-.483-.89-.739l-.314.012c-.377-.465-.578-.8-.563-1.06l-.102.18c-.115-.197-1.388-1.746-.728-1.385-.122-.112-.285-.183-.462-.504l.134-.154c-.318-.409-.585-.933-.565-1.108.17.23.288.272.404.311-.803-1.991-.848-.11-1.456-2.027l.129-.01c-.099-.149-.158-.31-.238-.468l.056-.558c-.578-.669-.161-2.842-.078-4.033.058-.485.482-1 .805-1.81l-.196-.034c.376-.656 2.147-2.635 2.967-2.533.398-.499-.079-.002-.156-.127.873-.904 1.147-.639 1.736-.801.636-.377-.545.147-.244-.144 1.098-.28.779-.638 2.211-.78.152.086-.35.133-.476.244.915-.447 2.895-.345 4.182.249 1.493.698 3.17 2.76 3.236 4.7l.076.02c-.039.772.118 1.664-.153 2.483z"/>
-        <path d="m13.747 17.124-.052.255c.24.326.43.678.736.933-.22-.43-.384-.607-.684-1.188M14.313 17.101c-.127-.14-.202-.309-.286-.477.08.296.245.55.398.808zM24.335 14.923l-.054.134a6.483 6.483 0 0 1-.635 2.028 6.37 6.37 0 0 0 .689-2.162M16.415 5.109c.247-.09.606-.05.868-.109-.341.029-.68.046-1.015.089zM7.762 9.71c.057.526-.395.73.1.383.266-.598-.103-.165-.1-.383M7.18 12.144c.114-.35.134-.561.178-.764-.316.403-.145.49-.178.764"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:ns2="http://ns.adobe.com/AdobeIllustrator/10.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="debian.svg">
+  <defs
+     id="defs2">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-53"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-10"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-0">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-26">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-53-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-2-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-1-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-10-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-0-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-535"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-53-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-2-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1-1"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-10-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-0-7"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-26-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-6-9"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-53-7-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-5-5-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-2-3-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-1-5-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-10-6-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-0-2-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-53-5"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-2-5">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-1-6">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-10-29"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-0-1">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-26-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-6-7">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-53-7-0"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5-5-9">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-2-3-3">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-1-5-60">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       id="current-color-scheme-10-6-6"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-0-2-2">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-67">
+      .ColorScheme-Text {
+        color:#122036;
+      }
+      </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="2.4350361"
+     inkscape:cy="3.8723663"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:window-width="1870"
+     inkscape:window-height="1141"
+     inkscape:window-x="50"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.29999)">
+    <g
+       id="g883"
+       transform="translate(-20.05367,-23.333805)">
+      <path
+         style="opacity:1;fill:#ae395a;fill-opacity:1;stroke:none;stroke-width:0.07937501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 26.403664,308.16297 h 1.3e-5 c 3.224735,0 5.820827,2.59609 5.820827,5.82083 0,3.22473 -2.596092,5.82082 -5.820827,5.82082 h -1.3e-5 c -3.224741,0 -5.820827,-2.59609 -5.820827,-5.82082 0,-3.22474 2.596086,-5.82083 5.820827,-5.82083 z"
+         id="rect4544"
+         inkscape:connector-curvature="0" />
+      <path
+         style="opacity:1;fill:#ff608e;fill-opacity:1;stroke:none;stroke-width:0.07937501;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 26.403664,308.42754 h 6e-6 c 3.078163,0 5.556248,2.47809 5.556248,5.55625 0,3.07816 -2.478085,5.55625 -5.556248,5.55625 h -6e-6 c -3.078162,0 -5.556248,-2.47809 -5.556248,-5.55625 0,-3.07816 2.478086,-5.55625 5.556248,-5.55625 z"
+         id="rect4544-5"
+         inkscape:connector-curvature="0" />
+      <path
+         style="overflow:visible;fill:#fee7ed;fill-opacity:1;stroke-width:0.07862864"
+         inkscape:connector-curvature="0"
+         ns2:knockout="Off"
+         d="m 29.014354,313.37462 c 0.0085,0.22849 -0.06683,0.33936 -0.134692,0.53562 l -0.122109,0.061 c -0.09994,0.19405 0.0097,0.12321 -0.06188,0.27756 -0.156,0.1387 -0.473423,0.43403 -0.575011,0.461 -0.07415,-0.002 0.05024,-0.0875 0.06652,-0.12117 -0.208837,0.14342 -0.167557,0.21528 -0.486947,0.30241 l -0.0094,-0.0208 c -0.787701,0.37058 -1.881896,-0.36381 -1.867508,-1.36586 -0.0085,0.0636 -0.0239,0.0478 -0.04136,0.0735 -0.04065,-0.51557 0.238088,-1.03342 0.708209,-1.24485 0.459819,-0.22763 0.998898,-0.13423 1.328273,0.17275 -0.180924,-0.23699 -0.541044,-0.48821 -0.96784,-0.4647 -0.418069,0.007 -0.809168,0.27229 -0.939689,0.56069 -0.214186,0.13486 -0.239033,0.51983 -0.332364,0.59027 -0.125571,0.92286 0.2362,1.32159 0.848166,1.79062 0.09632,0.0649 0.02713,0.0747 0.04018,0.12423 -0.203333,-0.0952 -0.389527,-0.23896 -0.542617,-0.41493 0.08122,0.11889 0.168895,0.23447 0.282198,0.32529 -0.191697,-0.0649 -0.447789,-0.46454 -0.522565,-0.48082 0.330475,0.59169 1.340775,1.03766 1.869788,0.8164 -0.244771,0.009 -0.555747,0.005 -0.830789,-0.0967 -0.115506,-0.0594 -0.272606,-0.18258 -0.244536,-0.20562 0.721968,0.2697 1.467761,0.20428 2.092466,-0.2965 0.158908,-0.12377 0.33252,-0.33434 0.382685,-0.33724 -0.07556,0.1136 0.01289,0.0546 -0.04513,0.15498 0.158357,-0.2554 -0.0688,-0.104 0.163705,-0.44104 l 0.08586,0.11826 c -0.03192,-0.21198 0.263249,-0.46941 0.233291,-0.80468 0.0677,-0.10251 0.07556,0.11028 0.0037,0.34619 0.0997,-0.26167 0.02626,-0.30374 0.0519,-0.51965 0.02768,0.0726 0.064,0.14971 0.08264,0.22629 -0.06495,-0.25286 0.06667,-0.42585 0.09923,-0.57281 -0.03208,-0.0142 -0.100248,0.11177 -0.115819,-0.18689 0.0023,-0.12975 0.03609,-0.068 0.04914,-0.0999 -0.02547,-0.0146 -0.0923,-0.11406 -0.13296,-0.30484 0.02949,-0.0448 0.07879,0.11621 0.118885,0.12281 -0.02579,-0.15168 -0.07022,-0.26733 -0.07202,-0.38371 -0.117158,-0.24485 -0.04144,0.0326 -0.1365,-0.10514 -0.124705,-0.38897 0.103471,-0.0903 0.118886,-0.26702 0.189023,0.27387 0.296823,0.6983 0.346281,0.87411 -0.03775,-0.21433 -0.09876,-0.42199 -0.173218,-0.62289 0.0574,0.0241 -0.09247,-0.44103 0.07461,-0.13296 -0.178487,-0.65671 -0.763877,-1.27032 -1.302404,-1.55826 0.06589,0.0603 0.14908,0.13603 0.119201,0.14789 -0.267806,-0.15945 -0.220708,-0.17188 -0.259077,-0.23926 -0.218195,-0.0888 -0.232505,0.007 -0.377025,1.6e-4 -0.411228,-0.21812 -0.490484,-0.19492 -0.868925,-0.33157 l 0.01722,0.0804 c -0.272449,-0.0907 -0.317423,0.0344 -0.611888,3.2e-4 -0.01793,-0.0139 0.09435,-0.0506 0.186743,-0.0641 -0.263405,0.0347 -0.251062,-0.0519 -0.508806,0.009 0.06353,-0.0446 0.130681,-0.074 0.198458,-0.112 -0.214813,0.013 -0.512816,0.12502 -0.420821,0.0232 -0.350368,0.15632 -0.972635,0.37577 -1.321825,0.70318 l -0.01097,-0.0734 c -0.160007,0.19209 -0.697749,0.57366 -0.740601,0.82245 l -0.04278,0.0103 c -0.08327,0.14098 -0.137128,0.30076 -0.203175,0.44583 -0.1089,0.18556 -0.159617,0.0714 -0.144127,0.10045 -0.214185,0.43426 -0.320569,0.79918 -0.412486,1.09844 0.0655,0.0979 0.0016,0.58933 0.02634,0.98262 -0.107562,1.94244 1.363263,3.82843 2.970983,4.26388 0.23565,0.0843 0.586098,0.081 0.884179,0.0897 -0.351706,-0.10057 -0.397154,-0.0533 -0.739738,-0.17275 -0.24713,-0.11636 -0.301306,-0.24925 -0.476332,-0.40116 l 0.06927,0.12243 c -0.343292,-0.12149 -0.199637,-0.15034 -0.478926,-0.2388 l 0.07399,-0.0967 c -0.111265,-0.008 -0.2947,-0.18752 -0.344865,-0.28669 l -0.121718,0.005 c -0.146249,-0.18045 -0.22417,-0.3105 -0.218508,-0.41122 l -0.03931,0.0701 c -0.04458,-0.0765 -0.538056,-0.67676 -0.282041,-0.53704 -0.04756,-0.0434 -0.110785,-0.0707 -0.179352,-0.19531 l 0.05213,-0.0596 c -0.123213,-0.15852 -0.226766,-0.36169 -0.218903,-0.42939 0.06574,0.0888 0.111333,0.10536 0.15647,0.12053 -0.311133,-0.77198 -0.328589,-0.0425 -0.564239,-0.78582 l 0.04985,-0.003 c -0.03822,-0.0576 -0.0614,-0.12007 -0.09216,-0.1814 l 0.0217,-0.21623 c -0.224013,-0.25901 -0.06267,-1.10128 -0.03035,-1.56322 0.02241,-0.18784 0.186978,-0.38779 0.312155,-0.70137 l -0.07627,-0.0131 c 0.145777,-0.25429 0.832363,-1.02123 1.150337,-0.98177 0.154033,-0.1935 -0.03058,-6.9e-4 -0.06071,-0.0495 0.338338,-0.35014 0.8b9cbe722,-0.24737 0.67306,-0.31035 0.246265,-0.14617 -0.211353,0.057 -0.09459,-0.0558 0.425695,-0.10879 0.301698,-0.2472 0.857051,-0.3024 0.05858,0.0334 -0.135948,0.0515 -0.184777,0.0947 0.354694,-0.17354 1.122424,-0.13406 1.621086,0.0963 0.578628,0.27041 1.228731,1.06975 1.254363,1.82183 l 0.02918,0.008 c -0.01479,0.29894 0.04576,0.64467 -0.05913,0.96226 l 0.07139,-0.15034"
+         id="path891-6" />
     </g>
+  </g>
 </svg>

@@ -1,13 +1,1 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.742" y1="15.74" y2="1.188">
-        <stop offset="0" stop-color="#ff8228"/>
-        <stop offset=".501" stop-color="#ff5a1e" stop-opacity=".996"/>
-        <stop offset="1" stop-color="#ff8c55" stop-opacity=".996"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
-    <path d="M5.203 4.609h6.527v.878H8.99v6.837H7.942V5.487H5.203z" fill="#fff"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><rect style="opacity:.2" width="58" height="58" x="3" y="4" rx="2.9" ry="2.9"/><rect style="fill:#dd2525" width="58" height="58" x="3" y="3" rx="2.9" ry="2.9"/><path style="opacity:.2;fill:#f4f4f7" d="M5.898 3A2.891 2.891 0 0 0 3 5.898v1A2.891 2.891 0 0 1 5.898 4h52.204A2.891 2.891 0 0 1 61 6.898v-1A2.891 2.891 0 0 0 58.102 3H5.898z"/><path style="opacity:.2" d="M45 16v6H35v28h-6V22H19v-6z"/><path style="fill:#f4f4f7" d="M45 15v6H35v28h-6V21H19v-6z"/><path style="opacity:.5;fill:#f4f4f7" d="M6 6v42h4V10h44v44H16v4h42V6zm0 46v6h6v-6z"/></svg>

@@ -1,6 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(-15 -14)">
-        <circle cx="23" cy="22" fill="#8561c5" r="8"/>
-        <path d="M27 18h-6v5.27A2 2 0 1 0 22 25v-5h4v3.269a2 2 0 1 0 1 1.73z" fill="#a1e076"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><g transform="translate(-15 -14)"><circle fill="#8561c5" cx="23" cy="22" r="8"/><path style="fill:#a1e076" d="M27 18h-6v5.27A2 2 0 1 0 22 25v-5h4v3.269a2 2 0 1 0 1 1.73z"/></g></svg>

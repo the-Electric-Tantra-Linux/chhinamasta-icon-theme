@@ -1,7 +1,0 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg">
-    <g fill="#eeeeec">
-        <path d="M4 7h11v8H4z" opacity=".3"/>
-        <path d="M4 6S3 6 3 7v8c0 1 1 1 1 1h2v1c0 1 1 1 1 1h5s1 0 1-1v-1h2s1 0 1-1V7c0-1-1-1-1-1zm1 2h9v6H5z"/>
-        <path d="M7 3S6 3 6 4v1h11v8h1s1 0 1-1V4c0-1-1-1-1-1z"/>
-    </g>
-</svg>

@@ -1,3 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <path d="M20 4 4 20h16zm-2 4.828V18H8.828z" fill="#bebebe"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path d="M20 4 4 20h16zm-2 4.828V18H8.828z" fill="currentColor" color="#bebebe"/></svg>

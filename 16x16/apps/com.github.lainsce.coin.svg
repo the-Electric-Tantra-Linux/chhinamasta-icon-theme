@@ -1,5 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="8" cy="8" fill="#f6ac43" r="8"/>
-    <circle cx="8" cy="8" fill="#f4f4f7" r="5"/>
-    <rect height="6" opacity=".6" rx="1" width="2" x="7" y="5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><circle style="fill:#f6ac43" cx="8" cy="8" r="8"/><circle style="fill:#f4f4f7" cx="8" cy="8" r="5"/><rect style="opacity:.6" width="2" height="6" x="7" y="5" rx="1" ry="1"/></svg>

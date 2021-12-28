@@ -1,13 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <rect fill="#e7a522" height="20" rx="1" transform="matrix(0 -1 -1 0 0 0)" width="16" x="-20" y="-22"/>
-    <path d="M17 12c0-5.538-2.333-6-7-6s-7 .462-7 6 2.333 6 7 6 7-.462 7-6z" fill="#f4f4f7"/>
-    <path d="M3 4c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V5c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/>
-    <path d="M2 19v.5c0 .554.446 1 1 1h18c.554 0 1-.446 1-1V19c0 .554-.446 1-1 1H3c-.554 0-1-.446-1-1z" opacity=".2"/>
-    <circle cx="19.5" cy="12" opacity=".2" r="1.5"/>
-    <circle cx="19.5" cy="11.5" fill="#f4f4f7" r="1.5"/>
-    <circle cx="19.5" cy="8" opacity=".2" r="1.5"/>
-    <circle cx="19.5" cy="7.5" fill="#f4f4f7" r="1.5"/>
-    <path d="M7 14.164V15.5h1.336l3.376-3.375-1.337-1.337zm5.894-3.217a.354.354 0 0 0 0-.506l-.835-.835a.354.354 0 0 0-.506 0l-.698.702 1.336 1.337z" opacity=".2"/>
-    <path d="M7 13.664V15h1.336l3.376-3.375-1.337-1.337zm5.894-3.217a.354.354 0 0 0 0-.506l-.835-.835a.354.354 0 0 0-.506 0l-.698.702 1.336 1.337z" fill="#848484"/>
-    <path d="M18 17v1h3v-1zm0-2v1h3v-1z" fill="#f4f4f7"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><rect style="fill:#e7a522" width="16" height="20" x="-20" y="-22" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><path style="fill:#f4f4f7" d="M17 12c0-5.538-2.333-6-7-6s-7 .462-7 6 2.333 6 7 6 7-.462 7-6z"/><path style="opacity:.2;fill:#f4f4f7" d="M3 4c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V5c0-.554-.446-1-1-1z"/><path style="opacity:.2" d="M2 19v.5c0 .554.446 1 1 1h18c.554 0 1-.446 1-1V19c0 .554-.446 1-1 1H3c-.554 0-1-.446-1-1z"/><circle style="opacity:.2" cx="19.5" cy="12" r="1.5"/><circle style="fill:#f4f4f7" cx="19.5" cy="11.5" r="1.5"/><circle style="opacity:.2" cx="19.5" cy="8" r="1.5"/><circle style="fill:#f4f4f7" cx="19.5" cy="7.5" r="1.5"/><path style="opacity:.2" d="M7 14.164V15.5h1.336l3.376-3.375-1.337-1.337zm5.894-3.217a.354.354 0 0 0 0-.506l-.835-.835a.354.354 0 0 0-.506 0l-.698.702 1.336 1.337z"/><path style="fill:#848484" d="M7 13.664V15h1.336l3.376-3.375-1.337-1.337zm5.894-3.217a.354.354 0 0 0 0-.506l-.835-.835a.354.354 0 0 0-.506 0l-.698.702 1.336 1.337z"/><path style="fill:#f4f4f7" d="M18 17v1h3v-1zM18 15v1h3v-1z"/></svg>

@@ -1,12 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#02db96"/>
-        <stop offset="1" stop-color="#13d39b"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
-    <path d="M32 16.68A20.426 15.32 0 0 0 11.61 31.277a14.043 10.213 0 0 0-.035.723 14.043 10.213 0 0 0 14.043 10.214A14.043 10.213 0 0 0 39.66 32a14.043 10.213 0 0 0-14.043-10.213 14.043 10.213 0 0 0-13.983 9.343 17.235 12.767 0 0 1 17.174-11.896A17.235 12.767 0 0 1 46.043 32a17.235 12.767 0 0 1-17.235 12.767 17.235 12.767 0 0 1-17.19-11.854A20.426 15.32 0 0 0 32 47.32 20.426 15.32 0 0 0 52.426 32 20.426 15.32 0 0 0 32 16.68zm-8.936 7.66A10.213 7.66 0 0 1 33.277 32a10.213 7.66 0 0 1-10.213 7.66A10.213 7.66 0 0 1 12.85 32a10.213 7.66 0 0 1 10.213-7.66z" fill="#fff"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><path style="opacity:.2" d="M16 51.376v2C16 54.83 17.19 56 18.668 56h26.664C46.81 56 48 54.83 48 53.376v-2C48 52.83 46.81 54 45.332 54H18.668C17.191 54 16 52.83 16 51.376z"/><rect style="fill:#8e8e8e" width="42" height="32" x="-55" y="-48" rx="2.626" ry="2.666" transform="matrix(0 -1 -1 0 0 0)"/><path style="opacity:.2" d="M6 45.5v2C6 48.884 7.162 50 8.602 50h46.796C56.838 50 58 48.884 58 47.5v-2c0 1.384-1.162 2.5-2.602 2.5H8.602C7.162 48 6 46.884 6 45.5z"/><rect style="fill:#4f4f4f" width="40" height="52" x="-49" y="-58" rx="2.5" ry="2.6" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#dc4f47" width="32" height="44" x="-45" y="-54" rx="0" ry="0" transform="matrix(0 -1 -1 0 0 0)"/><path style="opacity:.1;fill:#f4f4f7" d="M8.602 9C7.162 9 6 10.115 6 11.5v1C6 11.115 7.161 10 8.602 10h46.796C56.838 10 58 11.115 58 12.5v-1c0-1.385-1.162-2.5-2.602-2.5H8.602z"/><path style="opacity:.2" d="M20.296 21H36.7c1.3 0 1.3 1.286 1.3 1.286v15.429C38 39 36.7 39 36.7 39H20.3S19 39 19 37.714V22.286S19 21 20.3 21zM46 23v15l-8-8z"/><path style="fill:#f4f4f7" d="M20.296 20H36.7c1.3 0 1.3 1.286 1.3 1.286v15.429C38 38 36.7 38 36.7 38H20.3S19 38 19 36.714V21.286S19 20 20.3 20zM46 22v15l-8-8z"/></svg>

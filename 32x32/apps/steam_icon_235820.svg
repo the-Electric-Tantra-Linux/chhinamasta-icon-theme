@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1">
-    <rect fill="#81dbf9" width="28" height="28" x="2" y="2" rx="1.5" ry="1.5"/>
-    <path fill="#fff" opacity=".1" d="M3.5 2C2.669 2 2 2.669 2 3.5v1C2 3.669 2.669 3 3.5 3h25c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5h-25z"/>
-    <g transform="matrix(.75 0 0 .75 -1.5 -1.5)">
-        <g fill="#2a6c87">
-            <circle cx="10" cy="22" r="4"/>
-            <circle cx="34" cy="22" r="4"/>
-            <path d="M29 26.788C29 28.562 25.866 30 22 30s-7-1.438-7-3.212 3.134 0 7 0 7-1.774 7 0z"/>
-        </g>
-        <circle fill="#fff" cx="12" cy="21" r="1"/>
-        <circle fill="#fff" cx="36" cy="21" r="1"/>
-    </g>
-    <path opacity=".2" d="M2 28.5v1c0 .831.669 1.5 1.5 1.5h25c.831 0 1.5-.669 1.5-1.5v-1c0 .831-.669 1.5-1.5 1.5h-25c-.831 0-1.5-.669-1.5-1.5z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect fill="#81dbf9" width="28" height="28" x="2" y="2" rx="1.5" ry="1.5"/><path fill="#fff" opacity=".1" d="M3.5 2C2.669 2 2 2.669 2 3.5v1C2 3.669 2.669 3 3.5 3h25c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5h-25z"/><g transform="matrix(.75 0 0 .75 -1.5 -1.5)"><g fill="#2a6c87"><circle cx="10" cy="22" r="4"/><circle cx="34" cy="22" r="4"/><path d="M29 26.788C29 28.562 25.866 30 22 30s-7-1.438-7-3.212 3.134 0 7 0 7-1.774 7 0z"/></g><circle fill="#fff" cx="12" cy="21" r="1"/><circle fill="#fff" cx="36" cy="21" r="1"/></g><path opacity=".2" d="M2 28.5v1c0 .831.669 1.5 1.5 1.5h25c.831 0 1.5-.669 1.5-1.5v-1c0 .831-.669 1.5-1.5 1.5h-25c-.831 0-1.5-.669-1.5-1.5z"/></svg>

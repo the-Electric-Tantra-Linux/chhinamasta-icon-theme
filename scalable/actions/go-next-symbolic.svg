@@ -1,1 +1,45 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m10.8125 3.96875c.245788-.00983.475448.1004482.65625.28125l7.125 6.96875c.146902.146901.238672.31694.28125.5.02187.09403.03729.187359.03125.28125.0017.03029.0012.06324 0 .09375-.0095.05498-.01176.104001-.03125.15625-.04065.188768-.130039.380039-.28125.53125l-7.125 6.96875c-.361604.361604-.952013.329237-1.34375-.0625l-1.4062497-1.40625c-.391737-.391737-.424104-1.013396-.0625-1.375l2.9062497-2.90625h-6.5624997c-.554 0-1-.446-1-1v-2c0-.554.446-1 1-1h6.5937497l-2.9374997-2.9375c-.361604-.3616035-.329237-.9520128.0625-1.34375l1.4062497-1.4375c.195869-.1958686.441712-.3026685.6875-.3125z" fill="#eeeeec"/></svg>
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:cc='http://creativecommons.org/ns#' xmlns:dc='http://purl.org/dc/elements/1.1/' height='16' id='svg7384' xmlns:osb='http://www.openswatchbook.org/uri/2009/osb' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' style='enable-background:new' xmlns:svg='http://www.w3.org/2000/svg' version='1.1' width='16' xmlns='http://www.w3.org/2000/svg'>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Pop Symbolic Icon Theme</dc:title>
+        <cc:license rdf:resource='http://creativecommons.org/licenses/by-sa/4.0/'/>
+      </cc:Work>
+      <cc:License rdf:about='http://creativecommons.org/licenses/by-sa/4.0/'>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Reproduction'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#Distribution'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Notice'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#Attribution'/>
+        <cc:permits rdf:resource='http://creativecommons.org/ns#DerivativeWorks'/>
+        <cc:requires rdf:resource='http://creativecommons.org/ns#ShareAlike'/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <title id='title8473'>Pop Symbolic Icon Theme</title>
+  <defs id='defs7386'>
+    <linearGradient id='linearGradient6882' osb:paint='solid'>
+      <stop id='stop6884' offset='0' style='stop-color:#555555;stop-opacity:1;'/>
+    </linearGradient>
+    <linearGradient id='linearGradient5606' osb:paint='solid'>
+      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+    </linearGradient>
+    <filter id='filter7554' style='color-interpolation-filters:sRGB'>
+      <feBlend id='feBlend7556' in2='BackgroundImage' mode='darken'/>
+    </filter>
+  </defs>
+  <g id='layer9' style='display:inline' transform='translate(-304.9998,-44.999982)'/>
+  <g id='layer10' style='display:inline;filter:url(#filter7554)' transform='translate(-304.9998,-44.999982)'/>
+  <g id='layer1' style='display:inline' transform='translate(-63.999597,-661.99998)'/>
+  <g id='layer14' style='display:inline' transform='translate(-304.9998,-44.999982)'/>
+  <g id='layer15' style='display:inline' transform='translate(-304.9998,-44.999982)'/>
+  <g id='g71291' style='display:inline' transform='translate(-304.9998,-44.999982)'/>
+  <g id='layer2' style='display:inline' transform='translate(-63.999597,-511.99998)'/>
+  <g id='layer3' transform='translate(-63.999597,-771.99998)'/>
+  <g id='layer12' style='display:inline' transform='translate(-304.9998,-44.999982)'>
+    
+    <path d='m 312.93708,46.940841 6.0625,6.0625 -6.0625,6.0625 c -1.4375,1.4375 -2.6875,-0.0625 -1.625,-1.125 l 4.9375,-4.9375 -4.9375,-4.9375 c -0.8125,-0.8125 0.4375,-2.3125 1.625,-1.125 z' id='path2895-6' style='display:inline;fill:#4c5263;fill-opacity:1;stroke:none;stroke-width:0.66666669;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new'/>
+  </g>
+</svg>

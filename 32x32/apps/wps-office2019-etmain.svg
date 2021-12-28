@@ -1,14 +1,20 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.19" x2="15.742" y1="15.74" y2="1.188">
-        <stop offset="0" stop-color="#a53cff"/>
-        <stop offset="1" stop-color="#b496ff"/>
-    </linearGradient>
-    <g stroke-linecap="round">
-        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
-        <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
-        <path d="M8.463 8.466h-2.35s-1.41 0-1.41-1.41 1.41-1.41 1.41-1.41h5.64M8.47 8.466h2.35s1.41 0 1.41 1.41-1.41 1.41-1.41 1.41H5.18" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width=".94"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1057-0" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053-9" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="matrix(.26458 0 0 .26458 34.792 -.13493)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#a53cff" offset="0"/>
+   <stop stop-color="#b496ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linecap="round">
+  <rect transform="scale(.26458)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-0)" opacity=".3" stroke-width="2.78b9cbe"/>
+  <rect x="1.1906" y="1.1906" width="14.552" height="14.552" ry="3.9687" fill="url(#linearGradient1053-9)" stroke-width=".7261"/>
+  <g transform="translate(0 -.8841)" fill="none" stroke-linejoin="round" stroke-width=".9399">
+   <path d="m8.463 9.3506h-2.35s-1.41 0-1.41-1.41 1.41-1.41 1.41-1.41h5.64m-3.283 2.82h2.35s1.41 0 1.41 1.41-1.41 1.41-1.41 1.41h-5.64" stroke="#fff"/>
+  </g>
+ </g>
 </svg>

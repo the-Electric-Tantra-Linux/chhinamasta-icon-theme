@@ -1,12 +1,1 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="15.5" cy="16.5" opacity=".2" r="14.5"/>
-    <circle cx="15.5" cy="15.5" fill="#489f38" r="14.5"/>
-    <path d="M9.416 9C8.631 9 8 9.611 8 10.37v9.26c0 .76.631 1.37 1.416 1.37H15v2h-3.5a.499.499 0 1 0 0 1h8a.499.499 0 1 0 0-1H16v-2h5.584c.785 0 1.416-.611 1.416-1.37v-9.26C23 9.61 22.369 9 21.584 9zM9 10h13v10H9zm5 1v2h3v-2zm-2 3v2h3v-2zm4 0v2h3v-2zm-6 3v2h3v-2zm4 0v2h3v-2zm4 0v2h3v-2z" opacity=".2"/>
-    <g fill="#f4f4f7">
-        <path d="M9.416 8C8.631 8 8 8.611 8 9.37v9.26c0 .76.631 1.37 1.416 1.37h12.168c.785 0 1.416-.611 1.416-1.37V9.37C23 8.61 22.369 8 21.584 8zM9 9h13v10H9z"/>
-        <path d="M15 19h1v3h-1z"/>
-        <rect height="9" rx=".5" transform="rotate(90)" width="1" x="22" y="-20"/>
-        <path d="M14 10h3v2h-3zm-2 3h3v2h-3zm4 0h3v2h-3zm-6 3h3v2h-3zm4 0h3v2h-3zm4 0h3v2h-3z"/>
-        <path d="M15.5 1A14.5 14.5 0 0 0 1 15.5a14.5 14.5 0 0 0 .021.58A14.5 14.5 0 0 1 15.5 2a14.5 14.5 0 0 1 14.479 13.92A14.5 14.5 0 0 0 30 15.5 14.5 14.5 0 0 0 15.5 1z" opacity=".2"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><circle style="opacity:.2" cx="15.5" cy="16.5" r="14.5"/><circle style="fill:#489f38" cx="15.5" cy="15.5" r="14.5"/><path style="opacity:.2" d="M9.416 9C8.631 9 8 9.611 8 10.37v9.26C8 20.39 8.631 21 9.416 21H15v2h-3.5a.499.499 0 1 0 0 1h8a.499.499 0 1 0 0-1H16v-2h5.584c.785 0 1.416-.611 1.416-1.37v-9.26C23 9.61 22.369 9 21.584 9zM9 10h13v10H9zm5 1v2h3v-2zm-2 3v2h3v-2zm4 0v2h3v-2zm-6 3v2h3v-2zm4 0v2h3v-2zm4 0v2h3v-2z"/><path style="fill:#f4f4f7" d="M9.416 8C8.631 8 8 8.611 8 9.37v9.26C8 19.39 8.631 20 9.416 20h12.168c.785 0 1.416-.611 1.416-1.37V9.37C23 8.61 22.369 8 21.584 8zM9 9h13v10H9z"/><path style="fill:#f4f4f7" d="M15 19h1v3h-1z"/><rect style="fill:#f4f4f7" width="1" height="9" x="22" y="-20" rx=".5" ry=".5" transform="rotate(90)"/><path style="fill:#f4f4f7" d="M14 10h3v2h-3zM12 13h3v2h-3zM16 13h3v2h-3zM10 16h3v2h-3zM14 16h3v2h-3zM18 16h3v2h-3z"/><path style="fill:#f4f4f7;opacity:.2" d="M15.5 1A14.5 14.5 0 0 0 1 15.5a14.5 14.5 0 0 0 .021.58A14.5 14.5 0 0 1 15.5 2a14.5 14.5 0 0 1 14.479 13.92A14.5 14.5 0 0 0 30 15.5 14.5 14.5 0 0 0 15.5 1z"/></svg>

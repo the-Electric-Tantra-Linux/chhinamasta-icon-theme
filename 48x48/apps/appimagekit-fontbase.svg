@@ -1,14 +1,1 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="2.268" x2="16.82" y1="15.353" y2=".801">
-        <stop offset="0" stop-color="#a53cff"/>
-        <stop offset="1" stop-color="#b496ff"/>
-    </linearGradient>
-    <g transform="translate(-1.077 .387)">
-        <rect height="55" ry="15" style="fill:#141414;image-rendering:optimizeSpeed;opacity:.3;stroke-linecap:round;stroke-width:2.7444;filter:url(#a)" transform="translate(1.077 -.387) scale(.26458)" width="55" x="4.5" y="4.5"/>
-        <rect fill="url(#b)" height="14.552" image-rendering="optimizeSpeed" ry="3.969" width="14.552" x="2.268" y=".803"/>
-        <path d="M9.552 4.608c-.51 0-1.022.192-1.416.576l-.695.695-2.104 2.086-1.042 1.043a1.48 1.48 0 0 0 0 2.104 1.48 1.48 0 0 0 2.103 0l1.043-1.043 1.043 1.043a1.48 1.48 0 0 0 2.104 0 1.48 1.48 0 0 0 0-2.104l2.085 2.086a1.48 1.48 0 0 0 2.104 0c.604-.55.604-1.5.019-2.068l-1.043-1.06-2.104-2.087-.695-.695a1.975 1.975 0 0 0-1.402-.576z" fill="#fff"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><circle style="opacity:.2" cx="24" cy="25" r="20"/><circle style="fill:#3f3bbd" cx="24" cy="24" r="20"/><path style="opacity:.2" d="m36.925 25.818-2.566-2.598-5.178-5.107-1.711-1.702c-1.891-1.881-4.998-1.881-6.934 0l-1.711 1.702-5.178 5.107-2.566 2.553a3.61 3.61 0 0 0 0 5.152 3.655 3.655 0 0 0 5.177 0l2.567-2.553 2.566 2.553a3.655 3.655 0 0 0 5.178 0 3.61 3.61 0 0 0 0-5.152l2.567 2.554 2.566 2.553a3.655 3.655 0 0 0 5.178 0c1.486-1.344 1.486-3.673.045-5.062z"/><path style="fill:#f4f4f7" d="m36.925 24.818-2.566-2.598-5.178-5.107-1.711-1.702c-1.891-1.881-4.998-1.881-6.934 0l-1.711 1.702-5.178 5.107-2.566 2.553a3.61 3.61 0 0 0 0 5.152 3.655 3.655 0 0 0 5.177 0l2.567-2.553 2.566 2.553a3.655 3.655 0 0 0 5.178 0 3.61 3.61 0 0 0 0-5.152l2.567 2.554 2.566 2.553a3.655 3.655 0 0 0 5.178 0c1.486-1.344 1.486-3.673.045-5.062z"/><path style="opacity:.1;fill:#f4f4f7" d="M24 4A20 20 0 0 0 4 24a20 20 0 0 0 .021.582A20 20 0 0 1 24 5a20 20 0 0 1 19.979 19.418A20 20 0 0 0 44 24 20 20 0 0 0 24 4z"/></svg>

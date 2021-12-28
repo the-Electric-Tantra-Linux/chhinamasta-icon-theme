@@ -1,3 +1,6 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <path d="M12 4a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zM9.172 8.364 12 11.192l2.828-2.828.808.808L12.808 12l2.828 2.828-.808.808L12 12.808l-2.828 2.828-.808-.808L11.192 12 8.364 9.172z" fill="#ff2a2a" fill-rule="evenodd"/>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css"/>
+ </defs>
+ <path d="m12 4a8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8 8 8 0 0 0-8-8zm-2.8281 4.3639 2.8281 2.8281 2.8281-2.8281 0.80803 0.80803-2.8281 2.8281 2.8281 2.8281-0.80803 0.80803-2.8281-2.8281-2.8281 2.8281-0.80803-0.80803 2.8281-2.8281-2.8281-2.8281z" fill="#ff2a2a" fill-rule="evenodd" style="paint-order:stroke fill markers"/>
 </svg>

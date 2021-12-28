@@ -1,16 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="32.468" x2="32.468" y1="20.339" y2="45.288">
-        <stop offset="0" stop-color="#fff"/>
-        <stop offset="1" stop-color="#d9f9ff"/>
-    </linearGradient>
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#32d7ff"/>
-        <stop offset="1" stop-color="#329bff"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
-    <path d="m25.322 17-6.685 9.023 1.89 3.747h20.03c-.188 4.804-.221 5.967-1.246 8.452-.605 1.464-1.37 2.38-2.901 3.099-1.535.718-3.992 1.152-7.724.911l-.303 4.687c4.205.274 7.446-.142 10.016-1.337a10.469 10.469 0 0 0 5.259-5.57c1.899-4.602 1.388-6.898 1.705-12.458l-.1-2.485H25.19l3.907-5.268z" fill="url(#c)" fill-rule="evenodd"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><path style="opacity:.2" d="M4 56v2c0 1.662 1.338 3 3 3h50c1.662 0 3-1.338 3-3v-2c0 1.662-1.338 3-3 3H7c-1.662 0-3-1.338-3-3z"/><rect style="fill:#2095f2" width="56" height="56" x="4" y="4" rx="3" ry="3"/><path style="opacity:.1;fill:#f4f4f7" d="M7 4C5.338 4 4 5.338 4 7v1c0-1.662 1.338-3 3-3h50c1.662 0 3 1.338 3 3V7c0-1.662-1.338-3-3-3H7z"/><path style="opacity:.2;fill-rule:evenodd" d="m22.55 12.714-8.531 11.512 2.41 4.785h25.57c-.242 6.13-.29 7.613-1.598 10.782-.77 1.869-1.744 3.042-3.703 3.957-1.959.915-5.093 1.47-9.855 1.164l-.387 5.984c5.37.346 9.506-.18 12.781-1.71 3.276-1.531 5.5-4.169 6.711-7.106 2.424-5.875 1.773-8.806 2.18-15.899l-.13-3.172H22.384l4.984-6.722z"/><path style="fill:#f4f4f7;fill-rule:evenodd" d="m22.55 11.703-8.531 11.512L16.429 28h25.57c-.242 6.13-.29 7.613-1.598 10.781-.77 1.87-1.744 3.042-3.703 3.957-1.959.916-5.093 1.471-9.855 1.164l-.387 5.985c5.37.346 9.506-.18 12.781-1.711 3.276-1.53 5.5-4.168 6.711-7.105 2.424-5.876 1.773-8.806 2.18-15.899l-.13-3.174H22.384l4.984-6.722z"/></svg>

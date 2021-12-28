@@ -1,19 +1,22 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
-    <path d="M8 33h28v8h-4v4H12v-4H8z" opacity=".2"/>
-    <path d="M8 32h28v8h-4v4H12v-4H8z" fill="#994c1f"/>
-    <path d="M8 11h28v24h-4v6H12v-6H8z" opacity=".2"/>
-    <path d="M8 10h28v24h-4v6H12v-6H8z" fill="#b06332"/>
-    <path d="M8 20h28v6H8z" fill="#93481e"/>
-    <path d="M26 21h6v6h-6z" opacity=".1"/>
-    <path d="M26 20h6v6h-6z" fill="#17191e"/>
-    <path d="M12 21h6v6h-6zM8 11v6h18v-7zm18 4v6h10v-6z" opacity=".1"/>
-    <path d="M18 27h8v2h-8z" opacity=".2"/>
-    <path d="M12 20h6v6h-6z" fill="#17191e"/>
-    <path d="M8 10v6h18V9zm18 4v6h10v-6z" fill="#4f4f4f"/>
-    <path d="M8 5v8h18v4h14V5z" opacity=".2"/>
-    <path d="M8 4v8h18v4h14V4z" fill="#ae1919"/>
-    <path d="M18 26h8v2h-8z" fill="#c77947"/>
-    <path d="M16 34h12v2H16z" fill="#703717"/>
-    <path d="M26 4h14v12H26z" fill="#862014"/>
-    <path d="M8 4v1h32V4z" fill="#f4f4f7" opacity=".1"/>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(2,0,0,2,2,2)">
+  <path d="m3 15.5h14v4h-2v2h-10v-2h-2z" style="opacity:.2"/>
+  <path d="m3 15h14v4h-2v2h-10v-2h-2z" style="fill:#994c1f"/>
+  <path d="m3 4.5h14v12h-2v3h-10v-3h-2z" style="opacity:.2"/>
+  <path d="m3 4h14v12h-2v3h-10v-3h-2z" style="fill:#b06332"/>
+  <rect x="3" y="9" width="14" height="3" style="fill:#93481e"/>
+  <rect x="12" y="9.5" width="3" height="3" style="opacity:.1"/>
+  <rect x="12" y="9" width="3" height="3" style="fill:#17191e"/>
+  <rect x="5" y="9.5" width="3" height="3" style="opacity:.1"/>
+  <path d="m3 4.5v3h9v-3.5zm9 2v3h5v-3z" style="opacity:.1"/>
+  <rect x="8" y="12.5" width="4" height="1" style="opacity:.2"/>
+  <rect x="5" y="9" width="3" height="3" style="fill:#17191e"/>
+  <path d="m3 4v3h9v-3.5zm9 2v3h5v-3z" style="fill:#4f4f4f"/>
+  <path d="m3 1.5v4h9v2h7v-6z" style="opacity:.2"/>
+  <path d="m3 1v4h9v2h7v-6z" style="fill:#ae1919"/>
+  <rect x="8" y="12" width="4" height="1" style="fill:#c77947"/>
+  <rect x="7" y="16" width="6" height="1" style="fill:#703717"/>
+  <rect x="12" y="1" width="7" height="6" style="fill:#862014"/>
+  <path d="m3 1v0.5h16v-0.5z" style="fill:#f4f4f7;opacity:.1"/>
+ </g>
 </svg>

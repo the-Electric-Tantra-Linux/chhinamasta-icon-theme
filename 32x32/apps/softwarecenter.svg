@@ -1,16 +1,19 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="88.56" x2="143.561" y1="65.159" y2="10.16">
-        <stop offset="0" stop-color="#ff8228"/>
-        <stop offset=".492" stop-color="#ff7346"/>
-        <stop offset="1" stop-color="#ff8c55"/>
-    </linearGradient>
-    <g transform="translate(-84.062 -5.66)">
-        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="88.562" y="10.16"/>
-        <rect fill="url(#b)" height="55" ry="14.895" width="55" x="88.562" y="10.16"/>
-        <path d="M128.56 15.902a12.5 12.5 0 0 1 .01.5 12.5 12.5 0 0 1-12.5 12.5 12.5 12.5 0 0 1-12.5-12.5 12.5 12.5 0 0 1 .01-.5" fill="none" stroke="#fff" stroke-dashoffset=".421" stroke-width="2"/>
-        <text style="fill:#fff;font-family:sans-serif;font-size:10.078;letter-spacing:0;stroke-width:.25196;word-spacing:0" x="101.912" y="47.678"><tspan stroke-width=".252" x="101.912" y="47.678">SHOP</tspan></text>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient980-7" x1="-17.007" x2="-2.455" y1="15.742" y2="1.1906" gradientTransform="matrix(3.7796 0 0 3.7796 152.84 5.6602)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff8228" offset="0"/>
+   <stop stop-color="#ff7346" offset=".49173"/>
+   <stop stop-color="#ff8c55" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-84.062 -5.6602)">
+  <rect x="88.562" y="10.16" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+  <rect x="88.562" y="10.16" width="55" height="55" ry="14.895" fill="url(#linearGradient980-7)"/>
+  <path d="m128.56 15.902a12.5 12.5 0 0 1 0.0102 0.49996 12.5 12.5 0 0 1-12.5 12.5 12.5 12.5 0 0 1-12.5-12.5 12.5 12.5 0 0 1 0.01-0.50068" fill="none" stroke="#fff" stroke-dashoffset=".42096" stroke-width="2"/>
+  <text x="101.91245" y="47.678356" fill="#ffffff" font-family="sans-serif" font-size="10.078px" letter-spacing="0px" stroke-width=".25196" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="101.91245" y="47.678356" fill="#ffffff" stroke-width=".25196">SHOP</tspan></text>
+ </g>
 </svg>

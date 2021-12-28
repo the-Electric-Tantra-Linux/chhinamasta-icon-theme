@@ -1,15 +1,7 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#32d7ff"/>
-        <stop offset="1" stop-color="#329bff"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
-    <path d="M16.092 28.818h31.815c.878 0 1.592.714 1.592 1.592v3.18c0 .879-.714 1.593-1.592 1.593H16.092A1.594 1.594 0 0 1 14.5 33.59v-3.18c0-.879.714-1.593 1.592-1.593z" fill="#98d8ff"/>
-    <path d="M17.682 19.273c.878 0 1.59.714 1.59 1.592v22.27c0 .879-.712 1.593-1.59 1.593s-1.59-.714-1.59-1.593v-22.27c0-.878.712-1.592 1.59-1.592z" fill="#f4f4f7"/>
-    <path d="M22.173 14.5h.564c1.601 0 2.9 1.426 2.9 3.183v28.635c0 1.756-1.299 3.182-2.9 3.182h-.564c-1.602 0-2.9-1.426-2.9-3.183V17.684c0-1.757 1.298-3.183 2.9-3.183zM41.263 14.5h.564c1.601 0 2.9 1.426 2.9 3.183v28.635c0 1.756-1.299 3.182-2.9 3.182h-.564c-1.602 0-2.9-1.426-2.9-3.183V17.684c0-1.757 1.298-3.183 2.9-3.183z" fill="#bae4ff"/>
-    <path d="M46.318 19.273c.878 0 1.59.714 1.59 1.592v22.27c0 .879-.712 1.593-1.59 1.593s-1.59-.714-1.59-1.593v-22.27c0-.878.712-1.592 1.59-1.592z" fill="#f4f4f7"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+    <rect fill="#2a85c2" width="16" height="2" y="7" rx="1.067" ry=".667"/>
+    <rect fill="#c2352a" width="14" height="4" x="-15" y="-7" rx="1.5" ry="1.714" transform="matrix(0 -1 -1 0 0 0)"/>
+    <rect fill="#d8564b" width="10" height="2" x="-13" y="-3" rx=".75" ry="1" transform="matrix(0 -1 -1 0 0 0)"/>
+    <rect fill="#c2352a" width="14" height="4" x="-15" y="9" rx="1.5" ry="1.714" transform="rotate(-90)"/>
+    <rect fill="#d8564b" width="10" height="2" x="-13" y="13" rx=".75" ry="1" transform="rotate(-90)"/>
 </svg>

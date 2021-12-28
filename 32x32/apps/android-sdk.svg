@@ -1,20 +1,32 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.087" x2="15.639" y1="16.439" y2="1.887">
-        <stop offset="0" stop-color="#02db96"/>
-        <stop offset="1" stop-color="#13d39b"/>
-    </linearGradient>
-    <g transform="translate(.104 -.7)">
-        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="translate(-.104 .7) scale(.26458)" width="55" x="4.5" y="4.5"/>
-        <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.087" y="1.89"/>
-        <path d="M11.67 7.54v.001a.369.369 0 0 0-.295.185L10.08 9.969a6.82 6.82 0 0 0-1.718-.21 6.82 6.82 0 0 0-1.718.21L5.35 7.726a.37.37 0 1 0-.642.37l1.218 2.11c-2.636 1.088-3.27 3.864-3.427 5.306.524.44 1.165.744 1.87.867.26.022.538.038.84.048h6.342c.281-.009.539-.025.784-.045a3.946 3.946 0 0 0 1.891-.87c-.157-1.442-.792-4.218-3.426-5.307l1.217-2.11a.37.37 0 0 0-.347-.554z" fill="#fff"/>
-        <g fill="#0cd799" stroke-width=".265">
-            <rect height=".741" rx=".37" width="7.408" x="4.656" y="15.315"/>
-            <circle cx="6.138" cy="13.463" r=".741"/>
-            <circle cx="10.583" cy="13.463" r=".741"/>
-        </g>
-        <path d="M6.408 4.072a.483.483 0 0 0-.484.484v1.686a.483.483 0 1 0 .968 0V4.556a.483.483 0 0 0-.484-.484zm3.91 0a.483.483 0 0 0-.484.484v1.686a.484.484 0 1 0 .969 0V4.556a.484.484 0 0 0-.485-.484z" fill="#fff"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1057-4" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053-0" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="matrix(.26458 0 0 .26458 34.689 .56432)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#02db96" offset="0"/>
+   <stop stop-color="#13d39b" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(.10394 -.69926)">
+  <rect transform="matrix(.26458 0 0 .26458 -.10394 .69926)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-4)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+  <rect x="1.0867" y="1.8899" width="14.552" height="14.552" ry="3.9687" fill="url(#linearGradient1053-0)" stroke-linecap="round" stroke-width=".72611"/>
+  <path d="m11.67 7.5407v5.292e-4c-0.11843 0.0082-0.23042 0.073405-0.29456 0.18448l-1.295 2.2428c-0.50969-0.13179-1.0775-0.20929-1.7182-0.20929-0.64077 0-1.2085 0.077495-1.7182 0.20929l-1.294-2.2428c-0.076954-0.13331-0.22365-0.20038-0.3669-0.18242-0.047749 0.0059267-0.095097 0.021503-0.13953 0.047026-0.17772 0.10261-0.238 0.32819-0.13539 0.50591l1.2175 2.1089c-2.6358 1.0889-3.2697 3.8649-3.4267 5.3066 0.52377 0.44074 1.1645 0.74475 1.8697 0.86713 0.2604 0.0224 0.5384 0.03857 0.84026 0.04806h6.3422c0.28089-0.0088 0.53853-0.02449 0.78342-0.08b9cbe4 0.71393-0.11956 1.3625-0.42506 1.8919-0.87023-0.15715-1.442-0.79214-4.2187-3.4267-5.3077l1.2175-2.1089c0.1026-0.17773 0.04181-0.40331-0.13591-0.50591-0.06664-0.038476-0.1403-0.054014-0.21136-0.049093z" fill="#fff" stroke-width=".26458"/>
+  <g fill="#0cd799" stroke-width=".26459">
+   <rect x="4.6559" y="15.315" width="7.4083" height=".74083" rx=".37042" ry=".37042"/>
+   <circle cx="6.1376" cy="13.463" r=".74083"/>
+   <circle cx="10.583" cy="13.463" r=".74083"/>
+  </g>
+  <path d="m6.4078 4.0717c-0.26831 0-0.48421 0.21589-0.48421 0.48421v1.6862c0 0.26831 0.2159 0.48421 0.48421 0.48421 0.26831 0 0.48421-0.21589 0.48421-0.48421v-1.6862c0-0.26831-0.2159-0.48421-0.48421-0.48421zm3.9104 0c-0.26831 0-0.48421 0.21589-0.48421 0.48421v1.6862c0 0.26831 0.21589 0.48421 0.48421 0.48421 0.26831 0 0.48472-0.21589 0.48472-0.48421v-1.6862c0-0.26831-0.21641-0.48421-0.48472-0.48421z" fill="#fff" stroke-width=".52917"/>
+ </g>
 </svg>

@@ -1,7 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path fill="#789c56" d="M12 1a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-1.617-.348L10 9c-5 5-10 5.863-10 5.863l8.354-8.226A4 4 0 0 1 8 5a4 4 0 0 1 4-4z"/>
-    <path fill="#33d198" d="M4 1a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 1.617-.348C5.727 8.75 6 9 6 9c5 5 10 5.863 10 5.863L7.646 6.637A4 4 0 0 0 8 5a4 4 0 0 0-4-4z"/>
-    <circle fill="#f9f9f9" cx="4" cy="5" r="2"/>
-    <circle fill="#f9f9f9" cx="8" cy="9" r="1"/>
-    <circle fill="#f9f9f9" cx="-12" cy="5" r="2" transform="scale(-1 1)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path fill="#789c56" d="M12 1a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-1.617-.348L10 9c-5 5-10 5.863-10 5.863l8.354-8.226A4 4 0 0 1 8 5a4 4 0 0 1 4-4z"/><path fill="#33d198" d="M4 1a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 1.617-.348C5.727 8.75 6 9 6 9c5 5 10 5.863 10 5.863L7.646 6.637A4 4 0 0 0 8 5a4 4 0 0 0-4-4z"/><circle fill="#f9f9f9" cx="4" cy="5" r="2"/><circle fill="#f9f9f9" cx="8" cy="9" r="1"/><circle fill="#f9f9f9" cx="-12" cy="5" r="2" transform="scale(-1 1)"/></svg>

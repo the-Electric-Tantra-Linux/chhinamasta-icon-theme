@@ -1,3 +1,1 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg">
-    <path d="M6 5S4 5 4 7v6c0 2 2 2 2 2h5l2 3 2-3h1s2 0 2-2V7c0-2-2-2-2-2z" fill="#eeeeec"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path style="fill:currentColor;fill-opacity:1;stroke:none;color:#555e70" d="M4 5v16l6 6v-6h18V5zm1 1h22v14H5z"/></svg>

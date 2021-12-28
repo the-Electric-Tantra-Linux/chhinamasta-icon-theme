@@ -1,14 +1,1 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.742" y1="15.742" y2="1.191">
-        <stop offset="0" stop-color="#ff8228"/>
-        <stop offset=".492" stop-color="#ff7346"/>
-        <stop offset="1" stop-color="#ff8c55"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="14.552" ry="3.941" width="14.552" x="1.191" y="1.191"/>
-    <path d="M11.772 2.71a3.307 3.307 0 0 1 .003.132 3.307 3.307 0 0 1-3.307 3.307A3.307 3.307 0 0 1 5.16 2.842a3.307 3.307 0 0 1 .003-.132" fill="none" stroke="#f4f4f7" stroke-dashoffset=".421" stroke-width=".529"/>
-    <text style="word-spacing:0;stroke-width:.066664;letter-spacing:0;font-size:2.6665;font-family:sans-serif;fill:#f4f4f7" x="4.723" y="11.117"><tspan stroke-width=".067" x="4.723" y="11.117">SHOP</tspan></text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><circle fill="#4ab3e4" cx="8" cy="8" r="8"/><path fill="#fff" d="M10 3v5.022l2-.044L8 12 4 7.978h2V3h4zM4 12h8v1H4z"/></svg>

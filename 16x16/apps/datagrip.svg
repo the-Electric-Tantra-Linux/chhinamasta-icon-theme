@@ -1,17 +1,1 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.742" y1="15.74" y2="1.188">
-        <stop offset="0" stop-color="#02db96"/>
-        <stop offset="1" stop-color="#13d39b"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
-    <g stroke-width=".265">
-        <path d="M4.498 4.498h7.937v7.937H4.498z" fill="#303030"/>
-        <g fill="#f9f9f9">
-            <path d="M5.36 5.36h1.344c.804 0 1.452.627 1.452 1.701v.016c0 1.084-.78 1.687-1.38 1.695l-.484.005h-.931zm1.243 2.796c.374 0 .932-.305.932-1.08v-.015c0-.763-.558-1.08-.932-1.08h-.621v2.175zM10.175 5.36c-.493 0-.932.163-1.239.47-.307.307-.47.746-.47 1.239 0 .493.163.931.47 1.239.307.307.746.47 1.239.47.45 0 .79-.142 1.008-.29.219-.147.338-.322.338-.322l.051-.077V6.914H10.02v.62h.932v.336c-.02.024-.025.043-.115.103-.13.088-.336.183-.661.183-.361 0-.621-.11-.8-.288-.178-.178-.287-.438-.287-.799 0-.361.109-.621.287-.8.179-.178.439-.287.8-.287.36 0 .621.11.8.287l.438-.439c-.306-.307-.745-.47-1.238-.47zM5.05 10.952h3.106v.62H5.05z"/>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><path style="fill:#21d789" d="M8 0H.8C.357 0 0 .357 0 .8V8h8z"/><path style="fill:#cf4f8c" d="M8 0h7.2c.443 0 .8.357.8.8V8H8z"/><path style="fill:#2086e7" d="M8 16H.8a.798.798 0 0 1-.8-.8V8h8z"/><path style="fill:#6655e4" d="M8 16h7.2c.443 0 .8-.357.8-.8V8H8z"/><path style="fill:#17191e" d="M2 2h12v12H2z"/><path style="fill:none;stroke:#f4f4f7;stroke-linecap:round" d="M3.507 11.5h4"/><path style="fill:none;stroke:#f4f4f7;stroke-width:.99999994;stroke-linecap:round;stroke-linejoin:bevel" d="M3.514 7.503s2.022.175 2-2c-.022-2.175-2-2-2-2M3.507 7.5v-4M9.007 5.5h1m-.5 0s.246 2-1 2c-1 0-1-1-1-2s0-2 1-2 .996.5.996.5"/></svg>

@@ -1,18 +1,21 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="32" x2="32" y1="13" y2="51">
-        <stop offset="0" stop-color="#4265ce"/>
-        <stop offset="1" stop-color="#429cce"/>
-    </linearGradient>
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="76.94" x2="131.94" y1="67.591" y2="12.591">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <g stroke-linecap="round" stroke-width="2.744" transform="translate(-72.443 -8.1)">
-        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="76.943" y="12.601"/>
-        <rect fill="url(#b)" height="55" ry="15" width="55" x="76.943" y="12.601"/>
-    </g>
-    <path d="M32 13c-2.533 0-6.333 2.533-6.333 7.6 0 8.867 20.267 3.8 20.267 22.8 0 .523-.034 1.05-.086 1.576A18.973 18.973 0 0 0 51 32c.006-10.493-8.507-19-18.999-19zm-13.856 6.035A18.981 18.981 0 0 0 13 32c-.006 10.493 8.507 19 19 19 2.532 0 6.332-2.534 6.332-7.6 0-12.667-20.267-6.334-20.267-22.8 0-.524.03-1.045.078-1.566z" fill="url(#c)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="a" x1="32" x2="32" y1="13" y2="51" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4265ce" offset="0"/>
+   <stop stop-color="#429cce" offset="1"/>
+  </linearGradient>
+  <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(203.94 7.5907)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dee0e2" offset="0"/>
+   <stop stop-color="#f1f3f5" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-72.443 -8.1007)" stroke-linecap="round" stroke-width="2.78b9cbe">
+  <rect x="76.943" y="12.601" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3"/>
+  <rect x="76.943" y="12.601" width="55" height="55" ry="15" fill="url(#linearGradient1053)"/>
+ </g>
+ <path d="m32 13c-2.5333 0-6.3333 2.5333-6.3333 7.6001 0 8.8669 20.267 3.8001 20.267 22.8 0 0.52315-0.0342 1.0501-0.08613 1.5757 3.3021-3.5151 5.1503-8.1537 5.1527-12.976 0.006221-10.493-8.5068-19-18.999-19zm-13.856 6.0346c-3.2958 3.5138-5.1401 8.1487-5.1438 12.965-0.006327 10.493 8.5068 19 18.999 19 2.5333 0 6.3333-2.5333 6.3333-7.6001 0-12.667-20.267-6.3335-20.267-22.8 0-0.52315 0.02914-1.045 0.07727-1.5657z" fill="url(#a)" stroke-width="1.2391"/>
 </svg>

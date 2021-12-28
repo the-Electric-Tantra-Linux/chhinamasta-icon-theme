@@ -1,15 +1,1 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
-    <rect height="40" opacity=".2" rx="2" width="40" x="4" y="5"/>
-    <rect fill="#4f4f4f" height="40" rx="2" width="40" x="4" y="4"/>
-    <path d="M7 16h34v26H7z" opacity=".2"/>
-    <path d="M7 15h34v26H7z" fill="#ff8e20"/>
-    <circle cx="38" cy="11" opacity=".2" r="2"/>
-    <circle cx="38" cy="10" fill="#ed333b" r="2"/>
-    <path d="M12 32v5h5m19-5v5h-5m5-11v-5h-5m-19 5v-5h5" fill="none" opacity=".2" stroke="#000" stroke-linecap="round" stroke-width="2"/>
-    <path d="M12 31v5h5m19-5v5h-5m5-11v-5h-5m-19 5v-5h5" fill="none" stroke="#f4f4f7" stroke-linecap="round" stroke-width="2"/>
-    <rect height="2" opacity=".2" rx="1" width="12" x="18" y="10"/>
-    <g fill="#f4f4f7">
-        <rect height="2" rx="1" width="12" x="18" y="9"/>
-        <path d="M6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z" opacity=".1"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><rect style="opacity:.2" width="40" height="40" x="4" y="5" rx="2" ry="2"/><rect style="fill:#4f4f4f" width="40" height="40" x="4" y="4" rx="2" ry="2"/><path style="opacity:.2" d="M7 16h34v26H7z"/><path style="fill:#ff8e20" d="M7 15h34v26H7z"/><circle style="opacity:.2" cx="38" cy="11" r="2"/><circle style="fill:#ed333b" cx="38" cy="10" r="2"/><g style="opacity:.2;fill:none;stroke:#000;stroke-width:2;stroke-linecap:round"><path d="M12 32v5h5M36 32v5h-5M36 26v-5h-5M12 26v-5h5"/></g><g style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round"><path d="M12 31v5h5M36 31v5h-5M36 25v-5h-5M12 25v-5h5"/></g><rect style="opacity:.2" width="12" height="2" x="18" y="10" rx="1" ry="1"/><rect style="fill:#f4f4f7" width="12" height="2" x="18" y="9" rx="1" ry="1"/><path style="opacity:.1;fill:#f4f4f7" d="M6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2H6z"/></svg>

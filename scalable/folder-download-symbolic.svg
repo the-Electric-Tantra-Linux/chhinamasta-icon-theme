@@ -1,1 +1,11 @@
-<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg"><g fill="#f4f4f7"><g fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".201" stroke-width=".16"><path d="m1 7 7 7 7-7z" fill-opacity=".544"/><path d="m0 7 8 9 8-9h-1l-7 7-7-7z" fill-opacity=".956"/><path d="m0 7 .887 1h6.113v-4h2l.03 4.004 6.076.003.894-1.007h-6v-3h-4l-.026 3z" fill-opacity=".945"/></g><g stroke-opacity=".544"><g stroke-width=".816"><path d="m6 5h4v2h-4z" display="block" fill-opacity=".627"/><path d="m6 3h4v2h-4z" display="block" fill-opacity=".549"/><path d="m6 1h4v2h-4z" display="block" fill-opacity=".392"/></g><path d="m6 0h4v1h-4z" display="block" fill-opacity=".235" stroke-width=".577"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16">
+    <g fill="#fff">
+        <path d="m1 7 7 7 7-7z" style="marker:none" fill-opacity=".544" fill-rule="evenodd"/>
+        <path style="marker:none" d="m0 7 8 9 8-9h-1l-7 7-7-7z" fill-opacity=".956" fill-rule="evenodd"/>
+        <path style="marker:none" d="m0 7 .887 1H7V4h2l.03 4.004 6.076.003L16 7h-6V4H6l-.026 3z" fill-opacity=".945" fill-rule="evenodd"/>
+        <path style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" display="block" overflow="visible" fill-opacity=".627" paint-order="fill markers stroke" d="M6 5h4v2H6z"/>
+        <path style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" display="block" overflow="visible" fill-opacity=".549" paint-order="fill markers stroke" d="M6 3h4v2H6z"/>
+        <path style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" display="block" overflow="visible" fill-opacity=".392" paint-order="fill markers stroke" d="M6 1h4v2H6z"/>
+        <path style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" display="block" overflow="visible" fill-opacity=".235" paint-order="fill markers stroke" d="M6 0h4v1H6z"/>
+    </g>
+</svg>

@@ -1,7 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <ellipse cx="8" cy="8" fill="#356376" rx="8" ry="7"/>
-    <ellipse cx="8" cy="8" fill="#3786a6" rx="5" ry="4"/>
-    <path d="M8 1 6.5 4H0l4.727 3.545L2 13l6-3 6 3-2.727-5.455L16 4H9.5z" fill="#4da2c4"/>
-    <path d="m2 13 6-7 6 7-6-3zm6-7L0 4l4.727 3.545zm0 0 8-2-4.727 3.545z" fill="#b04f08" opacity=".5"/>
-    <path d="M8 6V1L6.5 4z" fill="#b3d1ca"/>
-</svg>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"><ellipse cx="8" cy="8" rx="8" ry="7" style="fill:#356376"/><ellipse cx="8" cy="8" rx="5" ry="4" style="fill:#3786a6"/><path d="M8 1 6.5 4H0l4.727 3.545L2 13l6-3 6 3-2.727-5.455L16 4H9.5L8 1z" style="fill:#4da2c4"/><path d="m2 13 6-7 6 7-6-3zM8 6 0 4l4.727 3.545zM8 6l8-2-4.727 3.545z" style="fill:#b04f08;opacity:.5"/><path d="M8 6V1L6.5 4z" style="fill:#b3d1ca"/></svg>

@@ -1,12 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M.8 0H8v16H.8a.798.798 0 0 1-.8-.8V.8C0 .357.357 0 .8 0z" fill="#f3389a"/>
-    <path d="M15.2 0H8v16h7.2c.443 0 .8-.357.8-.8V.8c0-.443-.357-.8-.8-.8z" fill="#5a50e3"/>
-    <path d="M10.405 13a2.6 1.928 0 0 0-.005.072A2.6 1.928 0 0 0 13 15a2.6 1.928 0 0 0 2.6-1.928 2.6 1.928 0 0 0-.003-.072z" fill="#17191e"/>
-    <path d="m10.6 13.08 2.463-7.607L15.4 13.08" fill="none" stroke="#17191e" stroke-linejoin="bevel" stroke-width=".4"/>
-    <path d="m14.649 13-3.289-.004L13.016 11z" fill="#f4f4f7b00"/>
-    <path d="m3.07 2.877 10.195 2.395" fill="none" stroke="#17191e" stroke-linecap="round" stroke-width=".76"/>
-    <path d="M.405 11a2.6 1.928 0 0 0-.005.072A2.6 1.928 0 0 0 3 13a2.6 1.928 0 0 0 2.6-1.928A2.6 1.928 0 0 0 5.597 11z" fill="#17191e"/>
-    <path d="m.6 11.08 2.463-8.007L5.4 11.08" fill="none" stroke="#17191e" stroke-linejoin="bevel" stroke-width=".4"/>
-    <path d="m4.49 11-2.97-.005L3.016 10z" fill="#f4f4f7b00"/>
-    <path d="M7 0h2v16H7z" fill="#17191e"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><path style="fill:#f3389a" d="M.8 0H8v16H.8a.798.798 0 0 1-.8-.8V.8C0 .357.357 0 .8 0z"/><path style="fill:#5a50e3" d="M15.2 0H8v16h7.2c.443 0 .8-.357.8-.8V.8c0-.443-.357-.8-.8-.8z"/><path style="fill:#17191e" d="M10.405 13a2.6 1.928 0 0 0-.005.072A2.6 1.928 0 0 0 13 15a2.6 1.928 0 0 0 2.6-1.928 2.6 1.928 0 0 0-.003-.072z"/><path style="fill:none;stroke:#17191e;stroke-width:.4;stroke-linejoin:bevel" d="m10.6 13.08 2.463-7.607L15.4 13.08"/><path style="fill:#fffb00" d="m14.649 13-3.289-.004L13.016 11z"/><path style="fill:none;stroke:#17191e;stroke-width:.76;stroke-linecap:round" d="m3.07 2.877 10.195 2.395"/><path style="fill:#17191e" d="M.405 11a2.6 1.928 0 0 0-.005.072A2.6 1.928 0 0 0 3 13a2.6 1.928 0 0 0 2.6-1.928A2.6 1.928 0 0 0 5.597 11z"/><path style="fill:none;stroke:#17191e;stroke-width:.4;stroke-linejoin:bevel" d="m.6 11.08 2.463-8.007L5.4 11.08"/><path style="fill:#fffb00" transform="matrix(.0537 0 0 .02083 -3.531 -4.866)" d="m149.358 761.69-55.29-.248 27.859-47.759z"/><path style="fill:#17191e" d="M7 0h2v16H7z"/></svg>

@@ -1,8 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(1 1)">
-        <rect fill="#4f4f4f" height="20" rx="1" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-21" y="-21"/>
-        <path d="M2 1c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V2c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".1"/>
-        <path d="M2 21.5c-.554 0-1-.446-1-1V20c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v.5c0 .554-.446 1-1 1zM4 3.5l4 2.25L12 8l-4 2.25-4 2.25zM13 8l3 1.75 3 1.75-3 1.75L13 15zm-7 4 3.5 2 3.5 2-3.5 2L6 20z" opacity=".2"/>
-        <path d="m4 3 4 2.25 4 2.25-4 2.25L4 12zm9 4.5 3 1.75L19 11l-3 1.75-3 1.75zm-7 4 3.5 2 3.5 2-3.5 2-3.5 2z" fill="#b0b0b0"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><g transform="translate(1 1)"><rect fill="#4f4f4f" width="20" height="20" x="-21" y="-21" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><path fill="#fff" opacity=".1" d="M2 1c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V2c0-.554-.446-1-1-1H2z"/><path opacity=".2" d="M2 21.5c-.554 0-1-.446-1-1V20c0 .554.446 1 1 1h18c.554 0 1-.446 1-1v.5c0 .554-.446 1-1 1H2z"/><g opacity=".2"><path d="m4 3.5 4 2.25L12 8l-4 2.25-4 2.25v-9zM13 8l3 1.75 3 1.75-3 1.75L13 15V8zM6 12l3.5 2 3.5 2-3.5 2L6 20v-8z"/></g><g fill="#b0b0b0"><path d="m4 3 4 2.25 4 2.25-4 2.25L4 12V3zM13 7.5l3 1.75L19 11l-3 1.75-3 1.75v-7zM6 11.5l3.5 2 3.5 2-3.5 2-3.5 2v-8z"/></g></g></svg>

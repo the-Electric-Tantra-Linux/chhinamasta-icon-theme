@@ -1,12 +1,18 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#32d7ff"/>
-        <stop offset="1" stop-color="#329bff"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
-    <path d="M35.002 17.998c-6.055 0-11.056 4.956-11.056 11.011 0 2.3.777 4.413 2 6.192l-7.371 7.38a2.008 2.013 0 0 0 2.807 2.877l7.37-7.384a11.032 11.032 0 0 0 6.25 1.942A11.029 11.029 0 0 0 46 29.01 11.029 11.029 0 0 0 35.002 18zm0 4.003c3.893 0 7 3.111 7 7.008a6.97 6.97 0 0 1-7 7.005 6.969 6.969 0 0 1-6.995-7.004A6.967 6.967 0 0 1 35.002 22z" fill="#fff"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1281" x1="5.122" x2="59.04" y1="4.761" y2="58.885" gradientTransform="translate(53.475 29.823)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f2f8fe" offset="0"/>
+   <stop stop-color="#d2e0f1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1235" x1="4.3106" x2="14.36" y1="8.4665" y2="8.4665" gradientTransform="matrix(3.2026 0 0 3.2026 68.997 -43.844)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3c8cff" offset="0"/>
+   <stop stop-color="#55b4ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-53.475 -29.823)">
+  <path d="m70.975 34.323c-7.202 0-13 5.798-13 13v29c0 7.202 5.798 13 13 13h29c7.202 0 13-5.798 13-13v-29c0-7.202-5.798-13-13-13z" fill="url(#linearGradient1281)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" style="paint-order:stroke fill markers"/>
+  <rect transform="rotate(45)" x="110.94" y="-18.902" width="20.588" height="4.3511" ry="2.1755" fill="#1955b9" stroke-width="3.2026"/>
+  <circle transform="rotate(45)" cx="98.893" cy="-16.728" r="13.974" fill="none" stroke="url(#linearGradient1235)" stroke-linecap="round" stroke-width="4.6428"/>
+ </g>
 </svg>

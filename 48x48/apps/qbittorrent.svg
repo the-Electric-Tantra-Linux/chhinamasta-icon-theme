@@ -1,16 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="c" gradientTransform="matrix(1.23432 0 0 1.44 -3.177 -2412.96)" gradientUnits="userSpaceOnUse" x1="27.535" x2="27.535" y1="1713.3" y2="1682">
-        <stop offset="0" stop-color="#197cf1"/>
-        <stop offset="1" stop-color="#20bcfa"/>
-    </linearGradient>
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
-    <path d="M32 12a20 20 0 0 0-20 20 20 20 0 0 0 20 20 20 20 0 0 0 20-20 20 20 0 0 0-20-20zm1.2 6.8h2.4v7.295a8.4 7.2 0 0 1 4.8-1.295 8.4 7.2 0 0 1 8.4 7.2 8.4 7.2 0 0 1-8.4 7.2 8.4 7.2 0 0 1-4.8-1.303V40.4h-2.4zm-4.8 4.8h2.4v21.6h-2.4v-7.295a8.4 7.2 0 0 1-4.8 1.295 8.4 7.2 0 0 1-8.4-7.2 8.4 7.2 0 0 1 8.4-7.2 8.4 7.2 0 0 1 4.8 1.303zm-4.8 3.6a6 4.8 0 0 0-6 4.8 6 4.8 0 0 0 6 4.8 6 4.8 0 0 0 4.8-1.931v-5.74a6 4.8 0 0 0-4.8-1.929zm16.8 0a6 4.8 0 0 0-4.8 1.931v5.74a6 4.8 0 0 0 4.8 1.93 6 4.8 0 0 0 6-4.8 6 4.8 0 0 0-6-4.8z" fill="url(#c)" fill-rule="evenodd"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><circle fill="#2f67ba" cx="24" cy="24" r="20"/><path fill="#fff" style="opacity:.1" d="M24 4A19.955 19.955 0 0 0 4.002 24c0 .168-.004.333 0 .5C4.266 13.654 13.089 5 24 5s19.734 8.654 19.998 19.5c.004-.167 0-.332 0-.5 0-11.08-8.919-20-19.998-20z"/><path opacity=".2" d="M43.979 24.418A20 20 0 0 1 24 44 20 20 0 0 1 4.022 24.582 20 20 0 0 0 4 25a20 20 0 0 0 20 20 20 20 0 0 0 20-20 20 20 0 0 0-.021-.582z"/><path style="opacity:.2" d="M15 17a8 8 0 1 0 0 16 8 8 0 0 0 4-1.08V39a2 2 0 0 0 2 2 2 2 0 0 0 2-2V17h-4v1.084A8 8 0 0 0 15 17zm0 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8z"/><path style="fill:#64d4f9" d="M15 16a8 8 0 1 0 0 16 8 8 0 0 0 4-1.08V38a2 2 0 0 0 2 2 2 2 0 0 0 2-2V16h-4v1.084A8 8 0 0 0 15 16zm0 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8z"/><path style="opacity:.2" d="M27 9a2 2 0 0 0-2 2v22h4v-1.084A8 8 0 0 0 33 33a8 8 0 1 0 0-16 8 8 0 0 0-4 1.08V11a2 2 0 0 0-2-2zm6 12a4 4 0 1 1 0 8 4 4 0 0 1 0-8z"/><path style="fill:#f4f4f7" d="M27 8a2 2 0 0 0-2 2v22h4v-1.084A8 8 0 0 0 33 32a8 8 0 1 0 0-16 8 8 0 0 0-4 1.08V10a2 2 0 0 0-2-2zm6 12a4 4 0 1 1 0 8 4 4 0 0 1 0-8z"/></svg>

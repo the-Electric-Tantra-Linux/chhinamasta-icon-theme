@@ -1,15 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
-    <g fill-rule="evenodd">
-        <path d="M35.486 15.421c-6.71 0-12.453 3.96-15.065 9.673h30.142c-2.613-5.713-8.357-9.673-15.07-9.673h-.006zM19.454 27.858c-.23.895-.398 1.815-.475 2.764H52a16.557 16.557 0 0 0-.467-2.764h-32.08zm-.475 5.527c.077.95.245 1.868.475 2.764H51.53c.23-.895.392-1.815.47-2.764H18.979zm1.438 5.528c2.611 5.713 8.356 9.673 15.068 9.673h.005c6.716 0 12.462-3.96 15.073-9.673H20.415z" fill="#2c2053"/>
-        <path d="M28.582 15.421C19.396 15.421 12 22.817 12 32.003s7.396 16.583 16.582 16.583c.47 0 .918-.049 1.382-.087-8.529-.708-15.2-7.784-15.2-16.497 0-8.718 6.671-15.794 15.2-16.496-.464-.043-.912-.092-1.382-.092" fill="#f4941e"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect style="fill:#f7941e" width="15" height="14.999" x="-15" y="-15" rx="7.5" ry="7.499" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#4c3a91" width="15" height="14.999" x="-15" y="-16" rx="7.5" ry="7.499" transform="matrix(0 -1 -1 0 0 0)"/><path style="fill:#6e5dae" d="M3.965 9.375A5.25 5.25 0 0 0 8.5 12a5.25 5.25 0 0 0 4.535-2.625h-9.07z"/><path style="fill:#f4f4f7" d="M1.434 5a7.416 7.416 0 0 0-.284 1h14.7a7.422 7.422 0 0 0-.284-1H1.434zm-.409 2c-.01.166-.025.331-.025.5 0 .169.015.334.025.5h14.95c.01-.166.023-.331.023-.5 0-.169-.013-.334-.023-.5H1.025zm.125 2c.07.344.17.675.284 1h14.132c.115-.325.214-.656.284-1H1.15z"/></svg>

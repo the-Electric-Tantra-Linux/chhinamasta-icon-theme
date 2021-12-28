@@ -1,10 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <g fill="#f4f4f7">
-        <rect height="7" ry=".8" width="7"/>
-        <rect height="7" ry=".8" width="7" x="9"/>
-        <rect height="7" ry=".8" width="7" y="9"/>
-        <rect height="7" ry=".8" width="7" x="9" y="9"/>
-    </g>
-    <rect fill="#4f4f4f" height="12" ry=".8" width="12" x="2" y="2"/>
-    <path d="M5.8 5c-.443 0-.8.357-.8.8v4.4c0 .443.357.8.8.8h4.4c.443 0 .8-.357.8-.8V5.8c0-.443-.357-.8-.8-.8zm.6 1h3.2a.4.4 0 0 1 .4.4v3.2a.4.4 0 0 1-.4.4H6.4a.4.4 0 0 1-.4-.4V6.4a.4.4 0 0 1 .4-.4z" fill="#f4f4f7"/>
-</svg>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"><rect width="7" height="7" ry=".8" style="fill:#f4f4f7"/><rect x="9" width="7" height="7" ry=".8" style="fill:#f4f4f7"/><rect y="9" width="7" height="7" ry=".8" style="fill:#f4f4f7"/><rect x="9" y="9" width="7" height="7" ry=".8" style="fill:#f4f4f7"/><rect x="2" y="2" width="12" height="12" ry=".8" style="fill:#4f4f4f"/><path d="M5.8 5c-.443 0-.8.357-.8.8v4.4c0 .443.357.8.8.8h4.4c.443 0 .8-.357.8-.8V5.8c0-.443-.357-.8-.8-.8zm.6 1h3.2a.4.4 0 0 1 .4.4v3.2a.4.4 0 0 1-.4.4H6.4a.4.4 0 0 1-.4-.4V6.4a.4.4 0 0 1 .4-.4z" style="fill:#f4f4f7"/></svg>

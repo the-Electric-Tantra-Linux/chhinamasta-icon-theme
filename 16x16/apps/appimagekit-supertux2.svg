@@ -1,13 +1,11 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
     <g transform="translate(-1.067 -.533) scale(.53333)">
         <path d="M25.456 13.508a9.632 9.632 0 0 0 .398-2.734" fill="#4f4f4f"/>
-        <g fill="#f4f4f7">
-            <circle cx="11" cy="8" r="2"/>
-            <circle cx="21" cy="8" r="2"/>
-            <ellipse cx="16" cy="19" rx="7" ry="8"/>
-        </g>
-        <circle cx="12" cy="9" fill="#303030" r="1"/>
-        <circle cx="22" cy="9" fill="#303030" r="1"/>
-        <path d="M14 9h4c-.32 3.081-2 6-2 6s-2-3.464-2-6z" fill="#cd5252"/>
+        <circle fill="#fff" cx="11" cy="8" r="2"/>
+        <circle fill="#fff" cx="21" cy="8" r="2"/>
+        <ellipse fill="#fff" cx="16" cy="19" rx="7" ry="8"/>
+        <circle fill="#303030" cx="12" cy="9" r="1"/>
+        <circle fill="#303030" cx="22" cy="9" r="1"/>
+        <path fill="#cd5252" d="M14 9h4c-.32 3.081-2 6-2 6s-2-3.464-2-6z"/>
     </g>
 </svg>

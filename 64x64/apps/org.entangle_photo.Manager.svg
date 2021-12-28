@@ -1,17 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="40" cy="41" opacity=".2" r="20"/>
-    <circle cx="40" cy="40" fill="#2c80a2" r="20"/>
-    <circle cx="40" cy="41" opacity=".2" r="12"/>
-    <circle cx="40" cy="40" fill="#f4f4f7" r="12"/>
-    <circle cx="24" cy="25" opacity=".2" r="20"/>
-    <circle cx="24" cy="24" fill="#37abc8" r="20"/>
-    <circle cx="24" cy="25" opacity=".2" r="12"/>
-    <circle cx="24" cy="24" fill="#f4f4f7" r="12"/>
-    <g fill="none" stroke-linecap="round" stroke-width="2">
-        <path d="M39.014 44.986s-1.307-9.4-6-14-12-6-12-6" opacity=".2" stroke="#000"/>
-        <path d="M39.014 43.986s-1.307-9.4-6-14-12-6-12-6" stroke="#ff6e4c"/>
-        <path d="M25.002 20.997s1.307 9.401 6 14c4.693 4.6 12 6 12 6" opacity=".2" stroke="#000"/>
-        <path d="M25.002 19.997s1.307 9.401 6 14c4.693 4.6 12 6 12 6" stroke="#ff6e4c"/>
-    </g>
-    <path d="M24 4A20 20 0 0 0 4 24a20 20 0 0 0 .018.494A20 20 0 0 1 24 5a20 20 0 0 1 19.975 19.49A20 20 0 0 0 44 24 20 20 0 0 0 24 4z" fill="#f4f4f7" opacity=".2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><circle style="opacity:.2" cx="40" cy="41" r="20"/><circle style="fill:#2c80a2" cx="40" cy="40" r="20"/><circle style="opacity:.2" cx="40" cy="41" r="12"/><circle style="fill:#f4f4f7" cx="40" cy="40" r="12"/><circle style="opacity:.2" cx="24" cy="25" r="20"/><circle style="fill:#37abc8" cx="24" cy="24" r="20"/><circle style="opacity:.2" cx="24" cy="25" r="12"/><circle style="fill:#f4f4f7" cx="24" cy="24" r="12"/><path style="opacity:.2;stroke:#000;stroke-linecap:round;stroke-width:2;fill:none" d="M39.014 44.986s-1.307-9.4-6-14-12-6-12-6"/><path style="stroke:#ff6e4c;stroke-linecap:round;stroke-width:2;fill:none" d="M39.014 43.986s-1.307-9.4-6-14-12-6-12-6"/><path style="opacity:.2;stroke:#000;stroke-linecap:round;stroke-width:2;fill:none" d="M25.002 20.997s1.307 9.401 6 14c4.693 4.6 12 6 12 6"/><path style="stroke:#ff6e4c;stroke-linecap:round;stroke-width:2;fill:none" d="M25.002 19.997s1.307 9.401 6 14c4.693 4.6 12 6 12 6"/><path style="opacity:.2;fill:#f4f4f7" d="M24 4A20 20 0 0 0 4 24a20 20 0 0 0 .018.494A20 20 0 0 1 24 5a20 20 0 0 1 19.975 19.49A20 20 0 0 0 44 24 20 20 0 0 0 24 4z"/></svg>

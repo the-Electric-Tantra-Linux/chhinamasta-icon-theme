@@ -1,14 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <rect height="16" opacity=".2" rx="1" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-22.5" y="-20"/>
-    <rect fill="#4f4f4f" height="16" rx="1" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-22" y="-20"/>
-    <path d="M6 4v5.539L11.664 4z" fill="#ab35da"/>
-    <path d="M11.664 4 6 9.539v5.598L17.39 4z" fill="#e64242"/>
-    <path d="M17.39 4 6 15.137V20h.753L18 9.003V4z" fill="#ff9800"/>
-    <path d="M18 9.003 6.753 20h5.727L18 14.603z" fill="#ffde00"/>
-    <path d="M18 14.603 12.48 20H18z" fill="#23a052"/>
-    <path d="M5 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h14c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".1"/>
-    <rect height="2" opacity=".2" rx=".5" width="20" x="2" y="8.5"/>
-    <rect fill="#3398e9" height="2" rx=".5" width="20" x="2" y="8"/>
-    <path d="M18 20.5V20H6v.5z" opacity=".2"/>
-    <path d="M18 4.5V4H6v.5z" fill="#f4f4f7" opacity=".2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><rect style="opacity:.2" width="20" height="16" x="-22.5" y="-20" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#4f4f4f" width="20" height="16" x="-22" y="-20" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><path style="fill:#ab35da" d="M6 4v5.539L11.664 4z"/><path style="fill:#e64242" d="M11.664 4 6 9.539v5.598L17.39 4z"/><path style="fill:#ff9800" d="M17.39 4 6 15.137V20h.753L18 9.003V4z"/><path style="fill:#ffde00" d="M18 9.003 6.753 20h5.727L18 14.603z"/><path style="fill:#23a052" d="M18 14.603 12.48 20H18z"/><path style="opacity:.1;fill:#f4f4f7" d="M5 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h14c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1H5z"/><rect style="opacity:.2" width="20" height="2" x="2" y="8.5" rx=".5" ry=".5"/><rect style="fill:#3398e9" width="20" height="2" x="2" y="8" rx=".5" ry=".5"/><rect style="opacity:.2" width=".5" height="12" x="-20.5" y="-18" rx="0" ry="0" transform="matrix(0 -1 -1 0 0 0)"/><rect style="opacity:.2;fill:#f4f4f7" width=".5" height="12" x="-4.5" y="-18" rx="0" ry="0" transform="matrix(0 -1 -1 0 0 0)"/></svg>

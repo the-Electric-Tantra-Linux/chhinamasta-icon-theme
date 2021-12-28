@@ -1,11 +1,1 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
-    <rect fill="#f4f4f7" height="40" rx="2" width="40" x="4" y="4"/>
-    <path d="M22 11c-4.134 5.44-13 4-13 9.5 0 6.668 9.581 5.594 8 13.5-1 5-6 4-9 4" style="opacity:.2;fill:none;stroke:#000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
-    <path d="M6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z" fill="#f4f4f7" opacity=".2"/>
-    <path d="M6 45c-1.108 0-2-.892-2-2v-1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v1c0 1.108-.892 2-2 2z" opacity=".2"/>
-    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
-        <path d="M22 10c-4.134 5.441-13 4-13 9.5 0 6.668 9.581 5.594 8 13.5-1 5-6 4-9 4" stroke="#4f4f4f"/>
-        <path d="M25 39V17c1.093-3.584 2.502-6 6-6 4 0 6 2 6 6s-8 7-8 9.5S37 37 39 39" opacity=".2" stroke="#000"/>
-        <path d="M25 38V16c1.093-3.584 2.502-6 6-6 4 0 6 2 6 6s-8 7-8 9.5S37 36 39 38" stroke="#85722f"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48"><rect style="fill:#f4f4f7" width="40" height="40" x="4" y="4" rx="2" ry="2"/><path style="opacity:.2;fill:none;stroke:#000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M22 11c-4.134 5.44-13 4-13 9.5 0 6.668 9.581 5.594 8 13.5-1 5-6 4-9 4"/><path style="opacity:.2;fill:#f4f4f7" d="M6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2z"/><path style="opacity:.2" d="M6 45c-1.108 0-2-.892-2-2v-1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v1c0 1.108-.892 2-2 2z"/><path style="fill:none;stroke:#4f4f4f;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M22 10c-4.134 5.441-13 4-13 9.5 0 6.668 9.581 5.594 8 13.5-1 5-6 4-9 4"/><path style="opacity:.2;fill:none;stroke:#000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M25 39V17c1.093-3.584 2.502-6 6-6 4 0 6 2 6 6s-8 7-8 9.5S37 37 39 39"/><path style="fill:none;stroke:#85722f;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M25 38V16c1.093-3.584 2.502-6 6-6 4 0 6 2 6 6s-8 7-8 9.5S37 36 39 38"/></svg>

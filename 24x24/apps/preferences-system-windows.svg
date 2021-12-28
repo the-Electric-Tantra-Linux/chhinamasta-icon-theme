@@ -1,25 +1,39 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="236.319" x2="369.759" y1="321.74" y2="321.74">
-        <stop offset="0" stop-color="#3caaff"/>
-        <stop offset="1" stop-color="#b496ff"/>
-    </linearGradient>
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-1.039" x2="13.513" y1="19.652" y2="5.1">
-        <stop offset="0" stop-color="#51aaff"/>
-        <stop offset="1" stop-color="#b496ff"/>
-    </linearGradient>
-    <g stroke-linecap="round" transform="translate(2.23 -3.912)">
-        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="translate(-2.23 3.912) scale(.26458)" width="55" x="4.5" y="4.5"/>
-        <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="-1.039" y="5.103"/>
-    </g>
-    <g stroke-width=".026" transform="translate(3.506 -3.818)">
-        <path d="M10.204 7.927H-.274a.715.715 0 0 0-.718.718v7.278c0 .4.32.718.718.718h10.47c.399 0 .718-.319.718-.718V8.645a.708.708 0 0 0-.71-.718z" fill="#f1f3f7"/>
-        <path d="M-.274 9.691h10.478v6.197H-.274z" fill="#fcfcfd"/>
-        <circle cx="9.974" cy="8.858" fill="#f0582f" r=".23"/>
-        <circle cx="9.167" cy="8.858" fill="#fbd303" r=".23"/>
-        <circle cx="8.36" cy="8.858" fill="#6eb1e1" r=".23"/>
-    </g>
-    <path d="m253.28 353.6 28-28 62.08 62.08 26.4-26.56-62.08-62.08 26.56-26.4-97.92-17.12z" fill="url(#c)" transform="matrix(.02186 0 0 .02186 1.841 2.296)"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient5262" x1="236.32" x2="369.76" y1="321.6" y2="321.6" gradientTransform="translate(-.00084984 .14045)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3caaff" offset="0"/>
+   <stop stop-color="#b496ff" offset="1"/>
+  </linearGradient>
+  <filter id="filter1057-1" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053-9" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="matrix(.26458 0 0 .26458 32.563 3.7771)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#51aaff" offset="0"/>
+   <stop stop-color="#b496ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(2.2301 -3.9121)" stroke-linecap="round">
+  <rect transform="matrix(.26458 0 0 .26458 -2.2301 3.9121)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-1)" opacity=".3" stroke-width="2.78b9cbe"/>
+  <rect x="-1.0394" y="5.1027" width="14.552" height="14.552" ry="3.9688" fill="url(#linearGradient1053-9)" stroke-width=".72612"/>
+ </g>
+ <g transform="translate(3.5057 -3.8176)">
+  <g stroke-width=".026145">
+   <path d="m10.204 7.9271h-10.478c-0.39891 0-0.71806 0.31915-0.71806 0.71806v7.2781c0 0.39891 0.31915 0.71806 0.71806 0.71806h10.47c0.39891 0 0.71806-0.31915 0.71806-0.71806v-7.2781c0.0089-0.39891-0.31915-0.71806-0.7092-0.71806z" fill="#f1f3f7"/>
+   <rect x="-.2743" y="9.6913" width="10.478" height="6.1966" fill="#fcfcfd"/>
+   <circle cx="9.9737" cy="8.858" r=".23049" fill="#f0582f"/>
+   <circle cx="9.1668" cy="8.858" r=".23049" fill="#fbd303"/>
+   <circle cx="8.3599" cy="8.858" r=".23049" fill="#6eb1e1"/>
+  </g>
+  <polygon transform="matrix(.021864 6.7897e-8 -6.7897e-8 .021864 -1.6646 6.1139)" points="253.28 353.6 281.28 325.6 343.36 387.68 369.76 361.12 307.68 299.04 334.24 272.64 236.32 255.52" fill="url(#linearGradient5262)"/>
+ </g>
 </svg>

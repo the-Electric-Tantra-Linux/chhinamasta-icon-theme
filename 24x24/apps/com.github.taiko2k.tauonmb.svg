@@ -1,9 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="12" cy="12.5" opacity=".2" r="10"/>
-    <circle cx="12" cy="12" fill="#b864e6" r="10"/>
-    <path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 .01.293A10 10 0 0 1 12 2.5a10 10 0 0 1 9.99 9.707A10 10 0 0 0 22 12 10 10 0 0 0 12 2z" fill="#f4f4f7" opacity=".2"/>
-    <path d="M7.691 4.1A9 9 0 0 0 3 12h5a4 4 0 0 1 2.086-3.508zM16 12a4 4 0 0 1-2.086 3.508L16.31 19.9A9 9 0 0 0 21 12z" fill="#d69def"/>
-    <circle cx="12" cy="12.5" opacity=".1" r="3"/>
-    <circle cx="12" cy="12" fill="#4f4f4f" r="3"/>
-    <circle cx="12" cy="12" fill="#f4f4f7" r="1"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24"><circle cx="12" cy="12.5" r="10" style="opacity:.2"/><circle cx="12" cy="12" r="10" style="fill:#b864e6"/><path d="M12 2A10 10 0 0 0 2 12a10 10 0 0 0 .01.293A10 10 0 0 1 12 2.5a10 10 0 0 1 9.99 9.707A10 10 0 0 0 22 12 10 10 0 0 0 12 2z" style="opacity:.2;fill:#f4f4f7"/><path style="fill:#d69def" d="M7.691 4.1A9 9 0 0 0 3 12h5a4 4 0 0 1 2.086-3.508zM16 12a4 4 0 0 1-2.086 3.508L16.31 19.9A9 9 0 0 0 21 12z"/><circle r="3" style="opacity:.1" cx="12" cy="12.5"/><circle r="3" style="fill:#4f4f4f" cx="12" cy="12"/><circle r="1" style="fill:#f4f4f7" cx="12" cy="12"/></svg>

@@ -1,9 +1,1 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
-    <g opacity=".2">
-        <path d="m11 11 16-6 8 6v34H11z"/>
-        <path d="M27 5v40h8V11z"/>
-    </g>
-    <path d="m11 10 16-6 8 6v34H11z" fill="#b79f32"/>
-    <path d="M27 4v40h8V10z" fill="#987e2e"/>
-    <path d="m27 4-16 6v1l16-6 8 6v-1z" fill="#f4f4f7" opacity=".2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="48" width="48"><g style="opacity:.2"><path d="m11 11 16-6 8 6v34H11z"/><path d="M27 5v40h8V11z"/></g><path d="M3 2.4 9.667 0 13 2.4V16H3z" style="fill:#b79f32" transform="matrix(2.4 0 0 2.5 3.8 4)"/><path d="M9.667 0v16H13V2.4z" style="fill:#987e2e" transform="matrix(2.4 0 0 2.5 3.8 4)"/><path style="opacity:.2;fill:#f4f4f7" d="M13 1 5 4v.5l8-3 4 3V4z" transform="matrix(2 0 0 2 1 2)"/></svg>

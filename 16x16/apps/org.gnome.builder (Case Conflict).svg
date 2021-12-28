@@ -1,17 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M10 2 6 6" fill="none" stroke="#cbbb2e" stroke-width="3"/>
-    <path d="M7 6H3v8.5h4z" fill="#cbbb2e"/>
-    <path d="M7 13H3c-.554 0-1 .446-1 1s.446 1 1 1h4c.554 0 1-.446 1-1s-.446-1-1-1z" fill="#d6c84a"/>
-    <path d="M8 14c1 0 1 1 1 1v1H1v-1c0-1 1-1 1-1z" fill="#4f4f4f"/>
-    <path d="m10 2 2 2" fill="none" stroke="#cbbb2e" stroke-linecap="square" stroke-width="2"/>
-    <g transform="scale(-1 1)">
-        <rect height="4" opacity=".2" ry="2" width="4" x="-12" y="1"/>
-        <rect height="6" opacity=".2" ry="3" width="6" x="-8" y="5"/>
-        <rect fill="#d6c84a" height="6" ry="3" width="6" x="-8" y="4"/>
-        <rect fill="#4f4f4f" height="4" ry="2" width="4" x="-7" y="5"/>
-        <rect fill="#f4f4f7" height="2" opacity=".1" ry="1" width="2" x="-6" y="6"/>
-        <rect fill="#d6c84a" height="4" ry="2" width="4" x="-12"/>
-    </g>
-    <path d="m13.5 7.5-2-.003v-2l2-2h2v2" fill="none" stroke="#4f4f4f" stroke-linecap="round" stroke-linejoin="round"/>
-    <rect fill="#4f4f4f" height="2" ry="1" transform="scale(-1 1)" width="2" x="-11" y="1"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path style="fill:none;stroke:#cbbb2e;stroke-width:3" d="M10 2 6 6"/><rect style="fill:#cbbb2e" width="4" height="8.5" x="-7" y="6" ry="0" transform="scale(-1 1)"/><path style="fill:#d6c84a" d="M7 13H3c-.554 0-1 .446-1 1s.446 1 1 1h4c.554 0 1-.446 1-1s-.446-1-1-1z"/><path style="fill:#4f4f4f" d="M8 14c1 0 1 1 1 1v1H1v-1c0-1 1-1 1-1z"/><path style="fill:none;stroke:#cbbb2e;stroke-width:2;stroke-linecap:square" d="m10 2 2 2"/><rect style="opacity:.2" width="4" height="4" x="-12" y="1" ry="2" transform="scale(-1 1)"/><rect style="opacity:.2" width="6" height="6" x="-8" y="5" ry="3" transform="scale(-1 1)"/><rect style="fill:#d6c84a" width="6" height="6" x="-8" y="4" ry="3" transform="scale(-1 1)"/><rect style="fill:#4f4f4f" width="4" height="4" x="-7" y="5" ry="2" transform="scale(-1 1)"/><rect style="opacity:.1;fill:#f4f4f7" width="2" height="2" x="-6" y="6" ry="1" transform="scale(-1 1)"/><rect style="fill:#d6c84a" width="4" height="4" x="-12" ry="2" transform="scale(-1 1)"/><path style="fill:none;stroke:#4f4f4f;stroke-linecap:round;stroke-linejoin:round" d="m13.5 7.5-2-.003v-2l2-2h2v2"/><rect style="fill:#4f4f4f" width="2" height="2" x="-11" y="1" ry="1" transform="scale(-1 1)"/></svg>

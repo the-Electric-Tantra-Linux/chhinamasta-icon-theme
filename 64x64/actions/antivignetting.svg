@@ -1,7 +1,0 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg">
-    <radialGradient id="a" cx="8" cy="8" gradientUnits="userSpaceOnUse" r="7">
-        <stop offset="0" stop-color="#eeeeec" stop-opacity="0"/>
-        <stop offset="1" stop-color="#eeeeec"/>
-    </radialGradient>
-    <path d="M1 1v14h14V1z" fill="url(#a)" transform="translate(3 3)"/>
-</svg>

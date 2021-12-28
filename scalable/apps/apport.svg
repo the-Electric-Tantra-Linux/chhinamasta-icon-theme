@@ -1,1 +1,28 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><clipPath id="a"><path d="m-1 1335h1029v-1334h-1029z"/></clipPath><filter id="b" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="c" gradientUnits="userSpaceOnUse" x1="1.190602" x2="15.742398" y1="15.739753" y2="1.187957"><stop offset="0" stop-color="#df2a2a"/><stop offset="1" stop-color="#f83f3f"/></linearGradient><rect fill="#141414" filter="url(#b)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" transform="scale(.26457812)" width="55" x="4.5" y="4.5"/><rect fill="url(#c)" height="14.551796" ry="3.968672" stroke-linecap="round" stroke-width=".726098" width="14.551796" x="1.190602" y="1.190602"/><circle cx="-306.19" cy="-335.54" fill="#5e4aa6" r="0" stroke-width=".26458"/><circle cx="-15.28" cy="-.71795" fill="#5e4aa6" fill-rule="evenodd" r="0" stroke-width=".26458"/><g fill="#fff" transform="matrix(.99998 0 0 .99998 .66285 -280.2)"><circle cx="7.8047" cy="292.32" fill-rule="evenodd" r=".94494" stroke-width=".3004"/><g clip-path="url(#a)" fill="#fff" transform="matrix(.15891 0 0 -.15891 -91.308 375.61)"><path d="m618.69 538.71c0-2.761 2.239-5 5-5 2.762 0 5 2.239 5 5v35c0 2.762-2.238 5-5 5-2.761 0-5-2.238-5-5z" fill="#fff"/></g></g><g fill="#5e4aa6"><circle cx="-329.80154" cy="-343.65884" r="0" stroke-width=".26458"/><circle cx="-38.892548" cy="-8.836361" fill-rule="evenodd" r="0" stroke-width=".26458"/><g stroke-width=".264578"><circle cx="-353.990246" cy="-336.759055" r="0"/><circle cx="-325.309978" cy="-352.686658" r="0"/><circle cx="-330.019469" cy="-337.923199" r="0"/><circle cx="-329.8078" cy="-343.66452" r="0"/><circle cx="-38.892521" cy="-8.836409" fill-rule="evenodd" r="0"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1448" x1="3.9687" x2="3.9687" y1="16.323" y2="2.5603" gradientTransform="matrix(.91668 0 0 .91668 -.077234 1.9273)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f50f2d" offset="0"/>
+   <stop stop-color="#ff4b00" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient854" x1="220.51" x2="217.88" y1="314.42" y2="-128.4" gradientTransform="matrix(.062831 0 0 .063169 -2.6693 -1.9809)" gradientUnits="userSpaceOnUse" xlink:href="#a-3"/>
+  <linearGradient id="a-3">
+   <stop stop-color="#c52828" offset="0"/>
+   <stop stop-color="#ff5454" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(.78267 -1.2219)">
+  <rect x=".40786" y="2.4124" width="14.552" height="14.552" ry="3.4396" fill="url(#linearGradient1448)" stroke-opacity=".95294" stroke-width=".083154"/>
+  <path d="m6.5844 6.2961 0.45552 5.2431c0.026577 0.30864 0.27023 0.56303 0.58778 0.59095 0.35568 0.03127 0.66921-0.23335 0.70025-0.59095l0.45552-5.2431c0.0049-0.061274 0.00553-0.12994 0-0.19311-0.053029-0.61059-0.58828-1.0623-1.1955-1.009-0.60726 0.053378-1.0566 0.59164-1.0035 1.2021z" fill="#fff" stroke="url(#linearGradient854)" stroke-width=".063"/>
+  <ellipse cx="7.6839" cy="13.371" rx=".91104" ry=".91595" fill="#fff" stroke="url(#linearGradient854)" stroke-width=".063"/>
+ </g>
+</svg>

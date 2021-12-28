@@ -1,14 +1,1 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.742" y1="15.742" y2="1.191">
-        <stop offset="0" stop-color="#ff8228"/>
-        <stop offset=".492" stop-color="#ff7346"/>
-        <stop offset="1" stop-color="#ff8c55"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="14.552" ry="3.941" width="14.552" x="1.191" y="1.191"/>
-    <path d="M11.772 2.71a3.307 3.307 0 0 1 .003.132 3.307 3.307 0 0 1-3.307 3.307A3.307 3.307 0 0 1 5.16 2.842a3.307 3.307 0 0 1 .003-.132" fill="none" stroke="#fff" stroke-dashoffset=".421" stroke-width=".529"/>
-    <text style="word-spacing:0;stroke-width:.066664;letter-spacing:0;font-size:2.6665;font-family:sans-serif;fill:#fff" x="4.723" y="11.117"><tspan stroke-width=".067" x="4.723" y="11.117">SHOP</tspan></text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><path fill="#f4f4f7" d="m17 4-2 2v4H3v30c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2V10H31V6l-2-2zm0 2h12v4H17z"/><path opacity=".2" d="M17 6v1h12V6H17zM3 40v1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2H5c-1.108 0-2-.892-2-2z"/><circle opacity=".2" cx="36" cy="37" r="11"/><circle fill="#4ab3e4" cx="36" cy="36" r="11"/><path fill="#fff" d="M38 29v5.054h2.625L36 41l-4.625-7H34v-5h4zm-7 12h10v2H31z"/><path fill="#fff" opacity=".2" d="m17 4-2 2v1l2-2h12l2 2V6l-2-2H17zM3 10v1h12v-1H3zm14 0v1h12v-1H17zm14 0v1h12v-1H31z"/></svg>

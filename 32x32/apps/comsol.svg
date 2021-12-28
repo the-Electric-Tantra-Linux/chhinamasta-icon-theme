@@ -1,15 +1,1 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <rect height="24.866" opacity=".2" rx="7.46" transform="rotate(45)" width="24.866" x="10.9" y="-12.43"/>
-    <rect fill="#f4f4f7" height="24.866" rx="7.46" transform="rotate(45)" width="24.866" x="10.19" y="-13.14"/>
-    <path d="M9 12a3 5 0 0 0-3 5 3 5 0 0 0 3 5h15a3 5 0 0 0 3-5 3 5 0 0 0-3-5z" opacity=".1"/>
-    <path d="M9 11a3 5 0 0 0-3 5 3 5 0 0 0 3 5h15a3 5 0 0 0 3-5 3 5 0 0 0-3-5z" fill="#3068c1"/>
-    <path d="M9 11a3 5 0 0 0-3 5 3 5 0 0 0 .06 1H9zm3 0v6h3v-6zm6 0v6h3v-6zm6 0v6h2.938A3 5 0 0 0 27 16a3 5 0 0 0-3-5z" fill="#f4f4f7" opacity=".2"/>
-    <path d="M9 11v6h3v-6zm6 0v6h3v-6zm6 0v6h3v-6z" opacity=".2"/>
-    <circle cx="9" cy="18" opacity=".1" r="4"/>
-    <circle cx="9" cy="17" fill="#ffa802" r="4"/>
-    <circle cx="9" cy="18" opacity=".1" r="2.75"/>
-    <circle cx="9" cy="17" fill="#ffd264" r="2.75"/>
-    <circle cx="9" cy="18" opacity=".1" r="1.25"/>
-    <circle cx="9" cy="17" fill="#ffe6bc" r="1.25"/>
-    <path d="M16.5 1c-1.907 0-3.814.73-5.275 2.191L4.19 10.225A7.43 7.43 0 0 0 2.025 16a7.426 7.426 0 0 1 2.166-4.775l7.034-7.034a7.445 7.445 0 0 1 10.55 0l7.034 7.034A7.426 7.426 0 0 1 30.975 16a7.43 7.43 0 0 0-2.166-5.775L21.775 3.19A7.437 7.437 0 0 0 16.5 1z" fill="#f4f4f7" opacity=".2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect style="opacity:.2" width="24.866" height="24.866" x="10.9" y="-12.43" rx="7.46" ry="7.46" transform="rotate(45)"/><rect style="fill:#f4f4f7" width="24.866" height="24.866" x="10.19" y="-13.14" rx="7.46" ry="7.46" transform="rotate(45)"/><path style="opacity:.1" d="M9 12a3 5 0 0 0-3 5 3 5 0 0 0 3 5h15a3 5 0 0 0 3-5 3 5 0 0 0-3-5z"/><path style="fill:#3068c1" d="M9 11a3 5 0 0 0-3 5 3 5 0 0 0 3 5h15a3 5 0 0 0 3-5 3 5 0 0 0-3-5z"/><path style="opacity:.2;fill:#f4f4f7" d="M9 11a3 5 0 0 0-3 5 3 5 0 0 0 .06 1H9v-6zm3 0v6h3v-6h-3zm6 0v6h3v-6h-3zm6 0v6h2.938A3 5 0 0 0 27 16a3 5 0 0 0-3-5z"/><path style="opacity:.2" d="M9 11v6h3v-6H9zm6 0v6h3v-6h-3zm6 0v6h3v-6h-3z"/><circle style="opacity:.1" cx="9" cy="18" r="4"/><circle style="fill:#ffa802" cx="9" cy="17" r="4"/><circle style="opacity:.1" cx="9" cy="18" r="2.75"/><circle style="fill:#ffd264" cx="9" cy="17" r="2.75"/><circle style="opacity:.1" cx="9" cy="18" r="1.25"/><circle style="fill:#ffe6bc" cx="9" cy="17" r="1.25"/><path style="fill:#f4f4f7;opacity:.2" d="M16.5 1c-1.907 0-3.814.73-5.275 2.191L4.19 10.225A7.43 7.43 0 0 0 2.025 16a7.426 7.426 0 0 1 2.166-4.775l7.034-7.034a7.445 7.445 0 0 1 10.55 0l7.034 7.034A7.426 7.426 0 0 1 30.975 16a7.43 7.43 0 0 0-2.166-5.775L21.775 3.19A7.437 7.437 0 0 0 16.5 1z"/></svg>

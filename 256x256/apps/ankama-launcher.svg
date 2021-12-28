@@ -1,1 +1,25 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.190603" x2="15.742399" y1="15.739753" y2="1.187957"><stop offset="0" stop-color="#dee0e2"/><stop offset="1" stop-color="#f1f3f5" stop-opacity=".996078"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" transform="matrix(.26457812 0 0 .26457812 .797703 .797703)" width="55" x="1.485" y="1.485"/><rect fill="url(#b)" height="14.551796" ry="3.968672" stroke-linecap="round" stroke-width=".726098" width="14.551796" x="1.190602" y="1.190602"/><g fill="#5e4aa6" stroke-width=".26458"><circle cx="-330.3772" cy="-328.3735" r="0"/><circle cx="-312.1372" cy="-326.2435" r="0"/><circle cx="-306.0472" cy="-333.0635" r="0"/><circle cx="-308.8672" cy="-326.0035" r="0"/></g><g transform="translate(-.13265 -280.2)"><path d="m12.965 292.5c.14657 0 .26458-.11801.26458-.26458v-4.4979c0-.14657-.11801-.26458-.26458-.26458h-1.5875v3.7042c0 .14658-.11801.26459-.26458.26459h-2.6458c-.14657 0-.26458-.11801-.26458-.26459v-3.7042h-1.5875c-.14657 0-.26458.11801-.26458.26458v4.4979c0 .14657.11801.26458.26458.26458z" fill="#fdc409"/><path d="m22 28v9l9-9z" fill="#b61f1d" transform="matrix(.26458 0 0 .26458 0 280.07)"/><path d="m4.2333 284.83c-.14657 0-.26458.11801-.26458.26458v4.4979c0 .14657.11801.26458.26458.26458h1.5875v-3.7042c0-.14658.11801-.26459.26458-.26459h2.6458c.14657 0 .26458.11801.26458.26459v3.7042h1.5875c.14657 0 .26458-.11801.26458-.26458v-4.4979c0-.14657-.11801-.26458-.26458-.26458z" fill="#e5381f"/><path d="m43 28-9 9h9z" fill="#e76f08" transform="matrix(.26458 0 0 .26458 0 280.07)"/><path d="m11.642 285.62h1.0583v1.0583h-1.0583z" fill="#e76f08"/><path d="m208.92 201.81h1.0583v1.0583h-1.0583z" fill="#f6aa08" transform="matrix(.70710678 .70710678 -.70710678 .70710678 0 0)"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="linearGradient1448" x1="3.9687" x2="3.9687" y1="15.338" y2=".54085" gradientTransform="matrix(.91666 0 0 .91666 .70539 -16.228)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#333132" offset="0"/>
+   <stop stop-color="#212427" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect transform="scale(1,-1)" x="1.1905" y="-15.743" width="14.552" height="14.552" ry="3.4395" fill="url(#linearGradient1448)" stroke-opacity=".95294" stroke-width=".083152"/>
+ <path d="m12.833 12.3c0.14657 0 0.26458-0.11801 0.26458-0.26459v-4.498c0-0.14657-0.11801-0.26459-0.26458-0.26459h-1.5875v3.7043c0 0.14658-0.11801 0.2646-0.26458 0.2646h-2.6459c-0.14657 0-0.26459-0.11801-0.26459-0.2646v-3.7043h-1.5875c-0.14657 0-0.26459 0.11801-0.26459 0.26459v4.498c0 0.14657 0.11801 0.26459 0.26459 0.26459z" fill="#fdc409" style="paint-order:stroke fill markers"/>
+ <path d="m5.688 7.2784v2.3813l2.3813-2.3813z" fill="#b61f1d" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+ <path d="m4.1005 4.6301c-0.14657 0-0.26459 0.11801-0.26459 0.26459v4.498c0 0.14657 0.11801 0.26458 0.26459 0.26458h1.5875v-3.7043c0-0.14658 0.11801-0.2646 0.26459-0.2646h2.6459c0.14657 0 0.26458 0.11801 0.26458 0.2646v3.7043h1.5875c0.14657 0 0.26458-0.11801 0.26458-0.26458v-4.498c0-0.14657-0.11801-0.26459-0.26458-0.26459z" fill="#e5381f" style="paint-order:stroke fill markers"/>
+ <path d="m11.244 7.2784-2.3813 2.3813h2.3813z" fill="#e76f08" stroke-width=".26458" style="paint-order:stroke fill markers"/>
+ <rect x="11.51" y="5.4201" width="1.0583" height="1.0583" ry="0" fill="#e76f08" style="paint-order:stroke fill markers"/>
+ <rect transform="rotate(45)" x="10.695" y="3.7728" width="1.0583" height="1.0583" ry="0" fill="#f6aa08" style="paint-order:stroke fill markers"/>
+</svg>

@@ -1,15 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.048" y="-.048">
-        <feGaussianBlur stdDeviation="1.1"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.5" y2="4.5">
-        <stop offset="0" stop-color="#ffc841"/>
-        <stop offset=".492" stop-color="#ffbe37"/>
-        <stop offset="1" stop-color="#ffc841"/>
-    </linearGradient>
-    <rect filter="url(#a)" height="55" opacity=".3" rx="13.002" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" rx="13.002" width="55" x="4.5" y="4.5"/>
-    <g fill="#f4f4f7">
-        <path d="m26.357 27-5.863 10h3.375l5.826-9.951h4.644L40.2 37h3.361l-5.883-10zM26 13c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V15c0-1.108-.892-2-2-2zm0 2h12v10H26zM14 37c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V39c0-1.108-.892-2-2-2zm0 2h12v10H14zM38 37c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h12c1.108 0 2-.892 2-2V39c0-1.108-.892-2-2-2zm0 2h12v10H38z"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect style="fill:#f58800" width="15" height="15" x="-15" y="-15" rx=".75" ry=".75" transform="matrix(0 -1 -1 0 0 0)"/><path style="fill:none;stroke:#17191e;stroke-width:.80000001" d="m3.5 11 4-7 4 7"/><path style="fill:#f4f4f7" d="M5.833 2C5.372 2 5 2.357 5 2.8v2.4c0 .443.372.8.833.8h3.334c.461 0 .833-.357.833-.8V2.8c0-.443-.372-.8-.833-.8zM1.833 9C1.372 9 1 9.357 1 9.8v2.4c0 .443.372.8.833.8h3.334c.461 0 .833-.357.833-.8V9.8c0-.443-.372-.8-.833-.8zM9.833 9C9.372 9 9 9.357 9 9.8v2.4c0 .443.372.8.833.8h3.334c.461 0 .833-.357.833-.8V9.8c0-.443-.372-.8-.833-.8z"/></svg>

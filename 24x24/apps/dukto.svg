@@ -1,7 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <path d="M5 11.5v10c0 .554.446 1 1 1h12c.554 0 1-.446 1-1v-10z" opacity=".2"/>
-    <path d="M5 10.95V21c0 .554.446 1 1 1h12c.554 0 1-.446 1-1V10.95z" fill="#599124"/>
-    <path d="M3 2c-.554 0-1 .446-1 1v8h20V3c0-.554-.446-1-1-1z" fill="#7ec242"/>
-    <path d="M2 11h20v.5H2z" opacity=".2"/>
-    <path d="M3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><path style="opacity:.2" d="M5 11.5v10c0 .554.446 1 1 1h12c.554 0 1-.446 1-1v-10z"/><path style="fill:#599124" d="M5 10.95V21c0 .554.446 1 1 1h12c.554 0 1-.446 1-1V10.95z"/><path style="fill:#7ec242" d="M3 2c-.554 0-1 .446-1 1v8h20V3c0-.554-.446-1-1-1z"/><path style="opacity:.2" d="M2 11h20v.5H2z"/><path style="opacity:.2;fill:#f4f4f7" d="M3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z"/></svg>

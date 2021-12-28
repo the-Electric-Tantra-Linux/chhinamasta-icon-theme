@@ -1,15 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <rect fill="#d5d3cf" height="15.2" rx="7.467" width="14.933" x=".53" y=".53"/>
-    <path d="M16 8a8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8 8 8 0 0 1 8 8z" fill="#f4f4f7"/>
-    <path d="M14 8a6 6 0 0 1-11.617 2.113c-.248-.657.518-1.456.518-2.2 0-3.314 1.495-4.14 4.808-4.14 1.54 0 3.236-1.193 4.298-.239A5.985 5.985 0 0 1 14 8z" fill="#443e4f"/>
-    <path d="M2.051 7.258A6 6 0 0 0 2 8a6 6 0 0 0 .44 2.247L8 8z" fill="#3787e4"/>
-    <path d="M8 2a6 6 0 0 0-4.008 1.544L8 8l4.06-4.407A6 6 0 0 0 8 2z" fill="#2cc162"/>
-    <g fill="none" stroke-linecap="round">
-        <path d="M8 8 6 5.778" stroke="#807f7c" stroke-width=".706"/>
-        <g stroke-width=".353">
-            <path d="m8 8 2.889-3.111" stroke="#f4f4f7"/>
-            <path d="m8 8-1.556 4" stroke="#f14b53"/>
-        </g>
-    </g>
-    <circle cx="4.047" cy="10.565" fill="#d5d3cf" r="1" transform="rotate(-24.04)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect style="fill:#d5d3cf" width="14.933" height="15.2" x=".53" y=".53" rx="7.467" ry="7.467"/><path style="fill:#f4f4f7" d="M16 8a8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8 8 8 0 0 1 8 8z"/><path style="fill:#443e4f" d="M14 8a6 6 0 0 1-11.617 2.113c-.248-.657.518-1.456.518-2.2 0-3.314 1.495-4.14 4.808-4.14 1.54 0 3.236-1.193 4.298-.239A5.985 5.985 0 0 1 14 8z"/><path style="fill:#f8e45c" d="M4.8b9cbe 3.176A6 6 0 0 0 2 8a6 6 0 0 0 .004.11L8 8z"/><path style="fill:#3787e4" d="M2.051 7.258A6 6 0 0 0 2 8a6 6 0 0 0 .44 2.247L8 8z"/><path style="fill:#2cc162" d="M8 2a6 6 0 0 0-4.008 1.544L8 8l4.06-4.407A6 6 0 0 0 8 2z"/><path style="fill:none;stroke:#807f7c;stroke-width:.70588225;stroke-linecap:round" d="M8 8 6 5.778"/><path style="fill:none;stroke:#f4f4f7;stroke-width:.35294113;stroke-linecap:round" d="m8 8 2.889-3.111"/><path style="fill:none;stroke:#f14b53;stroke-width:.35294113;stroke-linecap:round" d="m8 8-1.556 4"/><circle style="fill:#d5d3cf" cx="4.047" cy="10.565" r="1" transform="rotate(-24.04)"/></svg>

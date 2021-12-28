@@ -1,13 +1,1 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <g transform="matrix(0 -1 -1 0 0 0)">
-        <rect height="29" opacity=".2" rx="1.45" width="29" x="-31" y="-30"/>
-        <rect fill="#d64141" height="29" rx="1.45" width="29" x="-30" y="-30"/>
-        <rect fill="#17191e" height="23" rx="1.15" width="23" x="-27" y="-27"/>
-        <rect height="17" opacity=".2" rx=".85" width="17" x="-25" y="-24"/>
-        <rect fill="#dfa46d" height="17" rx=".85" width="17" x="-24" y="-24"/>
-    </g>
-    <path d="M14 7v7H7v3h7v7h3v-7h7v-3h-7V7z" opacity=".3"/>
-    <path d="M4 25.85v1c0 .637.513 1.15 1.15 1.15h20.7c.637 0 1.15-.513 1.15-1.15v-1c0 .637-.513 1.15-1.15 1.15H5.15C4.513 27 4 26.487 4 25.85z" fill="#f4f4f7" opacity=".1"/>
-    <path d="M5.15 4C4.513 4 4 4.513 4 5.15v1C4 5.513 4.513 5 5.15 5h20.7c.637 0 1.15.513 1.15 1.15v-1C27 4.513 26.487 4 25.85 4z" opacity=".2"/>
-    <path d="M7.85 7a.848.848 0 0 0-.85.85v1c0-.471.379-.85.85-.85h15.3c.471 0 .85.379.85.85v-1a.848.848 0 0 0-.85-.85zm-5.4-6C1.645 1 1 1.646 1 2.45v1C1 2.645 1.646 2 2.45 2h26.1c.804 0 1.45.646 1.45 1.45v-1C30 1.645 29.354 1 28.55 1z" fill="#f4f4f7" opacity=".2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect style="opacity:.2" width="29" height="29" x="-31" y="-30" rx="1.45" ry="1.45" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#d64141" width="29" height="29" x="-30" y="-30" rx="1.45" ry="1.45" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#17191e" width="23" height="23" x="-27" y="-27" rx="1.15" ry="1.15" transform="matrix(0 -1 -1 0 0 0)"/><rect style="opacity:.2" width="17" height="17" x="-25" y="-24" rx=".85" ry=".85" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#dfa46d" width="17" height="17" x="-24" y="-24" rx=".85" ry=".85" transform="matrix(0 -1 -1 0 0 0)"/><path style="opacity:.3" d="M14 7v7H7v3h7v7h3v-7h7v-3h-7V7z"/><path style="opacity:.1;fill:#f4f4f7" d="M4 25.85v1c0 .637.513 1.15 1.15 1.15h20.7c.637 0 1.15-.513 1.15-1.15v-1c0 .637-.513 1.15-1.15 1.15H5.15C4.513 27 4 26.487 4 25.85z"/><path style="opacity:.2" d="M5.15 4C4.513 4 4 4.513 4 5.15v1C4 5.513 4.513 5 5.15 5h20.7c.637 0 1.15.513 1.15 1.15v-1C27 4.513 26.487 4 25.85 4H5.15z"/><path style="fill:#f4f4f7;opacity:.2" d="M7.85 7c-.471 0-.85.379-.85.85v1c0-.471.379-.85.85-.85h15.3c.471 0 .85.379.85.85v-1c0-.471-.379-.85-.85-.85H7.85zM2.45 1C1.645 1 1 1.646 1 2.45v1C1 2.645 1.646 2 2.45 2h26.1c.804 0 1.45.646 1.45 1.45v-1C30 1.645 29.354 1 28.55 1H2.45z"/></svg>

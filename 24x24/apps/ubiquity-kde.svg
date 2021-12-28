@@ -1,28 +1,40 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="3.496" x2="18.048" y1="60.001" y2="45.449">
-        <stop offset="0" stop-color="#02db96"/>
-        <stop offset="1" stop-color="#13d39b"/>
-    </linearGradient>
-    <filter id="c" color-interpolation-filters="sRGB" height="1.084" width="1.111" x="-.056" y="-.042">
-        <feGaussianBlur stdDeviation=".372"/>
-    </filter>
-    <g transform="translate(-2.306 -44.261)">
-        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="translate(2.306 44.261) scale(.26458)" width="55" x="4.5" y="4.5"/>
-        <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="3.496" y="45.452"/>
-        <g fill="#089168">
-            <rect filter="url(#c)" height="4" ry="2" transform="translate(2.306 44.261) scale(.26458)" width="16" x="24" y="38.944"/>
-            <rect filter="url(#c)" height="4" ry="2" transform="scale(.26459) rotate(45 -110.862 265.355)" width="11" x="-56.746" y="112.15"/>
-            <rect filter="url(#c)" height="4" ry="2" transform="scale(-.26459 .26459) rotate(45 -266.026 -109.243)" width="11" x="105.15" y="-49.746"/>
-            <rect filter="url(#c)" height="4" ry="2" transform="rotate(-90 41.179 .126) scale(.26458)" width="16" x="-48.953" y="-116.47"/>
-        </g>
-        <g fill="#f4f4f7" stroke-width=".265">
-            <rect height="1.058" ry=".529" width="4.233" x="8.656" y="54.349"/>
-            <rect height="1.058" ry=".529" transform="rotate(45)" width="2.91" x="43.069" y="29.697"/>
-            <rect height="1.058" ry=".529" transform="scale(-1 1) rotate(45)" width="2.91" x="27.845" y="44.922"/>
-            <rect height="1.058" ry=".529" transform="rotate(-90)" width="4.233" x="-54.041" y="10.237"/>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="matrix(.26458 0 0 .26458 37.098 44.126)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#02db96" offset="0"/>
+   <stop stop-color="#13d39b" offset="1"/>
+  </linearGradient>
+  <filter id="filter1311" x="-.055746" y="-.042144" width="1.1115" height="1.0843" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.37163933"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-2.3057 -44.261)">
+  <rect transform="matrix(.26458 0 0 .26458 2.3057 44.261)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+  <rect x="3.4963" y="45.452" width="14.552" height="14.552" ry="3.9687" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width=".72611"/>
+  <g fill="#089168">
+   <rect transform="matrix(.26458 0 0 .26458 2.3057 44.261)" x="24" y="38.944" width="16" height="4" ry="2" filter="url(#filter1311)" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(.18709 .18709 -.18709 .18709 41.054 41.305)" x="-56.746" y="112.15" width="11" height="4" ry="2" filter="url(#filter1311)" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(-.18709 .18709 .18709 .18709 41.054 41.305)" x="105.15" y="-49.746" width="11" height="4" ry="2" filter="url(#filter1311)" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(0 -.26458 .26458 0 41.053 41.305)" x="-48.953" y="-116.47" width="16" height="4" ry="2" filter="url(#filter1311)" style="paint-order:stroke fill markers"/>
+  </g>
+  <g fill="#fff" stroke-width=".26458">
+   <rect x="8.6556" y="54.349" width="4.2333" height="1.0583" ry=".52917" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(45)" x="43.069" y="29.697" width="2.9104" height="1.0583" ry=".52917" style="paint-order:stroke fill markers"/>
+   <rect transform="matrix(-.70711 .70711 .70711 .70711 0 0)" x="27.845" y="44.922" width="2.9104" height="1.0583" ry=".52917" style="paint-order:stroke fill markers"/>
+   <rect transform="rotate(-90)" x="-54.041" y="10.237" width="4.2333" height="1.0583" ry=".52917" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
 </svg>

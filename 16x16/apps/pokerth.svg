@@ -1,12 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <rect fill="#c12d25" height="16" rx="8" width="16"/>
-    <path d="M8 0c-.34 0-.672.028-1 .068v5.518L3.096 1.682a7.995 7.995 0 0 0-1.414 1.414L5.586 7H.068C.028 7.328 0 7.66 0 8s.028.672.068 1h5.518l-3.904 3.904c.41.53.885 1.004 1.414 1.414L7 10.414v5.518c.328.04.66.068 1 .068s.672-.028 1-.068v-5.518l3.904 3.904a7.995 7.995 0 0 0 1.414-1.414L10.414 9h5.518c.04-.328.068-.66.068-1s-.028-.672-.068-1h-5.518l3.904-3.904a7.995 7.995 0 0 0-1.414-1.414L9 5.586V.068A8.11 8.11 0 0 0 8 0z" fill="#f4f4f7"/>
-    <rect fill="#ffcb05" height="14" rx="7" transform="matrix(0 -1 -1 0 0 0)" width="14" x="-15" y="-15"/>
-    <rect fill="#c12d25" height="12" rx="6" transform="matrix(0 -1 -1 0 0 0)" width="12" x="-14" y="-14"/>
-    <g fill="#f4f4f7cf7">
-        <path d="M5 6h1v5H5z"/>
-        <path d="M7 6v1H4V6zM8 6h1v5H8z"/>
-        <path d="M11 8v1H8V8z"/>
-        <path d="M10 6h1v5h-1z"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect style="fill:#c12d25" width="16" height="16" rx="8" ry="8"/><path style="fill:#f4f4f7" d="M8 0c-.34 0-.672.028-1 .068v5.518L3.096 1.682a7.995 7.995 0 0 0-1.414 1.414L5.586 7H.068C.028 7.328 0 7.66 0 8s.028.672.068 1h5.518l-3.904 3.904c.41.53.885 1.004 1.414 1.414L7 10.414v5.518c.328.04.66.068 1 .068s.672-.028 1-.068v-5.518l3.904 3.904a7.995 7.995 0 0 0 1.414-1.414L10.414 9h5.518c.04-.328.068-.66.068-1s-.028-.672-.068-1h-5.518l3.904-3.904a7.995 7.995 0 0 0-1.414-1.414L9 5.586V.068A8.11 8.11 0 0 0 8 0z"/><rect style="fill:#ffcb05" width="14" height="14" x="-15" y="-15" rx="7" ry="7" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#c12d25" width="12" height="12" x="-14" y="-14" rx="6" ry="6" transform="matrix(0 -1 -1 0 0 0)"/><path style="fill:#fffcf7" d="M4 5h1v5H4z" transform="translate(1 1)"/><path style="fill:#fffcf7" transform="rotate(90 0 1)" d="M5-6h1v3H5z"/><path style="fill:#fffcf7" d="M7 5h1v5H7z" transform="translate(1 1)"/><path style="fill:#fffcf7" transform="rotate(90 0 1)" d="M7-10h1v3H7z"/><path style="fill:#fffcf7" d="M9 5h1v5H9z" transform="translate(1 1)"/></svg>

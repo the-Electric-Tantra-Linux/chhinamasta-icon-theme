@@ -1,18 +1,1 @@
-<svg enable-background="new 0 0 1024 1024" height="64" image-rendering="optimizeSpeed" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.489" y2="4.489">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <g stroke-linecap="round">
-        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-        <rect fill="url(#b)" height="55.001" ry="15" width="55.001" x="4.5" y="4.5"/>
-        <g stroke-linejoin="round" stroke-width="2">
-            <path d="M25.893 13a3.385 3.385 0 0 0-3.393 3.393v21.036a3.385 3.385 0 0 0 3.393 3.392h21.714A3.385 3.385 0 0 0 51 37.43V16.393A3.385 3.385 0 0 0 47.607 13zm4.071 4.75h13.572c1.127 0 2.035.908 2.035 2.036v14.25a2.031 2.031 0 0 1-2.035 2.035H29.964a2.031 2.031 0 0 1-2.035-2.035v-14.25c0-1.128.908-2.036 2.035-2.036z" fill="#1c9ef1"/>
-            <path d="M16.393 23.179A3.385 3.385 0 0 0 13 26.57v21.036A3.385 3.385 0 0 0 16.393 51h21.714a3.385 3.385 0 0 0 3.393-3.393V26.571a3.385 3.385 0 0 0-3.393-3.392zm4.071 4.75h13.572c1.128 0 2.035.907 2.035 2.035v14.25a2.031 2.031 0 0 1-2.035 2.036H20.464a2.031 2.031 0 0 1-2.035-2.036v-14.25c0-1.128.908-2.035 2.035-2.035z" fill="#fd9206"/>
-            <path d="M36.071 36.071H41.5v4.75h-5.429z" fill="#1c9ef1"/>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect fill="#407ec2" width="16" height="16" rx=".857" ry=".857"/><path style="opacity:.2" d="M5 5v.5h6V5H7z"/><path style="fill:#f7870d" d="M10.25 13c.415 0 .75-.335.75-.75v-6.5a.748.748 0 0 0-.75-.75h-6.5a.748.748 0 0 0-.75.75v6.5c0 .415.334.75.75.75zM9 11H5V7h4z"/><path style="fill:#ffe270" d="M12.25 11c.415 0 .75-.335.75-.75v-6.5a.748.748 0 0 0-.75-.75h-6.5a.748.748 0 0 0-.75.75V5h6v4H7V7H5v3.25c0 .415.335.75.75.75z"/></svg>

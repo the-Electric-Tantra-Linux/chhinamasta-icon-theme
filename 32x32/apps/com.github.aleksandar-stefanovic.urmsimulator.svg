@@ -1,15 +1,1 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <rect height="28" opacity=".2" rx="1.4" width="28" x="2" y="3"/>
-    <rect fill="#bc5ae7" height="28" rx="1.4" width="28" x="2" y="2"/>
-    <g fill="none" stroke-linecap="round" stroke-width="2">
-        <path d="M10 12.988v5.9c0 1.581-1.001 2.125-2 2.1-.936.003-2-.499-2-2.1v-5.9" opacity=".2" stroke="#000" stroke-linejoin="bevel"/>
-        <path d="M10 12v5.899c0 1.582-1.001 2.126-2 2.1-.936.004-2-.498-2-2.1V12" stroke="#f4f4f7" stroke-linejoin="bevel"/>
-        <path d="m17 20.988-2-3m-1.9-1s3.9.574 3.9-2-3.986-1.914-3.986-1.914m0 7.9v-7.9" opacity=".2" stroke="#000"/>
-        <path d="m17 20-2-3m-1.9-1s3.9.574 3.9-2-3.986-1.914-3.986-1.914m0 7.9v-7.9" stroke="#f4f4f7"/>
-        <g stroke-linejoin="round">
-            <path d="M26 20.974v-7.986m-6 0 3 4 3-4m-6 7.986v-7.986" opacity=".2" stroke="#000"/>
-            <path d="M26 19.986V12m-6 0 3 4 3-4m-6 7.986V12" stroke="#f4f4f7"/>
-        </g>
-    </g>
-    <path d="M3.4 2C2.625 2 2 2.625 2 3.4v1C2 3.625 2.625 3 3.4 3h25.2c.775 0 1.4.625 1.4 1.4v-1c0-.775-.625-1.4-1.4-1.4z" fill="#f4f4f7" opacity=".2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect style="opacity:.2" width="28" height="28" x="2" y="3" rx="1.4" ry="1.4"/><rect style="fill:#bc5ae7" width="28" height="28" x="2" y="2" rx="1.4" ry="1.4"/><path style="opacity:.2;fill:none;stroke:#000;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" d="M10 12.988v5.9c0 1.581-1.001 2.125-2 2.1-.936.003-2-.499-2-2.1v-5.9"/><path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round;stroke-linejoin:bevel" d="M10 12v5.899c0 1.582-1.001 2.126-2 2.1-.936.004-2-.498-2-2.1V12"/><path style="opacity:.2;fill:none;stroke:#000;stroke-width:2;stroke-linecap:round" d="m17 20.988-2-3m-1.9-1s3.9.574 3.9-2-3.986-1.914-3.986-1.914m0 7.9v-7.9"/><path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round" d="m17 20-2-3m-1.9-1s3.9.574 3.9-2-3.986-1.914-3.986-1.914m0 7.9v-7.9"/><path style="opacity:.2;fill:none;stroke:#000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M26 20.974v-7.986m-6 0 3 4 3-4m-6 7.986v-7.986"/><path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M26 19.986V12m-6 0 3 4 3-4m-6 7.986V12"/><path style="fill:#f4f4f7;opacity:.2" d="M3.4 2C2.625 2 2 2.625 2 3.4v1C2 3.625 2.625 3 3.4 3h25.2c.775 0 1.4.625 1.4 1.4v-1c0-.775-.625-1.4-1.4-1.4H3.4z"/></svg>

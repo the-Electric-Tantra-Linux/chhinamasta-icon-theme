@@ -1,1 +1,22 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027"><feGaussianBlur stdDeviation=".61875"/></filter><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.190601" x2="15.742397" y1="15.739753" y2="1.187957"><stop offset="0" stop-color="#dee0e2"/><stop offset="1" stop-color="#f1f3f5" stop-opacity=".996078"/></linearGradient><rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" stroke-linecap="round" stroke-width="2.74436" transform="scale(.26457812)" width="55" x="4.5" y="4.5"/><rect fill="url(#b)" height="14.551796" ry="3.968672" stroke-linecap="round" stroke-width=".726098" width="14.551796" x="1.190602" y="1.190602"/><path d="m7.7566 11.376-.44574-1.465h-2.2464l-.4471 1.4663h-1.4065l2.1744-6.186h1.5968l2.1825 6.186h-1.4079m-.7583-2.5617c-.41313-1.3291-.64551-2.0792-.69851-2.2559a7.083 7.083 0 0 1 -.11008-.41177c-.09241.36013-.35877 1.2489-.79636 2.6677h1.6049m5.8273 2.5603-.24869-.63872h-.03262c-.21744.27179-.44031.46205-.66997.56805-.22831.10464-.52592.15628-.8942.15628-.45118 0-.80859-.1291-1.0695-.38731-.2582-.2582-.38731-.62648-.38731-1.1048 0-.5001.17395-.86702.52185-1.1035.35061-.23918.87925-.371 1.5846-.39546l.81674-.027179v-.2052c0-.477-.24462-.71618-.73384-.71618-.37508 0-.8181.11415-1.3264.3411l-.42535-.86838a3.8296 3.8296 0 0 1 1.8034-.42536c.63192 0 1.1171.13726 1.4541.41313.33702.27587.50554.69307.50554 1.2557v3.1392h-.89692m-.38051-2.1825-.49602.016308c-.37372.010872-.65231.07882-.83441.20249-.18346.12367-.27451.31256-.27451.56533 0 .36149.20792.54359.62377.54359.29762 0 .53543-.08697.7121-.2582a.89964.89964 0 0 0 .26908-.6822v-.38731" opacity=".6" stroke-width="1.0002"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient887" x1="8.3364" x2=".71961" y1="15.169" y2=".62653" gradientTransform="matrix(3.4646 0 0 3.4646 2.6662 2.6662)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5096e6" offset="0"/>
+   <stop stop-color="#2d64b9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <path transform="scale(.26458)" d="m44.166 59.5h2.334c7.202 0 13-5.798 13-13v-29c0-7.202-5.798-13-13-13h-20.746l18.412 55z" fill="#f0f0f5" stroke-opacity=".95294" stroke-width=".31428"/>
+ <text x="6.7660055" y="12.142981" fill="#2d64b9" font-family="AkrutiMal1" font-size="6.4483px" font-weight="bold" letter-spacing="0px" stroke-width=".16121" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="6.7660055" y="12.142981" fill="#2d64b9" font-family="AkrutiMal1" font-size="6.4483px" font-weight="bold" stroke-width=".16121" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">文</tspan></text>
+ <path transform="scale(.26458)" d="m44.166 59.5-18.412-55h-8.2539c-7.202 0-13 5.798-13 13v29c0 7.202 5.798 13 13 13h26.666z" fill="url(#linearGradient887)" stroke-opacity=".95294" stroke-width=".31428"/>
+ <path d="m7.0801 11.137-0.38497-1.2653h-1.9401l-0.38614 1.2664h-1.2147l1.8779-5.3426h1.3791l1.8849 5.3426h-1.2159m-0.65491-2.2124c-0.3568-1.1479-0.5575-1.7957-0.60327-1.9483-0.03525-0.11756-0.06696-0.23616-0.09507-0.35563-0.07981 0.31103-0.30985 1.0786-0.68778 2.304h1.3861" fill="#fafafa" font-size="24px" font-weight="700" letter-spacing="0" stroke-width=".86383" word-spacing="0"/>
+</svg>

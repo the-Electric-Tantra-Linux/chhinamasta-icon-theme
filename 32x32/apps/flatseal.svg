@@ -1,28 +1,43 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="29.899" x2="29.899" y1="62.095" y2="2.094">
-        <stop offset="0" stop-color="#3889e9"/>
-        <stop offset="1" stop-color="#5ea5fb"/>
-    </linearGradient>
-    <linearGradient id="e" gradientUnits="userSpaceOnUse" x1="32.405" x2="32.405" y1="47.428" y2="16.37">
-        <stop offset="0" stop-color="#5c5c5c"/>
-        <stop offset="1" stop-color="#8f8f8f"/>
-    </linearGradient>
-    <linearGradient id="d" gradientUnits="userSpaceOnUse" x1="32.001" x2="32.001" y1="39.001" y2="25.279">
-        <stop offset="0" stop-color="#d28360"/>
-        <stop offset="1" stop-color="#d7ad8e"/>
-    </linearGradient>
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55.001" ry="15" width="55.001" x="4.5" y="4.5"/>
-    <circle cx="32.017" cy="31.998" fill="none" r="30"/>
-    <g stroke-width="1.417">
-        <path d="M32 23.5a8.5 8.5 0 0 0-8.5 8.5 8.5 8.5 0 0 0 8.5 8.5 8.5 8.5 0 0 0 8.5-8.5 8.5 8.5 0 0 0-8.5-8.5zm0 2.833A5.667 5.667 0 0 1 37.667 32 5.667 5.667 0 0 1 32 37.667 5.667 5.667 0 0 1 26.333 32 5.667 5.667 0 0 1 32 26.333z" fill="url(#d)"/>
-        <path d="M32 15a17 17 0 0 0-17 17 17 17 0 0 0 17 17h17.143L52 46H41.641a17 17 0 0 0 7.36-14 17 17 0 0 0-17-17zm0 9.916A7.083 7.083 0 0 1 39.084 32 7.083 7.083 0 0 1 32 39.084 7.083 7.083 0 0 1 24.916 32 7.083 7.083 0 0 1 32 24.916z" fill="url(#e)"/>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.34 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient944" x1="32.405" x2="32.405" y1="47.428" y2="16.37" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5c5c5c" offset="0"/>
+   <stop stop-color="#8f8f8f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient952" x1="32.414" x2="32.414" y1="37.157" y2="27.471" gradientTransform="matrix(1.4167 0 0 1.4167 -13.92 -13.639)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#d28360" offset="0"/>
+   <stop stop-color="#d7ad8e" offset="1"/>
+  </linearGradient>
+  <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="matrix(1 0 0 1 131.5 -.51036)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#dee0e2" offset="0"/>
+   <stop stop-color="#f1f3f5" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="matrix(1 0 0 1 -.00022771 -.00022771)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+ <rect x="4.4996" y="4.4996" width="55.001" height="55.001" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+ <circle cx="32.017" cy="31.998" r="30" fill-opacity="0" stroke-width="1.5715"/>
+ <circle cx="32.017" cy="31.998" r="0" fill="url(#b)" stroke-width="1.5715"/>
+ <g stroke-width="1.4167">
+  <path d="m32 23.5a8.5 8.5 0 0 0-8.5 8.5 8.5 8.5 0 0 0 8.5 8.5 8.5 8.5 0 0 0 8.5-8.5 8.5 8.5 0 0 0-8.5-8.5zm0 2.8333a5.6667 5.6667 0 0 1 5.6667 5.6667 5.6667 5.6667 0 0 1-5.6667 5.6667 5.6667 5.6667 0 0 1-5.6667-5.6667 5.6667 5.6667 0 0 1 5.6667-5.6667z" fill="url(#linearGradient952)" style="paint-order:normal"/>
+  <path d="m32 15a17 17 0 0 0-17 17 17 17 0 0 0 17 17h17.143l2.8574-3h-10.359a17 17 0 0 0 7.3594-14 17 17 0 0 0-17-17zm0 9.916a7.0833 7.0833 0 0 1 7.084 7.084 7.0833 7.0833 0 0 1-7.084 7.084 7.0833 7.0833 0 0 1-7.084-7.084 7.0833 7.0833 0 0 1 7.084-7.084z" fill="url(#linearGradient944)" style="paint-order:normal"/>
+ </g>
+ <circle cx="-1321.4" cy="-1256" r="0" fill="#5e4aa6"/>
+ <circle cx="-1231.9" cy="-1262" r="0" fill="#5e4aa6"/>
 </svg>

@@ -1,15 +1,5 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#32d7ff"/>
-        <stop offset="1" stop-color="#329bff"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
-    <g fill="#f4f4f7">
-        <path d="M29.605 41.12c-6.585 0-11.942-5.357-11.942-11.942s5.357-11.94 11.942-11.94 11.942 5.355 11.942 11.94c0 6.585-5.357 11.942-11.942 11.942zm.018-21.882c-5.482 0-9.941 4.458-9.941 9.94 0 5.482 4.46 9.943 9.941 9.943 5.483 0 9.944-4.461 9.944-9.944 0-5.48-4.46-9.939-9.944-9.939z"/>
-        <path d="M45.287 46.762c-.26 0-.518-.096-.722-.29l-8.369-7.81a1.052 1.052 0 0 1 1.444-1.53l8.37 7.816a1.053 1.053 0 0 1-.723 1.814z"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+    <rect style="fill:#0090ef" width="15" height="15" x="1" y="1" rx="7.5" ry="7.5"/>
+    <path style="fill:#f4f4f7" d="M9 5a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3zm0 1a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z"/>
+    <path style="fill:none;stroke:#f4f4f7;stroke-width:1px;stroke-linecap:round" d="m5 12 2-2"/>
 </svg>

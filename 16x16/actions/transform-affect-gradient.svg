@@ -1,8 +1,10 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <g fill="#f4f4f7">
-        <path d="M2 3v3h10V3z" opacity=".3"/>
-        <path d="M5 3v3h7V3z" opacity=".3"/>
-        <path d="M8 3v3h4V3z" opacity=".3"/>
-        <path d="M10 3v3h2V3zm1 6v2H9v2h2v2l4-3zm-9 2v2h2v-2zm3 0v2h3v-2zM2 7v1h7v1h1V7zm0-6v1h11v7h1V1z"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <defs id="defs3051">
+        <style type="text/css" id="current-color-scheme">
+            .ColorScheme-Text{color:#8b9cbe}
+        </style>
+    </defs>
+    <path d="M2 6V3h11v8h-3V6z" style="fill:currentColor;fill-opacity:.5;stroke:none" class="ColorScheme-Text"/>
+    <path d="M2 2v1h11v8h1V2H2m0 4v1h7v4h1V6H2" style="fill:currentColor;fill-opacity:1;stroke:none" class="ColorScheme-Text"/>
+    <path d="m426.88 546.12-.707-.707 1.621-1.621h-4.076v-1h4.076l-1.621-1.621.707-.707 2.828 2.828-.707.707z" style="fill:#1d99f3" transform="translate(-421.71 -531.79)"/>
 </svg>

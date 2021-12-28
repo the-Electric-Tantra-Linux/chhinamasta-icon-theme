@@ -1,6 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M13 3.964 16 2v11l-3-1.964z" fill="#1f56a8"/>
-    <rect fill="#1c6bdd" height="13" rx="1.529" width="13" y="1"/>
-    <path d="M1.65 1.41h13.176v13.176H1.65z" fill="none"/>
-    <path d="M4 4v7h3.332C8.252 11 9 9.765 9 9c0-.367-.175-1.225-.455-1.5C8.825 7.225 9 6.367 9 6c0-.765-.747-2-1.668-2zm1 1h2.332C7.72 5 8 5.471 8 6s-.28 1-.668 1H5zm0 3h2.332C7.72 8 8 8.431 8 9c0 .512-.28 1-.668 1H5z" fill="#f4f4f7"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><path style="fill:#1f56a8" d="M13 3.964 16 2v11l-3-1.964z"/><rect style="fill:#1c6bdd" width="13" height="13" y="1" rx="1.529" ry="1.529"/><path style="fill:none" d="M1.65 1.41h13.176v13.176H1.65z"/><path style="fill:#f4f4f7" d="M4 4v7h3.332C8.252 11 9 9.765 9 9c0-.367-.175-1.225-.455-1.5C8.825 7.225 9 6.367 9 6c0-.765-.747-2-1.668-2zm1 1h2.332C7.72 5 8 5.471 8 6s-.28 1-.668 1H5zm0 3h2.332C7.72 8 8 8.431 8 9c0 .512-.28 1-.668 1H5z"/></svg>

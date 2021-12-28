@@ -1,15 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <g fill-rule="evenodd">
-        <path d="M22 11.5c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10 10 4.477 10 10" opacity=".2"/>
-        <path d="M22 11c0 5.523-4.477 10-10 10S2 16.523 2 11 6.477 1 12 1s10 4.477 10 10" fill="#616161"/>
-        <path d="M12 1C6.477 1 2 5.477 2 11c0 .084.004.167.006.25C2.139 5.843 6.56 1.5 12 1.5s9.861 4.343 9.994 9.75c.002-.083.006-.166.006-.25 0-5.523-4.477-10-10-10z" fill="#f4f4f7" opacity=".1"/>
-    </g>
-    <circle cx="12" cy="9.5" opacity=".2" r="6"/>
-    <circle cx="12" cy="9" fill="#f4f4f7" r="6"/>
-    <path d="M12 9V5m0 4h4" fill="none" stroke="#17191e" stroke-linecap="round" stroke-width="2"/>
-    <circle cx="12" cy="9" fill="#818181" r="2"/>
-    <path d="M7 15s1.5 2 5 2 4.894-2 4.894-2" fill="none" stroke="#8b9cbe" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    <path d="M17 15.497c-.048.025-.096.046-.144.071-.9.865-2.488 1.932-4.856 1.932a7.138 7.138 0 0 1-5-1.992V20.5c0 1.108.892 2 2 2h6c1.108 0 2-.892 2-2z" opacity=".2"/>
-    <path d="M17 14.997c-.048.025-.096.046-.144.071C15.956 15.933 14.368 17 12 17a7.138 7.138 0 0 1-5-1.992V20c0 1.108.892 2 2 2h6c1.108 0 2-.892 2-2z" fill="#ffa746"/>
-    <path d="M9 18h6v1H9zm0 2h4v1H9z" opacity=".3"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path style="opacity:.2;fill-rule:evenodd" d="M22 11.5c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10 10 4.477 10 10"/><path style="fill:#616161;fill-rule:evenodd" d="M22 11c0 5.523-4.477 10-10 10S2 16.523 2 11 6.477 1 12 1s10 4.477 10 10"/><path style="opacity:.1;fill:#f4f4f7;fill-rule:evenodd" d="M12 1C6.477 1 2 5.477 2 11c0 .084.004.167.006.25C2.139 5.843 6.56 1.5 12 1.5c5.44 0 9.861 4.343 9.994 9.75.002-.083.006-.166.006-.25 0-5.523-4.477-10-10-10z"/><circle style="opacity:.2" cx="12" cy="9.5" r="6"/><circle style="fill:#f4f4f7" cx="12" cy="9" r="6"/><path style="fill:none;stroke:#17191e;stroke-width:2;stroke-linecap:round" d="M12 9V5M12 9h4"/><circle style="fill:#818181" cx="12" cy="9" r="2"/><path style="fill:none;stroke:#8b9cbe;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M7 15s1.5 2 5 2 4.894-2 4.894-2"/><path style="opacity:.2" d="M17 15.497c-.048.025-.096.046-.144.071-.9.865-2.488 1.932-4.856 1.932a7.138 7.138 0 0 1-5-1.992V20.5c0 1.108.892 2 2 2h6c1.108 0 2-.892 2-2z"/><path style="fill:#ffa746" d="M17 14.997c-.048.025-.096.046-.144.071C15.956 15.933 14.368 17 12 17a7.138 7.138 0 0 1-5-1.992V20c0 1.108.892 2 2 2h6c1.108 0 2-.892 2-2z"/><path style="opacity:.3" d="M9 18h6v1H9zM9 20h4v1H9z"/></svg>

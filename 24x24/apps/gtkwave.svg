@@ -1,11 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <rect height="19" opacity=".2" rx=".95" width="19" x="2" y="2.5"/>
-    <rect fill="#17191e" height="19" rx=".95" width="19" x="2" y="2"/>
-    <path d="M5 2v3H2v1h3v3H2v1h3v3H2v1h3v3H2v1h3v3h1v-3h3v3h1v-3h3v3h1v-3h3v3h1v-3h3v-1h-3v-3h3v-1h-3v-3h3V9h-3V6h3V5h-3V2h-1v3h-3V2h-1v3h-3V2H9v3H6V2zm1 4h3v3H6zm4 0h3v3h-3zm4 0h3v3h-3zm-8 4h3v3H6zm4 0h3v3h-3zm4 0h3v3h-3zm-8 4h3v3H6zm4 0h3v3h-3zm4 0h3v3h-3z" fill="#57c400" opacity=".2"/>
-    <path d="M19.5 19h-2.285L14 5h-2.5m-8 14h2.785L9.5 5H12" fill="none" opacity=".2" stroke="#000" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M19.5 18.5h-2.285L14 4.5h-2.5m-8 14h2.785L9.5 4.5H12" fill="none" stroke="#85fc0e" stroke-linecap="round" stroke-linejoin="round"/>
-    <g fill="#f4f4f7">
-        <path d="M2.95 2a.947.947 0 0 0-.95.95v.5c0-.527.423-.95.95-.95h17.1c.527 0 .95.423.95.95v-.5a.947.947 0 0 0-.95-.95z" opacity=".1"/>
-        <path d="M9.5 4a.5.5 0 0 0-.488.389L5.887 18H3.5a.5.5 0 0 0-.44.75.5.5 0 0 1 .44-.25h2.387L9.012 4.889A.5.5 0 0 1 9.5 4.5H14a.5.5 0 0 1 .488.389L17.613 18.5H19.5a.5.5 0 0 1 .44.25.5.5 0 0 0-.44-.75h-1.887L14.488 4.389A.5.5 0 0 0 14 4z" opacity=".2"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><rect style="opacity:.2" width="19" height="19" x="2" y="2.5" rx=".95" ry=".95"/><rect style="fill:#17191e" width="19" height="19" x="2" y="2" rx=".95" ry=".95"/><path style="opacity:.2;fill:#57c400" d="M5 2v3H2v1h3v3H2v1h3v3H2v1h3v3H2v1h3v3h1v-3h3v3h1v-3h3v3h1v-3h3v3h1v-3h3v-1h-3v-3h3v-1h-3v-3h3V9h-3V6h3V5h-3V2h-1v3h-3V2h-1v3h-3V2H9v3H6V2H5zm1 4h3v3H6V6zm4 0h3v3h-3V6zm4 0h3v3h-3V6zm-8 4h3v3H6v-3zm4 0h3v3h-3v-3zm4 0h3v3h-3v-3zm-8 4h3v3H6v-3zm4 0h3v3h-3v-3zm4 0h3v3h-3v-3z"/><path style="opacity:.2;fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round" d="M19.5 19h-2.285L14 5h-2.5m-8 14h2.785L9.5 5H12"/><path style="fill:none;stroke:#85fc0e;stroke-linecap:round;stroke-linejoin:round" d="M19.5 18.5h-2.285L14 4.5h-2.5m-8 14h2.785L9.5 4.5H12"/><path style="fill:#f4f4f7;opacity:.1" d="M2.95 2a.947.947 0 0 0-.95.95v.5c0-.527.423-.95.95-.95h17.1c.527 0 .95.423.95.95v-.5a.947.947 0 0 0-.95-.95H2.95z"/><path style="opacity:.2;fill:#f4f4f7" d="M9.5 4a.5.5 0 0 0-.488.389L5.887 18H3.5a.5.5 0 0 0-.44.75.5.5 0 0 1 .44-.25h2.387L9.012 4.889A.5.5 0 0 1 9.5 4.5H14a.5.5 0 0 1 .488.389L17.613 18.5H19.5a.5.5 0 0 1 .44.25.5.5 0 0 0-.44-.75h-1.887L14.488 4.389A.5.5 0 0 0 14 4H9.5z"/></svg>

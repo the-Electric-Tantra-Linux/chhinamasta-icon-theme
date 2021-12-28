@@ -28,6 +28,6 @@ sed -i 's/4877b1/0badff/g' **/*.svg
 
 sed -i 's/5294e2/00caff/g' **/*.svg
 
-sed -i 's/value_dark/#3c3f4c/g' **/*.svg
+sed -i 's/value_dark/3c3f4c/g' **/*.svg
 
-sed -i 's/value_light/#555e70/g' **/*.svg
+sed -i 's/value_light/555e70/g' **/*.svg

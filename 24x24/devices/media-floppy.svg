@@ -1,10 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <rect height="20" opacity=".2" rx="1" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-22.5" y="-22"/>
-    <rect fill="#4f4f4f" height="20" rx="1" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-22" y="-22"/>
-    <rect height="9" opacity=".2" rx="1" width="16" x="4" y="11.5"/>
-    <rect fill="#f4f4f7" height="9" rx="1" width="16" x="4" y="11"/>
-    <path d="M20 17.5V19c0 .554-.446 1-1 1H5c-.554 0-1-.446-1-1v-1.5z" fill="#ffae3f"/>
-    <path d="M8 2.5v6c0 .554.446 1 1 1h10c.554 0 1-.446 1-1v-6zm7.5 1H18c.277 0 .5.223.5.5v3.5c0 .277-.223.5-.5.5h-2.5a.499.499 0 0 1-.5-.5V4c0-.277.223-.5.5-.5z" opacity=".2"/>
-    <path d="M8 2v6c0 .554.446 1 1 1h10c.554 0 1-.446 1-1V2zm7.5 1H18c.277 0 .5.223.5.5V7c0 .277-.223.5-.5.5h-2.5A.499.499 0 0 1 15 7V3.5c0-.277.223-.5.5-.5z" fill="#b7b7b7"/>
-    <path d="M3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".1"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><rect style="opacity:.2" width="20" height="20" x="-22.5" y="-22" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#4f4f4f" width="20" height="20" x="-22" y="-22" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><rect style="opacity:.2" width="16" height="9" x="4" y="11.5" rx="1" ry="1"/><rect style="fill:#f4f4f7" width="16" height="9" x="4" y="11" rx="1" ry="1"/><path style="fill:#ffae3f" d="M20 17.5V19c0 .554-.446 1-1 1H5c-.554 0-1-.446-1-1v-1.5z"/><path style="opacity:.2" d="M8 2.5v6c0 .554.446 1 1 1h10c.554 0 1-.446 1-1v-6zm7.5 1H18c.277 0 .5.223.5.5v3.5c0 .277-.223.5-.5.5h-2.5a.499.499 0 0 1-.5-.5V4c0-.277.223-.5.5-.5z"/><path style="fill:#b7b7b7" d="M8 2v6c0 .554.446 1 1 1h10c.554 0 1-.446 1-1V2zm7.5 1H18c.277 0 .5.223.5.5V7c0 .277-.223.5-.5.5h-2.5A.499.499 0 0 1 15 7V3.5c0-.277.223-.5.5-.5z"/><path style="opacity:.1;fill:#f4f4f7" d="M3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z"/></svg>

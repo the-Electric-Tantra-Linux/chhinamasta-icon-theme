@@ -1,15 +1,5 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.742" y1="15.74" y2="1.188">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
-    <g stroke-width=".529">
-        <path d="M7.011 4.101a.886.886 0 0 0-.628.256l-3.48 3.481a.898.898 0 0 0 0 1.256l3.48 3.481a.898.898 0 0 0 1.257 0l3.48-3.48a.898.898 0 0 0 0-1.257l-3.48-3.48A.886.886 0 0 0 7.01 4.1zm.003 1.455a.23.23 0 0 1 .163.067l2.68 2.68a.23.23 0 0 1 0 .327l-2.68 2.679a.23.23 0 0 1-.327 0l-2.679-2.68a.23.23 0 0 1 0-.326l2.68-2.68a.23.23 0 0 1 .163-.067z" fill="#8e8e8e"/>
-        <path d="M9.922 4.1a.886.886 0 0 0-.629.257l-3.48 3.481a.897.897 0 0 0 0 1.256l3.48 3.481a.898.898 0 0 0 1.257 0l3.48-3.48a.898.898 0 0 0 0-1.257l-3.48-3.48a.886.886 0 0 0-.628-.257z" fill="#e52e38"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+    <path style="fill:#8e8e8e" d="M6 2c-.314 0-.629.117-.864.352L.352 7.137c-.47.47-.47 1.256 0 1.726l4.785 4.784c.47.47 1.257.47 1.727 0l4.784-4.784c.47-.47.47-1.256 0-1.726L6.864 2.352A1.218 1.218 0 0 0 6 2z"/>
+    <rect style="fill:#f4f4f7" width="5.843" height="5.843" x="6.98" y="-1.51" rx=".318" ry=".318" transform="rotate(45)"/>
+    <path style="fill:#e52e38" d="M10 2c-.314 0-.629.117-.864.352L4.352 7.137c-.47.47-.47 1.256 0 1.726l4.785 4.784c.47.47 1.257.47 1.727 0l4.784-4.784c.47-.47.47-1.256 0-1.726l-4.784-4.785A1.218 1.218 0 0 0 10 2z"/>
 </svg>

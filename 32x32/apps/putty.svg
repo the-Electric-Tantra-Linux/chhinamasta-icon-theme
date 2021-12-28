@@ -1,15 +1,1 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <g transform="matrix(0 -1 -1 0 0 0)">
-        <rect height="13" opacity=".2" rx="1" width="17" x="-22" y="-26"/>
-        <rect fill="#8e8e8e" height="13" rx="1" width="17" x="-21" y="-26"/>
-        <rect height="21" opacity=".2" rx="1" width="17" x="-20" y="-30"/>
-        <rect fill="#4f4f4f" height="21" rx="1" width="17" x="-19" y="-30"/>
-        <path d="M-17-28h13v17h-13z" fill="#266ad7"/>
-        <rect height="13" opacity=".2" rx="1" width="17" x="-31" y="-19"/>
-        <rect fill="#8e8e8e" height="13" rx="1" width="17" x="-30" y="-19"/>
-        <rect height="21" opacity=".2" rx="1" width="17" x="-29" y="-23"/>
-        <rect fill="#4f4f4f" height="21" rx="1" width="17" x="-28" y="-23"/>
-        <path d="M-26-21h13v17h-13z" fill="#ffbe47"/>
-    </g>
-    <path d="M3 11c-.554 0-1 .446-1 1v1c0-.554.446-1 1-1h19c.554 0 1 .446 1 1v-1c0-.554-.446-1-1-1zm7-9c-.554 0-1 .446-1 1v1c0-.554.446-1 1-1h19c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".1"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><rect style="opacity:.2" width="17" height="13" x="-22" y="-26" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#8e8e8e" width="17" height="13" x="-21" y="-26" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><rect style="opacity:.2" width="17" height="21" x="-20" y="-30" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#4f4f4f" width="17" height="21" x="-19" y="-30" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#266ad7" width="13" height="17" x="-17" y="-28" rx="0" ry="0" transform="matrix(0 -1 -1 0 0 0)"/><rect style="opacity:.2" width="17" height="13" x="-31" y="-19" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#8e8e8e" width="17" height="13" x="-30" y="-19" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><rect style="opacity:.2" width="17" height="21" x="-29" y="-23" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#4f4f4f" width="17" height="21" x="-28" y="-23" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#ffbe47" width="13" height="17" x="-26" y="-21" rx="0" ry="0" transform="matrix(0 -1 -1 0 0 0)"/><path style="fill:#f4f4f7;opacity:.1" d="M3 11c-.554 0-1 .446-1 1v1c0-.554.446-1 1-1h19c.554 0 1 .446 1 1v-1c0-.554-.446-1-1-1H3zM10 2c-.554 0-1 .446-1 1v1c0-.554.446-1 1-1h19c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1H10z"/></svg>

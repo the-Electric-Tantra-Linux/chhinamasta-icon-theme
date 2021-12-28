@@ -1,13 +1,1 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <g transform="rotate(90)">
-        <rect height="19" opacity=".05" rx="1.5" stroke="#000" stroke-width="2" width="19" x="2" y="-30"/>
-        <rect height="19" opacity=".2" rx="1.5" width="19" x="2" y="-30"/>
-        <rect height="19" opacity=".05" rx="1.5" stroke="#000" stroke-width="2" width="19" x="11" y="-21"/>
-        <rect fill="#85aeff" height="19" rx="1.5" width="19" x="1" y="-30"/>
-    </g>
-    <path d="M14 7V6h12v1zm0 3V9h12v1zm0 3v-1h12v1zm0 3v-1h8v1z" opacity=".2"/>
-    <rect height="19" opacity=".2" rx="1.5" transform="rotate(90)" width="19" x="11" y="-21"/>
-    <rect fill="#a7baff" height="19" rx="1.5" transform="rotate(90)" width="19" x="10" y="-21"/>
-    <path d="M12.5 1c-.831 0-1.5.669-1.5 1.5v1c0-.831.669-1.5 1.5-1.5h16c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5zm-9 9c-.831 0-1.5.669-1.5 1.5v1c0-.831.669-1.5 1.5-1.5h16c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5z" fill="#fff" opacity=".1"/>
-    <path d="M5 16v-1h12v1zm0 3v-1h12v1zm0 3v-1h12v1zm0 3v-1h8v1z" opacity=".5"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><rect stroke="#000" stroke-width="2" opacity=".05" width="19" height="19" x="2" y="-30" rx="1.5" ry="1.5" transform="rotate(90)"/><rect opacity=".2" width="19" height="19" x="2" y="-30" rx="1.5" ry="1.5" transform="rotate(90)"/><rect stroke="#000" stroke-width="2" opacity=".05" width="19" height="19" x="11" y="-21" rx="1.5" ry="1.5" transform="rotate(90)"/><rect fill="#85aeff" width="19" height="19" x="1" y="-30" rx="1.5" ry="1.5" transform="rotate(90)"/><path opacity=".2" d="M14 7V6h12v1zM14 10V9h12v1zM14 13v-1h12v1zM14 16v-1h8v1z"/><rect opacity=".2" width="19" height="19" x="11" y="-21" rx="1.5" ry="1.5" transform="rotate(90)"/><rect fill="#a7baff" width="19" height="19" x="10" y="-21" rx="1.5" ry="1.5" transform="rotate(90)"/><path fill="#fff" opacity=".1" d="M12.5 1c-.831 0-1.5.669-1.5 1.5v1c0-.831.669-1.5 1.5-1.5h16c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5h-16zM3.5 10c-.831 0-1.5.669-1.5 1.5v1c0-.831.669-1.5 1.5-1.5h16c.831 0 1.5.669 1.5 1.5v-1c0-.831-.669-1.5-1.5-1.5h-16z"/><path opacity=".5" d="M5 16v-1h12v1zM5 19v-1h12v1zM5 22v-1h12v1zM5 25v-1h8v1z"/></svg>

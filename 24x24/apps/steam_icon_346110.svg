@@ -1,18 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="8.764" x2="11.163" y1="12.795" y2="14.062">
-        <stop offset="0"/>
-        <stop offset="1" stop-opacity="0"/>
-    </linearGradient>
-    <path d="M2 19h5l5-9.5 5 9.5h5L14.5 5.5h-5z" fill="#4f4f4f"/>
-    <path d="M9.5 5.5 2 19h.278L9.5 6h5l7.222 13H22L14.5 5.5z" fill="#f4f4f7" opacity=".2"/>
-    <path d="M4.25 15 7 19H2z" fill="#e33e31"/>
-    <path d="M19.75 15 22 19h-5z" fill="#e4be21"/>
-    <path d="m12 9.5 2.5-4h-5z" fill="#3c8cf8"/>
-    <path d="m10.685 12-2.106 4H12v-4z" fill="#4f4f4f"/>
-    <path d="m9.685 11-2.106 4H11v-4z" fill="url(#a)" opacity=".15" transform="translate(1 1)"/>
-    <path d="m9.5 6 2.5 4 2.5-4h-.312L12 9.5 9.813 6zM2.281 19 2 19.5h5l-.344-.5zm15.062 0-.344.5h5l-.28-.5z" opacity=".2"/>
-    <path d="m9.5 5.5.313.5h4.375l.312-.5zM4.25 15 2 19h.281l1.97-3.5L6.655 19H7zm15.5 0L17 19h.344l2.406-3.5 1.97 3.5H22z" fill="#f4f4f7" opacity=".2"/>
-    <path d="M12 9.5 7 19H2.277L2 19.5h5l5-9.5 5 9.5h5l-.278-.5H17z" opacity=".2"/>
-    <path d="m10.685 12-2.106 4h.263l1.843-3.5H12V12h-1.316z" fill="#f4f4f7" opacity=".2"/>
-    <path d="m8.842 16-.263.5H12V16z" opacity=".2"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><defs><linearGradient id="a" x1="19.528" x2="24.327" y1="30.591" y2="33.124" gradientTransform="translate(-1 -2.5) scale(.49999)" gradientUnits="userSpaceOnUse"><stop offset="0"/><stop offset="1" stop-opacity="0"/></linearGradient></defs><path fill="#4f4f4f" d="M2 19h5l5-9.5 5 9.5h5L14.5 5.5h-5z"/><path fill="#fff" opacity=".2" d="M9.5 5.5 2 19h.278L9.5 6h5l7.222 13H22L14.5 5.5h-5z"/><path fill="#e33e31" d="M4.25 15 7 19H2z"/><path fill="#e4be21" d="M19.75 15 22 19h-5z"/><path fill="#3c8cf8" d="m12 9.5 2.5-4h-5z"/><path fill="#4f4f4f" d="m10.685 12-2.106 4H12v-4h-1.315z"/><path fill="url(#a)" opacity=".15" d="m9.685 11-2.106 4H11v-4H9.685z" transform="translate(1 1)"/><path opacity=".2" d="m9.5 6 2.5 4 2.5-4h-.312L12 9.5 9.813 6H9.5zM2.281 19 2 19.5h5l-.344-.5H2.281zm15.062 0-.344.5h5l-.28-.5h-4.376z"/><path fill="#fff" opacity=".2" d="m9.5 5.5.313.5h4.375l.312-.5h-5zM4.25 15 2 19h.281l1.97-3.5L6.655 19H7l-2.75-4zm15.5 0L17 19h.344l2.406-3.5 1.97 3.5H22l-2.25-4z"/><path opacity=".2" d="M12 9.5 7 19H2.277L2 19.5h5l5-9.5 5 9.5h5l-.278-.5H17l-5-9.5z"/><path fill="#fff" opacity=".2" d="m10.685 12-2.106 4h.263l1.843-3.5H12V12h-1.316z"/><path opacity=".2" d="m8.842 16-.263.5H12V16H8.842z"/></svg>

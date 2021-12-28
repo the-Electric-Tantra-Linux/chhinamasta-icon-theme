@@ -1,18 +1,18 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-95.014" x2="-40.014" y1="52.864" y2="-2.136">
-        <stop offset="0" stop-color="#1d2123"/>
-        <stop offset="1" stop-color="#33393e" stop-opacity=".996"/>
-    </linearGradient>
-    <g stroke-linecap="round">
-        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-        <g transform="translate(99.514 6.626)">
-            <rect fill="url(#b)" height="55" ry="15" width="55" x="-95.014" y="-2.126"/>
-            <g fill="#fff" stroke-linejoin="round">
-                <path d="m-85.391 8.423-.688 2.069 6.983 2.8-6.983 2.801.688 2.07 8.982-3.804v-2.131zm8.97 12.582v2.145h10.718v-2.145zM-85.391 27.599l-.688 2.068 6.983 2.801-6.983 2.801.688 2.07 8.982-3.804v-2.131zm8.97 12.582v2.144h10.718v-2.144z"/>
-            </g>
-        </g>
-    </g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter1057-2" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053-0-2" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(31.986 -7.1356)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1d2123" offset="0"/>
+   <stop stop-color="#33393e" stop-opacity=".99608" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-2)" opacity=".3" stroke-linecap="round" stroke-width="2.78b9cbe"/>
+ <g transform="translate(99.514 6.6256)" stroke-linecap="round">
+  <rect x="-95.014" y="-2.1256" width="55" height="55" ry="15" fill="url(#linearGradient1053-0-2)" stroke-width="2.78b9cbe"/>
+  <path d="m-85.391 8.4233-0.6875 2.0684 6.9824 2.8008-6.9824 2.8008 0.6875 2.0703 8.9824-3.8047v-2.1309zm8.9707 12.582v2.1445h10.717v-2.1445z" fill="#fff" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+  <path d="m-85.391 27.599-0.6875 2.0684 6.9824 2.8008-6.9824 2.8008 0.6875 2.0703 8.9824-3.8047v-2.1309zm8.9707 12.582v2.1445h10.717v-2.1445z" fill="#fff" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
+ </g>
 </svg>

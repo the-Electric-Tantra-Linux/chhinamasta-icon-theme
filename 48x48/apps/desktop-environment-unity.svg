@@ -1,12 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#32d7ff"/>
-        <stop offset="1" stop-color="#329bff"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
-    <path d="M19.237 16.686v16.876c0 2.045.24 3.895.683 5.585.45 1.656 1.177 3.117 2.19 4.343 1.012 1.232 2.309 2.164 3.968 2.858 1.666.653 3.73.972 6.164.972 2.797 0 5.281-.11 7.39-.453 2.15-.348 3.83-.733 5.133-1.038V16.681h-5.107V41.95c-.2.08-1.117.23-1.6.309-.45.04-.933.114-1.507.194-.568.034-1.133.089-1.776.13-.649.034-1.306.065-1.92.065-2.878 0-4.942-.824-6.159-2.404-1.216-1.575-2.36-4.09-2.36-7.737V16.68m-5.1.01" fill="#f9f9f9"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><circle style="opacity:.2" cx="24" cy="25" r="20"/><circle style="fill:#a43b84" cx="24" cy="24" r="20"/><path opacity=".2" d="M16 15v12s0 8 6 8h10V15h-4v16h-5c-3 0-3-4-3-4V15h-4z"/><path fill="#fff" d="M16 14v12s0 8 6 8h10V14h-4v16h-5c-3 0-3-4-3-4V14h-4z"/><path style="opacity:.1;fill:#f4f4f7" d="M24 4A20 20 0 0 0 4 24a20 20 0 0 0 .021.582A20 20 0 0 1 24 5a20 20 0 0 1 19.979 19.418A20 20 0 0 0 44 24 20 20 0 0 0 24 4z"/></svg>

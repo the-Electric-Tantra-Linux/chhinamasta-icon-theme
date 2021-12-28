@@ -1,7 +1,12 @@
-<svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M2 1v13h13V1zm1 1h5v5H3zm6 0h5v5H9zM3 8h5v5H3zm6 0h5v5H9z" fill="#fcfcfc"/>
-    <g fill="#f4f4f7">
-        <path d="M2.707 1 15 13.294v.707h-.707L2 1.708v-.707h.707z"/>
-        <path d="M3 2v5h5V2zm6 0v5h5V2zM3 8v5h5V8zm6 0v5h5V8z" fill-opacity=".5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+    <defs id="defs3051">
+        <style type="text/css" id="current-color-scheme">
+            .ColorScheme-Text{color:#8b9cbe}
+        </style>
+    </defs>
+    <g id="g6">
+        <path style="fill:currentColor;fill-opacity:1;stroke:none;color:#fcfcfc" d="M436.714 532.79v13h-13v-13h13zm-1 1h-5v5h5v-5zm-6 0h-5v5h5v-5zm6 6h-5v5h5v-5zm-6 0h-5v5h5v-5z" transform="matrix(-1 0 0 1 438.714 -531.79)"/>
+        <path style="fill:currentColor;fill-opacity:1;stroke:none" d="m436.007 532.79-12.293 12.294v.707h.707l12.293-12.293v-.707h-.707z" class="ColorScheme-Text" transform="matrix(-1 0 0 1 438.714 -531.79)"/>
+        <path style="fill:currentColor;fill-opacity:.5;stroke:none" d="M435.714 533.79v5h-5v-5h5zm-6 0v5h-5v-5h5zm6 6v5h-5v-5h5zm-6 0v5h-5v-5h5z" class="ColorScheme-Text" transform="matrix(-1 0 0 1 438.714 -531.79)"/>
     </g>
 </svg>

@@ -1,13 +1,1 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
-    <rect fill="#f4f4f7" height="40" rx="2" width="40" x="4" y="4"/>
-    <path d="M9 34V16s8-1 8 9-8 9-8 9z" style="opacity:.1;fill:none;stroke:#000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round"/>
-    <path d="M4 7V6c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2v1c0-1.108-.892-2-2-2H6c-1.108 0-2 .892-2 2z" fill="#fff" opacity=".2"/>
-    <path d="M4 42v1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2H6c-1.108 0-2-.892-2-2z" opacity=".2"/>
-    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
-        <path d="M9 33V15s8-1 8 9-8 9-8 9z" stroke="#c2352a"/>
-        <path d="M24 34V16s8-1 8 4.5-8 5.5-8 5.5l8 8" opacity=".1" stroke="#000"/>
-        <path d="M24 33V15s8-1 8 4.5-8 5.5-8 5.5l8 8" stroke="#169d41"/>
-        <path d="M39 16v18" opacity=".1" stroke="#000"/>
-        <path d="M39 15v18" stroke="#2a72c2"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><rect style="fill:#f4f4f7" width="40" height="40" x="4" y="4" rx="2" ry="2"/><path style="opacity:.1;fill:none;stroke:#000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M9 34V16s8-1 8 9-8 9-8 9z"/><path fill="#fff" opacity=".2" d="M4 7V6c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2v1c0-1.108-.892-2-2-2H6c-1.108 0-2 .892-2 2z"/><path opacity=".2" d="M4 42v1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v-1c0 1.108-.892 2-2 2H6c-1.108 0-2-.892-2-2z"/><path style="fill:none;stroke:#c2352a;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M9 33V15s8-1 8 9-8 9-8 9z"/><path style="opacity:.1;fill:none;stroke:#000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M24 34V16s8-1 8 4.5-8 5.5-8 5.5l8 8v0"/><path style="fill:none;stroke:#169d41;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M24 33V15s8-1 8 4.5-8 5.5-8 5.5l8 8v0"/><path style="opacity:.1;fill:none;stroke:#000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M39 16v18"/><path style="fill:none;stroke:#2a72c2;stroke-width:4;stroke-linecap:round;stroke-linejoin:round" d="M39 15v18"/></svg>

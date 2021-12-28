@@ -1,15 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M2 0C.892 0 0 .892 0 2v13h1v-2h1v2h1v-2h1V2c0-1.108-.892-2-2-2z" fill="#1a5fb4"/>
-    <path d="M9.846 0v.008C9.897.004 9.948 0 10 0zM10 0c1.108 0 2 .892 2 2v2h4V2c0-1.108-.892-2-2-2-.052 0-.103.004-.154.008V0z" fill="#3584e4"/>
-    <path d="M12 4h4v4h-4z" fill="#99c1f1"/>
-    <path d="M12 8h4v4h-4z" fill="#3584e4"/>
-    <path d="M5.846 0v.008C5.897.004 5.948 0 6 0zM6 0c1.108 0 2 .892 2 2v2h4V2c0-1.108-.892-2-2-2-.052 0-.103.004-.154.008V0z" fill="#b4d6ff"/>
-    <path d="M8 4h4v4H8z" fill="#1c71d8"/>
-    <path d="M1.846 0v.008C1.897.004 1.948 0 2 0zM2 0c1.108 0 2 .892 2 2v2h4V2c0-1.108-.892-2-2-2-.052 0-.103.004-.154.008V0z" fill="#3584e4"/>
-    <path d="M4 4h4v4H4z" fill="#99c1f1"/>
-    <path d="M4 8h4v4H4z" fill="#3584e4"/>
-    <path d="M8 8h4v4H8z" fill="#b4d6ff"/>
-    <path d="M12 12v4h1v-2h1v2h1v-2h1v-2z" fill="#99c1f1"/>
-    <path d="M8 12v4h1v-2h1v2h1v-2h1v-2z" fill="#1c71d8"/>
-    <path d="M4 12v4h1v-2h1v2h1v-2h1v-2z" fill="#99c1f1"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><path style="fill:#1a5fb4" d="M2 0C.892 0 0 .892 0 2v13h1v-2h1v2h1v-2h1V2c0-1.108-.892-2-2-2z"/><path style="fill:#3584e4" d="M9.846 0v.008C9.897.004 9.948 0 10 0zM10 0c1.108 0 2 .892 2 2v2h4V2c0-1.108-.892-2-2-2-.052 0-.103.004-.154.008V0z"/><path style="fill:#99c1f1" d="M12 4h4v4h-4z"/><path style="fill:#3584e4" d="M12 8h4v4h-4z"/><path style="fill:#b4d6ff" d="M5.846 0v.008C5.897.004 5.948 0 6 0zM6 0c1.108 0 2 .892 2 2v2h4V2c0-1.108-.892-2-2-2-.052 0-.103.004-.154.008V0z"/><path style="fill:#1c71d8" d="M8 4h4v4H8z"/><path style="fill:#3584e4" d="M1.846 0v.008C1.897.004 1.948 0 2 0zM2 0c1.108 0 2 .892 2 2v2h4V2c0-1.108-.892-2-2-2-.052 0-.103.004-.154.008V0z"/><path style="fill:#99c1f1" d="M4 4h4v4H4z"/><path style="fill:#3584e4" d="M4 8h4v4H4z"/><path style="fill:#b4d6ff" d="M8 8h4v4H8z"/><path style="fill:#99c1f1" d="M12 12v4h1v-2h1v2h1v-2h1v-2z"/><path style="fill:#1c71d8" d="M8 12v4h1v-2h1v2h1v-2h1v-2z"/><path style="fill:#99c1f1" d="M4 12v4h1v-2h1v2h1v-2h1v-2z"/></svg>

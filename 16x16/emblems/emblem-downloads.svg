@@ -1,6 +1,1 @@
-<svg height="16" viewBox="0 0 4.234 4.234" width="16" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(-1.323 -292.52) scale(1.0001)">
-        <rect fill="#3c4049" fill-opacity=".8" height="3.704" rx=".265" width="3.704" x="1.587" y="292.77"/>
-        <path d="M3.704 294.35h.53l-.794.794-.794-.794h.529v-.794h.53zm-1.058 1.059h1.587v.264H2.646z" fill="#f4f4f7"/>
-    </g>
-</svg>
+<svg width="16" height="16" viewBox="0 0 4.234 4.234" xmlns="http://www.w3.org/2000/svg"><g transform="translate(-1.323 -292.52) scale(1.0001)"><rect x="1.587" y="292.77" width="3.704" height="3.704" rx=".265" ry=".265" fill="#3c4049" fill-opacity=".8" style="paint-order:markers stroke fill"/><path d="M3.704 294.35h.53l-.794.794-.794-.794h.529v-.794h.53zm-1.058 1.059h1.587v.264H2.646z" fill="#fff"/></g></svg>

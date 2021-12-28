@@ -1,23 +1,5 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.096" width="1.096" x="-.048" y="-.048">
-        <feGaussianBlur stdDeviation="1.1"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-6.484" x2="6.216" y1="13.88" y2="13.88">
-        <stop offset="0" stop-color="#32c8ff"/>
-        <stop offset="1" stop-color="#32abff"/>
-    </linearGradient>
-    <g transform="translate(8.6 -4.295)">
-        <rect filter="url(#a)" height="55" opacity=".3" rx="13.002" transform="translate(-8.6 4.295) scale(.26458)" width="55" x="4.5" y="4.5"/>
-        <rect fill="#f1f3f7" height="14.552" rx="3.44" width="14.552" x="-7.41" y="5.486"/>
-        <rect fill="none" height="13.229" rx="3.127" width="13.229" x="-6.748" y="6.147"/>
-        <rect fill="url(#b)" height="10.583" ry="2.432" width="12.7" x="-6.484" y="8.589"/>
-        <g stroke-width=".132">
-            <circle cx="-4.578" cy="7.277" fill="#ffd34f" r=".529"/>
-            <circle cx="-2.991" cy="7.277" fill="#3bcf32" r=".529"/>
-            <circle cx="-1.403" cy="7.277" fill="#fd4605" r=".529"/>
-        </g>
-        <g fill="#f4f4f7">
-            <path d="M-4.71 13.336v-.57l1.853 1.055v.537l-1.852 1.055v-.57l1.394-.751zM-2.063 15.673H.053v.53h-2.116z"/>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+    <rect style="fill:#ffcca3" width="16" height="14" y="1" rx=".8" ry=".8"/>
+    <path style="opacity:.3;fill:#f4f4f7" d="M8 1h7.2c.443 0 .8.357.8.8v12.4c0 .443-.357.8-.8.8H8z"/>
+    <path style="fill:#17191e" d="M4 4v1h-.5C2.669 5 2 5.669 2 6.5S2.669 8 3.5 8H4v1H2.092c.206.582.754 1 1.408 1H4v1h1v-1h.5C6.331 10 7 9.331 7 8.5S6.331 7 5.5 7H5V6h1.908c-.206-.582-.754-1-1.408-1H5V4H4zm-.5 2H4v1h-.5a.499.499 0 1 1 0-1zM5 8h.5c.277 0 .5.223.5.5s-.223.513-.5.5H5zm4 2v1h6v-1z"/>
 </svg>

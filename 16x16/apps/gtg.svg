@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path style="fill:#f4f4f7" d="M1.718 0h12.564A.71.71 0 0 1 15 .706V13.33c0 .392-.32.669-.718.669H6.056L4.5 16l-1.556-2H1.718C1.32 14 1 13.723 1 13.331V.706A.71.71 0 0 1 1.718 0z"/>
-    <path style="fill:#00c7c5" d="M1 5h14v4H1z"/>
-    <path style="fill:#f4f4f7" d="M3.365 6A.37.37 0 0 0 3 6.366v1.269A.37.37 0 0 0 3.365 8h1.27A.37.37 0 0 0 5 7.635V6.366A.37.37 0 0 0 4.635 6z"/>
-    <path style="fill:#898989" d="M3.365 2A.37.37 0 0 0 3 2.366v1.269A.37.37 0 0 0 3.365 4h1.27A.37.37 0 0 0 5 3.635V2.366A.37.37 0 0 0 4.635 2z"/>
-    <path style="fill:#f4f4f7;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round" d="M8 7h4"/>
-    <path style="fill:none;stroke:#898989;stroke-width:2;stroke-linecap:round" d="M8 3h4"/>
-    <path style="fill:#898989" d="M3.365 10a.37.37 0 0 0-.365.366v1.269a.37.37 0 0 0 .365.365h1.27A.37.37 0 0 0 5 11.635v-1.269A.37.37 0 0 0 4.635 10z"/>
-    <path style="fill:none;stroke:#898989;stroke-width:2;stroke-linecap:round" d="M8 11h4"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path style="fill:#f4f4f7" d="M1.718 0h12.564A.71.71 0 0 1 15 .706V13.33c0 .392-.32.669-.718.669H6.056L4.5 16l-1.556-2H1.718C1.32 14 1 13.723 1 13.331V.706A.71.71 0 0 1 1.718 0z"/><path style="fill:#00c7c5" d="M1 5h14v4H1z"/><path style="fill:#f4f4f7" d="M3.365 6A.37.37 0 0 0 3 6.366v1.269A.37.37 0 0 0 3.365 8h1.27A.37.37 0 0 0 5 7.635V6.366A.37.37 0 0 0 4.635 6z"/><path style="fill:#898989" d="M3.365 2A.37.37 0 0 0 3 2.366v1.269A.37.37 0 0 0 3.365 4h1.27A.37.37 0 0 0 5 3.635V2.366A.37.37 0 0 0 4.635 2z"/><path style="fill:#f4f4f7;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round" d="M8 7h4"/><path style="fill:none;stroke:#898989;stroke-width:2;stroke-linecap:round" d="M8 3h4"/><path style="fill:#898989" d="M3.365 10a.37.37 0 0 0-.365.366v1.269a.37.37 0 0 0 .365.365h1.27A.37.37 0 0 0 5 11.635v-1.269A.37.37 0 0 0 4.635 10z"/><path style="fill:none;stroke:#898989;stroke-width:2;stroke-linecap:round" d="M8 11h4"/></svg>

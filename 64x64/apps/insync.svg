@@ -1,11 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <rect height="56" opacity=".2" rx="3" width="56" x="4" y="5"/>
-    <rect fill="#1e87e4" height="56" rx="3" width="56" x="4" y="4"/>
-    <path d="M7 4C5.338 4 4 5.338 4 7v1c0-1.662 1.338-3 3-3h50c1.662 0 3 1.338 3 3V7c0-1.662-1.338-3-3-3z" fill="#f4f4f7" opacity=".2"/>
-    <path d="M27 35a16 16 0 0 1 16-16m-8 16a8 8 0 0 1 8-8" fill="none" stroke="#f4f4f7" stroke-linecap="square" stroke-width="4"/>
-    <path d="M19 35a24 24 0 0 1 24-24" fill="none" stroke="#f4f4f7" stroke-linecap="square" stroke-width="4"/>
-    <g fill="#f4f4f7">
-        <path d="M41 43h6v12h-6z"/>
-        <circle cx="44" cy="36" r="3"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><rect style="opacity:.2" width="56" height="56" x="4" y="5" rx="3" ry="3"/><rect style="fill:#1e87e4" width="56" height="56" x="4" y="4" rx="3" ry="3"/><path style="opacity:.2;fill:#f4f4f7" d="M7 4C5.338 4 4 5.338 4 7v1c0-1.662 1.338-3 3-3h50c1.662 0 3 1.338 3 3V7c0-1.662-1.338-3-3-3H7z"/><path style="stroke:#f4f4f7;stroke-width:4;stroke-linecap:square;fill:none" d="M27 35a16 16 0 0 1 16-16M35 35a8 8 0 0 1 8-8"/><path style="stroke:#f4f4f7;stroke-width:4;stroke-linecap:square;fill:none" d="M19 35a24 24 0 0 1 24-24"/><path style="fill:#f4f4f7" d="M41 43h6v12h-6z"/><circle style="fill:#f4f4f7" cx="44" cy="36" r="3"/></svg>

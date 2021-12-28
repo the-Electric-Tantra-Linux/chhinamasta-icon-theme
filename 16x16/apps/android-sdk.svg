@@ -1,20 +1,6 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.087" x2="15.639" y1="16.439" y2="1.887">
-        <stop offset="0" stop-color="#02db96"/>
-        <stop offset="1" stop-color="#13d39b"/>
-    </linearGradient>
-    <g transform="translate(.104 -.7)">
-        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="translate(-.104 .7) scale(.26458)" width="55" x="4.5" y="4.5"/>
-        <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.087" y="1.89"/>
-        <path d="M11.67 7.54v.001a.369.369 0 0 0-.295.185L10.08 9.969a6.82 6.82 0 0 0-1.718-.21 6.82 6.82 0 0 0-1.718.21L5.35 7.726a.37.37 0 1 0-.642.37l1.218 2.11c-2.636 1.088-3.27 3.864-3.427 5.306.524.44 1.165.744 1.87.867.26.022.538.038.84.048h6.342c.281-.009.539-.025.784-.045a3.946 3.946 0 0 0 1.891-.87c-.157-1.442-.792-4.218-3.426-5.307l1.217-2.11a.37.37 0 0 0-.347-.554z" fill="#f4f4f7"/>
-        <g fill="#0cd799" stroke-width=".265">
-            <rect height=".741" rx=".37" width="7.408" x="4.656" y="15.315"/>
-            <circle cx="6.138" cy="13.463" r=".741"/>
-            <circle cx="10.583" cy="13.463" r=".741"/>
-        </g>
-        <path d="M6.408 4.072a.483.483 0 0 0-.484.484v1.686a.483.483 0 1 0 .968 0V4.556a.483.483 0 0 0-.484-.484zm3.91 0a.483.483 0 0 0-.484.484v1.686a.484.484 0 1 0 .969 0V4.556a.484.484 0 0 0-.485-.484z" fill="#f4f4f7"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+    <rect style="fill:#295f6e" width="15" height="15" x="1" y="1" rx="7.5" ry="7.5"/>
+    <path style="fill:none;stroke:#30dd81;stroke-width:.75005788;stroke-linecap:round" d="m5.856 7.893-.9-1.5m6.188 1.5.9-1.5"/>
+    <path style="fill:#30dd81" d="M8.503 7C6.153 7 4.22 8.587 4 10.615c-.021.385.437.385.437.385h8.115s.47 0 .448-.404C12.77 8.576 10.845 7 8.503 7z"/>
+    <path style="fill:#f4f4f7" d="M6.5 9a.5.5 0 0 1 .5.5.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .5-.5zm4 0a.5.5 0 0 1 .5.5.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .5-.5z"/>
 </svg>

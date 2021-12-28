@@ -1,9 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <rect fill="#f4f4f7" height="13" rx=".8" ry=".813" transform="scale(1 -1)" width="16" y="-14"/>
-    <rect height=".6" opacity=".4" rx=".5" ry=".3" transform="rotate(90)" width="5" x="5" y="-15.6"/>
-    <rect fill="#333" height="12" rx=".846" ry=".8" transform="rotate(90)" width="11" x="2" y="-14"/>
-    <g fill="#f4f4f7">
-        <rect height="3" opacity=".2" rx=".667" ry=".75" width="4" x="3" y="9"/>
-        <rect height="3" opacity=".2" rx=".667" ry=".75" width="4" x="9" y="9"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect style="fill:#f4f4f7" width="16" height="13" y="-14" rx=".8" ry=".813" transform="scale(1 -1)"/><rect style="opacity:.4" width="5" height=".6" x="5" y="-15.6" rx=".5" ry=".3" transform="rotate(90)"/><rect style="fill:#333" width="11" height="12" x="2" y="-14" rx=".846" ry=".8" transform="rotate(90)"/><rect style="opacity:.2;fill:#f4f4f7" width="4" height="3" x="3" y="9" rx=".667" ry=".75"/><rect style="opacity:.2;fill:#f4f4f7" width="4" height="3" x="9" y="9" rx=".667" ry=".75"/></svg>

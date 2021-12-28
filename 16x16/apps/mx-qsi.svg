@@ -1,12 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <g transform="matrix(0 -1 -1 0 0 0)">
-        <rect fill="#8e8e8e" height="10" rx=".75" width="12" x="-15" y="-13"/>
-        <rect fill="#4f4f4f" height="16" rx=".75" width="12" x="-13" y="-16"/>
-        <path d="M-11-14h8v12h-8z" fill="#0072c0"/>
-    </g>
-    <path d="m2 11 12-8H2z" fill="#00ade5"/>
-    <g fill="#f4f4f7">
-        <path d="M7 6h2v4H7z"/>
-        <circle cx="8" cy="5" r="1"/>
-    </g>
-</svg>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(0 -1 -1 0 0 0)"><rect x="-15" y="-13" width="12" height="10" rx=".75" ry=".75" style="fill:#8e8e8e"/><rect x="-13" y="-16" width="12" height="16" rx=".75" ry=".75" style="fill:#4f4f4f"/><rect x="-11" y="-14" width="8" height="12" rx="0" ry="0" style="fill:#0072c0"/></g><path d="m2 11 12-8H2z" style="fill:#00ade5"/><path style="fill:#f4f4f7" d="M7 6h2v4H7z"/><circle cx="8" cy="5" r="1" style="fill:#f4f4f7"/></svg>

@@ -1,11 +1,1 @@
-<svg height="32" width="32" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="23.5" cy="23.5" opacity=".2" r="8.5"/>
-    <path d="M6.563 3.002A4.5 4.5 0 0 0 2 7.5v19a4.5 4.5 0 1 0 9 0v-7.682l.729.772a4.5 4.5 0 0 0 6.542 0l.729-.772V26.5a4.5 4.5 0 1 0 9 0v-19a4.5 4.5 0 0 0-7.771-3.09L15 9.945 9.771 4.41a4.5 4.5 0 0 0-3.209-1.408z" fill-rule="evenodd" opacity=".2"/>
-    <path d="M6.5 25.5v-19l8.5 9 8.5-9v19" fill="none" stroke="#d24343" stroke-linecap="round" stroke-linejoin="round" stroke-width="9"/>
-    <circle cx="23.5" cy="22.5" fill="#6c9832" r="8.5"/>
-    <g fill="#f4f4f7">
-        <rect height="11" rx="1.5" width="3" x="22" y="17"/>
-        <rect height="11" rx="1.5" transform="rotate(90)" width="3" x="21" y="-29"/>
-        <path d="M6.563 2.002A4.5 4.5 0 0 0 2 6.5v1a4.5 4.5 0 0 1 4.563-4.498A4.5 4.5 0 0 1 9.77 4.41L15 9.945l5.229-5.535A4.5 4.5 0 0 1 28 7.5v-1a4.5 4.5 0 0 0-7.771-3.09L15 8.945 9.771 3.41a4.5 4.5 0 0 0-3.209-1.408z" fill-rule="evenodd" opacity=".2"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" version="1"><circle style="opacity:.2" cx="23.5" cy="23.5" r="8.5"/><path style="opacity:.2;fill-rule:evenodd" d="M6.563 3.002A4.5 4.5 0 0 0 2 7.5v19a4.5 4.5 0 1 0 9 0v-7.682l.729.772a4.5 4.5 0 0 0 6.542 0l.729-.772V26.5a4.5 4.5 0 1 0 9 0v-19a4.5 4.5 0 0 0-7.771-3.09L15 9.945 9.771 4.41a4.5 4.5 0 0 0-3.209-1.408z"/><path style="fill:none;stroke:#d24343;stroke-width:9;stroke-linecap:round;stroke-linejoin:round" d="M6.5 25.5v-19l8.5 9 8.5-9v19"/><circle style="fill:#6c9832" cx="23.5" cy="22.5" r="8.5"/><rect style="fill:#f4f4f7" width="3" height="11" x="22" y="17" rx="1.5" ry="1.5"/><rect style="fill:#f4f4f7" width="3" height="11" x="21" y="-29" rx="1.5" ry="1.5" transform="rotate(90)"/><path style="opacity:.2;fill:#f4f4f7;fill-rule:evenodd" d="M6.563 2.002A4.5 4.5 0 0 0 2 6.5v1a4.5 4.5 0 0 1 4.563-4.498A4.5 4.5 0 0 1 9.77 4.41L15 9.945l5.229-5.535A4.5 4.5 0 0 1 28 7.5v-1a4.5 4.5 0 0 0-7.771-3.09L15 8.945 9.771 3.41a4.5 4.5 0 0 0-3.209-1.408z"/></svg>

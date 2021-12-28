@@ -1,14 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-45.398" x2="9.602" y1="68.27" y2="13.27">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <g transform="translate(49.898 -8.78)">
-        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="-45.398" y="13.28"/>
-        <rect fill="url(#b)" height="55" ry="15" width="55" x="-45.398" y="13.28"/>
-        <path d="m-12.247 53.01-.01 1.024-11.652.01.009-1.025h.733c1.173-.001 2.203-.475 2.686-1.224.446-.67.562-1.3.58-3.35l.175-19.146-2.382.002c-3.738.003-5.067 1.107-5.354 4.456h-.953l.46-6.225 20.228-.015.346 6.224h-.916c-.299-3.426-1.425-4.45-4.98-4.447l-2.712.002-.174 19.147c-.019 2.088.05 2.64.483 3.348.506.748 1.49 1.22 2.7 1.22z" fill="#202020" image-rendering="optimizeSpeed"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect fill="#f4f4f7" width="16" height="16" rx=".8" ry=".8"/><path opacity=".6" d="M12.25 3h-8.5L3.5 7h.75c.1-.693.207-1.368.364-1.812.372-1.01.663-1.165 1.636-1.165.472 0 .75.152.75.498v6.856C7 11.959 7 12 5.918 12H5.5v1h5v-1h-.418C8.937 12 9 11.96 9 11.377V4.521c0-.346.278-.498.75-.498.873 0 1.192.099 1.55.93.215.512.336 1.258.45 2.047h.75z"/></svg>

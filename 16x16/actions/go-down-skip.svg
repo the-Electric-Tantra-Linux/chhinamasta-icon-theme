@@ -1,5 +1,5 @@
 <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-    <g fill="#555e70">
+    <g fill="currentColor" style="color:#555e70">
         <path d="m8 9.707-6-6L2.707 3 8 8.293 13.293 3l.707.707z"/>
         <path d="m8 13.707-6-6L2.707 7 8 12.293 13.293 7l.707.707z"/>
     </g>

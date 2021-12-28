@@ -1,16 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="c" gradientUnits="userSpaceOnUse" x1="32.468" x2="32.468" y1="20.339" y2="45.288">
-        <stop offset="0" stop-color="#fff"/>
-        <stop offset="1" stop-color="#d9f9ff"/>
-    </linearGradient>
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#32d7ff"/>
-        <stop offset="1" stop-color="#329bff"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
-    <path d="m25.322 17-6.685 9.023 1.89 3.747h20.03c-.188 4.804-.221 5.967-1.246 8.452-.605 1.464-1.37 2.38-2.901 3.099-1.535.718-3.992 1.152-7.724.911l-.303 4.687c4.205.274 7.446-.142 10.016-1.337a10.469 10.469 0 0 0 5.259-5.57c1.899-4.602 1.388-6.898 1.705-12.458l-.1-2.485H25.19l3.907-5.268z" fill="url(#c)" fill-rule="evenodd"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><rect fill="#2095f2" width="40" height="40" x="4" y="4" rx="2" ry="2"/><path fill="#fff" opacity=".1" d="M6 4c-1.108 0-2 .892-2 2v1c0-1.108.892-2 2-2h36c1.108 0 2 .892 2 2V6c0-1.108-.892-2-2-2H6z"/><path opacity=".2" d="M6 45c-1.108 0-2-.892-2-2v-1c0 1.108.892 2 2 2h36c1.108 0 2-.892 2-2v1c0 1.108-.892 2-2 2H6z"/><path fill="none" stroke="#000" stroke-linejoin="bevel" stroke-width="4" opacity=".2" d="m18 11-6 8h23c-.591 10.177 1.252 18.907-13 18"/><path fill="none" stroke="#fff" stroke-linejoin="bevel" stroke-width="4" d="m18 10-6 8h23c-.591 10.177 1.252 18.907-13 18"/></svg>

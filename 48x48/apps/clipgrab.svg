@@ -1,18 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="c" color-interpolation-filters="sRGB" height="1.12" width="1.12" x="-.06" y="-.06">
-        <feGaussianBlur stdDeviation=".8"/>
-    </filter>
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-10.636" x2="44.364" y1="18.574" y2="-36.426">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <g image-rendering="optimizeSpeed" transform="translate(15.136 40.916)">
-        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="-10.636" y="-36.416"/>
-        <rect fill="url(#b)" height="55" ry="15" width="55" x="-10.636" y="-36.416"/>
-        <path d="M7.73-23.916V-8.56H.864l16 16.645 16-16.645H26v-15.355z" filter="url(#c)" opacity=".15"/>
-        <path d="M7.73-23.916V-8.56H.864l6.38 6.637 3.282 3.414 2.524 2.625 3.814 3.968 11.43-11.89.002-.002 1.268-1.319 1.963-2.04.353-.37.984-1.023H26v-15.356z" fill="#7a84ed"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1"><rect fill="#2095f2" width="40" height="40" x="4" y="4" rx="20" ry="20"/><path fill="#fff" opacity=".2" d="M24 4c-4.516 0-8.659 1.5-12 4.006A19.956 19.956 0 0 0 32 28c4.516 0 8.659-1.5 12-4.006A19.956 19.956 0 0 0 24 4z"/><path fill="#fff" opacity=".2" d="M24 4C12.92 4 4 12.92 4 24c0 .168-.004.333 0 .5C4.264 13.654 13.088 5 24 5s19.736 8.654 20 19.5c.004-.167 0-.332 0-.5 0-11.08-8.92-20-20-20z"/><path opacity=".2" d="M4.012 24.5c-.004.167-.012.332-.012.5 0 11.08 8.92 20 20 20s20-8.92 20-20c0-.168-.008-.333-.012-.5C43.724 35.346 34.912 44 24 44S4.276 35.346 4.012 24.5z"/><path opacity=".2" d="m17 29 7 9 7-9h-4v1c0 .554-.446 1-1 1h-4c-.554 0-1-.446-1-1v-1h-4zm5-17h4c.554 0 1 .446 1 1v17c0 .554-.446 1-1 1h-4c-.554 0-1-.446-1-1V13c0-.554.446-1 1-1z"/><path fill="#fff" d="m17 28 7 9 7-9h-4v1c0 .554-.446 1-1 1h-4c-.554 0-1-.446-1-1v-1h-4zm5-17h4c.554 0 1 .446 1 1v17c0 .554-.446 1-1 1h-4c-.554 0-1-.446-1-1V12c0-.554.446-1 1-1z"/></svg>

@@ -1,18 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="c" color-interpolation-filters="sRGB" height="1.12" width="1.12" x="-.06" y="-.06">
-        <feGaussianBlur stdDeviation=".8"/>
-    </filter>
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="-10.636" x2="44.364" y1="18.574" y2="-36.426">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <g image-rendering="optimizeSpeed" transform="translate(15.136 40.916)">
-        <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="-10.636" y="-36.416"/>
-        <rect fill="url(#b)" height="55" ry="15" width="55" x="-10.636" y="-36.416"/>
-        <path d="M7.73-23.916V-8.56H.864l16 16.645 16-16.645H26v-15.355z" filter="url(#c)" opacity=".15"/>
-        <path d="M7.73-23.916V-8.56H.864l6.38 6.637 3.282 3.414 2.524 2.625 3.814 3.968 11.43-11.89.002-.002 1.268-1.319 1.963-2.04.353-.37.984-1.023H26v-15.356z" fill="#7a84ed"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" version="1"><path style="opacity:.2" d="M4.05 32c-.011.334-.05.662-.05 1 0 15.512 12.488 28 28 28 15.511 0 28-12.488 28-28 0-.338-.04-.666-.05-1C59.42 47.042 47.172 59 32 59 16.825 59 4.578 47.042 4.05 32z"/><rect style="fill:#2095f2" width="56" height="56" x="4" y="4" rx="28" ry="28"/><path style="opacity:.2;fill:#f4f4f7" d="M31.963 4a27.91 27.91 0 0 0-16.961 5.725C15.068 25.18 27.729 38 43.199 38c6.322 0 12.123-2.5 16.799-6.008 0-1.936-.195-3.825-.566-5.648l-.002-.006a27.851 27.851 0 0 0-1.125-3.984l-.002-.004A27.976 27.976 0 0 0 42.918 6.196h-.002a27.775 27.775 0 0 0-1.27-.5h-.001A28.091 28.091 0 0 0 32 4.003c-.012 0-.025-.004-.037-.004z"/><path style="opacity:.2" d="M29.14 13.002c-.79 0-1.13.687-1.14 1.539V39h-6L32 53l10-14h-6V14.54c0-.853-.354-1.54-1.144-1.54H29.14z"/><path style="fill:#f4f4f7" d="M29.14 12c-.79 0-1.13.688-1.14 1.54V38h-6l10 14 10-14h-6V13.54c0-.853-.354-1.54-1.144-1.54H29.14z"/><path style="opacity:.2;fill:#f4f4f7" d="M32 4C16.488 4 4 16.488 4 32c0 .114.011.224.018.336C4.369 17.134 16.71 5 32 5c15.29 0 27.63 12.134 27.982 27.336.007-.112.018-.222.018-.336C60 16.488 47.512 4 32 4z"/></svg>

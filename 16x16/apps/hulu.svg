@@ -1,7 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <rect fill="#6a3" height="15" rx=".75" width="15" x="1" y="1"/>
-    <path d="M10 6h1v4h-1z" fill="#f4f4f7"/>
-    <path d="M2.5 10V8c0-.375.625-.5 1-.5s1 .125 1 .5v2" fill="none" stroke="#f4f4f7"/>
-    <path d="M2 6h1v4H2z" fill="#f4f4f7"/>
-    <path d="M6.5 7v2c0 .375.625.5 1 .5s1-.125 1-.5V7m4 0v2c0 .375.625.5 1 .5s1-.125 1-.5V7" fill="none" stroke="#f4f4f7"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect style="fill:#6a3" width="15" height="15" x="1" y="1" rx=".75" ry=".75"/><path style="fill:#f4f4f7" d="M10 6h1v4h-1z"/><path style="fill:none;stroke:#f4f4f7" d="M2.5 10V8c0-.375.625-.5 1-.5s1 .125 1 .5v2"/><path style="fill:#f4f4f7" d="M2 6h1v4H2z"/><path style="fill:none;stroke:#f4f4f7" d="M6.5 7v2c0 .375.625.5 1 .5s1-.125 1-.5V7M12.5 7v2c0 .375.625.5 1 .5s1-.125 1-.5V7"/></svg>

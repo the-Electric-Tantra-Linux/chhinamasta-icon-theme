@@ -1,15 +1,1 @@
-<svg enable-background="new" height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
-    <g stroke-width="1.955">
-        <circle cx="21.471" cy="32" fill="#0063dc" r="8.422"/>
-        <circle cx="42.529" cy="32" fill="#ff0084" r="8.422"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" version="1.0"><g stroke-width="2.667"><rect x="-356" y="184" width="104" height="104" rx="8" ry="8" fill="#f6f5f4" stroke="#000" stroke-opacity=".196" transform="matrix(.375 0 0 .375 138 -64.5)"/><g transform="matrix(1.5 0 0 1.5 -68.25 -837)" stroke-width=".667" color="#000"><circle cx="56.5" cy="574" r="4" fill="#0063dc"/><circle cx="66.5" cy="574" r="4" fill="#ff0084"/></g></g></svg>

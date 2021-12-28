@@ -1,12 +1,1 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.191" x2="15.742" y1="15.74" y2="1.188">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
-    <path d="m3.737 4.489-.182.548 1.847.74-1.847.742.182.547L6.113 6.06v-.565zm2.373 3.33v.566h2.836v-.567z" fill="#dc5a5a"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect style="fill:#f44336" width="16" height="14" y="1" rx="1.2" ry="1.167"/><rect style="fill:#f4f4f7" width="4" height="1" x="7" y="8" rx=".3" ry=".3"/><rect style="fill:#faa19b" width="4.531" height="1.133" x="-4.75" y="7.32" rx=".34" ry=".34" transform="scale(1.02035 .97923) rotate(-45)"/><rect style="fill:#f4f4f7" width="4.531" height="1.133" x="3.92" y="-1.35" rx=".34" ry=".34" transform="scale(1.02035 -.97923) rotate(-45)"/></svg>

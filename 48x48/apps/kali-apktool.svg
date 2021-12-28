@@ -1,18 +1,19 @@
-<svg height="48" width="48" xmlns="http://www.w3.org/2000/svg">
-    <path d="M4 25v4h6v16h34v-4h-6V25H18z" opacity=".2"/>
-    <path d="M4 24v4h6v16h4V28h4v-4z" fill="#0c91fa"/>
-    <path d="M14 28v16h10V24h-6v4z" fill="#0470c5"/>
-    <path d="M24 24v20h10V24z" fill="#034d87"/>
-    <path d="M34 24v20h10v-4h-6V24z" fill="#02355f"/>
-    <path d="M4 5v20h40v-5l-5-5 5-5V5H18z" opacity=".2"/>
-    <path d="M4 24h14V4H4z" fill="#5dec36"/>
-    <path d="M18 24h8.5v-5H34V4H18z" fill="#39c713"/>
-    <path d="M26.5 19v5H44v-5l-5-5 5-5V4H34v15z" fill="#2d9d0e"/>
-    <path d="M10 9v8h2V9zm16 0v8h2V9zM10 19v6h2v-6z" opacity=".2"/>
-    <path d="M10 8v8h2V8zm16 0v8h2V8zM10 18v6h2v-6z" fill="#f4f4f7"/>
-    <path d="M18 31v8h2v-8zm10 0v8h2v-8z" opacity=".2"/>
-    <g fill="#f4f4f7">
-        <path d="M18 30h2v8h-2zM28 30h2v8h-2z"/>
-        <path d="M4 4v1h40V4H18zm35.5 10.5-.5.5 5 5v-1z" opacity=".2"/>
-    </g>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(2,0,0,2,2,2)">
+  <path d="m1 11.5v2h3v8h17v-2h-3v-8h-10z" style="opacity:.2"/>
+  <path d="m1 11v2h3v8h2v-8h2v-2z" style="fill:#0c91fa"/>
+  <path d="m6 13v8h5v-10h-3v2z" style="fill:#0470c5"/>
+  <path d="m11 11v10h5v-10z" style="fill:#034d87"/>
+  <path d="m16 11v10h5v-2h-3v-8z" style="fill:#02355f"/>
+  <path d="m1 1.5v10h20v-2.5l-2.5-2.5 2.5-2.5v-2.5h-13z" style="opacity:.2"/>
+  <path d="m1 11h7v-10h-7z" style="fill:#5dec36"/>
+  <path d="m8 11h4.25v-2.5h3.75v-7.5h-8z" style="fill:#39c713"/>
+  <path d="m12.25 8.5v2.5h8.75v-2.5l-2.5-2.5 2.5-2.5v-2.5h-5v7.5z" style="fill:#2d9d0e"/>
+  <path d="m4 3.5v4h1v-4zm8 0v4h1v-4zm-8 5v3h1v-3z" style="opacity:.2"/>
+  <path d="m4 3v4h1v-4zm8 0v4h1v-4zm-8 5v3h1v-3z" style="fill:#f4f4f7"/>
+  <path d="m8 14.5v4h1v-4zm5 0v4h1v-4z" style="opacity:.2"/>
+  <rect x="8" y="14" width="1" height="4" style="fill:#f4f4f7"/>
+  <rect x="13" y="14" width="1" height="4" style="fill:#f4f4f7"/>
+  <path d="m1 1v0.5h20v-0.5h-13zm17.75 5.25-0.25 0.25 2.5 2.5v-0.5z" style="fill:#f4f4f7;opacity:.2"/>
+ </g>
 </svg>

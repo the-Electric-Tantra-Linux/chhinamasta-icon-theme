@@ -1,16 +1,1 @@
-<svg height="64" width="64" xmlns="http://www.w3.org/2000/svg">
-    <linearGradient id="c" gradientTransform="matrix(1.23432 0 0 1.44 -3.177 -2412.96)" gradientUnits="userSpaceOnUse" x1="27.535" x2="27.535" y1="1713.3" y2="1682">
-        <stop offset="0" stop-color="#197cf1"/>
-        <stop offset="1" stop-color="#20bcfa"/>
-    </linearGradient>
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="4.5" x2="59.5" y1="59.49" y2="4.49">
-        <stop offset="0" stop-color="#dee0e2"/>
-        <stop offset="1" stop-color="#f1f3f5" stop-opacity=".996"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="55" ry="15" width="55" x="4.5" y="4.5"/>
-    <path d="M32 12a20 20 0 0 0-20 20 20 20 0 0 0 20 20 20 20 0 0 0 20-20 20 20 0 0 0-20-20zm1.2 6.8h2.4v7.295a8.4 7.2 0 0 1 4.8-1.295 8.4 7.2 0 0 1 8.4 7.2 8.4 7.2 0 0 1-8.4 7.2 8.4 7.2 0 0 1-4.8-1.303V40.4h-2.4zm-4.8 4.8h2.4v21.6h-2.4v-7.295a8.4 7.2 0 0 1-4.8 1.295 8.4 7.2 0 0 1-8.4-7.2 8.4 7.2 0 0 1 8.4-7.2 8.4 7.2 0 0 1 4.8 1.303zm-4.8 3.6a6 4.8 0 0 0-6 4.8 6 4.8 0 0 0 6 4.8 6 4.8 0 0 0 4.8-1.931v-5.74a6 4.8 0 0 0-4.8-1.929zm16.8 0a6 4.8 0 0 0-4.8 1.931v5.74a6 4.8 0 0 0 4.8 1.93 6 4.8 0 0 0 6-4.8 6 4.8 0 0 0-6-4.8z" fill="url(#c)" fill-rule="evenodd"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><circle fill="#2f67ba" cx="8" cy="8" r="8"/><path fill="#64d4f9" d="M4.5 6A2.5 2.5 0 0 0 2 8.5 2.5 2.5 0 0 0 4.5 11a2.5 2.5 0 0 0 1.5-.504V15h1V6H6v.502A2.5 2.5 0 0 0 4.5 6zm0 1A1.5 1.5 0 0 1 6 8.5 1.5 1.5 0 0 1 4.5 10 1.5 1.5 0 0 1 3 8.5 1.5 1.5 0 0 1 4.5 7z"/><path fill="#fff" d="M11.5 11A2.5 2.5 0 0 0 14 8.5 2.5 2.5 0 0 0 11.5 6a2.5 2.5 0 0 0-1.5.504V2H9v9h1v-.502a2.5 2.5 0 0 0 1.5.502zm0-1A1.5 1.5 0 0 1 10 8.5 1.5 1.5 0 0 1 11.5 7 1.5 1.5 0 0 1 13 8.5a1.5 1.5 0 0 1-1.5 1.5z"/></svg>

@@ -1,11 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <path d="M21 15v1H2v-1zm0-2v1H2v-1zm0-2v1H2v-1zm0-2v1H2V9zm0 8v1H2v-1zm0 2v1H2v-1zm0-12v1H2V7zm0-2v1H2V5z" fill="#8e8e8e"/>
-    <path d="M11 3h1v19h-1zM9 3h1v19H9zM7 3h1v19H7zM5 3h1v19H5zm8 0h1v19h-1zm2 0h1v19h-1zm2 0h1v19h-1zM3 3h1v19H3zm16 0h1v19h-1z" fill="#8e8e8e"/>
-    <rect height="17" opacity=".2" rx=".85" ry="1.063" transform="matrix(0 -1 -1 0 0 0)" width="17" x="-21.5" y="-20"/>
-    <rect fill="#b7b7b7" height="17" rx=".85" ry="1.063" transform="matrix(0 -1 -1 0 0 0)" width="17" x="-21" y="-20"/>
-    <path d="M4.063 4C3.473 4 3 4.379 3 4.85v.5c0-.471.474-.85 1.063-.85h14.875c.588 0 1.062.379 1.062.85v-.5c0-.471-.474-.85-1.063-.85z" fill="#f4f4f7" opacity=".2"/>
-    <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
-        <path d="M2.014 12.5h6.5l2-5 3 10 2-5h6.472" opacity=".1" stroke="#000"/>
-        <path d="M2.014 12h6.5l2-5 3 10 2-5h6.472" stroke="#009688"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><path style="fill:#8e8e8e" transform="rotate(90)" d="M15-21h1v19h-1zM13-21h1v19h-1zM11-21h1v19h-1zM9-21h1v19H9zM17-21h1v19h-1zM19-21h1v19h-1zM7-21h1v19H7zM5-21h1v19H5z"/><path style="fill:#8e8e8e" d="M11 3h1v19h-1zM9 3h1v19H9zM7 3h1v19H7zM5 3h1v19H5zM13 3h1v19h-1zM15 3h1v19h-1zM17 3h1v19h-1zM3 3h1v19H3zM19 3h1v19h-1z"/><rect style="opacity:.2" width="17" height="17" x="-21.5" y="-20" rx=".85" ry="1.063" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#b7b7b7" width="17" height="17" x="-21" y="-20" rx=".85" ry="1.063" transform="matrix(0 -1 -1 0 0 0)"/><path style="opacity:.2;fill:#f4f4f7" d="M4.063 4C3.473 4 3 4.379 3 4.85v.5c0-.471.474-.85 1.063-.85h14.875c.588 0 1.062.379 1.062.85v-.5c0-.471-.474-.85-1.063-.85z"/><path style="opacity:.1;fill:none;stroke:#000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M2.014 12.5h6.5l2-5 3 10 2-5h6.472"/><path style="fill:none;stroke:#009688;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M2.014 12h6.5l2-5 3 10 2-5h6.472"/></svg>

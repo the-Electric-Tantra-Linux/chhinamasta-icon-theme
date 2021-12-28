@@ -1,11 +1,1 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="8" cy="8" fill="#29d682" r="8"/>
-    <g fill="#f4f4f7">
-        <path d="M6 3h1v10H6zm3 0h1v10H9z"/>
-        <path d="M3 6h10v1H3z"/>
-        <path d="M7.5 3h1v10h-1z"/>
-        <path d="M3 9h10v1H3zM13 7.5v1H3v-1z"/>
-    </g>
-    <rect fill="#17191e" height="6" rx="1" width="6" x="5" y="5"/>
-    <circle cx="6.5" cy="6.5" fill="#f4f4f7" r=".5"/>
-</svg>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"><circle cx="8" cy="8" r="8" style="fill:#29d682"/><path style="fill:#f4f4f7" d="M6 3h1v10H6zM9 3h1v10H9z"/><path style="fill:#f4f4f7" d="M3 6h10v1H3z"/><path style="fill:#f4f4f7" d="M7.5 3h1v10h-1z"/><path style="fill:#f4f4f7" d="M3 9h10v1H3z"/><path transform="rotate(90)" style="fill:#f4f4f7" d="M7.5-13h1v10h-1z"/><rect x="5" y="5" width="6" height="6" rx="1" ry="1" style="fill:#17191e"/><circle cx="6.5" cy="6.5" r=".5" style="fill:#f4f4f7"/></svg>

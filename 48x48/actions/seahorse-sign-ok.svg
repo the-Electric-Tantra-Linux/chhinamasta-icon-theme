@@ -1,7 +1,0 @@
-<svg height="22" width="22" xmlns="http://www.w3.org/2000/svg">
-    <g fill="#eeeeec">
-        <path d="M7 14v5l3-2v-3z"/>
-        <path d="M10 4a6 6 0 0 0 0 12v-2a4 4 0 1 1 2.645-1h2.55A6 6 0 0 0 10 4zm-.05 3a3 3 0 1 0 .1 6 3 3 0 0 0-.1-6z"/>
-        <path d="m17 13-3 3-2-2-1 1 3 3 4-4z"/>
-    </g>
-</svg>

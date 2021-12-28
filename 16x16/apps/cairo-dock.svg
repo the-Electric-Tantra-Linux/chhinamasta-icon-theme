@@ -1,22 +1,5 @@
-<svg height="64" viewBox="0 0 16.933 16.933" width="64" xmlns="http://www.w3.org/2000/svg">
-    <filter id="a" color-interpolation-filters="sRGB" height="1.054" width="1.054" x="-.027" y="-.027">
-        <feGaussianBlur stdDeviation=".619"/>
-    </filter>
-    <linearGradient id="b" gradientUnits="userSpaceOnUse" x1="1.19" x2="15.742" y1="15.74" y2="1.188">
-        <stop offset="0" stop-color="#32d7ff"/>
-        <stop offset="1" stop-color="#329bff"/>
-    </linearGradient>
-    <rect fill="#141414" filter="url(#a)" height="55" opacity=".3" ry="15" transform="scale(.26458)" width="55" x="4.5" y="4.5"/>
-    <rect fill="url(#b)" height="14.552" ry="3.969" width="14.552" x="1.191" y="1.191"/>
-    <rect fill="#f4f4f7" height="4.233" opacity=".6" rx="1.323" width="11.641" x="2.646" y="9.789"/>
-    <g fill="#008bff">
-        <rect height="2.646" opacity=".15" rx=".529" width="2.646" x="3.439" y="10.848"/>
-        <rect height="2.646" opacity=".15" rx=".529" width="2.646" x="7.144" y="10.848"/>
-        <rect height="2.646" opacity=".15" rx=".529" width="2.646" x="10.848" y="10.848"/>
-    </g>
-    <g fill="#f9f9f9">
-        <rect height="2.646" rx=".529" width="2.646" x="3.439" y="10.583"/>
-        <rect height="2.646" rx=".529" width="2.646" x="7.144" y="10.583"/>
-        <rect height="2.646" rx=".529" width="2.646" x="10.848" y="10.583"/>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+    <path style="fill:#325f78" d="M16 13.182V2.818c0-.453-.382-.818-.857-.818H1.857C1.382 2 1 2.365 1 2.818v10.364c0 .453.382.818.857.818h13.286c.475 0 .857-.365.857-.818z"/>
+    <path style="opacity:.2" d="M15 13V3H2v10z"/>
+    <path style="fill:#f4f4f7" d="M6.333 11h1.334c.184 0 .333.149.333.333v1.333a.333.333 0 0 1-.333.334H6.333A.333.333 0 0 1 6 12.667v-1.334c0-.184.149-.333.333-.333zm-3 0h1.334c.184 0 .333.149.333.333v1.333a.333.333 0 0 1-.333.334H3.333A.333.333 0 0 1 3 12.667v-1.334c0-.184.149-.333.333-.333zm9 0h1.333c.185 0 .334.149.334.333v1.333a.333.333 0 0 1-.333.334h-1.333a.333.333 0 0 1-.334-.333v-1.333c0-.185.149-.334.333-.334zm-3 0h1.334c.184 0 .333.149.333.333v1.333a.333.333 0 0 1-.333.334H9.333A.333.333 0 0 1 9 12.667v-1.334c0-.184.149-.333.333-.333z"/>
 </svg>

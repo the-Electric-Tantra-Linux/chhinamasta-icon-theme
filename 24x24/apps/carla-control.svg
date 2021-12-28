@@ -1,18 +1,1 @@
-<svg height="24" width="24" xmlns="http://www.w3.org/2000/svg">
-    <rect height="20" opacity=".2" rx="1" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-22.5" y="-22"/>
-    <rect fill="#5b5a43" height="20" rx="1" transform="matrix(0 -1 -1 0 0 0)" width="20" x="-22" y="-22"/>
-    <path d="M14 4h6v7h-6z" opacity=".2"/>
-    <path d="M3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z" fill="#f4f4f7" opacity=".1"/>
-    <path d="M22 21v-9H2v9c0 .554.446 1 1 1h18c.554 0 1-.446 1-1z" opacity=".2"/>
-    <circle cx="7" cy="7.5" opacity=".2" r="3"/>
-    <circle cx="7" cy="7" fill="#bbb" r="3"/>
-    <path d="M14 4h3v1h-3zm0 2h4v1h-4z" fill="#3fea3f"/>
-    <path d="M14 8h2v1h-2zm0 2h5v1h-5z" fill="#00ffed"/>
-    <circle cx="7" cy="17.5" opacity=".2" r="3"/>
-    <circle cx="7" cy="17" fill="#bbb" r="3"/>
-    <path d="M2 12h20v.5H2z" opacity=".2"/>
-    <path d="M7 4a3 3 0 0 0-3 3 3 3 0 0 0 .013.249A3 3 0 0 1 7 4.5a3 3 0 0 1 2.987 2.751A3 3 0 0 0 10 7a3 3 0 0 0-3-3zm0 10a3 3 0 0 0-3 3 3 3 0 0 0 .013.249A3 3 0 0 1 7 14.5a3 3 0 0 1 2.987 2.751A3 3 0 0 0 10 17a3 3 0 0 0-3-3z" fill="#f4f4f7" opacity=".2"/>
-    <path d="M14 14h6v7h-6z" opacity=".2"/>
-    <path d="M14 14h3v1h-3zm0 2h4v1h-4z" fill="#3fea3f"/>
-    <path d="M14 18h2v1h-2zm0 2h5v1h-5z" fill="#00ffed"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" version="1"><rect style="opacity:.2" width="20" height="20" x="-22.5" y="-22" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><rect style="fill:#5b5a43" width="20" height="20" x="-22" y="-22" rx="1" ry="1" transform="matrix(0 -1 -1 0 0 0)"/><path style="opacity:.2" d="M14 4h6v7h-6z"/><path style="opacity:.1;fill:#f4f4f7" d="M3 2c-.554 0-1 .446-1 1v.5c0-.554.446-1 1-1h18c.554 0 1 .446 1 1V3c0-.554-.446-1-1-1z"/><path style="opacity:.2" d="M22 21v-9H2v9c0 .554.446 1 1 1h18c.554 0 1-.446 1-1z"/><circle style="opacity:.2" cx="7" cy="7.5" r="3"/><circle style="fill:#bbb" cx="7" cy="7" r="3"/><path style="fill:#3fea3f" d="M14 4h3v1h-3zM14 6h4v1h-4z"/><path style="fill:#00ffed" d="M14 8h2v1h-2zM14 10h5v1h-5z"/><circle style="opacity:.2" cx="7" cy="17.5" r="3"/><circle style="fill:#bbb" cx="7" cy="17" r="3"/><path style="opacity:.2" d="M2 12h20v.5H2z"/><path style="opacity:.2;fill:#f4f4f7" d="M7 4a3 3 0 0 0-3 3 3 3 0 0 0 .013.249A3 3 0 0 1 7 4.5a3 3 0 0 1 2.987 2.751A3 3 0 0 0 10 7a3 3 0 0 0-3-3zM7 14a3 3 0 0 0-3 3 3 3 0 0 0 .013.249A3 3 0 0 1 7 14.5a3 3 0 0 1 2.987 2.751A3 3 0 0 0 10 17a3 3 0 0 0-3-3z"/><path style="opacity:.2" d="M14 14h6v7h-6z"/><path style="fill:#3fea3f" d="M14 14h3v1h-3zM14 16h4v1h-4z"/><path style="fill:#00ffed" d="M14 18h2v1h-2zM14 20h5v1h-5z"/></svg>
