@@ -2825,12 +2825,12 @@
     <path
        id="rect1509"
        d="m 12,6 h 1 c 0.554,0 1,0.446 1,1 v 2 c 0,0.554 -0.446,1 -1,1 H 12 C 11.446,10 11,9.554 11,9 V 7 c 0,-0.554 0.446,-1 1,-1 z"
-       style="fill:#c74343;fill-opacity:1;stroke:none;stroke-opacity:1"
+       style="fill:#ff0a60;fill-opacity:1;stroke:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        id="rect1511"
        d="m 12,7 h 1 v 2 h -1 z"
-       style="fill:#f78f8f;fill-opacity:1;stroke:none;stroke-opacity:1"
+       style="fill:#ff3d81;fill-opacity:1;stroke:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <path

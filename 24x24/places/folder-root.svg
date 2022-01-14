@@ -3309,13 +3309,13 @@
     <path
        id="path4"
        class="ColorScheme-Text"
-       style="color:#122036;fill:#c74343;fill-opacity:1;stroke:none"
+       style="color:#122036;fill:#ff0a60;fill-opacity:1;stroke:none"
        d="m 26.633465,8.0000602 c -0.259718,0.004 -0.507631,0.10921 -0.691258,0.29297 L 18.943701,15.29303 c -0.62942,0.62999 -0.183565,1.70668 0.70688,1.70703 h 0.999786 v 6 c 0,0.554 0.445907,1 0.999787,1 h 9.997866 c 0.55388,0 0.999786,-0.446 0.999786,-1 v -6 h 0.999787 c 0.890445,-3.5e-4 1.3363,-1.07704 0.70688,-1.70703 L 32.647806,13.586 v -3.58594 c 0,-0.5539998 -0.445906,-0.9999998 -0.999786,-0.9999998 -0.55388,0 -0.999787,0.446 -0.999787,0.9999998 V 11.586 L 27.355967,8.2930302 c -0.191282,-0.19141 -0.451956,-0.29711 -0.722502,-0.29297 z"
        inkscape:connector-curvature="0" />
     <path
        id="rect884"
        d="m 26.648438,9 -7,7 h 2 v 7 h 10 v -7 h 2 z"
-       style="fill:#f78f8f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ff3d81;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

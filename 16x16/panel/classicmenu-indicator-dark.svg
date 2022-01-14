@@ -1,1 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path d="M0 2v2h9V2zm0 5v2h9V7zm11 0 2.5 3L16 7zM0 12v2h9v-2z" fill="currentColor" color="#bebebe"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path d="M0 2v2h9V2zm0 5v2h9V7zm11 0 2.5 3L16 7zM0 12v2h9v-2z" fill="currentColor" color="#bebebe"/>
+</svg>

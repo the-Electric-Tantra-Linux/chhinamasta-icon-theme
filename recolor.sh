@@ -14,17 +14,17 @@ function recolor() {
 
      sed -i 's/5d656b/8b9cbe/g' **/*.svg
 
-    # sed -i 's/e4e4e4/b2bfd9/g' **/*.svg
+     sed -i 's/4f4f4f/8b9cbe/g' **/*.svg
 
-    # sed -i 's/e4e4e4/b2bfd9/g' **/*.svg
+     sed -i 's/4f92db/0badff/g' **/*.svg
 
-    # sed -i 's/607d8b/555e70/g' **/*.svg
+     sed -i 's/5ac0ff/00caff/g' **/*.svg
 
-    # sed -i 's/c2c2c2/b2bfs9/g' **/*.svg
+     sed -i 's/c2c2c2/b2bfs9/g' **/*.svg
 
-    # sed -i 's/3f3f3f/17191e/g' **/*.svg
+     sed -i 's/f78f8f/ff3d81/g' **/*.svg
 
-    # sed -i 's/5294e2/00caff/g' **/*.svg
+     sed -i 's/c74343/ff0a60/g' **/*.svg
 
     # sed -i 's/4877b1/0badff/g' **/*.svg
 
@@ -46,13 +46,13 @@ function recolor() {
     # sed -i 's/87158/00fae9/g' **/*.svg
     # sed -i 's/5c6bc0/8265ff/g' **/*.svg
 }
-cd 8x8 && recolor && cd ..
+
 cd 16x16 && recolor && cd ..
-cd 18x18 && recolor && cd ..
-cd 22x22 && recolor && cd ..
+
+
 cd 24x24 && recolor && cd ..
 cd 32x32 && recolor && cd ..
 cd 48x48 && recolor && cd ..
 cd 64x64 && recolor && cd ..
-cd 96x96 && recolor && cd ..
+cd 128x128 && recolor && cd ..
 cd 256x256 && recolor && cd ..

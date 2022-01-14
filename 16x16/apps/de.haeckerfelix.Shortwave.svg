@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path style="fill:none;stroke:#989898;stroke-width:.80000001;stroke-linecap:round" d="M3 3 11.616.4"/><circle style="fill:#3d3846" cx="3" cy="3" r="1"/><path style="fill:#e5a50a" d="M1.143 3C.51 3 0 3.545 0 4.222v8.556C0 13.455.51 14 1.143 14H11.1V3z"/><path style="fill:#63452c" d="M11 3v11h3.857C15.49 14 16 13.455 16 12.778V4.222C16 3.545 15.49 3 14.857 3z"/><rect style="fill:#e5a50a" width="1" height="1" x="12" y="9" rx=".25" ry=".25"/><circle style="fill:#e5a50a" cx="13.5" cy="6.5" r="1.5"/><circle style="fill:#63452c" cx="12.75" cy="5.75" r=".25"/><path style="fill:#63452c" d="M5.5 5a3.5 3.5 0 0 0-2.45 1h4.895A3.5 3.5 0 0 0 5.5 5zM2.342 7a3.5 3.5 0 0 0-.301 1h6.92a3.5 3.5 0 0 0-.303-1H2.342zm-.303 2a3.5 3.5 0 0 0 .303 1h6.316a3.5 3.5 0 0 0 .301-1h-6.92zm1.016 2A3.5 3.5 0 0 0 5.5 12a3.5 3.5 0 0 0 2.45-1H3.054z"/><rect style="fill:#e5a50a" width="1" height="1" x="14" y="9" rx=".25" ry=".25"/><rect style="fill:#e5a50a" width="1" height="1" x="12" y="11" rx=".25" ry=".25"/><rect style="fill:#e5a50a" width="1" height="1" x="14" y="11" rx=".25" ry=".25"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path style="fill:none;stroke:#989898;stroke-width:.80000001;stroke-linecap:round" d="M3 3 11.616.4"/>
+    <circle style="fill:#3d3846" cx="3" cy="3" r="1"/>
+    <path style="fill:#e5a50a" d="M1.143 3C.51 3 0 3.545 0 4.222v8.556C0 13.455.51 14 1.143 14H11.1V3z"/>
+    <path style="fill:#63452c" d="M11 3v11h3.857C15.49 14 16 13.455 16 12.778V4.222C16 3.545 15.49 3 14.857 3z"/>
+    <rect style="fill:#e5a50a" width="1" height="1" x="12" y="9" rx=".25" ry=".25"/>
+    <circle style="fill:#e5a50a" cx="13.5" cy="6.5" r="1.5"/>
+    <circle style="fill:#63452c" cx="12.75" cy="5.75" r=".25"/>
+    <path style="fill:#63452c" d="M5.5 5a3.5 3.5 0 0 0-2.45 1h4.895A3.5 3.5 0 0 0 5.5 5zM2.342 7a3.5 3.5 0 0 0-.301 1h6.92a3.5 3.5 0 0 0-.303-1H2.342zm-.303 2a3.5 3.5 0 0 0 .303 1h6.316a3.5 3.5 0 0 0 .301-1h-6.92zm1.016 2A3.5 3.5 0 0 0 5.5 12a3.5 3.5 0 0 0 2.45-1H3.054z"/>
+    <rect style="fill:#e5a50a" width="1" height="1" x="14" y="9" rx=".25" ry=".25"/>
+    <rect style="fill:#e5a50a" width="1" height="1" x="12" y="11" rx=".25" ry=".25"/>
+    <rect style="fill:#e5a50a" width="1" height="1" x="14" y="11" rx=".25" ry=".25"/>
+</svg>

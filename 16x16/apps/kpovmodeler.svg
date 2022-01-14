@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16"><path style="fill:#24bc0d" d="M0 3v9a3.5 1 0 0 0 3.5 1A3.5 1 0 0 0 7 12V3H0z"/><ellipse style="fill:#61dc3f" rx="3.5" ry="1" cy="3" cx="3.5"/><path style="fill:#3251e7" d="M10.5 2 16 13s0 2.2-5.5 2.2S5 13 5 13z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16">
+    <path style="fill:#24bc0d" d="M0 3v9a3.5 1 0 0 0 3.5 1A3.5 1 0 0 0 7 12V3H0z"/>
+    <ellipse style="fill:#61dc3f" rx="3.5" ry="1" cy="3" cx="3.5"/>
+    <path style="fill:#3251e7" d="M10.5 2 16 13s0 2.2-5.5 2.2S5 13 5 13z"/>
+</svg>

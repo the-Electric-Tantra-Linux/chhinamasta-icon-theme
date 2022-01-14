@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path style="fill:#4f4f4f" d="M1.148 2A1.145 1.088 0 0 0 0 3.09v9.82C0 13.513.512 14 1.148 14H8.25V2zm0 0"/><path style="fill:#ff3737" d="M4 5.5A1.5 1.5 0 1 1 2.5 4 1.5 1.5 0 0 1 4 5.5zm0 0"/><path style="fill:#ffc025" d="M5.846 5.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0 0"/><path style="fill:#ff872b" d="M3.421 4.319A1.502 1.502 0 0 0 2.846 5.5a1.501 1.501 0 0 0 .578 1.181A1.5 1.5 0 0 0 4 5.501a1.5 1.5 0 0 0-.579-1.182zm0 0"/><path style="fill:#9a9996" d="M1 11.8h5V13H1zm0 0"/><path style="fill:#deddda" d="M1 10h3v1H1zm0 0"/><path style="fill:#17191e" d="M8 2v12h5v-2h3V4h-3V2z"/><path style="opacity:.15" d="M8.8 8h2.4v2.4H8.8zm0 0" transform="matrix(.83333 0 0 .83333 1.667 1.333)"/><path style="opacity:.2;fill:#f4f4f7" d="M11.2 8h2.4v2.4h-2.4zM8.8 10.4h2.4v2.4H8.8zm0 0" transform="matrix(.83333 0 0 .83333 1.667 1.333)"/><path style="opacity:.15" d="M11.2 10.4h2.4v2.4h-2.4zm0 0" transform="matrix(.83333 0 0 .83333 1.667 1.333)"/><path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round" d="M8 1.05v13.9"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <path style="fill:#8b9cbe" d="M1.148 2A1.145 1.088 0 0 0 0 3.09v9.82C0 13.513.512 14 1.148 14H8.25V2zm0 0"/>
+    <path style="fill:#ff3737" d="M4 5.5A1.5 1.5 0 1 1 2.5 4 1.5 1.5 0 0 1 4 5.5zm0 0"/>
+    <path style="fill:#ffc025" d="M5.846 5.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0zm0 0"/>
+    <path style="fill:#ff872b" d="M3.421 4.319A1.502 1.502 0 0 0 2.846 5.5a1.501 1.501 0 0 0 .578 1.181A1.5 1.5 0 0 0 4 5.501a1.5 1.5 0 0 0-.579-1.182zm0 0"/>
+    <path style="fill:#9a9996" d="M1 11.8h5V13H1zm0 0"/>
+    <path style="fill:#deddda" d="M1 10h3v1H1zm0 0"/>
+    <path style="fill:#17191e" d="M8 2v12h5v-2h3V4h-3V2z"/>
+    <path style="opacity:.15" d="M8.8 8h2.4v2.4H8.8zm0 0" transform="translate(1.667 1.333) scale(.83333)"/>
+    <path style="opacity:.2;fill:#f4f4f7" d="M11.2 8h2.4v2.4h-2.4zm-2.4 2.4h2.4v2.4H8.8zm0 0" transform="translate(1.667 1.333) scale(.83333)"/>
+    <path style="opacity:.15" d="M11.2 10.4h2.4v2.4h-2.4zm0 0" transform="translate(1.667 1.333) scale(.83333)"/>
+    <path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round" d="M8 1.05v13.9"/>
+</svg>

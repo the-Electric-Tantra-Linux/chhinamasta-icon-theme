@@ -307,18 +307,18 @@
       <path
          id="rect1226-2-3"
          d="m -23.000004,301.65002 c 1.108003,0 2.000002,0.892 2.000002,2.00001 0,1.108 -0.891999,1.99997 -2.000002,1.99997 -1.107998,0 -1.999997,-0.89197 -1.999997,-1.99997 0,-1.10801 0.891999,-2.00001 1.999997,-2.00001 z"
-         style="opacity:1;fill:#4f92db;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         style="opacity:1;fill:#0badff;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
          id="rect1351"
          d="m -2.0000017,291.64999 c 0.831,0 1.49999997,0.66902 1.49999997,1.50002 0,0.83101 -0.66899997,1.49998 -1.49999997,1.49998 -0.831,0 -1.5,-0.66897 -1.5,-1.49998 0,-0.831 0.669,-1.50002 1.5,-1.50002 z"
-         style="opacity:1;fill:#4f92db;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+         style="opacity:1;fill:#0badff;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
       <path
          inkscape:connector-curvature="0"
          id="rect1353"
          d="m -2.0000007,292.65002 c 0.276998,0 0.5,0.22299 0.5,0.49999 0,0.27704 -0.223,0.49999 -0.5,0.49999 -0.277001,0 -0.5,-0.22299 -0.5,-0.49999 0,-0.27704 0.223,-0.49999 0.5,-0.49999 z"
-         style="opacity:1;fill:#5ac0ff;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
+         style="opacity:1;fill:#00caff;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill" />
       <path
          style="opacity:1;fill:#ffb851;fill-opacity:0.96078432;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          d="m 2.5000012,301.65009 c 0.831,0 1.5,0.669 1.5,1.5 0,0.831 -0.669,1.5 -1.5,1.5 -0.831,0 -1.5,-0.669 -1.5,-1.5 0,-0.831 0.669,-1.5 1.5,-1.5 z"
@@ -335,7 +335,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="opacity:1;fill:#5ac0ff;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       style="opacity:1;fill:#00caff;fill-opacity:1;stroke:none;stroke-width:0.80800003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        d="m 3,293.64999 c 0.554,0 0.999999,0.44598 0.999999,0.99999 0,0.554 -0.445999,0.99998 -0.999999,0.99998 -0.553999,-1e-5 -1.000002,-0.44598 -1.000002,-0.99999 0,-0.55401 0.446003,-0.99999 1.000002,-0.99998 z"
        id="rect1228-7-6" />
     <path

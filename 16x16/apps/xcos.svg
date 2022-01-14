@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><rect style="fill:#e74c3c" width="16" height="14" x="-16" y="1" rx=".8" ry=".875" transform="scale(-1 1)"/><rect style="fill:#17191e" width="10" height="10" x="2" y="3" rx=".5" ry=".5"/><path style="fill:none;stroke:#f4f4f7;stroke-linejoin:round" d="M3 7.5h1.5l1-2 1 5 1.5-6 1 3h2"/><circle style="fill:#f4f4f7" cx="14" cy="13" r="1"/><circle style="fill:#f4f4f7" cx="14" cy="10" r="1"/><circle style="fill:#f4f4f7" cx="14" cy="7" r="1"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+    <rect style="fill:#e74c3c" width="16" height="14" x="-16" y="1" rx=".8" ry=".875" transform="scale(-1 1)"/>
+    <rect style="fill:#17191e" width="10" height="10" x="2" y="3" rx=".5" ry=".5"/>
+    <path style="fill:none;stroke:#f4f4f7;stroke-linejoin:round" d="M3 7.5h1.5l1-2 1 5 1.5-6 1 3h2"/>
+    <circle style="fill:#f4f4f7" cx="14" cy="13" r="1"/>
+    <circle style="fill:#f4f4f7" cx="14" cy="10" r="1"/>
+    <circle style="fill:#f4f4f7" cx="14" cy="7" r="1"/>
+</svg>

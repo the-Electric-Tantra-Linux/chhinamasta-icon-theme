@@ -1,1 +1,10 @@
-<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text{color:#8b9cbe}</style></defs><path style="fill:currentColor" class="ColorScheme-Text" d="M5 1c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h6c1.108 0 2-.892 2-2V3c0-1.108-.892-2-2-2zm0 1h6c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1H5c-.554 0-1-.446-1-1V3c0-.554.446-1 1-1z"/><rect style="fill:currentColor" class="ColorScheme-Text" x="6" y="1" width="4" height="2" rx="1" ry="1"/><path style="fill:currentColor" class="ColorScheme-Text" d="M6.638 12h2.725c.353 0 .637.223.637.5s-.284.5-.637.5H6.638C6.284 13 6 12.777 6 12.5s.284-.5.638-.5z" opacity=".5"/></svg>
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#8b9cbe}
+        </style>
+    </defs>
+    <path style="fill:currentColor" class="ColorScheme-Text" d="M5 1c-1.108 0-2 .892-2 2v10c0 1.108.892 2 2 2h6c1.108 0 2-.892 2-2V3c0-1.108-.892-2-2-2zm0 1h6c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1H5c-.554 0-1-.446-1-1V3c0-.554.446-1 1-1z"/>
+    <rect style="fill:currentColor" class="ColorScheme-Text" x="6" y="1" width="4" height="2" rx="1" ry="1"/>
+    <path style="fill:currentColor" class="ColorScheme-Text" d="M6.638 12h2.725c.353 0 .637.223.637.5s-.284.5-.637.5H6.638C6.284 13 6 12.777 6 12.5s.284-.5.638-.5z" opacity=".5"/>
+</svg>

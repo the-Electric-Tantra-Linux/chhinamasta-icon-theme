@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1"><circle style="fill:#98ecef" cx="13" cy="2" r="2"/><circle style="fill:#ff6bf4" cx="4" cy="10" r="2"/><circle style="fill:#ff6bf4" cx="7" cy="14" r="2"/><circle style="fill:#cc4e38" cx="4" cy="13" r="3"/><circle style="fill:#f26666" cx="9.5" cy="11.5" r="3.5"/><circle style="fill:#fdcc58" cx="8.5" cy="7.5" r="5.5"/><circle style="fill:#ff6bf4" cx="2.5" cy="13.5" r="2.5"/><path style="fill:#f26666;fill-rule:evenodd" d="M7.78 6.717c-.55 2.14-1.87 3.739-3.924 3.166C1.8 9.31.582 7.11 1.132 4.973c.55-2.14 2.663-3.408 4.718-2.835 2.054.573 2.48 2.44 1.93 4.58z"/><circle style="fill:#98ecef" cx="13" cy="6" r="2"/><circle style="fill:#4e59b3" cx="11" cy="4" r="3"/><path style="fill:#98ecef;fill-rule:evenodd" d="M11 4c0 1.105-.613 2-1.818 2S7 5.105 7 4s.977-2 2.182-2S11 2.895 11 4z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
+    <circle style="fill:#98ecef" cx="13" cy="2" r="2"/>
+    <circle style="fill:#ff6bf4" cx="4" cy="10" r="2"/>
+    <circle style="fill:#ff6bf4" cx="7" cy="14" r="2"/>
+    <circle style="fill:#cc4e38" cx="4" cy="13" r="3"/>
+    <circle style="fill:#f26666" cx="9.5" cy="11.5" r="3.5"/>
+    <circle style="fill:#fdcc58" cx="8.5" cy="7.5" r="5.5"/>
+    <circle style="fill:#ff6bf4" cx="2.5" cy="13.5" r="2.5"/>
+    <path style="fill:#f26666;fill-rule:evenodd" d="M7.78 6.717c-.55 2.14-1.87 3.739-3.924 3.166C1.8 9.31.582 7.11 1.132 4.973c.55-2.14 2.663-3.408 4.718-2.835 2.054.573 2.48 2.44 1.93 4.58z"/>
+    <circle style="fill:#98ecef" cx="13" cy="6" r="2"/>
+    <circle style="fill:#4e59b3" cx="11" cy="4" r="3"/>
+    <path style="fill:#98ecef;fill-rule:evenodd" d="M11 4c0 1.105-.613 2-1.818 2S7 5.105 7 4s.977-2 2.182-2S11 2.895 11 4z"/>
+</svg>
