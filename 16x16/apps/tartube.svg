@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><circle style="fill:#cb51f0" cy="11.314" r="8" transform="rotate(-45)"/><path style="opacity:.2;fill:#f4f4f7" d="M13.657 2.343 2.343 13.657A8 8 0 0 1 13.657 2.343z"/><path style="fill:#f4f4f7" d="M5.722 4A.706.718 0 0 0 5 4.718v6.564a.706.718 0 0 0 1.058.622l5.589-3.282a.706.718 0 0 0 0-1.244L6.058 4.096A.706.718 0 0 0 5.722 4z"/><path style="fill:#d32020" d="M7 6.387 9.5 8 7 9.613z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <circle style="fill:#cb51f0" cy="11.314" r="8" transform="rotate(-45)"/>
+    <path style="opacity:.2;fill:#f4f4f7" d="M13.657 2.343 2.343 13.657A8 8 0 0 1 13.657 2.343z"/>
+    <path style="fill:#f4f4f7" d="M5.722 4A.706.718 0 0 0 5 4.718v6.564a.706.718 0 0 0 1.058.622l5.589-3.282a.706.718 0 0 0 0-1.244L6.058 4.096A.706.718 0 0 0 5.722 4z"/>
+    <path style="fill:#d32020" d="M7 6.387 9.5 8 7 9.613z"/>
+</svg>

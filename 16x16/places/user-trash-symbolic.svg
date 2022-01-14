@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16" width="16"><title>Template icons dark</title><g transform="translate(-154 445)"><path d="M156-441v10c0 .554.446 1 1 1h10c.554 0 1-.446 1-1v-10h-1v10h-10v-10z" style="marker:none" fill="#fff" fill-opacity=".995" stroke-width=".13" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".964"/><path d="M156-8b9cbec-.554 0-1 .446-1 1v1h14v-1c0-.554-.446-1-1-1z" fill="#fff" fill-opacity=".863" stroke-width="2" stroke-linejoin="round"/><rect ry="0" y="-441" x="158" height="9" width="8" style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" display="block" overflow="visible" fill="#fefefe" fill-opacity=".176" stroke-width=".5" paint-order="fill markers stroke"/><path style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" display="block" overflow="visible" fill="#fff" fill-opacity=".995" stroke-width=".13" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".964" d="M159-445h6v1h-6z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16">
+    <g transform="translate(-154 445)">
+        <path d="M156-441v10c0 .554.446 1 1 1h10c.554 0 1-.446 1-1v-10h-1v10h-10v-10z" style="marker:none" fill="#fff" fill-opacity=".995"/>
+        <rect ry="0" y="-441" x="158" height="9" width="8" style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" display="block" overflow="visible" fill="#fefefe" fill-opacity=".176" paint-order="fill markers stroke"/>
+        <path style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" display="block" overflow="visible" fill="#fff" fill-opacity=".995" d="M159-445h6v1h-6z"/>
+    </g>
+</svg>
