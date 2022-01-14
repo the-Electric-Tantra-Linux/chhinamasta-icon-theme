@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><g transform="translate(0 -1036.4)"><path fill="#37a0f2" d="m15.982 1051.6-3.99-14.4c-.12-.427-.357-.8-.799-.8H4.808c-.442 0-.68.373-.798.8l-3.991 14.4c-.119.427.356.8.798.8h14.367c.442 0 .916-.373.798-.8z"/><circle fill="#fff" cx="8" cy="1049.4" r="2"/><rect fill="#fe4343" width="2" height="11.998" x="530.62" y="893.75" rx=".962" ry=".932" transform="rotate(30)"/><path fill="#fff" d="m10 1036.4-2 3-2-3z"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <g transform="translate(0 -1036.4)">
+        <path fill="#37a0f2" d="m15.982 1051.6-3.99-14.4c-.12-.427-.357-.8-.799-.8H4.808c-.442 0-.68.373-.798.8l-3.991 14.4c-.119.427.356.8.798.8h14.367c.442 0 .916-.373.798-.8z"/>
+        <circle fill="#fff" cx="8" cy="1049.4" r="2"/>
+        <rect fill="#fe4343" width="2" height="11.998" x="530.62" y="893.75" rx=".962" ry=".932" transform="rotate(30)"/>
+        <path fill="#fff" d="m10 1036.4-2 3-2-3z"/>
+    </g>
+</svg>

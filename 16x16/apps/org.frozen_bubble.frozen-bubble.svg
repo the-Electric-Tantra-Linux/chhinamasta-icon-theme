@@ -1,1 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1"><defs><linearGradient id="a"><stop style="stop-color:#7d329a" offset="0"/><stop style="stop-color:#ac5cce" offset="1"/></linearGradient><linearGradient id="b" x1="30.577" x2="45" y1="19.129" y2="27.456" gradientTransform="matrix(.35294 0 0 .4 .118 -1)" gradientUnits="userSpaceOnUse" xlink:href="#a"/></defs><path style="fill:#653578" d="M5.21 8.453c-.757 2.339-2.202 4.934-5.21 4.499.199-1.956 1.011-3.926 2.158-5.507.242-.333.741-.48.948-.77z"/><path style="fill:#7d329a" d="M6.713 1C4.97 1.027 1.48 3.967 1.047 7.502c-.125 1.019.003 2.103.326 3.115.178 3.179 4.218 5.21 6.74 5.381 3.087.076 5.97-2.638 6.537-3.366 1.036-1.583-.43-4.995-1.739-6.983C11.475 3.47 8.799 1.881 6.713 1z"/><path style="fill:#fcf8fd" d="M3.768 8.512c-.696-.07-1.35.153-1.83.683-.339.374-.514.916-.553 1.512.151 1.897 1.678 3.37 3.414 4.28.644.028 1.245-.186 1.695-.682.962-1.062.676-3.455-.637-4.727-.656-.636-1.394-.997-2.09-1.066z"/><path style="fill:url(#b)" d="M11.687 5c2.219.871 4.68 2.536 4.267 6-1.855-.23-3.724-1.165-5.223-2.486-.316-.278-.456-.853-.731-1.09z"/><path style="fill:#ffc102" d="M5.972 8.036c.348 1.724-2.648 3.502-4.152 2.811-.723-.332-.846-1.597-.816-2.587.03-.877-.046-1.144.722-1.227 1.454-.154 4.094.246 4.246 1.003z"/><circle style="fill:#f4f4f7" cx="-4.5" cy="5.5" r="2.5" transform="scale(-1 1)"/><circle style="fill:#17191e" cx="-4" cy="6" r="1" transform="scale(-1 1)"/><circle style="fill:#f4f4f7" cx="-1.5" cy="6.5" r="1.5" transform="scale(-1 1)"/><circle style="fill:#17191e" cx="-1.5" cy="6.5" r=".5" transform="scale(-1 1)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1">
+    <defs>
+        <linearGradient id="a">
+            <stop style="stop-color:#7d329a" offset="0"/>
+            <stop style="stop-color:#ac5cce" offset="1"/>
+        </linearGradient>
+        <linearGradient id="b" x1="30.577" x2="45" y1="19.129" y2="27.456" gradientTransform="matrix(.35294 0 0 .4 .118 -1)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+    </defs>
+    <path style="fill:#653578" d="M5.21 8.453c-.757 2.339-2.202 4.934-5.21 4.499.199-1.956 1.011-3.926 2.158-5.507.242-.333.741-.48.948-.77z"/>
+    <path style="fill:#7d329a" d="M6.713 1C4.97 1.027 1.48 3.967 1.047 7.502c-.125 1.019.003 2.103.326 3.115.178 3.179 4.218 5.21 6.74 5.381 3.087.076 5.97-2.638 6.537-3.366 1.036-1.583-.43-4.995-1.739-6.983C11.475 3.47 8.799 1.881 6.713 1z"/>
+    <path style="fill:#fcf8fd" d="M3.768 8.512c-.696-.07-1.35.153-1.83.683-.339.374-.514.916-.553 1.512.151 1.897 1.678 3.37 3.414 4.28.644.028 1.245-.186 1.695-.682.962-1.062.676-3.455-.637-4.727-.656-.636-1.394-.997-2.09-1.066z"/>
+    <path style="fill:url(#b)" d="M11.687 5c2.219.871 4.68 2.536 4.267 6-1.855-.23-3.724-1.165-5.223-2.486-.316-.278-.456-.853-.731-1.09z"/>
+    <path style="fill:#ffc102" d="M5.972 8.036c.348 1.724-2.648 3.502-4.152 2.811-.723-.332-.846-1.597-.816-2.587.03-.877-.046-1.144.722-1.227 1.454-.154 4.094.246 4.246 1.003z"/>
+    <circle style="fill:#f4f4f7" cx="-4.5" cy="5.5" r="2.5" transform="scale(-1 1)"/>
+    <circle style="fill:#17191e" cx="-4" cy="6" r="1" transform="scale(-1 1)"/>
+    <circle style="fill:#f4f4f7" cx="-1.5" cy="6.5" r="1.5" transform="scale(-1 1)"/>
+    <circle style="fill:#17191e" cx="-1.5" cy="6.5" r=".5" transform="scale(-1 1)"/>
+</svg>
