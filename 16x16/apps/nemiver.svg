@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
-    <rect style="fill:#64b515" width="16" height="16" rx=".8" ry=".8"/>
-    <path style="fill:#17191e;fill-rule:evenodd;stroke:#17191e;stroke-width:.73733753px" d="M4 8.343h8"/>
-    <path style="fill:#17191e;fill-rule:evenodd;stroke:#17191e;stroke-width:.74246204px" d="m3.958 12.625 8.085-8.251"/>
-    <path style="fill:#17191e;fill-rule:evenodd;stroke:#17191e;stroke-width:.74246216px" d="m12.043 12.625-8.085-8.25"/>
-    <ellipse style="fill:#17191e" cx="8" cy="6.25" rx="1.5" ry="2.25"/>
-    <ellipse style="fill:#17191e" cx="8" cy="10.375" rx="2" ry="2.625"/>
-</svg>

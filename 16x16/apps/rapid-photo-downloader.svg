@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
-    <path style="fill:#c2352a" d="M13.955 0 16 1.964v8.545a.5.5 0 0 1-.511.491H7.51a.5.5 0 0 1-.51-.491V.49A.5.5 0 0 1 7.511 0z"/>
-    <rect style="opacity:.4" width="5" height="4" x="-14" y="-9" rx=".391" ry=".5" transform="scale(-1)"/>
-    <path style="fill:#f8c44e" transform="scale(-1 1)" d="M-8.41 1h.409v1h-.409zm-6.09.5h.5V2h-.5zm5.09-.5h.409v1h-.409zm-1 0h.409v1h-.409zm-1 0h.409v1h-.409zm-1 0h.409v1h-.409zm-1 0h.409v1h-.409z"/>
-    <path style="fill:#1778ba" d="M6.955 5 9 6.964v8.545a.5.5 0 0 1-.511.491H.51a.5.5 0 0 1-.51-.491V5.49A.5.5 0 0 1 .511 5z"/>
-    <rect style="opacity:.4" width="5" height="4" x="-7" y="-14" rx=".391" ry=".5" transform="scale(-1)"/>
-    <path style="fill:#f8c44e" transform="scale(-1 1)" d="M-1.41 6h.409v1h-.409zm-6.09.5h.5V7h-.5zm5.09-.5h.409v1h-.409zm-1 0h.409v1h-.409zm-1 0h.409v1h-.409zm-1 0h.409v1h-.409zm-1 0h.409v1h-.409z"/>
-</svg>

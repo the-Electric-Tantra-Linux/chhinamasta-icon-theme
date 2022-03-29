@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
-    <path style="fill:#c7c7c7" d="M0 3v11.2"/>
-    <rect style="fill:#f4f4f7" width="14" height="2" x="1" y="10" rx=".667" ry=".829"/>
-    <path style="fill:#00caff;fill-rule:evenodd" d="M13 11a2 2 0 1 1-4.001-.001A2 2 0 0 1 13 11z"/>
-    <circle style="fill:#fffff7" cx="2" cy="5" r="1"/>
-    <rect style="fill:#00caff" width="2" height="2" x="4" y="7" rx=".315" ry=".344"/>
-    <circle style="fill:#00caff" cx="2" cy="8" r="1"/>
-    <rect style="fill:#f4f4f7" width="2" height="2" x="4" y="4" rx=".315" ry=".344"/>
-</svg>

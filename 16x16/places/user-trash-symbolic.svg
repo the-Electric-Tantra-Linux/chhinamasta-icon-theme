@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="16" width="16">
-    <g transform="translate(-154 445)">
-        <path d="M156-441v10c0 .554.446 1 1 1h10c.554 0 1-.446 1-1v-10h-1v10h-10v-10z" style="marker:none" fill="#fff" fill-opacity=".995"/>
-        <rect ry="0" y="-441" x="158" height="9" width="8" style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" display="block" overflow="visible" fill="#fefefe" fill-opacity=".176" paint-order="fill markers stroke"/>
-        <path style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" display="block" overflow="visible" fill="#fff" fill-opacity=".995" d="M159-445h6v1h-6z"/>
-    </g>
-</svg>

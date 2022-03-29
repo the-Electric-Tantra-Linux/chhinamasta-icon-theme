@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
-    <g transform="translate(-15 -14)">
-        <circle fill="#f34235" cx="23" cy="22" r="8"/>
-        <path fill="#fff" d="M19.447 19h6.25c.446 0 .446.429.446.429v5.142c0 .428-.448.428-.448.428h-6.249S19 25 19 24.57v-5.142s0-.428.447-.428zm9.553.75v4.5l-2.857-2.348z"/>
-    </g>
-</svg>

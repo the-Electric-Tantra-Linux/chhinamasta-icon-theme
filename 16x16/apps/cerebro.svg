@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path style="fill:#f4f4f7" d="M24 4A20 20 0 0 0 4 24a20 20 0 0 0 20 20 20 20 0 0 0 20-20A20 20 0 0 0 24 4Z" transform="matrix(.4 0 0 .4 -1.6 -1.6)"/>
-    <path style="fill:none;stroke:#454545;stroke-width:5" d="m34 30-10 6-10-6V18l10-6 10 6" transform="matrix(.4 0 0 .4 -1.6 -1.6)"/>
-    <path style="fill:none;stroke:#8644dc;stroke-width:2.5" d="M28.5 26 24 29l-3.75-2.5V21L24 19l4.5 2.5" transform="matrix(.4 0 0 .4 -1.6 -1.6)"/>
-</svg>

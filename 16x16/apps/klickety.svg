@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <rect style="fill:#616161" width="15.2" height="15.2" x="-15.6" y="-15.6" rx=".76" ry=".76" transform="matrix(0 -1 -1 0 0 0)"/>
-    <path style="fill:#0a9554" d="M8 8v8h7.2c.443 0 .8-.357.8-.8V8z"/>
-    <path style="fill:#38739d" d="M8 0v8h8V.8c0-.443-.357-.8-.8-.8z"/>
-    <path style="fill:#e54333" d="M.8 0C.357 0 0 .357 0 .8V8h8V0z"/>
-    <path style="fill:#ff8f1e" d="M0 8v7.2c0 .443.357.8.8.8H8V8z"/>
-</svg>

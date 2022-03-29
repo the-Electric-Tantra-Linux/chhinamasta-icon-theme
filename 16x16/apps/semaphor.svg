@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
-    <circle style="fill:#36445d" cx="8" cy="8" r="8"/>
-    <path style="fill:#70bbff" d="M4 10h4v4z"/>
-    <path style="fill:#3675fb" d="M4 6h4v4z"/>
-    <path style="fill:#70bbff" d="M4 6h4V2z"/>
-    <path style="fill:#3675fb" d="M12 6H8V2z"/>
-</svg>

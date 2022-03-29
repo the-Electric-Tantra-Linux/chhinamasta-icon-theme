@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <rect style="fill:#17191e" width="16" height="16" rx=".8" ry=".8"/>
-    <ellipse style="fill:#dadf18" cx="4.813" cy="12.892" rx="2.014" ry=".971" transform="matrix(.98947 -.14475 .17354 .98483 0 0)"/>
-    <ellipse style="fill:#dadf18" cx="10.087" cy="11.637" rx="2.014" ry=".971" transform="matrix(.98947 -.14475 .17354 .98483 0 0)"/>
-    <path style="fill:none;stroke:#dadf18;stroke-linejoin:round" d="M8.5 11.7V6.1l5-1.6v5.3"/>
-    <path style="fill:none;stroke:#eecc7b;stroke-width:.40000001px;stroke-linecap:round;stroke-linejoin:round" d="m2.202 6.2 2.6 1.8-2.6 1.7"/>
-</svg>

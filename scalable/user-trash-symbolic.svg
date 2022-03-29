@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="32" width="32">
-    <path d="M4 9v21c0 1.145.855 2 2 2h21c1.145 0 2-.855 2-2V9h-2v21H6V9z" style="marker:none" fill="#fff" fill-opacity=".995"/>
-    <path style="isolation:auto;mix-blend-mode:normal;marker:none" d="M8 9h17v19H8z" color="#000" display="block" overflow="visible" fill="#fefefe" fill-opacity=".176" paint-order="fill markers stroke"/>
-    <path d="M4 3c-1.145 0-1.974.855-2 2v2h29V5c0-1.145-.855-2-2-2z" fill="#fff" fill-opacity=".863"/>
-    <path style="isolation:auto;mix-blend-mode:normal;marker:none" color="#000" display="block" overflow="visible" fill="#fff" fill-opacity=".995" d="M10 1h13v1.999H10z"/>
-</svg>

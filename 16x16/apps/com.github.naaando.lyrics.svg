@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <g transform="matrix(.4 0 0 .4 -1.6 -1.6)">
-        <circle style="fill:#6d37ae" cx="24" cy="24" r="20"/>
-        <circle style="fill:none;stroke:#07e6d2;stroke-width:1.30258238;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:10.42065861,5.21032931;stroke-dashoffset:40.00289154" cx="11.18" cy="32.047" r="11.848" transform="rotate(-25.767)"/>
-        <circle style="fill:none;stroke:#07a8e6;stroke-width:1.43897986;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:11.51183901,5.7559195;stroke-dashoffset:40" cx="30.981" cy="-13.863" r="16.778" transform="rotate(69.107)"/>
-        <circle style="fill:none;stroke:#07e690;stroke-width:1.13250003;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:9.06000018,4.5300001;stroke-dashoffset:11.21175022" cx="22.772" cy="25.168" r="6.934" transform="rotate(-2.86)"/>
-        <path style="fill:#9bdb4d" d="M54.848 50.68a1.873 1.843 0 0 0-1.918 1.842l-.02 11.473-.021 11.48a1.873 1.843 0 0 0 2.806 1.6l10.113-5.722 10.114-5.721a1.873 1.843 0 0 0 .005-3.196l-10.093-5.752-10.092-5.758a1.873 1.843 0 0 0-.894-.245z" transform="translate(6.61 5.982) scale(.28154)"/>
-    </g>
-</svg>

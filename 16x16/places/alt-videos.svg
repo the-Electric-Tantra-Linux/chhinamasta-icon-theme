@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 4.233 4.233">
-    <path class="ColorScheme-Text" style="fill:#4b5799;fill-opacity:1;stroke:none;stroke-width:.26458335" d="M-.794 293.03a.528.528 0 0 0-.529.53v1.587c0 .293.236.53.53.53H.793a.529.529 0 0 0 .529-.53v-.031l.628.503c.174.138.43.015.43-.207v-2.117a.265.265 0 0 0-.43-.206l-.628.502v-.031a.528.528 0 0 0-.53-.53z" transform="translate(1.587 -292.237)"/>
-    <path d="M-.794 293.296H.794c.146 0 .264.118.264.264v1.588a.264.264 0 0 1-.264.264H-.794a.264.264 0 0 1-.264-.264v-1.588c0-.146.118-.264.264-.264z" style="opacity:1;fill:#e1e5f8;fill-opacity:1;stroke:none;stroke-width:.5291667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" transform="translate(1.587 -292.237)"/>
-    <path d="M2.117 295.412v-2.116l-1.323 1.058z" style="fill:#e1e5f8;fill-opacity:1;stroke:none;stroke-width:.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" transform="translate(1.587 -292.237)"/>
-</svg>

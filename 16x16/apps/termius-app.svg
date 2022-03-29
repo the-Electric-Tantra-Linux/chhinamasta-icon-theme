@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <circle style="fill:#222c62" cx="4.5" cy="8.5" r="3.5"/>
-    <circle style="fill:#222c62" cx="11.5" cy="9" r="3.5"/>
-    <circle style="fill:#222c62" cx="8" cy="10.5" r="3.5"/>
-    <circle style="fill:#222c62" cx="6" cy="5.5" r="3.5"/>
-    <circle style="fill:#222c62" cx="10.5" cy="6.5" r="3.5"/>
-    <path style="fill:none;stroke:#f4f4f7;stroke-linecap:round;stroke-linejoin:round" d="m5.506 6.579 1.872.909-1.872.909m2.665.757s.389.346 1.196.346c.807 0 1.196-.346 1.196-.346"/>
-    <path style="fill:none;stroke:#f4f4f7;stroke-width:2;stroke-linecap:round;stroke-linejoin:round" d="M6 2a3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 .004.129A3.5 3.5 0 0 0 1 8.5 3.5 3.5 0 0 0 4.5 12a3.5 3.5 0 0 0 .334-.018A3.5 3.5 0 0 0 8 14a3.5 3.5 0 0 0 2.908-1.555 3.5 3.5 0 0 0 .592.055A3.5 3.5 0 0 0 15 9a3.5 3.5 0 0 0-1.002-2.451A3.5 3.5 0 0 0 14 6.5 3.5 3.5 0 0 0 10.5 3a3.5 3.5 0 0 0-1.68.434A3.5 3.5 0 0 0 6 2z"/>
-</svg>

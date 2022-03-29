@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <path style="fill:#f4f4f7" d="M2 3c-.554 0-1 .493-1 1.106v8.788C1 13.507 1.446 14 2 14h6.035V3z"/>
-    <path style="fill:#51495d" d="M8 3v11h6c.554 0 1-.493 1-1.106V4.106c0-.613-.446-1.107-1-1.106z"/>
-    <circle style="fill:#f4f4f7" cx="12.5" cy="8.5" r="3.5"/>
-    <circle style="fill:#3ea5e6" cx="12.5" cy="8.5" r="2.5"/>
-</svg>

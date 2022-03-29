@@ -1,6 +1,0 @@
-<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg">
-    <path d="M8 15c7 0 7-6 7-6s1-8-7-8C1 1 1 8 1 8s0 7 7 7z" style="fill:#8b9cbe"/>
-    <path d="M3 10c3.577 0 4-4 4-4s-.437-4-3-4C1 2 0 5 0 5s0 5 3 5zm10-1c-2 0-2-3-2-3s0-3 2-3c3 0 3 3 3 3s0 3-3 3z" style="fill:#efefef"/>
-    <circle cx="3" cy="6" r="1" style="fill:#8b9cbe"/>
-    <circle cx="14" cy="6" r="1" style="fill:#8b9cbe"/>
-</svg>

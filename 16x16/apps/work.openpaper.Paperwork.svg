@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <rect style="fill:#555e70" width="16" height="16" rx="1.2" ry="1.2"/>
-    <path style="opacity:.6;fill:#f4f4f7;fill-rule:evenodd" d="m13.12 3.9-8.123 6.309V11.5l.499-1.13-.513 1.123z"/>
-    <path style="fill:#f4f4f7;fill-rule:evenodd" d="M1.92 9.079 13.12 3.9l-8.123 6.312C4.023 9.58 3.162 9.003 1.92 9.08zm3.592 1.296 7.608-6.473-4.227 7.575c-1.1-.56-2.102-1.126-3.38-1.102z"/>
-</svg>

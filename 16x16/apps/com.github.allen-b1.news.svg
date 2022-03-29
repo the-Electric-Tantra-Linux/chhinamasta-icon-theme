@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
-    <rect style="fill:#c93e5f" width="16" height="16" rx=".8" ry=".8"/>
-    <path style="fill:#f4f4f7" d="M2 8h.5A5.5 5.5 0 0 1 8 13.5v.5h-.5a.503.503 0 0 1-.5-.5A4.5 4.5 0 0 0 2.5 9a.503.503 0 0 1-.5-.5z"/>
-    <path style="fill:#f4f4f7" d="M2 10h.5A3.5 3.5 0 0 1 6 13.5v.5h-.5a.503.503 0 0 1-.5-.5A2.5 2.5 0 0 0 2.5 11a.503.503 0 0 1-.5-.5z"/>
-    <path style="fill:#f4f4f7" d="M3 12a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
-</svg>

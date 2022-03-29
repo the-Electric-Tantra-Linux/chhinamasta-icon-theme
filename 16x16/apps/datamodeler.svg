@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <rect style="fill:#44ad4d" width="16" height="16" rx="1.455" ry="1.455"/>
-    <path style="fill:#f4f4f7" d="M2 3h5v4H2z"/>
-    <path style="opacity:.5;fill:#f4f4f7" d="M4 5.09h.7v5.091H4z"/>
-    <path style="opacity:.5;fill:#f4f4f7" transform="rotate(90)" d="M4.3-11H5v5h-.7z"/>
-    <path style="fill:#f4f4f7" d="M2 9h5v4H2zm7-6h5v4H9z"/>
-</svg>

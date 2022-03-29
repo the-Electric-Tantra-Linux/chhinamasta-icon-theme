@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
-    <ellipse style="fill:#fbba22" cx="4.809" cy="7.218" rx="4.787" ry="7.18"/>
-    <ellipse style="fill:#fbba22" cx="11.191" cy="7.218" rx="4.787" ry="7.18"/>
-    <path style="fill:none;stroke:#ea8504;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" d="M1.5 14.5s2.91-1 6.5-1 6.5 1 6.5 1"/>
-    <path style="opacity:.3" d="M4.809 2.037c-.512 0-1.115.304-1.721 1.213-.606.909-1.067 2.344-1.067 3.967 0 1.622.461 3.06 1.067 3.969.077.116.155.195.232.293a24.359 24.359 0 0 1 3.297-.8"/>
-</svg>

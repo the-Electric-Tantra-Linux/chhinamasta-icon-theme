@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
-    <rect style="fill:#f4f4f7" width="15" height="15" x="1" y="1" rx=".75" ry=".75"/>
-    <path style="fill:#464646" d="m10.25 11 2-5h1.5l2 5h-1.5L13 8l-1.25 3h-1.5z"/>
-    <path style="fill:#909198" d="m8.75 11 2-5h1.5l2 5h-1.5L11.5 8l-1.25 3h-1.5z"/>
-    <path style="fill:#464646" d="m6.25 11 2-5h1.5l2 5h-1.5L9 8l-1.25 3h-1.5z"/>
-    <path style="fill:#909198" d="m4.75 11 2-5h1.5l2 5h-1.5L7.5 8l-1.25 3h-1.5z"/>
-    <path style="fill:#a53655" d="m1.25 6 2 5h1.5l2-5h-1.5L4 9 2.75 6h-1.5z"/>
-</svg>

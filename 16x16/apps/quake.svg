@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <circle style="fill:#8b9cbe" cx="8.5" cy="7.5" r="7.5"/>
-    <path style="fill:#ffb16a" d="M6.625 3.416A4.5 4.5 0 0 0 4 7.5 4.5 4.5 0 0 0 8.5 12 4.5 4.5 0 0 0 13 7.5a4.5 4.5 0 0 0-2.625-4.08v.049A4 4 0 0 1 12.5 7a4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 2.125-3.53z"/>
-    <path style="fill:#ffb16a" d="m7 8 1 .75v4.875L8.5 16l.5-2.375V8.75L10 8H7.75z"/>
-</svg>

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
-    <path style="fill:#f4f4f7" d="M0 4.56v9.64c0 .443.357.8.8.8h13.4c.443 0 .754-.36.8-.8V4.56z"/>
-    <path style="fill:#f54b3e" d="M15 5V1.8c0-.443-.357-.8-.8-.8H.8c-.443 0-.8.357-.8.8V5z"/>
-    <path style="opacity:.2" d="M8 6h2v2H8zm3 0h2v2h-2zM5 6h2v2H5zM2 6h2v2H2z"/>
-    <circle style="fill:#f54b3e" cx="9" cy="10" r="1"/>
-    <circle style="fill:#f4f4f7" cx="2.5" cy="2.5" r=".5"/>
-    <circle style="fill:#f4f4f7" cx="12.5" cy="2.5" r=".5"/>
-    <path style="opacity:.2" d="M11 9h2v2h-2zM5 9h2v2H5zM2 9h2v2H2zm6 3h2v2H8zm3 0h2v2h-2zm-6 0h2v2H5zm-3 0h2v2H2z"/>
-</svg>

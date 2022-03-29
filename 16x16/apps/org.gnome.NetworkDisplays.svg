@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1">
-    <rect style="fill:#a5a5a5" width="12" height="10" x="-15" y="-13" rx=".75" ry=".75" transform="matrix(0 -1 -1 0 0 0)"/>
-    <rect style="fill:#f4f4f7" width="12" height="16" x="-13" y="-16" rx=".75" ry=".75" transform="matrix(0 -1 -1 0 0 0)"/>
-    <rect style="fill:#8c5edc" width="8" height="12" x="-11" y="-14" rx="0" ry="0" transform="matrix(0 -1 -1 0 0 0)"/>
-    <path style="fill:none;stroke:#f4f4f7;stroke-width:.750076;stroke-linecap:round;stroke-linejoin:round" d="M4.947 5.35a5.25 5.25 0 0 1 6.106.006"/>
-    <path style="fill:#f4f4f7" d="M8 8a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1z"/>
-    <path style="fill:none;stroke:#f4f4f7;stroke-width:.750076;stroke-linecap:round;stroke-linejoin:round" d="M5.813 7.08a3.75 3.75 0 0 1 4.393.02"/>
-</svg>
