@@ -28,7 +28,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#f4f4f7fff"
-     bordercolor="#8b9cbe666"
+     bordercolor="#323643666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -511,7 +511,7 @@
        fill="url(#linearGradient6761-7)"
        stroke-width="0.231438"
        id="path93-3"
-       style="fill:#8b9cbe" />
+       style="fill:#323643" />
     <rect
        style="fill:#f4f4f7;stroke-width:0.127716"
        width="7.4451103"
@@ -523,18 +523,18 @@
        transform="matrix(0,-1,-1,0,0,0)"
        id="rect4" />
     <path
-       style="fill:#8b9cbe;stroke-width:0.127945"
+       style="fill:#323643;stroke-width:0.127945"
        d="M 5.3935618,6.3660482 V 7.1637374 H 6.1323429 V 6.3660482 Z m 5.1714642,0 v 0.7976892 h 0.738782 V 6.3660482 Z M 5.3935618,8.2273263 V 9.0250167 H 6.1323429 V 8.2273263 Z m 5.1714642,0 v 0.7976904 h 0.738782 V 8.2273263 Z M 5.3935618,10.088603 v 0.797691 h 0.7387811 v -0.797691 z m 5.1714642,0 v 0.797691 h 0.738782 v -0.797691 z m -5.1714642,1.861279 v 0.797689 h 0.7387811 v -0.797689 z m 5.1714642,0 v 0.797689 h 0.738782 v -0.797689 z"
        id="path8" />
     <rect
-       style="fill:#8b9cbe;stroke-width:0.127945"
+       style="fill:#323643;stroke-width:0.127945"
        width="3.2013831"
        height="2.3930714"
        x="6.7479939"
        y="6.6319437"
        id="rect14" />
     <rect
-       style="fill:#8b9cbe;stroke-width:0.127945"
+       style="fill:#323643;stroke-width:0.127945"
        width="3.2013831"
        height="2.3930714"
        x="6.7479939"
