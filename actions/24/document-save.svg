@@ -1,6 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-  <g fill="#f4f4f7" transform="translate(5 5)">
-    <path d="M5.9980469,1.02688225 L5.9980469,7.0195312 L4.55862698,7.0195312 L6.99484497,10.5651182 L9.45852268,7.0195312 L7.9980469,7.0195312 L7.9980469,1.0415307 L5.9980469,1.02688225 Z M4.9980469,0.0195312 L8.9980469,0.0488281 L8.9980469,6.0195312 L11.371094,6.0195312 L6.9902344,12.324219 L2.6582031,6.0195312 L4.9980469,6.0195312 L4.9980469,0.0195312 Z"/>
-    <polygon points="0 13.031 0 14.02 14.006 14.02 14 13.031"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M8.625,11.184l3.592,-3.664l0.482,1.273l-4.698,4.783l-4.7,-4.783l0.482,-1.273l3.592,3.664l-0,-10.609l1.25,0l0,10.609Z"/>
+ <rect style="fill:currentColor;fill-opacity:0.5" class="ColorScheme-Text" width="12" height="2" x="2" y="14"/>
 </svg>

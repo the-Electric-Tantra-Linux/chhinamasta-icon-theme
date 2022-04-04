@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
-    <title>tools-rip-video-cd</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="tools-rip-video-cd" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="18" transform="translate(4.000000, 7.000000)" fill="#f4f4f7" fill-rule="nonzero">
-            <path d="M0.99013369,0.979261299 C0.999632289,0.967949531 1.01565752,0.95475293 1.01942719,0.947213595 C1.0135035,0.959060968 1.00864671,0.976354382 1.00527083,0.988637546 L0.99013369,0.979261299 Z M1,9 C1,9.04467375 0.962292264,8.98811214 0.947213595,8.98057281 C0.970908341,8.99242018 1.01638725,9 1,9 L10,9 C10.0062846,9.01290994 10.0062846,6.34624327 10,1 C10,1.01638725 9.99242018,0.970908341 9.98057281,0.947213595 C9.98811214,0.962292264 10.0446737,1 10,1 L1,1 C1.0012633,1.00061381 1.0012633,3.66728047 1,9 Z M1,0 L10,0 C11,0 11,1 11,1 L11,9 C11,10 10,10 10,10 L1,10 C1,10 0,10 0,9 L0,1 C0,1 0,0 1,0 Z" id="Path"></path>
-            <path d="M11,5 L15,1.5 L15,9 L11,5 Z M12.4942121,5.0809755 L13.9926579,6.56902961 L13.9926579,3.69030377 L12.4942121,5.0809755 Z" id="Combined-Shape"></path>
-        </g>
-    </g>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" version="1.1" viewBox="0 0 16 16" xml:space="preserve">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
+  </style>
+ </defs>
+ <path style="fill:currentColor;fill-opacity:0.3" class="ColorScheme-Text" d="M1.576,8.602l-0,3.441c-0,0.389 0.315,0.704 0.704,0.704l7.278,0l-0,-3.586c-0,-0.309 -0.25,-0.559 -0.558,-0.559l-7.424,0Z"/>
+ <path style="fill:currentColor;" class="ColorScheme-Text" d="M15.484,7.38l-0,6.507c-0,0.096 -0.051,0.184 -0.132,0.231c-0.082,0.045 -0.182,0.042 -0.26,-0.009c-0.882,-0.572 -2.995,-1.945 -3.654,-2.373c-0.124,-0.081 -0.2,-0.221 -0.202,-0.372c-0.003,-0.349 -0.008,-0.988 -0.012,-1.337c-0.001,-0.151 0.072,-0.292 0.194,-0.375c0.657,-0.446 2.781,-1.887 3.669,-2.491c0.079,-0.053 0.179,-0.058 0.262,-0.012c0.083,0.046 0.135,0.134 0.135,0.231Zm-6.484,0.343l-8.303,0l-0,4.32c-0,0.874 0.709,1.583 1.583,1.583l8.157,0l-0,-4.465c-0,-0.794 -0.644,-1.438 -1.437,-1.438Zm-7.424,0.879l-0,3.441c-0,0.389 0.315,0.704 0.704,0.704l7.278,0l-0,-3.586c-0,-0.309 -0.25,-0.559 -0.558,-0.559l-7.424,0Zm3.991,-5.701c0.521,-0.641 1.316,-1.051 2.206,-1.051c1.57,0 2.844,1.275 2.844,2.844c0,1.57 -1.274,2.844 -2.844,2.844c-0.89,0 -1.685,-0.409 -2.206,-1.05c-0.522,0.641 -1.317,1.05 -2.207,1.05c-1.569,0 -2.844,-1.274 -2.844,-2.844c0,-1.569 1.275,-2.844 2.844,-2.844c0.89,0 1.685,0.41 2.207,1.051Z"/>
 </svg>
