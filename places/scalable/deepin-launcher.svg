@@ -13,7 +13,7 @@
          </cc:Work>
       </rdf:RDF>
    </metadata>
-   <sodipodi:namedview pagecolor="#f4f4f7fff" bordercolor="#323643666" borderopacity="1" objecttolerance="10"
+   <sodipodi:namedview pagecolor="#f4f4f7fff" bordercolor="#555e70666" borderopacity="1" objecttolerance="10"
       gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2"
       inkscape:window-width="1831" inkscape:window-height="915" id="namedview58" showgrid="false"
       inkscape:zoom="3.1445312" inkscape:cx="128" inkscape:cy="115.2795" inkscape:window-x="0" inkscape:window-y="0"
@@ -59,7 +59,7 @@
          id="path44" style="fill:#23252E" />
       <path fill="url(#deepin-launcher-256px-b)"
          d="m 10.992411,117.46651 c 0,-59.782642 47.878395,-108.2458578 106.939609,-108.2458578 59.06122,0 106.93962,48.4632158 106.93962,108.2458578 0,59.78264 -47.8784,108.24585 -106.93962,108.24585 -59.061214,0 -106.939609,-48.46321 -106.939609,-108.24585 z"
-         id="path44-3" style="fill:#323643;stroke-width:0.911786" />
+         id="path44-3" style="fill:#555e70;stroke-width:0.911786" />
       <rect width="44" height="44" x="52.159" y="96" fill="url(#deepin-launcher-256px-c)" rx="8"
          transform="rotate(-45 74.16 118)" id="rect46" style="fill:#f4f4f7" />
       <rect width="44" height="44" x="96" y="139.841" fill="url(#deepin-launcher-256px-d)" rx="8"

@@ -28,7 +28,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#f4f4f7fff"
-     bordercolor="#323643666"
+     bordercolor="#555e70666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -511,7 +511,7 @@
        fill="url(#linearGradient6761-7)"
        stroke-width="0.231438"
        id="path93-3"
-       style="fill:#323643" />
+       style="fill:#555e70" />
     <path
        style="fill:#f4f4f7;stroke-width:0.154264"
        d="m 4.2074713,6.6133228 v 6.9582602 c 0,0.632569 0.6019191,0.632569 0.6019191,0.632569 H 12.634339 Z M 5.7122692,10.051652 8.5659677,12.62273 H 5.7122692 Z"

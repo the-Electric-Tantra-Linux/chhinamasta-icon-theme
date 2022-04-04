@@ -28,7 +28,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#f4f4f7fff"
-     bordercolor="#323643666"
+     bordercolor="#555e70666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -511,7 +511,7 @@
        fill="url(#linearGradient6761-7)"
        stroke-width="0.231438"
        id="path93-3"
-       style="fill:#323643" />
+       style="fill:#555e70" />
     <polygon
        fill="#f4f4f7fff"
        points="184,316 208,316 208,244 184,244 184,212 288,212 288,236 344,236 344,180 288,180 288,204 176,204 176,244 152,244 152,316 176,316 176,356 288,356 288,380 344,380 344,324 288,324 288,348 184,348 "
