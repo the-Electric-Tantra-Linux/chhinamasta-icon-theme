@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor;" class="ColorScheme-Highlight" d="M4.773,13.088l-4.39,0l2.086,2l4.407,0l-2.103,-2Z"/>
- <path style="fill:currentColor;" class="ColorScheme-NegativeText" d="M9.144,13.088l-4.391,0l2.087,2l4.407,0l-2.103,-2Z"/>
- <path style="fill:currentColor;" class="ColorScheme-PositiveText" d="M13.514,13.088l-4.39,0l2.087,2l4.406,0l-2.103,-2Z"/>
- <path style="fill:currentColor;fill-opacity:0.5" class="ColorScheme-Text" d="M5.365,8.373l4.062,2.828l-0.808,1.161l-1.969,0.352l-1.741,-1.212l-0.352,-1.968l0.808,-1.161Z"/>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M11.198,1.233l-5.227,6.27l4.062,2.828l4.066,-7.077c0.907,-1.302 -0.352,-1.969 -0.352,-1.969l-0.58,-0.404c-0,-0 -1.053,-0.964 -1.969,0.352Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#dfdfdf}
+        </style>
+    </defs>
+    <path style="fill:currentColor;color:#4285f4" d="M4.773 13.088H.383l2.086 2h4.407l-2.103-2Z"/>
+    <path style="fill:currentColor;color:#f44336" d="M9.144 13.088H4.753l2.087 2h4.407l-2.103-2Z"/>
+    <path style="fill:currentColor;color:#4caf50" d="M13.514 13.088h-4.39l2.087 2h4.406l-2.103-2Z"/>
+    <path style="fill:currentColor;fill-opacity:.5" class="ColorScheme-Text" d="m5.365 8.373 4.062 2.828-.808 1.161-1.969.352-1.741-1.212-.352-1.968.808-1.161Z"/>
+    <path style="fill:currentColor" class="ColorScheme-Text" d="m11.198 1.233-5.227 6.27 4.062 2.828 4.066-7.077c.907-1.302-.352-1.969-.352-1.969l-.58-.404s-1.053-.964-1.969.352Z"/>
 </svg>

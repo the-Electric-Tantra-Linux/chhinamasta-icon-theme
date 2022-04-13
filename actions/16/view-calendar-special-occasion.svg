@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M11.446,9l-0,0.749c-0,0.139 0.112,0.251 0.251,0.251l0.749,-0l-1,-1Zm-6,-0l-1,1l0.749,0c0.138,-0 0.251,-0.112 0.251,-0.251l-0,-0.749Zm0.825,-3c-0.456,0 -0.825,0.37 -0.825,0.826c-0,0.103 -0,0.174 -0,0.174l-1,-0l1,1l-0,1c-0,-0 0.494,-0.657 0.853,-0.657l4.202,-0c0.384,-0 0.945,0.657 0.945,0.657l-0,-1l1,-1l-1,-0l-0,-0.174c-0,-0.456 -0.37,-0.826 -0.826,-0.826c-1.145,-0 -3.204,-0 -4.349,-0Z"/>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M2.946,4.129l-0,-1.129c-0,-1.108 0.892,-2 2,-2l7,-0c1.108,-0 2,0.892 2,2l-0,10c-0,1.108 -0.892,2 -2,2l-7,0c-1.108,0 -2,-0.892 -2,-2l-0,-1.129l-0.892,0l0,-0.99l0.892,0l-0,-5.762l-0.892,-0l0,-0.99l0.892,-0Zm2,-2.129l7,0c0.554,0 1,0.446 1,1l-0,10c-0,0.554 -0.446,1 -1,1l-7,0c-0.554,0 -1,-0.446 -1,-1l-0,-10c-0,-0.554 0.446,-1 1,-1Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#dfdfdf}
+        </style>
+    </defs>
+    <path style="fill:currentColor" class="ColorScheme-Text" d="M11.446 9v.749a.25.25 0 0 0 .251.251h.749l-1-1Zm-6 0-1 1h.749a.251.251 0 0 0 .251-.251V9Zm.825-3a.825.825 0 0 0-.825.826V7h-1l1 1v1s.494-.657.853-.657h4.202c.384 0 .945.657.945.657V8l1-1h-1v-.174A.826.826 0 0 0 10.62 6H6.271Z"/>
+    <path style="fill:currentColor" class="ColorScheme-Text" d="M2.946 4.129V3c0-1.108.892-2 2-2h7c1.108 0 2 .892 2 2v10c0 1.108-.892 2-2 2h-7c-1.108 0-2-.892-2-2v-1.129h-.892v-.99h.892V5.119h-.892v-.99h.892Zm2-2.129h7c.554 0 1 .446 1 1v10c0 .554-.446 1-1 1h-7c-.554 0-1-.446-1-1V3c0-.554.446-1 1-1Z"/>
 </svg>

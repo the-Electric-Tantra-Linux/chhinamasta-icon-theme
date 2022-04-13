@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 7,1 H 9 V 3 H 7 Z M 10,4 H 12 V 6 H 10 Z M 7,4 H 9 V 6 H 7 Z M 4,4 H 6 V 6 H 4 Z M 13,7 H 15 V 9 H 13 Z M 10,7 H 12 V 9 H 10 Z M 7,7 H 9 V 9 H 7 Z M 4,7 H 6 V 9 H 4 Z M 1,7 H 3 V 9 H 1 Z M 10,10 H 12 V 12 H 10 Z M 7,10 H 9 V 12 H 7 Z M 4,10 H 6 V 12 H 4 Z M 7,13 H 9 V 15 H 7 Z"/>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 4,4 H 5 V 5 H 4 Z M 4,11 H 5 V 12 H 4 Z M 11,11 H 12 V 12 H 11 Z M 11,4 H 12 V 5 H 11 Z M 7.5,10.5 H 8.5 V 11.5 H 7.5 Z M 4.5,7.5 H 5.5 V 8.5 H 4.5 Z M 10.5,7.5 H 11.5 V 8.5 H 10.5 Z M 7.5,4.5 H 8.5 V 5.5 H 7.5 Z M 7.5,7.5 H 8.5 V 8.5 H 7.5 Z M 7,1 H 9 V 2 H 7 Z M 7,14 H 9 V 15 H 7 Z M 1,7 H 2 V 9 H 1 Z M 14,7 H 15 V 9 H 14 Z M 10.5,10.5 H 11.5 V 11.5 H 10.5 Z M 4.5,10.5 H 5.5 V 11.5 H 4.5 Z M 4.5,4.5 H 5.5 V 5.5 H 4.5 Z M 10.5,4.5 H 11.5 V 5.5 H 10.5 Z M 13,1 H 15 V 3 H 13 Z M 10,1 H 12 V 3 H 10 Z M 4,1 H 6 V 3 H 4 Z M 1,1 H 3 V 3 H 1 Z M 13,4 H 15 V 6 H 13 Z M 1,4 H 3 V 6 H 1 Z M 13,10 H 15 V 12 H 13 Z M 1,10 H 3 V 12 H 1 Z M 13,13 H 15 V 15 H 13 Z M 10,13 H 12 V 15 H 10 Z M 4,13 H 6 V 15 H 4 Z M 1,13 H 3 V 15 H 1 Z"/>
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#dfdfdf}
+        </style>
+    </defs>
+    <path style="opacity:.3;fill:currentColor" class="ColorScheme-Text" d="M7 1h2v2H7Zm3 3h2v2h-2ZM7 4h2v2H7ZM4 4h2v2H4Zm9 3h2v2h-2Zm-3 0h2v2h-2ZM7 7h2v2H7ZM4 7h2v2H4ZM1 7h2v2H1Zm9 3h2v2h-2Zm-3 0h2v2H7Zm-3 0h2v2H4Zm3 3h2v2H7Z"/>
+    <path style="fill:currentColor" class="ColorScheme-Text" d="M4 4h1v1H4Zm0 7h1v1H4Zm7 0h1v1h-1Zm0-7h1v1h-1Zm-3.5 6.5h1v1h-1Zm-3-3h1v1h-1Zm6 0h1v1h-1Zm-3-3h1v1h-1Zm0 3h1v1h-1ZM7 1h2v1H7Zm0 13h2v1H7ZM1 7h1v2H1Zm13 0h1v2h-1Zm-3.5 3.5h1v1h-1Zm-6 0h1v1h-1Zm0-6h1v1h-1Zm6 0h1v1h-1ZM13 1h2v2h-2Zm-3 0h2v2h-2ZM4 1h2v2H4ZM1 1h2v2H1Zm12 3h2v2h-2ZM1 4h2v2H1Zm12 6h2v2h-2ZM1 10h2v2H1Zm12 3h2v2h-2Zm-3 0h2v2h-2Zm-6 0h2v2H4Zm-3 0h2v2H1Z"/>
 </svg>

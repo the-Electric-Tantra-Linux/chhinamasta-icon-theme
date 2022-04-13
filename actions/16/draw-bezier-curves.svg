@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M12.5,2c-0.633,0.001 -1.201,0.403 -1.412,1l-9.088,0l0,1c1.855,0.959 3.165,2.479 3.357,3.303c0.262,1.119 -0.141,2.431 -1.185,3.857c-0.209,-0.105 -0.439,-0.16 -0.672,-0.16c-0,-0 -0,-0 -0,-0c-0.823,-0 -1.5,0.677 -1.5,1.5l-0,0c-0,0.823 0.677,1.5 1.5,1.5c-0,0 -0,0 -0,0c0.633,-0.001 1.201,-0.403 1.412,-1l4.088,0l0,1l3,0l0,-3l-3,0l0,1l-4.088,0c-0.011,-0.032 -0.024,-0.064 -0.037,-0.096c1.304,-1.679 1.899,-3.25 1.551,-4.763c-0.294,-1.279 -1.185,-2.276 -2.457,-3.141l7.119,0c0.211,0.597 0.779,0.999 1.412,1c0.823,0 1.5,-0.677 1.5,-1.5c0,-0.823 -0.677,-1.5 -1.5,-1.5Zm0,1c0.274,0 0.5,0.226 0.5,0.5c0,0.274 -0.226,0.5 -0.5,0.5c-0.274,0 -0.5,-0.226 -0.5,-0.5c0,-0.274 0.226,-0.5 0.5,-0.5Zm-9,9c0.249,0.001 0.462,0.188 0.494,0.436c0.002,0.009 0.003,0.019 0.004,0.029c0.001,0.006 0.001,0.013 0.002,0.019c0,0.006 0,0.011 0,0.016c0,0.274 -0.226,0.5 -0.5,0.5c-0.242,-0 -0.451,-0.176 -0.492,-0.414c-0,-0.001 -0,-0.001 -0,-0.002c-0.005,-0.028 -0.008,-0.056 -0.008,-0.084c-0,-0.017 0,-0.034 0.002,-0.051c0.026,-0.254 0.243,-0.449 0.498,-0.449Zm6.5,0l1,0l0,1l-1,0l0,-1Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Highlight{color:#4285f4}.ColorScheme-NeutralText{color:#ff9800}.ColorScheme-PositiveText{color:#4caf50}.ColorScheme-NegativeText{color:#f44336}
+        </style>
+    </defs>
+    <path style="fill:currentColor;color:#dfdfdf" d="M12.5 2a1.503 1.503 0 0 0-1.412 1H2v1c1.855.959 3.165 2.479 3.357 3.303.262 1.119-.141 2.431-1.185 3.857A1.497 1.497 0 0 0 3.5 11c-.823 0-1.5.677-1.5 1.5S2.677 14 3.5 14a1.503 1.503 0 0 0 1.412-1H9v1h3v-3H9v1H4.912c-.011-.032-.024-.064-.037-.096 1.304-1.679 1.899-3.25 1.551-4.763C6.132 5.862 5.241 4.865 3.969 4h7.119c.211.597.779.999 1.412 1 .823 0 1.5-.677 1.5-1.5S13.323 2 12.5 2Zm0 1c.274 0 .5.226.5.5s-.226.5-.5.5a.503.503 0 0 1-.5-.5c0-.274.226-.5.5-.5Zm-9 9a.502.502 0 0 1 .498.465l.002.019v.016a.5.5 0 0 1-.992.086v-.002A.478.478 0 0 1 3 12.5c0-.017 0-.034.002-.051A.502.502 0 0 1 3.5 12Zm6.5 0h1v1h-1v-1Z"/>
 </svg>

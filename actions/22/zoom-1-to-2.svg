@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M14.983,9.629l-0,2.981c-0,1.31 -1.063,2.373 -2.373,2.373l-2.98,0l0,-1l2.98,0c0.758,0 1.373,-0.615 1.373,-1.373l0,-2.981l1,0Zm-13.966,-0l1,-0l0,2.981c0,0.758 0.615,1.373 1.373,1.373l2.979,-0l0,1l-2.979,-0c-1.31,-0 -2.373,-1.063 -2.373,-2.373l0,-2.981Zm7.983,-4.629l0,6l2,0l0,-6l-2,0Zm-4,1l0,4l1,0l0,-4l-1,0Zm4,2l-2,-2l0,4l2,-2Zm0.63,-6.983l2.98,0c1.31,0 2.373,1.063 2.373,2.373l0,2.979l-1,0l0,-2.979c0,-0.758 -0.615,-1.373 -1.373,-1.373l-2.98,0l0,-1Zm-3.261,0l-0,1l-2.979,0c-0.758,0 -1.373,0.615 -1.373,1.373l-0,2.979l-1,0l-0,-2.979c-0,-1.31 1.063,-2.373 2.373,-2.373l2.979,0Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Highlight{color:#4285f4}.ColorScheme-NeutralText{color:#ff9800}.ColorScheme-PositiveText{color:#4caf50}.ColorScheme-NegativeText{color:#f44336}
+        </style>
+    </defs>
+    <path style="fill:currentColor;color:#dfdfdf" d="M14.983 9.629v2.981a2.374 2.374 0 0 1-2.373 2.373H9.63v-1h2.98c.758 0 1.373-.615 1.373-1.373V9.629h1Zm-13.966 0h1v2.981c0 .758.615 1.373 1.373 1.373h2.979v1H3.39a2.374 2.374 0 0 1-2.373-2.373V9.629ZM9 5v6h2V5H9ZM5 6v4h1V6H5Zm4 2L7 6v4l2-2Zm.63-6.983h2.98a2.374 2.374 0 0 1 2.373 2.373v2.979h-1V3.39c0-.758-.615-1.373-1.373-1.373H9.63v-1Zm-3.261 0v1H3.39c-.758 0-1.373.615-1.373 1.373v2.979h-1V3.39A2.374 2.374 0 0 1 3.39 1.017h2.979Z"/>
 </svg>

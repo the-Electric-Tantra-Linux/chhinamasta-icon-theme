@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=chhinamasta
 Comment=icons for the Electric Tantra Linux
-Inherits=breeze,elementary,hicolor
+Inherits=Papirus,elementary,hicolor
 #Example=folder
 
 Example=x-directory-normal

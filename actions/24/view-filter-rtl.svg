@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M9.821,2l0,12l-0.642,0l0,-12l0.642,0Zm4.179,1l0,1l-2,0l0,-1l2,0Zm-7,0l0,2l-2,0l0,-2l2,0Zm-4,0l0,2l-2,0l0,-2l2,0Zm11,3l0,1l-2,0l0,-1l2,0Zm-7,1l0,2l-2,0l0,-2l2,0Zm-4,0l0,2l-2,0l0,-2l2,0Zm11,2l0,1l-2,0l0,-1l2,0Zm-7,2l0,2l-2,0l0,-2l2,0Zm-4,0l0,2l-2,0l0,-2l2,0Zm11,1l0,1l-2,0l0,-1l2,0Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Highlight{color:#4285f4}.ColorScheme-NeutralText{color:#ff9800}.ColorScheme-PositiveText{color:#4caf50}.ColorScheme-NegativeText{color:#f44336}
+        </style>
+    </defs>
+    <path style="fill:currentColor;color:#dfdfdf" d="M9.821 2v12h-.642V2h.642ZM14 3v1h-2V3h2ZM7 3v2H5V3h2ZM3 3v2H1V3h2Zm11 3v1h-2V6h2ZM7 7v2H5V7h2ZM3 7v2H1V7h2Zm11 2v1h-2V9h2Zm-7 2v2H5v-2h2Zm-4 0v2H1v-2h2Zm11 1v1h-2v-1h2Z"/>
 </svg>

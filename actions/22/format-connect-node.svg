@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M1.939,1c-0.519,0 -0.939,0.42 -0.939,0.939l0,3.122c0,0.519 0.42,0.939 0.939,0.939l3.122,0c0.519,0 0.939,-0.42 0.939,-0.939l0,-1.061l4,0l0,1.061c0,0.519 0.42,0.939 0.939,0.939l3.122,0c0.519,0 0.939,-0.42 0.939,-0.939l0,-3.122c0,-0.519 -0.42,-0.939 -0.939,-0.939l-3.122,0c-0.519,0 -0.939,0.42 -0.939,0.939l0,1.061l-4,0l0,-1.061c0,-0.519 -0.42,-0.939 -0.939,-0.939l-3.122,0Zm4.061,6l2,3l2,-3l-4,0Zm-4.061,3c-0.519,0 -0.939,0.42 -0.939,0.939l0,3.122c0,0.519 0.42,0.939 0.939,0.939l3.122,0c0.519,0 0.939,-0.42 0.939,-0.939l0,-1.061l1,0l0,-1l-1,0l0,-1.061c0,-0.519 -0.42,-0.939 -0.939,-0.939l-3.122,0Zm9,0c-0.519,0 -0.939,0.42 -0.939,0.939l0,1.061l-1,0l0,1l1,0l0,1.061c0,0.519 0.42,0.939 0.939,0.939l3.122,0c0.519,0 0.939,-0.42 0.939,-0.939l0,-3.122c0,-0.519 -0.42,-0.939 -0.939,-0.939l-3.122,0Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Highlight{color:#4285f4}.ColorScheme-NeutralText{color:#ff9800}.ColorScheme-PositiveText{color:#4caf50}.ColorScheme-NegativeText{color:#f44336}
+        </style>
+    </defs>
+    <path style="fill:currentColor;color:#dfdfdf" d="M1.939 1A.938.938 0 0 0 1 1.939v3.122c0 .519.42.939.939.939h3.122C5.58 6 6 5.58 6 5.061V4h4v1.061c0 .519.42.939.939.939h3.122c.519 0 .939-.42.939-.939V1.939A.938.938 0 0 0 14.061 1h-3.122a.938.938 0 0 0-.939.939V3H6V1.939A.938.938 0 0 0 5.061 1H1.939ZM6 7l2 3 2-3H6Zm-4.061 3a.938.938 0 0 0-.939.939v3.122c0 .519.42.939.939.939h3.122c.519 0 .939-.42.939-.939V13h1v-1H6v-1.061A.938.938 0 0 0 5.061 10H1.939Zm9 0a.938.938 0 0 0-.939.939V12H9v1h1v1.061c0 .519.42.939.939.939h3.122c.519 0 .939-.42.939-.939v-3.122a.938.938 0 0 0-.939-.939h-3.122Z"/>
 </svg>

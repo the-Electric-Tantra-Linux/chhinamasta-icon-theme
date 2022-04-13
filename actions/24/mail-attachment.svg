@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path id="curve" style="fill:currentColor;" class="ColorScheme-Text" d="M13.192,7.985l-3.752,4.895c-0.173,0.225 -0.497,0.27 -0.724,0.1c-0.227,-0.171 -0.271,-0.491 -0.098,-0.717l2.221,-2.898l1.531,-1.997c0.863,-1.127 0.643,-2.73 -0.493,-3.582c-1.135,-0.852 -2.755,-0.629 -3.619,0.497l-1.53,1.997l-1.916,2.5l-1.244,1.623c-0.518,0.676 -0.386,1.638 0.296,2.149c0.681,0.511 1.653,0.377 2.171,-0.299l1.244,-1.622l0.632,-0.825l1.308,-1.707l0.881,-1.149c0.173,-0.225 0.128,-0.546 -0.099,-0.716c-0.227,-0.171 -0.551,-0.126 -0.723,0.099l-0.881,1.149l-2.246,2.931c-0.173,0.225 -0.497,0.27 -0.724,0.099c-0.227,-0.17 -0.271,-0.491 -0.099,-0.716l3.127,-4.08c0.518,-0.676 1.49,-0.809 2.172,-0.298c0.681,0.511 0.813,1.473 0.295,2.149l-4.065,5.303c-0.863,1.127 -2.483,1.35 -3.619,0.498c-1.135,-0.852 -1.356,-2.456 -0.492,-3.582l4.69,-6.119c1.209,-1.577 3.477,-1.889 5.067,-0.697c1.589,1.192 1.898,3.438 0.689,5.015Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Highlight{color:#4285f4}.ColorScheme-NeutralText{color:#ff9800}.ColorScheme-PositiveText{color:#4caf50}.ColorScheme-NegativeText{color:#f44336}
+        </style>
+    </defs>
+    <path id="curve" style="fill:currentColor;color:#dfdfdf" d="M13.192 7.985 9.44 12.88a.521.521 0 0 1-.724.1.508.508 0 0 1-.098-.717l2.221-2.898 1.531-1.997a2.538 2.538 0 0 0-.493-3.582 2.602 2.602 0 0 0-3.619.497L6.728 6.28l-1.916 2.5-1.244 1.623a1.522 1.522 0 0 0 .296 2.149 1.56 1.56 0 0 0 2.171-.299l1.244-1.622.632-.825 1.308-1.707.881-1.149a.507.507 0 0 0-.099-.716.519.519 0 0 0-.723.099l-.881 1.149-2.246 2.931a.52.52 0 0 1-.724.099.508.508 0 0 1-.099-.716l3.127-4.08a1.562 1.562 0 0 1 2.172-.298c.681.511.813 1.473.295 2.149L6.857 12.87a2.601 2.601 0 0 1-3.619.498 2.538 2.538 0 0 1-.492-3.582l4.69-6.119a3.644 3.644 0 0 1 5.067-.697 3.554 3.554 0 0 1 .689 5.015Z"/>
 </svg>

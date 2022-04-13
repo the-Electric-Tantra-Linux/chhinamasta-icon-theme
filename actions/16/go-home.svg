@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor;fill-opacity:0.3;" class="ColorScheme-Text" d="M8,2.806l-5.129,4.041l-0,7.249l3.768,0l-0,-3.949l2.721,-0l-0,3.949l3.768,0l-0,-7.265l-5.128,-4.025Zm-1.371,2.736l2.742,0l0,2.742l-2.742,0l-0,-2.742Z"/>
- <path style="fill:currentColor;fill-opacity:0.3;" class="ColorScheme-Text" d="M6.629,5.542l-0,2.742l2.742,0l0,-2.742l-2.742,0Zm0.558,0.559l1.626,-0l-0,1.625l-1.626,0l0,-1.625Z"/>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M7.997,1.092l-7.311,5.709l0.936,1.198l0.435,-0.34l0,7.249l11.883,-0l0,-7.264l0.445,0.345l0.929,-1.191l-7.317,-5.706Zm0.003,1.714l-5.13,4.041l0,7.249l3.768,-0l0,-3.949l2.722,-0l-0,3.949l3.767,-0l0,-7.265l-5.127,-4.025Zm3.355,-0.883c-0.079,-0 -0.142,0.063 -0.142,0.142l-0,0.504l2.162,1.686l-0,-2.19c-0,-0.079 -0.064,-0.142 -0.143,-0.142l-1.877,-0Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#dfdfdf}
+        </style>
+    </defs>
+    <path style="fill:currentColor;fill-opacity:.3" class="ColorScheme-Text" d="M8 2.806 2.871 6.847v7.249h3.768v-3.949H9.36v3.949h3.768V6.831L8 2.806ZM6.629 5.542h2.742v2.742H6.629V5.542Z"/>
+    <path style="fill:currentColor;fill-opacity:.3" class="ColorScheme-Text" d="M6.629 5.542v2.742h2.742V5.542H6.629Zm.558.559h1.626v1.625H7.187V6.101Z"/>
+    <path style="fill:currentColor" class="ColorScheme-Text" d="M7.997 1.092.686 6.801l.936 1.198.435-.34v7.249H13.94V7.644l.445.345.929-1.191-7.317-5.706ZM8 2.806 2.87 6.847v7.249h3.768v-3.949H9.36v3.949h3.767V6.831L8 2.806Zm3.355-.883a.141.141 0 0 0-.142.142v.504l2.162 1.686v-2.19a.142.142 0 0 0-.143-.142h-1.877Z"/>
 </svg>

@@ -1,11 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor;fill-opacity:0.3" class="ColorScheme-Text" d="M7,15l0,1l1,0l0,-1l-1,0Zm2,0l0,1l1,0l0,-1l-1,0Zm2,0l0,1l1,0l0,-1l-1,0Zm2,0l0,1l1,0l0,-1l-1,0Zm2,0l0,1l1,0l0,-1l-1,0Zm-8,-2l0,1l1,0l0,-1l-1,0Zm8,0l0,1l1,0l0,-1l-1,0Zm-8,-2l0,1l1,0l0,-1l-1,0Zm8,0l0,1l1,0l0,-1l-1,0Zm0,-2l0,1l1,0l0,-1l-1,0Zm-4,-2l0,1l1,0l0,-1l-1,0Zm2,0l0,1l1,0l0,-1l-1,0Zm2,0l0,1l1,0l0,-1l-1,0Z"/>
- <path style="fill:currentColor;fill-opacity:0.3" class="ColorScheme-Text" d="M0,0l0,9l9,0l0,-9l-9,0Zm1,1l7,0l0,7l-7,0l0,-7Z"/>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M9,9l0,2l1,-1l1,0l0,3l-1,1l3,0l-1,-1l0,-3l1,0l1,1l0,-2l-5,0Z"/>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M2,2l0,2l1,-1l1,0l0,3l-1,1l3,0l-1,-1l0,-3l1,0l1,1l0,-2l-5,0Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#dfdfdf}
+        </style>
+    </defs>
+    <path style="fill:currentColor;fill-opacity:.3" class="ColorScheme-Text" d="M7 15v1h1v-1H7Zm2 0v1h1v-1H9Zm2 0v1h1v-1h-1Zm2 0v1h1v-1h-1Zm2 0v1h1v-1h-1Zm-8-2v1h1v-1H7Zm8 0v1h1v-1h-1Zm-8-2v1h1v-1H7Zm8 0v1h1v-1h-1Zm0-2v1h1V9h-1Zm-4-2v1h1V7h-1Zm2 0v1h1V7h-1Zm2 0v1h1V7h-1ZM0 0v9h9V0H0Zm1 1h7v7H1V1Z"/>
+    <path style="fill:currentColor" class="ColorScheme-Text" d="M9 9v2l1-1h1v3l-1 1h3l-1-1v-3h1l1 1V9H9ZM2 2v2l1-1h1v3L3 7h3L5 6V3h1l1 1V2H2Z"/>
 </svg>

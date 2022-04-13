@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor;fill-opacity:0.3" class="ColorScheme-Text" d="M9,14.672l0,1l6,0l0,-1l-6,0Zm-0.378,0.588l-5.54,0c-1.293,0 -2.342,-1.049 -2.342,-2.342l-0,-9.836c-0,-1.293 1.049,-2.342 2.342,-2.342l9.836,0c1.293,0 2.342,1.049 2.342,2.342l0,7.182l-6.638,-0l0,4.996Zm0.378,-2.588l0,1l6,0l0,-1l-6,0Zm0,-2l0,1l6,0l0,-1l-6,0Z"/>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M4.857,3.218c-1.073,-0 -1.938,0.864 -1.938,1.938l0,0.969l-0.484,-0c-0.268,-0 -0.484,0.216 -0.484,0.484l-0,2.907c-0,0.268 0.216,0.484 0.484,0.484l4.844,0c0.269,0 0.485,-0.216 0.485,-0.484l-0,-2.907c-0,-0.268 -0.216,-0.484 -0.485,-0.484l-0.484,-0l-0,-0.969c-0,-1.074 -0.864,-1.938 -1.938,-1.938Zm4.143,5.782l6,0l0,1l-6,0l0,-1Zm0,-3l6,0l0,1l-6,0l0,-1Zm-4.143,-1.813c0.537,-0 0.969,0.432 0.969,0.969l0,0.969l-1.938,-0l0,-0.969c0,-0.537 0.432,-0.969 0.969,-0.969Zm4.143,-1.187l6,0l0,1l-6,0l0,-1Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#dfdfdf}
+        </style>
+    </defs>
+    <path style="fill:currentColor;fill-opacity:.3" class="ColorScheme-Text" d="M9 14.672v1h6v-1H9Zm-.378.588h-5.54A2.343 2.343 0 0 1 .74 12.918V3.082A2.343 2.343 0 0 1 3.082.74h9.836a2.343 2.343 0 0 1 2.342 2.342v7.182H8.622v4.996ZM9 12.672v1h6v-1H9Zm0-2v1h6v-1H9Z"/>
+    <path style="fill:currentColor" class="ColorScheme-Text" d="M4.857 3.218a1.934 1.934 0 0 0-1.938 1.938v.969h-.484a.483.483 0 0 0-.484.484v2.907c0 .268.216.484.484.484h4.844a.483.483 0 0 0 .485-.484V6.609a.483.483 0 0 0-.485-.484h-.484v-.969a1.933 1.933 0 0 0-1.938-1.938ZM9 9h6v1H9V9Zm0-3h6v1H9V6ZM4.857 4.187c.537 0 .969.432.969.969v.969H3.888v-.969c0-.537.432-.969.969-.969ZM9 3h6v1H9V3Z"/>
 </svg>

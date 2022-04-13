@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" width="100%" height="100%" viewBox="0 0 16 16" xml:space="preserve">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <rect style="fill:currentColor;fill-opacity:0.3;" class="ColorScheme-Text" width="15.184" height="10.846" x=".41" y="1.58"/>
- <path style="fill:currentColor;" class="ColorScheme-Text" d="M1,1c0,0 -1,0 -1,1l0,10c0,1 1,1 1,1l3,0l0,1c0,1 1,1 1,1l6,0c0,0 1,0 1,-1l0,-1l3,0c0,0 1,0 1,-1l0,-10c0,-1 -1,-1 -1,-1l-14,0Zm0.05,0.955l13.9,0l0,10.09l-13.9,-0l-0,-10.09Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#dfdfdf}
+        </style>
+    </defs>
+    <path style="fill:currentColor;fill-opacity:.3" class="ColorScheme-Text" d="M.41 1.58h15.184v10.846H.41z"/>
+    <path style="fill:currentColor" class="ColorScheme-Text" d="M1 1S0 1 0 2v10c0 1 1 1 1 1h3v1c0 1 1 1 1 1h6s1 0 1-1v-1h3s1 0 1-1V2c0-1-1-1-1-1H1Zm.05.955h13.9v10.09H1.05V1.955Z"/>
 </svg>
