@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
-    <defs>
-        <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Highlight{color:#4285f4}.ColorScheme-NeutralText{color:#ff9800}.ColorScheme-PositiveText{color:#4caf50}.ColorScheme-NegativeText{color:#f44336}
-        </style>
-    </defs>
-    <path style="fill:currentColor;color:#dfdfdf" d="M2.018 1C1.456 1 1 1.456 1 2.018v2.964C1 5.544 1.456 6 2.018 6h2.964C5.544 6 6 5.544 6 4.982V4h1V3H6v-.982C6 1.456 5.544 1 4.982 1H2.018Zm9 0C10.456 1 10 1.456 10 2.018V3H9v1h1v.982C10 5.544 10.456 6 11.018 6h2.964C14.544 6 15 5.544 15 4.982V2.018C15 1.456 14.544 1 13.982 1h-2.964ZM6 7l2 3 2-3H6Zm-3.982 3C1.456 10 1 10.456 1 11.018v2.964C1 14.544 1.456 15 2.018 15h2.964C5.544 15 6 14.544 6 13.982V13h4v.982c0 .562.456 1.018 1.018 1.018h2.964c.562 0 1.018-.456 1.018-1.018v-2.964c0-.562-.456-1.018-1.018-1.018h-2.964c-.562 0-1.018.456-1.018 1.018V12H6v-.982C6 10.456 5.544 10 4.982 10H2.018Z"/>
-</svg>

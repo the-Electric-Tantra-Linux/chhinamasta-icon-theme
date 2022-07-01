@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.0">
+    <g style="opacity:.33;stroke:#1a1a1a;stroke-width:4.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <path style="fill:none;fill-opacity:.5;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m2 2 8 8m-8 0 8-8" transform="matrix(.875 0 0 .875 2.75 3.75)"/>
+    </g>
+    <path d="m2.5 2.5 7 7h0m-7 0 7-7" style="fill:none;fill-opacity:.5;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="translate(2 3)"/>
+</svg>

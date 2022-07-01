@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
-    <defs>
-        <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Text{color:#dfdfdf}
-        </style>
-    </defs>
-    <path style="fill:currentColor;fill-opacity:.3" class="ColorScheme-Text" d="M2 3C1 3 1 4 1 4v8s0 1 1 1h12c1 0 1-1 1-1V4s0-1-1-1H2Z"/>
-    <path style="fill:currentColor" class="ColorScheme-Text" d="M3 10h1v1H3v-1Zm7 0h3v1h-3v-1Zm-5 0h4v1H5v-1ZM3 8h2v1H3V8Zm8 0h2v1h-2V8ZM6 8h4v1H6V8Z"/>
-</svg>

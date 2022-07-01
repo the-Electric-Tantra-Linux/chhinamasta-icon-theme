@@ -1,0 +1,23 @@
+<svg height="512" width="512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path id="a" d="M13 10.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0" fill="#dbdbdb"/>
+    <g transform="translate(612.79 -770.81) scale(1.413)">
+        <use height="1" transform="matrix(8.0459 0 0 7.998 -265.11 585.42)" width="1" xlink:href="#a"/>
+        <path d="M-333.2 677.94v119.97h17.241V677.94zm144.4 125.75h-120.69v5.713h120.69z" fill="#dbdbdb"/>
+        <use height="1" transform="matrix(5.747 0 0 5.7129 -275.38 660.97)" width="1" xlink:href="#a"/>
+        <use height="1" transform="matrix(8.0459 0 0 7.998 -408.78 585.58)" width="1" xlink:href="#a"/>
+        <use height="1" transform="matrix(8.0459 0 0 7.998 -408.88 722.69)" width="1" xlink:href="#a"/>
+        <use height="1" transform="matrix(8.0459 0 0 7.998 -265.11 722.72)" width="1" xlink:href="#a"/>
+        <g fill="#dbdbdb">
+            <path d="M-189.18 678.44v119.97h17.241V678.44zm-.64-17.6h-120.69v17.14h120.69z"/>
+            <path d="M-184.23 797.95h-133.9v17.14h133.9z"/>
+        </g>
+        <use height="1" transform="matrix(5.747 0 0 5.7129 -350.09 660.97)" width="1" xlink:href="#a"/>
+        <use height="1" transform="matrix(5.747 0 0 5.7129 -350.09 580.99)" width="1" xlink:href="#a"/>
+        <use height="1" transform="matrix(5.747 0 0 5.7129 -275.38 580.99)" width="1" xlink:href="#a"/>
+        <g fill="#dbdbdb">
+            <path d="M-296.69 647.17v69.38h11.494v-69.38zm76.72.46v69.38h11.494v-69.38zm2.55-13.44h-69.791v11.426h69.791z"/>
+            <path d="M-217.42 714.98h-69.791v11.426h69.791z"/>
+            <path d="m-290.75 712.69-43.13 103.6 9.27 3.813 43.13-103.6zm76.88 0 43.13 103.6-9.27 3.813-43.13-103.6zm1.72-77.52 37 34.461-5.343 4.889-37-34.462zm-83.26 2.22-37 34.461 5.343 4.889 37-34.462z"/>
+        </g>
+    </g>
+</svg>

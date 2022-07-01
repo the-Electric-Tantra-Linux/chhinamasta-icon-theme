@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256">
+    <defs>
+        <linearGradient id="b" x1="36.374%" x2="36.374%" y1="10.403%" y2="93.546%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="99.43%" stop-color="#C6D3D5"/>
+        </linearGradient>
+        <linearGradient id="c" x1="100%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#ECD935"/>
+            <stop offset="100%" stop-color="#3BCAB9"/>
+        </linearGradient>
+        <linearGradient id="d" x1="0%" x2="100%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#00B8E8"/>
+            <stop offset="100%" stop-color="#4B5EFF"/>
+        </linearGradient>
+        <linearGradient id="e" x1="0%" x2="100%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFC823"/>
+            <stop offset="100%" stop-color="#FF2F78"/>
+        </linearGradient>
+        <linearGradient id="f" x1="81.903%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#DE00C0"/>
+            <stop offset="100%" stop-color="#8720FF"/>
+        </linearGradient>
+        <filter id="a" width="122.9%" height="122.9%" x="-11.4%" y="-11.4%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" filter="url(#a)" transform="translate(10 10)">
+        <path fill="url(#b)" d="M0 118C0 52.83 52.83 0 118 0s118 52.83 118 118-52.83 118-118 118S0 183.17 0 118Z" style="fill:#23252e"/>
+        <path fill="url(#b)" d="M10.992 117.467c0-59.783 47.879-108.246 106.94-108.246s106.94 48.463 106.94 108.246c0 59.782-47.879 108.245-106.94 108.245S10.992 177.25 10.992 117.467z" style="fill:#555e70;stroke-width:.911786"/>
+        <rect width="44" height="44" x="52.159" y="96" fill="url(#c)" rx="8" transform="rotate(-45 74.16 118)" style="fill:#f4f4f7"/>
+        <rect width="44" height="44" x="96" y="139.841" fill="url(#d)" rx="8" transform="rotate(-45 118 161.84)" style="fill:#f4f4f7"/>
+        <rect width="44" height="44" x="96" y="52.159" fill="url(#e)" rx="8" transform="rotate(-45 118 74.16)" style="fill:#f4f4f7"/>
+        <rect width="44" height="44" x="139.841" y="96" fill="url(#f)" rx="8" transform="rotate(-45 161.84 118)" style="fill:#f4f4f7"/>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg height="512" width="512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path id="a" d="M21.812 1023h22.625l-8.813-8.813z" fill="#dbdbdb"/>
+    <path d="M289.375 254.922c0 18.705-15.4 33.873-34.393 33.873-18.992 0-34.392-15.168-34.392-33.873s15.4-33.872 34.392-33.872c18.992 0 34.393 15.167 34.393 33.872" fill="#dbdbdb"/>
+    <use fill="#dbdbdb" height="1" transform="matrix(9.30304 0 0 9.16228 22.58 -9169.939)" width="1" xlink:href="#a"/>
+    <use fill="#dbdbdb" height="1" transform="matrix(4.65158 -7.93482 8.05668 4.58114 -8149.192 -4257.812)" width="1" xlink:href="#a"/>
+    <use fill="#dbdbdb" height="1" transform="matrix(-4.65158 -7.93482 8.05668 -4.58114 -7915.737 5168.011)" width="1" xlink:href="#a"/>
+    <use fill="#dbdbdb" height="1" transform="matrix(-9.30304 0 0 -9.16228 489.42 9681.939)" width="1" xlink:href="#a"/>
+    <use fill="#dbdbdb" height="1" transform="matrix(-4.65158 7.93482 -8.05668 -4.58114 8661.192 4769.812)" width="1" xlink:href="#a"/>
+    <use fill="#dbdbdb" height="1" transform="matrix(4.65158 7.93482 -8.05668 4.58114 8427.737 -4656.011)" width="1" xlink:href="#a"/>
+</svg>

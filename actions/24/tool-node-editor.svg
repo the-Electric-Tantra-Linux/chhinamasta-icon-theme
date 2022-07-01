@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
-    <defs>
-        <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Highlight{color:#4285f4}.ColorScheme-NeutralText{color:#ff9800}.ColorScheme-PositiveText{color:#4caf50}.ColorScheme-NegativeText{color:#f44336}
-        </style>
-    </defs>
-    <path style="fill:currentColor;color:#dfdfdf" d="M11.803 0A.806.806 0 0 0 11 .803v.752c-.363.021-.723.04-1.115.078-1.279.123-2.662.329-3.885.73A.364.364 0 0 0 5.637 2H2.803A.806.806 0 0 0 2 2.803V6h.127c-.569 1.354-.92 2.931-1.162 4.391-.036.213-.056.402-.086.609H.803a.802.802 0 0 0-.803.803v2.394c0 .444.359.803.803.803h2.394A.802.802 0 0 0 4 14.197v-2.394A.806.806 0 0 0 3.197 11H1.889c.023-.154.036-.291.062-.447.261-1.57.698-3.257 1.305-4.553h1.941A.802.802 0 0 0 6 5.197V3.449c1.163-.424 2.628-.692 3.98-.822.358-.034.686-.052 1.02-.072v.642c0 .444.359.803.803.803h2.394A.806.806 0 0 0 15 3.197V.803A.806.806 0 0 0 14.197 0h-2.394ZM7 6l4.801 9L15 11.625 7 6Z"/>
-</svg>

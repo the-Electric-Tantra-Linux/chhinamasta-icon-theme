@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.0">
+    <g style="display:inline">
+        <path d="M1 1v10h10V1H1zm3 4h4v3H4V5z" style="opacity:.33;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" transform="translate(2 3)"/>
+        <path d="M2 2v8h8V2H2zm1 2h6v5H3V4z" style="opacity:1;fill:#dbdbdb;fill-opacity:1;stroke:#1a1a1a;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" transform="translate(2 3)"/>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg height="512" width="512" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g fill="#dbdbdb">
+        <g transform="translate(-96.174 -809.527) scale(1.33033)" fill-rule="evenodd">
+            <path id="a" d="M321.36 659.56h18.314v64.65h-18.31z"/>
+            <path id="b" d="M347.67 659.56h18.314v64.65h-18.31z"/>
+            <path id="c" d="M321.36 732.21h18.314v64.65h-18.31z"/>
+            <path id="d" d="M347.67 732.21h18.314v64.65h-18.31z"/>
+            <path id="e" d="M321.36 804.86h18.314v64.65h-18.31z"/>
+            <path id="f" d="M347.67 804.86h18.314v64.65h-18.31z"/>
+            <path id="g" d="M321.36 877.51h18.314v64.65h-18.31z"/>
+            <path id="h" d="M347.67 877.51h18.314v64.65h-18.31z"/>
+        </g>
+        <g transform="translate(-306.206 -809.527) scale(1.33033)">
+            <use height="1" width="1" xlink:href="#a"/>
+            <use height="1" width="1" xlink:href="#b"/>
+            <use height="1" width="1" xlink:href="#c"/>
+            <use height="1" width="1" xlink:href="#d"/>
+            <use height="1" width="1" xlink:href="#e"/>
+            <use height="1" width="1" xlink:href="#f"/>
+            <use height="1" width="1" xlink:href="#g"/>
+            <use height="1" width="1" xlink:href="#h"/>
+        </g>
+        <path d="M191.31 208.999h24.364v86.006h-24.358zm35.014 0h24.364v86.006H226.33zm34.999 0h24.363v86.006h-24.358zm35.014 0h24.364v86.006h-24.359z" fill-rule="evenodd"/>
+    </g>
+</svg>

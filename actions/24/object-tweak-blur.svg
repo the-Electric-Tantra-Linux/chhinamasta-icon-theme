@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
-    <defs>
-        <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Text{color:#dfdfdf}
-        </style>
-    </defs>
-    <path style="opacity:.3;fill:currentColor" class="ColorScheme-Text" d="M7 1h2v2H7Zm3 3h2v2h-2ZM7 4h2v2H7ZM4 4h2v2H4Zm9 3h2v2h-2Zm-3 0h2v2h-2ZM7 7h2v2H7ZM4 7h2v2H4ZM1 7h2v2H1Zm9 3h2v2h-2Zm-3 0h2v2H7Zm-3 0h2v2H4Zm3 3h2v2H7Z"/>
-    <path style="fill:currentColor" class="ColorScheme-Text" d="M4 4h1v1H4Zm0 7h1v1H4Zm7 0h1v1h-1Zm0-7h1v1h-1Zm-3.5 6.5h1v1h-1Zm-3-3h1v1h-1Zm6 0h1v1h-1Zm-3-3h1v1h-1Zm0 3h1v1h-1ZM7 1h2v1H7Zm0 13h2v1H7ZM1 7h1v2H1Zm13 0h1v2h-1Zm-3.5 3.5h1v1h-1Zm-6 0h1v1h-1Zm0-6h1v1h-1Zm6 0h1v1h-1ZM13 1h2v2h-2Zm-3 0h2v2h-2ZM4 1h2v2H4ZM1 1h2v2H1Zm12 3h2v2h-2ZM1 4h2v2H1Zm12 6h2v2h-2ZM1 10h2v2H1Zm12 3h2v2h-2Zm-3 0h2v2h-2Zm-6 0h2v2H4Zm-3 0h2v2H1Z"/>
-</svg>

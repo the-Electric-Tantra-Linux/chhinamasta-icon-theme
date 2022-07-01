@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.0">
+    <g style="display:inline">
+        <path d="M6 3v6M3 6l3 3 3-3" style="opacity:.33;fill:none;fill-opacity:.5;fill-rule:evenodd;stroke:#1a1a1a;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline" transform="translate(2 3)"/>
+        <path d="m3 6 3 3 3-3M6 3v5" style="fill:none;fill-opacity:.5;fill-rule:evenodd;stroke:#dbdbdb;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;display:inline" transform="translate(2 3)"/>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64">
+    <rect style="opacity:.2;fill:#f4f4f7;stroke-width:1.10008" width="54.214" height="50.224" x="4.958" y="8.495" rx="2.711" ry="2.79"/>
+    <rect style="opacity:.2" width="50" height="45" x="7" y="11" rx="2.5" ry="2.5"/>
+    <path style="fill:#23252e;stroke-width:1.10008" d="M4.958 12.847v41.965c0 1.546 1.209 2.79 2.71 2.79h48.794c1.502 0 2.71-1.244 2.71-2.79V12.847Z"/>
+    <path style="fill:#23252e;stroke-width:1.10008" d="M7.669 7.379c-1.502 0-2.711 1.244-2.711 2.79v2.79h54.215v-2.79c0-1.546-1.21-2.79-2.711-2.79z"/>
+    <path style="fill:#555e70" d="M7 14.9v37.6C7 53.885 8.115 55 9.5 55h45c1.385 0 2.5-1.115 2.5-2.5V14.9z"/>
+    <g transform="matrix(.11274 0 0 .10943 9.798 17.338)" style="fill:#f4f4f7">
+        <rect width="400" height="64" y="256" fill="#a4ffcc" opacity=".7" rx="18" style="opacity:1;fill:#f4f4f7"/>
+        <rect width="64" height="64" x="24" y="4" fill="#1b1d24" opacity=".1" rx="10" style="fill:#f4f4f7"/>
+        <rect width="64" height="64" x="24" y="116" fill="#1b1d24" opacity=".1" rx="10" style="fill:#f4f4f7"/>
+        <rect width="64" height="64" x="24" fill="#f4f4f7fff" rx="10" style="fill:#f4f4f7"/>
+        <rect width="64" height="64" x="24" y="112" fill="#f4f4f7fff" rx="10" style="fill:#f4f4f7"/>
+    </g>
+    <rect style="fill:#555e70;fill-rule:evenodd;stroke-width:1.36186" width="49.979" height="5.454" x="7.021" y="9.775" rx="0" ry="0"/>
+</svg>

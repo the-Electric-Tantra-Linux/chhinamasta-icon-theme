@@ -1,0 +1,11 @@
+<svg height="512" width="512" xmlns="http://www.w3.org/2000/svg">
+    <g fill="#dbdbdb">
+        <path d="M101.55 309.665h34.43v84.6h-34.43z"/>
+        <path d="M127.126 350.876h277.41v43.283h-277.41z"/>
+        <path d="M373.548 309.419h34.43v84.6h-34.43z"/>
+    </g>
+    <g fill="#dbdbdb">
+        <path d="M227.714 59.452h43.361v218.735h-43.361z"/>
+        <path d="m251.611 326.425 60.71-81.467-123.361 1.45z" fill-rule="evenodd"/>
+    </g>
+</svg>

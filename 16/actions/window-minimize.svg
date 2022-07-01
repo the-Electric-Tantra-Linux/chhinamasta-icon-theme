@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.0">
+    <g style="display:inline">
+        <path style="opacity:.33;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" d="M2 7h8v4H2z" transform="translate(2 3)"/>
+        <path style="opacity:1;fill:#dbdbdb;fill-opacity:1;stroke:#1a1a1a;stroke-width:0;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline" d="M3 8h6v2H3z" transform="translate(2 3)"/>
+    </g>
+</svg>

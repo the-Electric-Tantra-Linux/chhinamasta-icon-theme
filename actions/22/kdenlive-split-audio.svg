@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
-    <defs>
-        <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Text{color:#dfdfdf}
-        </style>
-    </defs>
-    <path style="fill:currentColor" class="ColorScheme-Text" d="M.5 7v1h1V7h-1Zm2 0v1h1V7h-1Zm2 0v1h1V7h-1Zm2 0v1h1V7h-1Zm2 0v1h1V7h-1Zm2 0v1h1V7h-1Zm2 0v1h1V7h-1Zm2 0v1h1V7h-1Z"/>
-    <path id="Musical-Note" style="fill:currentColor" class="ColorScheme-Text" d="M5.582 8.489v4.927a2.159 2.159 0 0 1-2.156 2.162h-.598a1.56 1.56 0 0 1-1.557-1.562v-.139c0-.794.631-1.586 1.403-1.762l1.72-.39a.819.819 0 0 0 .606-.76l.003-2.476h.579Zm7.216 0v3.033a2.18 2.18 0 0 1-2.178 2.183h-.621a1.564 1.564 0 0 1-1.562-1.566v-.145c0-.788.627-1.574 1.393-1.746l1.773-.398a.816.816 0 0 0 .606-.758v-.603h.589ZM11.89.022A.935.935 0 0 1 12.082 0c.408 0 .715.307.715.752v.499h.001v5.128h-.589V3.36L5.593 4.758v1.621h-.587l.004-3.254v-.928c0-.346.275-.691.611-.767L11.89.022Zm.372.742L5.6 2.187v1.091l6.662-1.422V.764Z"/>
-</svg>

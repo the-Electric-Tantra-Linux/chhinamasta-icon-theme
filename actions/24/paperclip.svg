@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
-    <defs>
-        <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Highlight{color:#4285f4}.ColorScheme-NeutralText{color:#ff9800}.ColorScheme-PositiveText{color:#4caf50}.ColorScheme-NegativeText{color:#f44336}
-        </style>
-    </defs>
-    <path id="Clip-Icon" style="fill:currentColor;color:#dfdfdf" d="m11.734 11.47-.033-6.366a.537.537 0 0 0-.533-.533.524.524 0 0 0-.528.528l.02 3.769.013 2.597a2.62 2.62 0 0 1-2.639 2.638 2.685 2.685 0 0 1-2.666-2.666l-.013-2.596-.017-3.251-.011-2.11A1.57 1.57 0 0 1 6.91 1.897a1.612 1.612 0 0 1 1.6 1.599l.011 2.11.005 1.073.012 2.22.008 1.494a.523.523 0 0 1-.528.527.536.536 0 0 1-.533-.533l-.008-1.494-.02-3.811a.537.537 0 0 0-.533-.533.525.525 0 0 0-.528.528l.028 5.305a1.61 1.61 0 0 0 1.599 1.599 1.57 1.57 0 0 0 1.583-1.583l-.035-6.896A2.685 2.685 0 0 0 6.905.836a2.62 2.62 0 0 0-2.639 2.638l.041 7.958a3.76 3.76 0 0 0 3.733 3.732 3.666 3.666 0 0 0 3.694-3.694Z"/>
-</svg>

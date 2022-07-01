@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2" viewBox="0 0 16 16" xml:space="preserve">
-    <defs>
-        <style id="current-color-scheme" type="text/css">
-            .ColorScheme-Text{color:#dfdfdf}
-        </style>
-    </defs>
-    <path style="fill:currentColor" class="ColorScheme-Text" d="M12.338 1.965a1.916 1.916 0 0 0-.17.014v.001a2.01 2.01 0 0 0-1.727 2.239 2.01 2.01 0 0 0 2.239 1.728 2.003 2.003 0 0 0 1.328-.763l-.793-.61a.999.999 0 0 1-1.792-.612.999.999 0 0 1 1.612-.79l.61-.793a2 2 0 0 0-1.307-.414ZM3.033 3.721l-.664.75 5.238 4.642.664-.748-.203-.179a1.998 1.998 0 0 0 .696-3.393A1.999 1.999 0 0 0 5.48 5.891l-2.447-2.17Zm4.346 1.572a1 1 0 1 1 .12 1.996 1 1 0 0 1-.12-1.996ZM2.891 9.4l-.371.928.251.102a1.996 1.996 0 0 0 .495 3.427 2.004 2.004 0 0 0 2.599-1.117c.13-.326.171-.681.119-1.029l.25.1.371-.928-1.859-.742L2.891 9.4Zm1.125 1.598a1.006 1.006 0 0 1 .92 1.371c-.204.51-.79.762-1.299.559a1.005 1.005 0 0 1-.559-1.299c.152-.383.526-.634.938-.631Z"/>
-    <path style="fill:currentColor;fill-opacity:.3" class="ColorScheme-Text" d="M14 7c-3.84 0-7 3.16-7 7h1c0-3.292 2.708-6 6-6V7Z"/>
-</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.0">
+    <g style="display:inline">
+        <path d="M1 1h10L6 9z" style="opacity:.33;fill:#1a1a1a;fill-opacity:1;stroke:#1a1a1a;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1" transform="translate(2 3)"/>
+        <path style="fill:#dbdbdb;stroke:#dbdbdb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" d="M3 2h6L6 7z" transform="translate(2 3)"/>
+    </g>
+</svg>
