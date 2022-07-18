@@ -1,5 +1,5 @@
 <svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
-    <g transform="translate(-58.763 -76.826) scale(13.655)" fill="#dbdbdb">
+    <g transform="translate(-58.763 -76.826) scale(13.655)" fill="#f4f4f7">
         <ellipse transform="scale(-1 1)" cx="-16" cy="24" rx="5" ry="1.8"/>
         <path d="M15 21.8v4.399L17.113 26h8.486v-4h-8.486zm9.857-3.137-6.746 2.69s-2.894-4.32-2.188-5.206c.706-.885 8.934 2.515 8.934 2.515z"/>
         <path d="m24.07 19.03-5.959 2.325s-2.894-4.32-2.188-5.206c.537-.661 8.147 2.881 8.147 2.881z"/>

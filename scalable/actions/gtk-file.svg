@@ -2,5 +2,5 @@
     <defs>
         <path id="a" d="M10.227 3.009 29.162 3 40 14.111l-.04 28.598c0 1.27-.992 2.291-2.226 2.291H10.227C8.993 45 8 43.978 8 42.71V5.3c0-1.27.993-2.291 2.227-2.291z"/>
     </defs>
-    <use style="fill:#dbdbdb" xlink:href="#a"/>
+    <use style="fill:#f4f4f7" xlink:href="#a"/>
 </svg>

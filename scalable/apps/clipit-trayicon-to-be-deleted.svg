@@ -23,8 +23,8 @@
         </filter>
     </defs>
     <g transform="matrix(2.83714 0 0 2.8766 68.24 59.132)" style="stroke:none">
-        <path d="M38.575 16.153v3.924h23.242v-3.924H38.575zm-14.596-2.984h54.072c4.129 0 7.452 3.484 7.452 7.81v21.705H57.061c-3.658 0-6.602 3.087-6.602 6.92v50.714h-26.48c-4.129 0-7.452-3.484-7.452-7.81V20.98c0-4.327 3.323-7.81 7.452-7.81z" style="opacity:1;fill:#dbdbdb;fill-opacity:1;stroke:none;stroke-width:1.98402464;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#a)"/>
-        <path style="opacity:1;fill:#dbdbdb;fill-opacity:1;stroke:none;stroke-width:1.71347582;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#b)" d="M43.833 9.662h12.529v8.453H43.833z"/>
-        <rect ry="8.103" y="50.261" x="58.455" height="74.691" width="58.431" style="opacity:1;fill:#dbdbdb;fill-opacity:1;stroke:none;stroke-width:2.16439056;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#c)"/>
+        <path d="M38.575 16.153v3.924h23.242v-3.924H38.575zm-14.596-2.984h54.072c4.129 0 7.452 3.484 7.452 7.81v21.705H57.061c-3.658 0-6.602 3.087-6.602 6.92v50.714h-26.48c-4.129 0-7.452-3.484-7.452-7.81V20.98c0-4.327 3.323-7.81 7.452-7.81z" style="opacity:1;fill:#f4f4f7;fill-opacity:1;stroke:none;stroke-width:1.98402464;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#a)"/>
+        <path style="opacity:1;fill:#f4f4f7;fill-opacity:1;stroke:none;stroke-width:1.71347582;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#b)" d="M43.833 9.662h12.529v8.453H43.833z"/>
+        <rect ry="8.103" y="50.261" x="58.455" height="74.691" width="58.431" style="opacity:1;fill:#f4f4f7;fill-opacity:1;stroke:none;stroke-width:2.16439056;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#c)"/>
     </g>
 </svg>

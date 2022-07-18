@@ -1,8 +1,10 @@
 #!/bin/env bash
 ##########################################################
-## TITLE:
+## TITLE: recolor.sh
 ##
-## DESCRIPTION:
+## DESCRIPTION: A quick and dirty set of sed commands to
+##              svg images within the current directory,
+##              Useful with icon-themes.
 ##
 ##
 ## AUTHOR: Thomas Leon Highbaugh <admin@thomasleonhighbaugh.me>
@@ -69,7 +71,7 @@ function recolor() {
 
     # sed -i 's/value_light/555e70/g' **/*.svg
 
-    # sed -i 's/323232/8b9cbe/g' **/*.svg
+    sed -i 's/dbdbdb/f4f4f7/g' ./**/*.svg
     # sed -i 's/957552/3c3f4c/g' **/*.svg
     # sed -i 's/ae8e6c/555e70/g' **/*.svg
     # sed -i 's/1f252a/f4f4f7/g' **/*.svg
