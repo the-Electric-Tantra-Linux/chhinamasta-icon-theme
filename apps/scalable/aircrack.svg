@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="aircrack_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="aircrack_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="aircrack_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="aircrack_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="aircrack_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="aircrack_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="aircrack_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="aircrack_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="aircrack_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="aircrack_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .aircrack_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M8 .94a11.277 11.277 0 0 0-8 3.31l.8.801a10.174 10.174 0 0 1 14.4 0l.8-.802A11.277 11.277 0 0 0 8 .94Zm0 3.24a8.12 8.12 0 0 0-5.76 2.382l.8.8a7.006 7.006 0 0 1 9.92 0l.8-.8A8.12 8.12 0 0 0 8 4.179Zm0 3.256a4.96 4.96 0 0 0-3.52 1.453l.8.802a3.837 3.837 0 0 1 5.44 0l.8-.802A4.96 4.96 0 0 0 8 7.436Zm0 3.28a2.172 2.172 0 0 0-2.172 2.172A2.172 2.172 0 0 0 8 15.06a2.172 2.172 0 0 0 2.172-2.172A2.172 2.172 0 0 0 8 10.715Z" color="#ececec"/>
+</svg>

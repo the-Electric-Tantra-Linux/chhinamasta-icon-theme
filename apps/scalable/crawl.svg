@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="crawl_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="crawl_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="crawl_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="crawl_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="crawl_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="crawl_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="crawl_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="crawl_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="crawl_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="crawl_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .crawl_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-opacity="0" d="M0 0h16v16H0z" class="crawl_svg__ColorScheme-Text"/>
+  <path fill="currentColor" fill-rule="evenodd" d="M7.925 2.071c-3.721 0-6.74.771-6.74 1.72 0 .227.172.443.485.641C.623 5.424 0 6.667 0 8.017c0 1.368.641 2.628 1.714 3.626-.164.478-.819 2.018-.597 2.24.239.239 2.005-.537 2.332-.625.1-.027.358-.066.66-.116 1.152.471 2.479.74 3.891.74 1.427 0 2.766-.275 3.926-.755.34.057.636.102.746.131.326.088 2.092.864 2.331.625.239-.238-.533-1.995-.624-2.328C15.396 10.571 16 9.345 16 8.017c0-1.377-.648-2.643-1.733-3.644.257-.182.398-.377.398-.582 0-.949-3.02-1.72-6.74-1.72Zm5.732 1.582c0 .55-2.568.997-5.732.997s-5.731-.447-5.731-.997c0-.551 2.567-.997 5.731-.997 3.164 0 5.732.446 5.732.997Z" class="crawl_svg__ColorScheme-Text"/>
+</svg>

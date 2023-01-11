@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="cuttlefish_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="cuttlefish_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="cuttlefish_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="cuttlefish_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="cuttlefish_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="cuttlefish_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="cuttlefish_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="cuttlefish_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="cuttlefish_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="cuttlefish_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .cuttlefish_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M6.423.056 3.45 1.27l.7 1.665A6.34 6.34 0 0 0 2.9 4.177l-1.675-.695L0 6.433l1.65.695c-.08.57-.06 1.155.023 1.739L0 9.562l1.224 2.956 1.675-.695c.361.475.783.89 1.25 1.24l-.7 1.662 2.975 1.218.702-1.638a6.45 6.45 0 0 0 1.746-.024l.701 1.663 2.976-1.217-.7-1.662a6.334 6.334 0 0 0 1.25-1.24l1.677.694L16 9.564l-1.65-.695c.08-.57.058-1.155-.024-1.739L16 6.435l-1.224-2.951-1.677.695a6.34 6.34 0 0 0-1.25-1.242l.7-1.665L9.573.057l-.7 1.64a6.324 6.324 0 0 0-1.747.024ZM8 4.027c2.21 0 4 1.779 4 3.972 0 2.194-1.79 3.972-4 3.972s-4-1.778-4-3.972c0-2.193 1.79-3.972 4-3.972z" color="#ececec"/>
+</svg>

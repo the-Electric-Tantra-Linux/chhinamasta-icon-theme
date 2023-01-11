@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="#e9e9e9"
+   height="38"
+   viewBox="0 0 38 38"
+   width="38"
+   version="1.1"
+   id="svg23910"
+   sodipodi:docname="sublime-text-flat.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs23914" />
+  <sodipodi:namedview
+     id="namedview23912"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.9042612"
+     inkscape:cx="8.7084337"
+     inkscape:cy="13.062651"
+     inkscape:window-width="815"
+     inkscape:window-height="866"
+     inkscape:window-x="804"
+     inkscape:window-y="8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg23910" />
+  <rect
+     fill="#424242"
+     height="32"
+     rx="4"
+     stroke-width="3"
+     width="32"
+     x="3"
+     y="3"
+     id="rect23904"
+     style="fill:#f7f7f7;fill-opacity:1" />
+  <text
+     style="fill:#80807f;font-family:Roboto;font-size:27.5;font-weight:bold;letter-spacing:0;text-anchor:middle;word-spacing:0;fill-opacity:1"
+     x="19.153852"
+     y="26.769287"
+     id="text23908"><tspan
+       fill="#ff8200"
+       font-family="Roboto"
+       font-size="22.5"
+       font-weight="bold"
+       text-anchor="middle"
+       x="19.153852"
+       y="26.769287"
+       id="tspan23906"
+       style="fill:#80807f;fill-opacity:1">S</tspan></text>
+</svg>

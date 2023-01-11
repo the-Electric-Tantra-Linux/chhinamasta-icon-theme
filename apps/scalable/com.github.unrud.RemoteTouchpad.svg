@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_unrud_RemoteTouchpad_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_unrud_RemoteTouchpad_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_unrud_RemoteTouchpad_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_unrud_RemoteTouchpad_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_unrud_RemoteTouchpad_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_unrud_RemoteTouchpad_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_unrud_RemoteTouchpad_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_unrud_RemoteTouchpad_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_unrud_RemoteTouchpad_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_unrud_RemoteTouchpad_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_unrud_RemoteTouchpad_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-opacity="0" d="M0 0h16v16H0z" class="com_github_unrud_RemoteTouchpad_svg__ColorScheme-Text"/>
+  <path fill="currentColor" fill-rule="evenodd" d="M12 9.283c-.169.375-.25.543-.468.874-.303.462-.731 1.039-1.262 1.043-.472.004-.593-.307-1.233-.302-.639.003-.774.308-1.245.303-.776 0-2.137-1.683-2.137-3.2 0-1.667 1.161-2.384 1.925-2.384.562 0 .985.378 1.449.378.451 0 .725-.397 1.377-.397.491 0 1.31.452 1.593.936C10.5 6.95 10.75 8.966 12 9.283Zm-1.991-4.205c.253-.28.446-.675.377-1.078-.446.04-.863.233-1.183.546-.256.268-.468.666-.385 1.051.451.012.92-.219 1.191-.519ZM1.6 8.8a.8.8 0 1 1 0-1.6.8.8 0 0 1 0 1.6Zm12.8 4H3.2V3.2h11.2v9.6Zm0-11.2H1.6C.718 1.6 0 2.318 0 3.2v9.6c0 .882.718 1.6 1.6 1.6h12.8c.882 0 1.6-.718 1.6-1.6V3.2c0-.882-.718-1.6-1.6-1.6Z" class="com_github_unrud_RemoteTouchpad_svg__ColorScheme-Text"/>
+</svg>

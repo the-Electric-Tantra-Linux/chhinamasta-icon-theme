@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="dockbarx_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="dockbarx_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="dockbarx_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="dockbarx_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="dockbarx_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="dockbarx_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="dockbarx_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="dockbarx_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="dockbarx_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="dockbarx_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .dockbarx_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M1 0a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1H1zm.652 1.281h.946c.154 0 .277.124.277.278v.943c0 .154-.123.28-.277.28h-.946a.278.278 0 0 1-.277-.28v-.943c0-.154.123-.278.277-.278zM1.078 3.6h13.844c.154 0 .277.125.277.279v11.043a.276.276 0 0 1-.277.277H1.078a.276.276 0 0 1-.277-.277V3.879c0-.154.123-.28.277-.28z" class="dockbarx_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M4.391 11.172c1.013 0 1.158.144 1.158 1.157v.811c0 1.012-.145 1.157-1.158 1.157H3.359c-1.013 0-1.158-.145-1.158-1.157v-.811c0-1.013.145-1.157 1.158-1.157h1.032Zm4.172 0c1.013 0 1.158.144 1.158 1.157v.811c0 1.012-.145 1.157-1.158 1.157H7.531c-1.013 0-1.158-.145-1.158-1.157v-.811c0-1.013.145-1.157 1.158-1.157h1.032Zm4.171 0c1.014 0 1.159.144 1.159 1.157v.811c0 1.012-.145 1.157-1.159 1.157h-1.031c-1.014 0-1.158-.145-1.158-1.157v-.811c0-1.013.144-1.157 1.158-1.157h1.031Z" class="dockbarx_svg__ColorScheme-Text" opacity=".6"/>
+</svg>

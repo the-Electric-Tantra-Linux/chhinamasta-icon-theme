@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="deepin-manual_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="deepin-manual_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="deepin-manual_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="deepin-manual_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="deepin-manual_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="deepin-manual_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="deepin-manual_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="deepin-manual_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="deepin-manual_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="deepin-manual_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .deepin-manual_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M11.017 1.38A7.255 7.255 0 0 0 7.106.781C6.024 2.278 5.463 4.709 5.508 6.198c0 0-.071 2.213 1.445 2.998 0 0 1.364.597 2.292-1.335 0 0 .639-1.091.379-3.556 0 0 .249.044.277.083.028.039.549 1.898.183 3.463 0 0-.337 1.84-1.994 2.26-1.657.421-2.948-.597-3.824-1.555-.65-.712-1.615-2.618-2.094-4.907A7.24 7.24 0 0 0 .727 8a7.24 7.24 0 0 0 .721 3.16c1.59.473 5.707 1.419 8.321-.497 1.721-1.261 1.499-3.282 1.499-3.282-.029-1.536-.964-3.063-.964-3.063 3.638 3.291 1.488 6.948 1.488 6.948-.999 2.039-3.048 3.345-4.845 3.931A7.273 7.273 0 0 0 13.67 3.445a11.89 11.89 0 0 1-1.203.025s-1.936.091-3.021.632c0 0-.809.361-1.618.973 0 0-.172.086-.164.401.007.315-.165 1.153-.738 1.644 0 0-.409.21-.204.512 0 0 .276.401.665-.021 0 0 1.004-1.032 1.065-2.696 0 0 .318-.272.819-.351 0 0 .093 2.496-1.146 3.749 0 0-1.179 1.284-1.557-.621 0 0-.461-1.815 1.915-3.971 0 0 1.591-1.588 2.534-2.341ZM8 16A8 8 0 1 1 8 0a8 8 0 0 1 0 16Z" color="#ececec"/>
+</svg>

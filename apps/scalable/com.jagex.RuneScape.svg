@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_jagex_RuneScape_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_jagex_RuneScape_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_jagex_RuneScape_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_jagex_RuneScape_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_jagex_RuneScape_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_jagex_RuneScape_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_jagex_RuneScape_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_jagex_RuneScape_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_jagex_RuneScape_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_jagex_RuneScape_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_jagex_RuneScape_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M4.4.894v2.309c.452.004.77.013 1.189.109.427.099.811.182.811.715l-.559.373s-.293-.327-.561-.373c-.107-.018-.226-.005-.48.2v10.409L3.6 16l-1.2-1.364V10L1.2 8.8l1.2-1.2V4.092a.939.939 0 0 0-.48-.065c-.268.046-.561.373-.561.373L.8 4.027c0-.533.384-.616.811-.714.407-.094.754-.104 1.189-.108V.894A1.197 1.197 0 0 1 2.4 0h2.4c0 .355-.154.675-.4.894ZM6.928 3.2c.16.243.272.54.272.827 0 .217-.168.425-.325.576C7.532 5.061 8 5.889 8 6.706 8 8.22 7.156 8.353 5.6 8.8c.934 2.283 2.795 4.303 4.636 5.348 1.57.95 3.01 1.618 4.964 1.852-2.158-2.635-5.519-3.794-7.2-6.4 1.123-.589 2.4-1.098 2.4-3.044C10.4 4.977 8.96 3.2 7.889 3.2h-.961Z" color="#ececec"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="engauge-digitizer_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="engauge-digitizer_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="engauge-digitizer_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="engauge-digitizer_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="engauge-digitizer_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="engauge-digitizer_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="engauge-digitizer_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="engauge-digitizer_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="engauge-digitizer_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="engauge-digitizer_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .engauge-digitizer_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M2.51 11.483V4.517A1.726 1.726 0 1 0 0 2.98c0 .67.383 1.252.941 1.538v6.964a1.726 1.726 0 1 0 2.322 2.322h9.474a1.726 1.726 0 1 0 .001-1.569H3.262a1.73 1.73 0 0 0-.752-.752Zm3.908-1.531.578-.148a15.138 15.138 0 0 0 1.515-.452c.287.236.656.373 1.058.373a1.72 1.72 0 0 0 1.713-1.554 5.03 5.03 0 0 0 .825-.635c.26-.261.495-.543.702-.847.101-.143.199-.286.297-.43a1.727 1.727 0 0 0 1.953-1.71 1.726 1.726 0 0 0-3.451 0c0 .294.073.57.216.806-.099.147-.199.294-.301.44a4.62 4.62 0 0 1-.511.618c-.107.101-.221.193-.335.286a1.618 1.618 0 0 0-1.108-.424c-.932 0-1.693.74-1.722 1.665a21.77 21.77 0 0 1-1.231.342l-.284.073a1.718 1.718 0 0 0-1.469-.826 1.726 1.726 0 0 0 0 3.451c.7 0 1.304-.418 1.555-1.028Z" color="#ececec"/>
+</svg>

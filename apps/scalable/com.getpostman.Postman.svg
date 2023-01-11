@@ -1,0 +1,57 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_getpostman_Postman_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_getpostman_Postman_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_getpostman_Postman_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_getpostman_Postman_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_getpostman_Postman_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_getpostman_Postman_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_getpostman_Postman_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_getpostman_Postman_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_getpostman_Postman_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_getpostman_Postman_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_getpostman_Postman_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <g fill="currentColor" color="#ececec">
+    <path d="m0 15.984 1.059-1.294L2.406 16 0 15.984Zm1.34-1.527 1.48 1.559c.054-.418-.143-.91-.338-1.585 3.346-.728 9.096-5.915 10.471-9.384L7.441 9.805c-.675.321-1.313.453-1.921.39l-4.18 4.262Z"/>
+    <path d="M6.922 8.74 5.906 9.758c1.157 0 1.282-.133 1.613-.421l5.244-4.677c.52-.442-.441-1.351-1.012-.805L6.922 8.74Zm-.338-.234c-.639.517-1.506.674-2.623.596l1.637-1.557c3.3-3.389 5.439-4.833 6.309-4.288L6.584 8.506Z"/>
+    <path d="m13.413 2.361 1.402 1.494c-1.48.363-2.869-.533-2.714-1.949.39-2.157 2.558-2.235 3.155-1.39q-.805.792-1.843 1.845Z"/>
+    <path d="m15.191 3.608-1.298-1.299 1.7-1.624c.74 1.091.445 2.259-.402 2.923Z"/>
+  </g>
+</svg>

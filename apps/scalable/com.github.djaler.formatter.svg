@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_djaler_formatter_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_djaler_formatter_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_djaler_formatter_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_djaler_formatter_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_djaler_formatter_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_djaler_formatter_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_djaler_formatter_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_djaler_formatter_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_djaler_formatter_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_djaler_formatter_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_djaler_formatter_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M5.403 3.532c-.684 0-1.225.063-1.68.234-.456.17-.822.48-1.038.87-.431.782-.384 1.739-.4 3.046v4.168c.016 1.308-.031 2.264.4 3.046.216.391.582.7 1.037.87.456.172.997.234 1.68.234h5.195c.684 0 1.225-.062 1.68-.233.456-.171.82-.48 1.035-.87.432-.783.387-1.74.402-3.047V7.682c-.015-1.307.032-2.264-.4-3.046a1.953 1.953 0 0 0-1.036-.87c-.456-.171-.997-.234-1.68-.234Zm0 1.04h5.194c.616 0 1.045.064 1.315.166.27.101.386.211.491.402.21.38.257 1.24.272 2.548v4.15c-.015 1.313-.061 2.174-.272 2.555-.105.19-.22.3-.49.402-.27.101-.7.166-1.316.166H5.403c-.616 0-1.045-.065-1.315-.166-.27-.102-.386-.212-.491-.402-.21-.38-.257-1.241-.272-2.549V7.688c.015-1.307.062-2.168.272-2.548.105-.19.22-.3.49-.402.27-.102.7-.167 1.316-.167z" class="com_github_djaler_formatter_svg__ColorScheme-Text"/>
+  <path fill="currentColor" fill-rule="evenodd" d="M4.364 0v3.117h1.039V1.039h5.194v2.078h1.04V0Zm2.078 2.078v1.039H7.48v-1.04zm2.077 0v1.039h1.04v-1.04z" class="com_github_djaler_formatter_svg__ColorScheme-Text"/>
+</svg>

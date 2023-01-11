@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="bbc_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="bbc_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="bbc_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="bbc_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="bbc_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="bbc_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="bbc_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="bbc_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="bbc_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="bbc_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .bbc_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M8.669 8.667c0 .495-.617.466-.617.466h-.616v-.895h.616c.635-.004.617.429.617.429ZM7.436 6.872h.47c.488.026.469.389.469.389 0 .452-.539.459-.539.459h-.4v-.848ZM3.089 8.667c0 .495-.617.466-.617.466h-.617v-.895h.617c.635-.004.617.429.617.429ZM1.855 6.872h.47c.488.026.47.389.47.389 0 .452-.54.459-.54.459h-.4v-.848Zm6.7 1.024s.422-.18.419-.657c0 0 .064-.781-.972-.877h-1.15V9.64H8.17s1.101.003 1.101-.925c0 0 .026-.632-.716-.819Zm-5.58 0s.422-.18.418-.657c0 0 .064-.781-.972-.877H1.272V9.64h1.317s1.101.003 1.101-.925c0 0 .026-.632-.715-.819ZM5.58 5.72h4.84v4.56H5.58V5.72ZM0 5.72h4.839v4.56H0V5.72Zm15.013.877v.606s-.591-.364-1.244-.371c0 0-1.219-.024-1.274 1.168 0 0-.044 1.096 1.259 1.159 0 0 .547.066 1.288-.408v.628s-.994.591-2.147.136c0 0-.969-.354-1.006-1.515 0 0-.04-1.194 1.252-1.59 0 0 .345-.132.965-.074 0 0 .371.037.907.261Zm-3.852 3.683H16V5.72h-4.839v4.56Z" color="#ececec"/>
+</svg>

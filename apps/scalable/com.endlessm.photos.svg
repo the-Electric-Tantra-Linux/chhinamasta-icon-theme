@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_endlessm_photos_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_endlessm_photos_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_endlessm_photos_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_endlessm_photos_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_endlessm_photos_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_endlessm_photos_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_endlessm_photos_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_endlessm_photos_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_endlessm_photos_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_endlessm_photos_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_endlessm_photos_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-opacity="0" d="M0 0h16v16H0z" class="com_endlessm_photos_svg__ColorScheme-Text"/>
+  <path fill="currentColor" fill-rule="evenodd" d="M6.257 9.685c.998-.189.468-.722.92-1.114.452-.392 1.418-.361 1.637.424.218.784.904-.173 1.512-.189q.608-.015 1.06.377l-.016-2.008c-.654-.281-.826.22-1.372.376-.545.157-.763-1.75-1.761-1.725-.624.016-.702.47-1.169.565q-.37.074-.935-1.24-.172-.172-.453-.125-.28.047-1.075 1.6l-.016 2.102q.671 1.145 1.668.957ZM8.97 4.069c0-.45.342-.816.763-.816.422 0 .764.366.764.816 0 .45-.342.816-.764.816-.421 0-.763-.366-.763-.816ZM1.634 2.61H3.23v1.606H1.634V2.61Zm11.173 0h1.597v1.606h-1.597V2.61ZM1.634 5.823H3.23v1.606H1.634V5.823Zm11.173 0h1.597v1.606h-1.597V5.823ZM1.634 9.035H3.23v1.607H1.634V9.035Zm11.173 0h1.597v1.607h-1.597V9.035Zm-8.01-6.393h6.288a.74.74 0 0 1 .737.742v6.641a.74.74 0 0 1-.737.742H4.797a.74.74 0 0 1-.738-.742V3.384a.74.74 0 0 1 .738-.742ZM2.864 12.988h10.372c.441 0 .8.338.8.753 0 .416-.359.753-.8.753H2.864c-.442 0-.8-.337-.8-.753 0-.415.358-.753.8-.753ZM1.634 0C.761 0 .037.728.037 1.606L0 14.394C0 15.272.723 16 1.596 16h12.77c.873 0 1.597-.728 1.597-1.606L16 1.606C16 .728 15.277 0 14.404 0H1.634Z" class="com_endlessm_photos_svg__ColorScheme-Text"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <defs>
+        <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#dd9b44;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#ad6c16;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#09d4df;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#9269f4;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0" style="stop-color:#0abdc6;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#ea00d9;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#1ad6ab;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#329db6;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#efefe7;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#8f8f8b;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#00f260;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#0575e6;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#ff8501;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#ffcb01;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#b2ced6;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#6da5b7;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#df5940;stop-opacity:1"/>
+            <stop offset="25%" style="stop-color:#d8d15f;stop-opacity:1"/>
+            <stop offset="50%" style="stop-color:#e9882a;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#279362;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#f618c7;stop-opacity:1"/>
+            <stop offset="20%" style="stop-color:#94ffab;stop-opacity:1"/>
+            <stop offset="50%" style="stop-color:#fbfd54;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#0f83ae;stop-opacity:1"/>
+        </linearGradient>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Highlight{color:#5294e2}
+        </style>
+    </defs>
+    <path fill="currentColor" fill-rule="evenodd" d="M8 1.777c3.432 0 6.221 2.699 6.222 5.835-.002 1.349-.609 2.654-1.677 3.751a1.777 1.777 0 0 0-.505 1.279c.012.521.213 1.004.415 1.455a5.083 5.083 0 0 1-1.668-.721 1.78 1.78 0 0 0-1.36-.252c-.566.126-1.039.207-1.427.209-3.465 0-6.222-2.582-6.222-5.719 0-3.137 2.789-5.837 6.222-5.837ZM8 0C3.632 0 0 3.445 0 7.614c0 4.169 3.632 7.497 8 7.497h.002c.612-.002 1.213-.119 1.809-.251 1.228.808 2.728 1.361 4.43 1.055.781-.143 1.093-.915.549-1.492-.583-.616-.954-.999-.972-1.82 1.33-1.366 2.18-3.107 2.182-4.989C16 3.445 12.368 0 8 0Zm2.203 9.006a.889.889 0 1 1 .925 1.516c-.311.191-.636.36-.974.502a7.5 7.5 0 0 1-.973.347 4.654 4.654 0 0 1-1.182.169 4.694 4.694 0 0 1-1.183-.169 7.704 7.704 0 0 1-.968-.347 7.457 7.457 0 0 1-.978-.502.887.887 0 0 1-.294-1.222c.12-.2.32-.347.547-.4a.901.901 0 0 1 .676.106c.24.147.493.276.755.387.24.107.489.195.747.267.227.062.462.097.698.102.24-.005.475-.04.702-.102.253-.072.507-.16.747-.267a5.71 5.71 0 0 0 .755-.387Z" style="color:#ececec"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="clawsker_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="clawsker_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="clawsker_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="clawsker_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="clawsker_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="clawsker_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="clawsker_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="clawsker_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="clawsker_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="clawsker_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .clawsker_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M5.308 7.117 1.6 4.8v8h12.8v-8l-3.53 2.206V6.92c0-.463-.119-.908-.34-1.301L14.4 3.2H1.6l4.181 2.613A2.656 2.656 0 0 0 5.54 6.92v.12a1.071 1.071 0 0 0-.232.077ZM14.4 1.6H1.6C.72 1.6.008 2.32.008 3.2L0 12.8c0 .88.72 1.6 1.6 1.6h12.8c.88 0 1.6-.72 1.6-1.6V3.2c0-.88-.72-1.6-1.6-1.6ZM8.208 9.149a.53.53 0 0 1 .318.952v.427a.319.319 0 0 1-.637 0v-.427a.528.528 0 0 1 .319-.952Zm0-2.97c.402 0 .742.34.742.743v.742H7.465v-.742c0-.403.34-.743.743-.743Zm0-1.273a2.02 2.02 0 0 0-2.016 2.016v.742h-.424a.425.425 0 0 0-.424.424v3.607c0 .234.19.424.424.424h4.879c.234 0 .425-.19.425-.424V8.088a.426.426 0 0 0-.425-.424h-.424v-.742a2.02 2.02 0 0 0-2.015-2.016Z" color="#ececec"/>
+</svg>

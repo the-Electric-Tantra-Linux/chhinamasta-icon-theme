@@ -1,0 +1,54 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="appimagekit-Alva_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-Alva_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-Alva_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-Alva_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-Alva_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-Alva_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-Alva_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-Alva_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-Alva_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-Alva_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .appimagekit-Alva_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M13.26 6.634c.223 0 .356.262.226.45L7.404 15.88a.275.275 0 0 1-.501-.166V6.918c0-.155.124-.284.276-.284h6.081Z" class="appimagekit-Alva_svg__ColorScheme-Text" clip-rule="evenodd" opacity=".6"/>
+  <path fill="currentColor" d="M9.23.032A.264.264 0 0 1 9.356 0c.14 0 .279.11.279.287v6.386H8.464V3.151L4.975 8.195h1.947v1.17H3.276c-.223 0-.356-.262-.223-.449L9.135.12A.266.266 0 0 1 9.23.032Z" class="appimagekit-Alva_svg__ColorScheme-Text"/>
+  <path fill="currentColor" fill-rule="evenodd" d="M8.464 6.634v1.561H6.903v1.17h2.455a.282.282 0 0 0 .277-.283V6.634H8.464Z" class="appimagekit-Alva_svg__ColorScheme-Text" clip-rule="evenodd" opacity=".8"/>
+</svg>

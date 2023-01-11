@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_babluboy_nutty_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_babluboy_nutty_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_babluboy_nutty_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_babluboy_nutty_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_babluboy_nutty_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_babluboy_nutty_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_babluboy_nutty_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_babluboy_nutty_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_babluboy_nutty_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_babluboy_nutty_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_babluboy_nutty_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="m3.143 9.757 3.078-1.539L3.143 6.37v3.387ZM4.2 11.143l3.761-1.881.039.024.039-.024 3.761 1.881-3.8 1.9-3.8-1.9Zm8.657-1.386L9.779 8.218l3.078-1.848v3.387Zm-.921-4.832L8 7.286 4.064 4.925 8 2.957l3.936 1.968ZM1.428 4.328 8 1.043l6.571 3.285v7.343L8 14.957l-6.572-3.286V4.328Z" class="com_github_babluboy_nutty_svg__ColorScheme-Text"/>
+  <path fill="currentColor" fill-rule="evenodd" d="M6 2a2 2 0 1 1 4.001.001A2 2 0 0 1 6 2Zm0 12a2 2 0 1 1 4.001.001A2 2 0 0 1 6 14Zm6.714-10.875a2 2 0 1 1 2 3.466 2 2 0 0 1-2-3.466ZM1.286 9.411a2 2 0 1 1 2 3.466 2 2 0 0 1-2-3.466Zm13.428 0a2 2 0 1 1-2.002 3.465 2 2 0 0 1 2.002-3.465ZM3.286 3.125A2 2 0 1 1 1.284 6.59a2 2 0 0 1 2.002-3.465Z" class="com_github_babluboy_nutty_svg__ColorScheme-Text"/>
+</svg>

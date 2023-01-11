@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="Anatine_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="Anatine_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="Anatine_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="Anatine_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="Anatine_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="Anatine_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="Anatine_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="Anatine_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="Anatine_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="Anatine_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .Anatine_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M6.499 15.992c-1.793-.183-3.042-.697-3.965-1.629a4.267 4.267 0 0 1-.837-1.144c-.445-.89-.585-1.892-.367-2.634.217-.737.71-1.549 1.405-2.314.385-.424.581-.699.759-1.046.215-.417.238-.696.22-1.084-.017-.376-.098-.537-.304-.709-.196-.161-.276-.251-.881-.222-.59.028-.88-.008-1.162-.144-.218-.106-.296-.225-.228-.353.351-.274.475-.574.861-.713C1.434 3.518.876 3.013.857 2.293c.04-.386.397-.293.397-.293.559.113 1.138.227 1.665.245.152-.02.311-.061.355-.09.044-.028.163-.199.265-.38.397-.701.818-1.155 1.29-1.388C5.372.117 6.14-.027 6.87.004c.877.037 1.622.34 2.23.908.418.39.695.488 1.093.385.279-.072.286-.071.286.016 0 .116-.092.265-.234.379l-.13.105.132.078c.18.107.159.194-.056.225-.179.026-.314.085-.314.138 0 .019.026.183.058.364.077.444.049 1.305-.056 1.73-.162.659-.408 1.123-.828 1.564-.327.297-1.25.907-1.337.961.041 0 .394-.021.631 0 .867.077 1.471.223 2.341.629.822.383 1.172.424 1.627.192.29-.148.706-.464 1.016-.883.266-.357.424-.509.671-.509.242 0 .416.159.598.438.26.396.401.678.501 1.367.072.492.052 1.648-.037 2.139-.532 2.933-2.404 4.908-5.262 5.551-.771.173-1.082.204-2.151.216-.554.005-1.072.004-1.149-.004l-.001-.001Z" color="#ececec"/>
+</svg>

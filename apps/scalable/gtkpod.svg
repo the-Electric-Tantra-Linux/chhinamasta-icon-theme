@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <defs>
+        <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#dd9b44;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#ad6c16;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#09d4df;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#9269f4;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0" style="stop-color:#0abdc6;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#ea00d9;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#1ad6ab;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#329db6;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#efefe7;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#8f8f8b;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#00f260;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#0575e6;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#ff8501;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#ffcb01;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#b2ced6;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#6da5b7;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#df5940;stop-opacity:1"/>
+            <stop offset="25%" style="stop-color:#d8d15f;stop-opacity:1"/>
+            <stop offset="50%" style="stop-color:#e9882a;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#279362;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#f618c7;stop-opacity:1"/>
+            <stop offset="20%" style="stop-color:#94ffab;stop-opacity:1"/>
+            <stop offset="50%" style="stop-color:#fbfd54;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#0f83ae;stop-opacity:1"/>
+        </linearGradient>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#ececec}
+        </style>
+    </defs>
+    <path fill="currentColor" class="ColorScheme-Text" d="M5.334 0c-.578 0-1.05.068-1.451.246-.4.178-.712.488-.893.85-.362.724-.324 1.57-.324 2.636v8.536c0 1.066-.038 1.912.324 2.636.181.362.492.672.893.85.4.178.873.246 1.451.246h5.332c.578 0 1.05-.068 1.451-.246.4-.178.712-.488.893-.85.362-.724.324-1.57.324-2.636V3.732c0-1.066.038-1.912-.324-2.636a1.831 1.831 0 0 0-.893-.85C11.717.068 11.244 0 10.666 0H5.334zm0 1.066h5.332c.489 0 .818.066 1.018.155.2.088.287.178.373.35.17.342.21 1.095.21 2.161v8.536c0 1.066-.04 1.82-.21 2.162a.656.656 0 0 1-.373.35c-.2.088-.53.154-1.018.154H5.334c-.489 0-.818-.066-1.018-.155a.656.656 0 0 1-.373-.35c-.17-.342-.21-1.095-.21-2.161V3.732c0-1.066.04-1.82.21-2.162a.656.656 0 0 1 .373-.35c.2-.088.53-.154 1.018-.154zM8 7.466a3.207 3.207 0 0 0-3.2 3.2A3.208 3.208 0 0 0 8 13.867c1.761 0 3.2-1.44 3.2-3.201 0-1.761-1.439-3.2-3.2-3.2zm0 1.067c1.185 0 2.133.948 2.133 2.133A2.126 2.126 0 0 1 8 12.801a2.126 2.126 0 0 1-2.133-2.135c0-1.185.948-2.133 2.133-2.133z"/>
+    <path fill="currentColor" class="ColorScheme-Text" fill-rule="evenodd" d="M4.8 2.133V6.4h6.4V2.133Z"/>
+</svg>

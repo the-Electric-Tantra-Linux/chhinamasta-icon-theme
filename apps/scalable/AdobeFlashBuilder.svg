@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="AdobeFlashBuilder_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="AdobeFlashBuilder_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="AdobeFlashBuilder_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="AdobeFlashBuilder_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="AdobeFlashBuilder_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="AdobeFlashBuilder_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="AdobeFlashBuilder_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="AdobeFlashBuilder_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="AdobeFlashBuilder_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="AdobeFlashBuilder_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .AdobeFlashBuilder_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M1.778 0A1.78 1.78 0 0 0 0 1.778v12.444C0 15.202.798 16 1.778 16h12.444A1.78 1.78 0 0 0 16 14.222V1.778A1.78 1.78 0 0 0 14.222 0H1.778Zm6.347 3.796v6.682c0 .585-.02 1.213-.042 1.599h1.174l.053-.898h.022c.311.628.939 1.025 1.698 1.025 1.237 0 2.22-1.154 2.22-2.904.011-1.9-1.08-3.032-2.327-3.032-.716 0-1.228.329-1.462.747h-.022V3.796H8.125m1.357 6.24a1.699 1.699 0 0 1-.043-.42v-.852c0-.116.011-.256.033-.372.116-.561.532-1.016 1.132-1.016.841 0 1.311.816 1.311 1.878 0 1.038-.468 1.796-1.302 1.796-.532 0-1.003-.397-1.132-1.014h.001M2.75 4.165v7.858h1.434V8.688h2.892V7.51H4.184V5.341h3.102V4.162l-4.536.003m5.375-.369Z" color="#ececec"/>
+</svg>

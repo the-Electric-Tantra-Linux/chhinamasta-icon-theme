@@ -1,0 +1,11 @@
+<svg width="24px" height="24px" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Text{color:#f4f4f7}
+        </style>
+    </defs>
+    <g class="ColorScheme-Text" fill="currentColor" opacity=".3">
+        <path class="ColorScheme-Text" opacity=".15" d="M3 16h17v3H3z"/>
+        <path class="ColorScheme-Text" d="M4 4c-1.108 0-2 .892-2 2v12c0 1.108.892 2 2 2h15c1.108 0 2-.892 2-2V6c0-1.108-.892-2-2-2zm0 1h15c.554 0 1 .446 1 1v9H3V6c0-.554.446-1 1-1zM3 16h8v3H4c-.554 0-1-.446-1-1zm9 0h8v2c0 .554-.446 1-1 1h-7z"/>
+    </g>
+</svg>

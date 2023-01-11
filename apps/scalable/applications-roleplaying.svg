@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="applications-roleplaying_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="applications-roleplaying_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="applications-roleplaying_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="applications-roleplaying_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="applications-roleplaying_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="applications-roleplaying_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="applications-roleplaying_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="applications-roleplaying_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="applications-roleplaying_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="applications-roleplaying_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .applications-roleplaying_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M4.465 2.234c-1.028 0-1.861.8-1.861 1.787.008.367.038.8.25 1.79.038.12.182.315.35.523.116.558.182 1.01.08 1.586C2.44 8.605.286 8.914.29 9.623L0 11.748c0 .704 2.01 1.275 4.486 1.275 2.477 0 4.485-.57 4.485-1.275l-.287-2.125C8.679 9.016 6.51 8.629 5.68 7.92c-.068-.542-.016-1.069.093-1.61.145-.199.267-.384.305-.5.235-1.027.235-1.403.248-1.789 0-.986-.834-1.787-1.861-1.787z" class="applications-roleplaying_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M10.23.746c-1.168 0-2.167.672-2.582 1.625-.455-.775-.85-1.594-.748-.883l.371 2.604.217-.143c.039.457.11 1.013.326 2.004.083.25.47.689.864 1.111.07.484.101.951.008 1.493-1.082.898-3.852 1.304-3.848 2.232l-.373 2.791c0 .924 2.584 1.674 5.767 1.674 3.186 0 5.768-.75 5.768-1.674l-.373-2.79c-.004-.796-2.791-1.303-3.86-2.233a5.901 5.901 0 0 1 .016-1.397c.383-.451.778-.938.867-1.207.243-1.029.304-1.566.334-2.01l.223.149.373-2.604c.103-.718-.297.124-.758.905C12.413 1.429 11.41.746 10.23.746z" class="applications-roleplaying_svg__ColorScheme-Text"/>
+</svg>

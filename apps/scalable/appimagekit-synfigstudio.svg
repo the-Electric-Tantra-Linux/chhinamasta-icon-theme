@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="appimagekit-synfigstudio_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-synfigstudio_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-synfigstudio_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-synfigstudio_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-synfigstudio_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-synfigstudio_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-synfigstudio_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-synfigstudio_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-synfigstudio_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-synfigstudio_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .appimagekit-synfigstudio_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M8.022 0a.206.206 0 0 0-.147.056 32.317 32.317 0 0 0-1.627 1.707l-.001.002C4.992 3.213 4.039 4.7 3.348 6.293c-.644 1.483-1.02 2.766-1.362 4.636-.075.409-.151.905-.204 1.304-.026.2-.046.375-.057.505a1.814 1.814 0 0 0-.009.222.272.272 0 0 0 .008.043c.007.021.002.062.089.112.048.027.054.022.066.024a1.01 1.01 0 0 0 .093.013 9.213 9.213 0 0 1 1.825.277c.317.086.526.157.836.285l.186.075.06.024a.107.107 0 0 1 .019.007H4.9l.001.001.008.003-.002-.001.003.001a.039.039 0 0 0 .011.003.057.057 0 0 1 .007.004l-.007-.001.052.027.203.104c.759.395 1.326.802 2.232 1.605a20.006 20.006 0 0 0 .42.36l.038.029.023.015.023.012c.012.005.024.015.078.018.064.002.078-.011.091-.016l.026-.012.024-.016a16.1 16.1 0 0 0 .499-.419c.75-.658 1.112-.936 1.634-1.256 1.14-.7 2.156-1.011 3.716-1.133l.126-.009c.102-.008.18-.087.18-.181v-.069c0-.143-.037-.44-.087-.806-.05-.367-.113-.785-.171-1.102-.342-1.886-.731-3.214-1.383-4.717-.587-1.353-1.428-2.72-2.433-3.957a.055.055 0 0 0-.007-.009C9.529 1.558 8.875.78 8.161.059A.207.207 0 0 0 8.022 0Z" color="#ececec"/>
+</svg>

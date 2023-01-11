@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <defs>
+        <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#dd9b44;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#ad6c16;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#09d4df;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#9269f4;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0" style="stop-color:#0abdc6;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#ea00d9;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#1ad6ab;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#329db6;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#efefe7;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#8f8f8b;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#00f260;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#0575e6;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#ff8501;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#ffcb01;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#b2ced6;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#6da5b7;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#df5940;stop-opacity:1"/>
+            <stop offset="25%" style="stop-color:#d8d15f;stop-opacity:1"/>
+            <stop offset="50%" style="stop-color:#e9882a;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#279362;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#f618c7;stop-opacity:1"/>
+            <stop offset="20%" style="stop-color:#94ffab;stop-opacity:1"/>
+            <stop offset="50%" style="stop-color:#fbfd54;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#0f83ae;stop-opacity:1"/>
+        </linearGradient>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Highlight{color:#5294e2}
+        </style>
+    </defs>
+    <path fill="currentColor" fill-rule="evenodd" d="m14.131 1.695-.423 2.487h1.135q.423 0 .612.033t.367.231q.178.198.178.583 0 .385-.078.836-.078.451-.345.782-.267.33-.512.374-.244.044-.734.044h-1.113l-.4 2.421h1.135q.423 0 .612.033t.367.231q.178.198.178.583 0 .385-.067.759t-.211.682q-.145.309-.39.441-.356.176-1.001.176h-1.113q-.222 1.364-.267 1.694l-.044.242q-.089.485-.145.683-.056.198-.234.484-.356.506-1.646.506-1.291 0-1.291-.814 0-.022.178-1.145l.267-1.65H5.83q-.222 1.364-.267 1.694l-.044.242q-.089.485-.145.683-.055.198-.233.484Q4.784 16 3.494 16q-1.291 0-1.291-.814 0-.022.178-1.145l.267-1.65H1.179q-.934 0-1.112-.397Q0 11.818 0 11.477t.078-.792q.078-.451.356-.781.278-.33.523-.374.245-.044.734-.044h1.447l.4-2.421H2.07q-.957 0-1.113-.374Q.89 6.492.89 6.162t.078-.781q.078-.451.356-.781.278-.33.523-.374.245-.044.734-.044h1.447l.378-2.267q.022-.132.056-.429.033-.298.067-.419.033-.121.1-.341.066-.22.189-.308.122-.088.323-.22Q5.452 0 6.275 0q.824 0 1.146.231.323.231.323.693 0 .066-.111.771L7.21 4.182h3.316l.378-2.267q.022-.132.056-.429.033-.298.066-.419.034-.121.101-.341.066-.22.189-.308.122-.088.322-.22Q11.95 0 12.773 0q.824 0 1.146.231.323.231.323.693 0 .066-.111.771ZM6.32 9.486h3.316l.4-2.421H6.743L6.32 9.486Z" style="color:#ececec"/>
+</svg>

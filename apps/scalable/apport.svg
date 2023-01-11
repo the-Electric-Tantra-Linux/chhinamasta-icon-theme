@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="apport_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="apport_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="apport_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="apport_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="apport_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="apport_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="apport_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="apport_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="apport_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="apport_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .apport_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M3.437 0a.57.571 0 0 0-.57.571.57.571 0 0 0 .57.572v.01a2.152 2.476 0 0 1 1.688 1.27 4.563 5.713 0 0 0-1.449 2.593 6.88 5.713 0 0 0 .023.011A6.12 6.129 0 0 0 .562 8.123c-1.37 3.017-.149 6.513 2.715 7.827a.57.57 0 0 0 .753-.286l1.015-2.24A4.563 5.998 0 0 0 8 14.854a4.563 5.998 0 0 0 2.943-1.428l1.027 2.239a.558.558 0 0 0 .753.274c2.864-1.302 4.084-4.798 2.715-7.826a6.12 6.13 0 0 0-3.137-3.085 6.88 5.713 0 0 0 .011-.011 4.563 5.713 0 0 0-1.448-2.594 2.152 2.476 0 0 1 1.7-1.268v-.011a.57.571 0 0 0 .57-.572.57.571 0 0 0-.57-.571.57.571 0 0 0-.195.034 3.292 3.618 0 0 0-2.407 1.668A4.563 5.713 0 0 0 8 1.142a4.563 5.713 0 0 0-1.962.572A3.292 3.618 0 0 0 3.63.034.57.571 0 0 0 3.437 0Zm1.768 5.781a6.88 5.713 0 0 0 1.86.446l-2.773 6.112-1.038 2.274C1.337 13.402.584 10.843 1.6 8.592a4.9 4.907 0 0 1 2.453-2.457 2.36 2.36 0 0 1 .296-.114 4.735 4.741 0 0 1 .776-.228Zm5.59 0 .057.012c.308.057.616.148.913.262.057.023.102.046.16.069A4.901 4.908 0 0 1 14.4 8.592c1.015 2.25.263 4.81-1.654 6.02l-1.038-2.284-2.773-6.101a6.88 5.713 0 0 0 1.86-.446z" color="#ececec"/>
+</svg>

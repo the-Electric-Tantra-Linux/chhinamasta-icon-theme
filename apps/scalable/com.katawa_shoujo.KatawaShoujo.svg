@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_katawa_shoujo_KatawaShoujo_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_katawa_shoujo_KatawaShoujo_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_katawa_shoujo_KatawaShoujo_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_katawa_shoujo_KatawaShoujo_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_katawa_shoujo_KatawaShoujo_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_katawa_shoujo_KatawaShoujo_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_katawa_shoujo_KatawaShoujo_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_katawa_shoujo_KatawaShoujo_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_katawa_shoujo_KatawaShoujo_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_katawa_shoujo_KatawaShoujo_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_katawa_shoujo_KatawaShoujo_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-opacity="0" d="M0 0h16v16H0z" class="com_katawa_shoujo_KatawaShoujo_svg__ColorScheme-Text"/>
+  <path fill="currentColor" fill-rule="evenodd" d="M13.78 9.259c.235-.371.435-.764.61-1.169.13-.28.23-.57.32-.87.19-.64.29-1.3.29-1.97.01-1.12-.38-2.21-1.11-3.06A3.396 3.396 0 0 0 11.38 1c-1.01 0-1.97.45-2.61 1.23-.19.24-.47.37-.77.37-.3 0-.58-.13-.77-.37C6.59 1.45 5.63 1 4.62 1c-.96.02-1.88.45-2.51 1.19C1.38 3.04.99 4.13 1 5.25c0 .67.1 1.33.29 1.97.09.3.19.59.32.87.45 1.04 1.06 2 1.8 2.85.7.81 1.47 1.57 2.3 2.24.63.52 1.29 1.01 1.97 1.45.11.07.21.14.32.21.11-.07.21-.14.32-.21.68-.44 1.34-.93 1.97-1.45.506-.408.99-.85 1.443-1.323-.237-.204-.48-.416-.732-.638-.132.151-.267.298-.405.44-.671.664-1.548 1.497-2.498 1.304-.75-.232-1.169-.411-1.376-.848-.331-1.132.664-1.594 1.242-2.186.239-.249.48-.522.715-.817a42.459 42.459 0 0 1-.927-.869 94.018 94.018 0 0 1-.657-.638c-.491-.537-.501-.78-.359-1.381.112-.354.267-.675.449-.942.282-.417.619-.613.964-.658.577-.075 1.179.268 1.592.704.3.324.595.653.889.983.227-.374.412-.719.56-1.028.351-.681.416-.945 1.086-1.109.191-.01.359.028.529.105.828.387 1.03 1.582.84 2.282-.157.527-.431 1.193-.798 1.902.318.273.639.548.933.796ZM8 1.6A4.29 4.29 0 0 1 11.384 0C13.933 0 16 2.352 16 5.253c0 .78-.121 1.53-.333 2.246 0 0-.192.646-.362 1.002C13.359 13.05 8 16 8 16S2.641 13.05.695 8.501C.525 8.145.333 7.499.333 7.499A7.884 7.884 0 0 1 0 5.253C0 2.352 2.067 0 4.616 0A4.29 4.29 0 0 1 8 1.6Z" class="com_katawa_shoujo_KatawaShoujo_svg__ColorScheme-Text"/>
+</svg>

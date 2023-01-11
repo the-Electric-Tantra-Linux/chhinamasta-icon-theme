@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="artha_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="artha_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="artha_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="artha_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="artha_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="artha_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="artha_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="artha_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="artha_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="artha_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .artha_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M1.069 11.226c.09-.212 1.884-4.346 1.97-4.56.085-.214-.086-.31-.161-.107-.075.204-2.194 4.85-2.312 5.117-.118.267-.118.45.342.45h6.348v.374h1.499v-.407h6.433c.224 0 .428-.043.235-.45a593.866 593.866 0 0 1-2.28-5.041c-.096-.235-.278-.14-.203.043.075.182 1.927 4.41 2.001 4.613.075.204.172.525-.695.525-1.167 0-3.212-.814-4.1-.814-.889 0-1.723.525-2.146 1.081-.423-.396-.958-1.08-2.104-1.08-1.145 0-2.6.802-4.089.802-.556 0-.95-.05-.738-.546z" class="artha_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M14.288 10.67c-.17-.46-1.851-4.87-1.851-4.87s-.16.053-.493.053c-1.08 0-2.301-.717-2.783-.717-.503 0-1.161.556-1.161.556s-.766-.556-1.13-.556c-.674 0-1.552.706-2.868.706-.29 0-.46-.043-.46-.043s-1.788 4.731-1.916 5.053c-.129.32-.129.535.353.535 1.156 0 3.243-1.05 3.896-1.05 1.199 0 2.125 1.35 2.125 1.35s1.022-1.339 2.114-1.339c1.092 0 2.569 1.06 3.928 1.06.418 0 .418-.278.246-.738zm-6.583-.097s-.578-.706-1.712-.706c-1.178 0-2.933 1.027-3.425 1.027-.279 0-.44-.064-.322-.46S3.777 6.26 3.777 6.26s.204.021.492.021c1.317 0 1.799-.61 2.57-.61.524 0 .802.3.866.514zm5.747.321c-.492 0-2.248-1.027-3.425-1.027-1.135 0-1.713.706-1.713.706V6.185c.065-.215.343-.514.867-.514.771 0 1.253.61 2.57.61.288 0 .492-.022.492-.022s1.413 3.779 1.53 4.175c.118.396-.042.46-.32.46z" class="artha_svg__ColorScheme-Text"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="alchemy_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="alchemy_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="alchemy_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="alchemy_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="alchemy_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="alchemy_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="alchemy_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="alchemy_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="alchemy_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="alchemy_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .alchemy_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M5.129 0c-.574 0-.574.574-.574.574s0 .572.574.572h.574l.02 3.301a1.147 1.147 0 0 1-.182.62c-.151.238-.269.42-.477.777-.306.527-.687 1.201-1.101 1.941A590.269 590.269 0 0 0 1.44 12.36c-.442.813-.44 1.923.233 2.76l.025.031c.484.646 1.285.85 2.086.85h8.43c.803 0 1.606-.203 2.09-.85l.025-.03c.67-.837.673-1.948.229-2.76l-.026-.046c-1.288-2.623-2.785-4.735-4.082-7.33a1.147 1.147 0 0 1-.12-.515l-.04-3.323h.574c.574 0 .574-.572.574-.572s0-.574-.574-.574H5.13zM6.87 1.201h2.31v3.565a1.147 1.147 0 0 0 .118.504c1.378 2.818 2.953 4.983 4.228 7.591a.926.926 0 0 0 .022.045c.275.505.293 1.016-.113 1.51l-.041.05c-.166.23-.561.388-1.182.388H3.785c-.62 0-1.015-.159-1.181-.387a1.046 1.046 0 0 0-.038-.051c-.406-.494-.392-1.004-.117-1.508a588.565 588.565 0 0 1 2.516-4.562c.412-.736.789-1.407 1.092-1.928.301-.52.562-.934.593-.977a1.147 1.147 0 0 0 .221-.675V1.2zM5.953 9.18l-2.545 4.586h9.178L10.04 9.18H5.953z" color="#ececec"/>
+</svg>

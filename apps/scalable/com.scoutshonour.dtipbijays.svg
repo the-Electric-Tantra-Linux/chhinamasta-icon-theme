@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_scoutshonour_dtipbijays_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_scoutshonour_dtipbijays_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_scoutshonour_dtipbijays_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_scoutshonour_dtipbijays_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_scoutshonour_dtipbijays_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_scoutshonour_dtipbijays_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_scoutshonour_dtipbijays_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_scoutshonour_dtipbijays_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_scoutshonour_dtipbijays_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_scoutshonour_dtipbijays_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_scoutshonour_dtipbijays_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-opacity="0" d="M0 0h16v16H0z" class="com_scoutshonour_dtipbijays_svg__ColorScheme-Text"/>
+  <path fill="currentColor" fill-rule="evenodd" d="M6.329 5.667h3.342c.366 0 .662.296.662.662v3.342a.662.662 0 0 1-.662.662H6.329a.662.662 0 0 1-.662-.662V6.329c0-.366.296-.662.662-.662Zm-5.667 0h3.343c.365 0 .662.296.662.662v3.342a.662.662 0 0 1-.662.662H.662A.662.662 0 0 1 0 9.671V6.329c0-.366.297-.662.662-.662Zm11.333 0h3.343c.365 0 .662.296.662.662v3.342a.662.662 0 0 1-.662.662h-3.343a.662.662 0 0 1-.662-.662V6.329c0-.366.297-.662.662-.662Zm-5.666 5.666h3.342c.366 0 .662.297.662.662v3.343a.662.662 0 0 1-.662.662H6.329a.662.662 0 0 1-.662-.662v-3.343c0-.365.296-.662.662-.662Zm-5.667 0h3.343c.365 0 .662.297.662.662v3.343a.663.663 0 0 1-.662.662H.662A.663.663 0 0 1 0 15.338v-3.343c0-.365.297-.662.662-.662Zm11.333 0h3.343c.365 0 .662.297.662.662v3.343a.663.663 0 0 1-.662.662h-3.343a.663.663 0 0 1-.662-.662v-3.343c0-.365.297-.662.662-.662ZM.662 0h3.343c.365 0 .662.297.662.662v3.343a.663.663 0 0 1-.662.662H.662A.663.663 0 0 1 0 4.005V.662C0 .297.297 0 .662 0Z" class="com_scoutshonour_dtipbijays_svg__ColorScheme-Text"/>
+</svg>

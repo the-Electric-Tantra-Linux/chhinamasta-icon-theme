@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="AdobeSpeedgrade_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="AdobeSpeedgrade_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="AdobeSpeedgrade_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="AdobeSpeedgrade_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="AdobeSpeedgrade_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="AdobeSpeedgrade_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="AdobeSpeedgrade_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="AdobeSpeedgrade_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="AdobeSpeedgrade_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="AdobeSpeedgrade_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .AdobeSpeedgrade_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M1.778 0A1.78 1.78 0 0 0 0 1.778v12.444C0 15.202.798 16 1.778 16h12.444A1.78 1.78 0 0 0 16 14.222V1.778A1.78 1.78 0 0 0 14.222 0H1.778Zm1.089 5.314c0 1.032.754 1.658 1.933 2.082.912.33 1.274.646 1.274 1.189 0 .584-.467.977-1.307.977a3.623 3.623 0 0 1-1.73-.457l-.287 1.084c.394.232 1.179.455 1.933.455 1.847 0 2.719-1.01 2.719-2.155 0-1.029-.606-1.656-1.847-2.122-.955-.373-1.369-.627-1.369-1.18 0-.414.359-.861 1.187-.861.67 0 1.168.203 1.424.34l.318-1.051c-.371-.191-.945-.361-1.72-.361-1.549 0-2.525.892-2.525 2.06h-.003m5.33 2.658c0 1.464.914 2.524 2.198 2.524.68 0 1.209-.308 1.51-.765h.02v.445c0 1.115-.637 1.562-1.487 1.562a3.166 3.166 0 0 1-1.509-.392l-.285.986c.445.278 1.146.414 1.804.414.711 0 1.455-.148 1.996-.627.541-.488.763-1.261.763-2.345V6.843c0-.711.022-1.135.043-1.486h-1.136l-.053.691h-.021c-.244-.426-.711-.808-1.496-.808-1.242 0-2.347 1.031-2.347 2.73v.002m1.328-.045c0-1.051.54-1.687 1.273-1.687.552 0 .924.359 1.062.838.032.105.043.234.043.349v.84c0 .148-.021.328-.054.467a1.114 1.114 0 0 1-1.061.785c-.818 0-1.263-.711-1.263-1.592M2.867 5.314Z" color="#ececec"/>
+</svg>

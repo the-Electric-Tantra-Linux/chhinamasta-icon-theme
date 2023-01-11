@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_bharatkalluri_easypass_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_bharatkalluri_easypass_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_bharatkalluri_easypass_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_bharatkalluri_easypass_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_bharatkalluri_easypass_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_bharatkalluri_easypass_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_bharatkalluri_easypass_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_bharatkalluri_easypass_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_bharatkalluri_easypass_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_bharatkalluri_easypass_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_bharatkalluri_easypass_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M2.445 3c-.52 0-.94.048-1.304.191a1.6 1.6 0 0 0-.832.735C-.031 4.573.01 5.328 0 6.357v3.286c.012 1.029-.031 1.784.309 2.431.17.324.468.591.832.735.364.143.784.191 1.304.191h3.112c.52 0 .94-.048 1.304-.191a1.6 1.6 0 0 0 .83-.735c.296-.563.297-1.241.301-2.076l1.946-.004.562-.494.5.5.5-.5.5.5.5-.5 1 1L16 8l-2-2-6.008.002c0-.835-.01-1.513-.3-2.076a1.607 1.607 0 0 0-.833-.735C6.495 3.048 6.077 3 5.557 3Zm0 1h3.112c.451 0 .756.052.935.123.18.07.244.133.315.268.14.268.181.944.193 1.978v.633L13.586 7l1 1L13.5 9.086l-1-1-.5.5-.5-.5-.5.5-.455-.455-.985.863L7 9v.63c-.011 1.035-.053 1.711-.193 1.98-.07.133-.135.196-.315.267-.18.07-.484.123-.935.123H2.445c-.451 0-.758-.052-.937-.123-.18-.071-.242-.134-.313-.268-.14-.267-.183-.943-.195-1.972V6.363c.012-1.03.055-1.705.195-1.973.07-.134.133-.196.313-.267.18-.071.486-.123.937-.123ZM3 7a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1z" color="#ececec"/>
+</svg>

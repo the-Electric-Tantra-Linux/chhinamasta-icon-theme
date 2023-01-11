@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="appimagekit-hw-probe_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-hw-probe_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-hw-probe_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-hw-probe_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-hw-probe_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-hw-probe_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-hw-probe_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-hw-probe_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-hw-probe_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="appimagekit-hw-probe_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .appimagekit-hw-probe_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M9.436 3.992c.444-.23.658-.422 1.694-.681 1.006-.251 2.258-.859 3.265-1.094-1.723.207-3.801.642-4.959 1.775ZM.1 8.068a7.53 7.53 0 0 0 7.97 6.37l.004-.001a7.533 7.533 0 0 0 4.082-1.566c-.165-1.078-.724-2.271-1.929-3.656-.253-.477-.418-.825-.514-1.167-.2-.71.333-1.522.532-1.911.317-.617.584-1.478 1.055-1.943.824-.813 2.263-1.234 3.534-1.655.398-.133.751-.105 1.166-.195-.385-.215-.866-.295-1.258-.301-2.094-.031-3.369.286-4.214.194-1.071-.116-2.073-.707-3.387-.692a5.786 5.786 0 0 0-.765.06c-1.932.284-3.169 1.343-4.755 3.257C.977 5.639.407 6.576 0 7.296c.014.266.042.53.084.793L.1 8.068Zm6.908-4.755a.54.54 0 0 1 1.056.214.536.536 0 0 1-.633.421.542.542 0 0 1-.423-.635Z" color="#ececec"/>
+</svg>

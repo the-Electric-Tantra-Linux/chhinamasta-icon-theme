@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_teamspeak_TeamSpeak_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_teamspeak_TeamSpeak_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_teamspeak_TeamSpeak_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_teamspeak_TeamSpeak_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_teamspeak_TeamSpeak_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_teamspeak_TeamSpeak_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_teamspeak_TeamSpeak_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_teamspeak_TeamSpeak_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_teamspeak_TeamSpeak_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_teamspeak_TeamSpeak_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_teamspeak_TeamSpeak_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M6.157.007c-.638.025-1.283.11-1.932.259-.784.18-1.086.322-1.34.631-.273.332-.353.604-.68 2.309C1.9 4.799 1.913 4.774 1.32 5.2c-.305.22-.636.716-.746 1.123C.46 6.74.48 7.454.618 7.891c.09.287.218.487.52.809.347.371.463.45.874.583.825.268 1.615.06 2.217-.58.437-.463.613-.937.613-1.651 0-.557-.094-.94-.347-1.328.978 1.214 1.384 2.615 1.226 4.261-.145 1.514-.513 2.427-1.357 3.377l-.334.378.238.043c.132.024.267.052.3.065.15.054 1.328.027 1.538-.036a.82.82 0 0 0 .365-.247c.125-.168.132-.23.094-.867-.037-.62-.028-.702.086-.873.11-.166.114-.2.033-.271-.133-.118-.113-.35.04-.452.105-.071.121-.132.091-.317l-.074-.462c-.052-.317.073-.454.578-.634.22-.078.417-.183.435-.233.038-.104-.013-.199-.671-1.24-.522-.824-.74-1.245-.739-1.427 0-.065.084-.252.186-.412.236-.372.237-.59.002-1.34-.493-1.57-1.411-2.914-2.352-3.442l-.314-.177c.007-.145.005-.6.013-.608.11-.114.863-.22 1.84-.257C7.678.48 9.391.936 11.03 1.966c1.728 1.085 2.835 2.597 3.313 4.527.23.93.243 2.272.03 3.121a6.89 6.89 0 0 1-1.471 2.842c-.8.935-2.505 2.089-3.756 2.544-1.543.561-3.472.668-5.115.283l-.781-.18c-.35-.083-.713-.049-.713.066 0 .072 1.178.464 1.818.606.268.06.722.133 1.008.163 2.987.314 5.762-.567 7.765-2.465 2.371-2.247 3.028-5.508 1.686-8.359-.616-1.31-1.973-2.803-3.365-3.702C9.898.41 8.068-.066 6.157.007Z" color="#ececec"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="citrix-receiver_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="citrix-receiver_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="citrix-receiver_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="citrix-receiver_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="citrix-receiver_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="citrix-receiver_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="citrix-receiver_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="citrix-receiver_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="citrix-receiver_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="citrix-receiver_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .citrix-receiver_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M8 0a.8.8 0 0 0-.077.005C3.55.047 0 3.617 0 8c0 4.409 3.591 8 8 8 4.382 0 7.952-3.548 7.995-7.92A.8.8 0 0 0 16 8a.8.8 0 0 0-.8-.8.8.8 0 0 0-.8.8c0 3.544-2.856 6.4-6.4 6.4A6.388 6.388 0 0 1 1.6 8c0-3.544 2.856-6.4 6.4-6.4a.8.8 0 0 0 .8-.8A.8.8 0 0 0 8 0zm0 3.2a.8.8 0 0 0-.077.003A4.81 4.81 0 0 0 3.2 8c0 2.641 2.159 4.8 4.8 4.8 2.615 0 4.752-2.116 4.795-4.72A.8.8 0 0 0 12.8 8a.8.8 0 0 0-.8-.8.8.8 0 0 0-.8.8c0 1.777-1.423 3.2-3.2 3.2A3.188 3.188 0 0 1 4.8 8c0-1.777 1.423-3.2 3.2-3.2a.8.8 0 0 0 .8-.8.8.8 0 0 0-.8-.8zm0 3.2A1.6 1.6 0 0 0 6.4 8 1.6 1.6 0 0 0 8 9.6 1.6 1.6 0 0 0 9.6 8 1.6 1.6 0 0 0 8 6.4z" color="#ececec"/>
+</svg>

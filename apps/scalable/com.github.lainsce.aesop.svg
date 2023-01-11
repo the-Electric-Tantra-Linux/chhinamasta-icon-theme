@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_lainsce_aesop_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_lainsce_aesop_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_lainsce_aesop_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_lainsce_aesop_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_lainsce_aesop_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_lainsce_aesop_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_lainsce_aesop_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_lainsce_aesop_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_lainsce_aesop_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_lainsce_aesop_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_lainsce_aesop_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M8.001 0a.602.602 0 0 0-.307.077L.598 4.385a.623.623 0 0 0-.27.692c.07.27.31.462.578.462h14.191a.606.606 0 0 0 .596-.616.62.62 0 0 0-.365-.577L8.291.077A.537.537 0 0 0 8.001 0Zm0 2.058a1.329 1.329 0 0 1 1.327 1.327 1.328 1.328 0 1 1-1.327-1.327ZM.925 6.154v.615c0 .339.277.616.615.616v4.923h1.846V7.385a.618.618 0 0 0 .616-.616v-.615H.925Zm3.692 0v.615c0 .339.277.616.615.616v4.923h1.846V7.385a.618.618 0 0 0 .616-.616v-.615H4.617Zm3.692 0v.615c0 .339.277.616.616.616v4.923h1.846V7.385a.617.617 0 0 0 .615-.616v-.615H8.309Zm3.692 0v.615c0 .339.277.616.616.616v4.923h1.846V7.385a.617.617 0 0 0 .615-.616v-.615h-3.077ZM1.54 12.923v1.231H.925a.617.617 0 0 0-.616.615v.616c0 .338.277.615.616.615h14.153a.617.617 0 0 0 .616-.615v-.616a.617.617 0 0 0-.616-.615h-.615v-1.231H1.54Z" color="#ececec"/>
+</svg>

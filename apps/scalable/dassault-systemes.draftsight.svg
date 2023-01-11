@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="dassault-systemes_draftsight_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="dassault-systemes_draftsight_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="dassault-systemes_draftsight_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="dassault-systemes_draftsight_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="dassault-systemes_draftsight_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="dassault-systemes_draftsight_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="dassault-systemes_draftsight_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="dassault-systemes_draftsight_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="dassault-systemes_draftsight_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="dassault-systemes_draftsight_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .dassault-systemes_draftsight_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M12.5 2a1.5 1.5 0 0 0-1.412 1H2v1c1.855.959 3.165 2.48 3.357 3.303.262 1.119-.141 2.43-1.185 3.857A1.5 1.5 0 0 0 3.5 11 1.5 1.5 0 0 0 2 12.5 1.5 1.5 0 0 0 3.5 14a1.5 1.5 0 0 0 1.412-1H9v1h3v-3H9v1H4.912a1.5 1.5 0 0 0-.037-.096c1.304-1.68 1.899-3.25 1.55-4.763C6.133 5.862 5.242 4.865 3.97 4h7.119A1.5 1.5 0 0 0 12.5 5 1.5 1.5 0 0 0 14 3.5 1.5 1.5 0 0 0 12.5 2zm0 1a.5.5 0 0 1 .5.5.5.5 0 0 1-.5.5.5.5 0 0 1-.5-.5.5.5 0 0 1 .5-.5zm-9 9a.5.5 0 0 1 .494.436.5.5 0 0 1 .004.029.5.5 0 0 1 .002.02.5.5 0 0 1 0 .015.5.5 0 0 1-.5.5.5.5 0 0 1-.492-.414.5.5 0 0 1 0-.002A.5.5 0 0 1 3 12.5a.5.5 0 0 1 .002-.05A.5.5 0 0 1 3.5 12zm6.5 0h1v1h-1v-1z" color="#ececec"/>
+</svg>

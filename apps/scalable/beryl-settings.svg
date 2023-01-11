@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="beryl-settings_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="beryl-settings_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="beryl-settings_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="beryl-settings_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="beryl-settings_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="beryl-settings_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="beryl-settings_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="beryl-settings_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="beryl-settings_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="beryl-settings_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .beryl-settings_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M3.994 7c-1.258.015-2.179-.03-2.932.385a1.88 1.88 0 0 0-.837.998C.06 8.82 0 9.343 0 10v2c0 .658.06 1.179.225 1.617.164.439.461.79.838.998.752.416 1.673.37 2.931.385h2.012c1.258-.015 2.179.03 2.932-.385a1.88 1.88 0 0 0 .838-.998C9.94 13.18 10 12.657 10 12v-2c0-.658-.06-1.179-.225-1.617a1.88 1.88 0 0 0-.838-.998c-.752-.416-1.673-.37-2.931-.385H3.998zM4 8h2c1.259.015 2.087.06 2.453.262.184.1.29.212.387.472.097.26.16.674.16 1.266v2c0 .592-.063 1.006-.16 1.266-.098.26-.202.371-.385.472C8.09 13.94 7.26 13.985 6 14H4c-1.259-.015-2.09-.06-2.455-.262-.183-.1-.287-.212-.385-.472C1.063 13.006 1 12.592 1 12v-2c0-.592.063-1.006.16-1.266.098-.26.202-.371.385-.472C1.91 8.06 2.74 8.015 4 8Z" class="beryl-settings_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M6.994 2c-1.258.015-2.179-.03-2.931.385a1.88 1.88 0 0 0-.838.998C3.06 3.82 3 4.343 3 5v1h1V5c0-.592.063-1.006.16-1.266.098-.26.202-.371.385-.472C4.91 3.06 5.74 3.015 7 3h5c1.259.015 2.087.06 2.453.262.184.1.29.212.387.472.097.26.16.674.16 1.266v4c0 .592-.063 1.006-.16 1.266-.098.26-.202.371-.385.472-.367.203-1.197.247-2.46.262H11v1h1.006c1.258-.015 2.179.03 2.932-.385a1.88 1.88 0 0 0 .837-.998C15.94 10.18 16 9.657 16 9V5c0-.658-.06-1.179-.225-1.617a1.88 1.88 0 0 0-.838-.998c-.752-.416-1.673-.37-2.931-.385H6.998z" class="beryl-settings_svg__ColorScheme-Text" opacity=".6"/>
+</svg>

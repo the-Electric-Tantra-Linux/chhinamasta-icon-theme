@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_alecaddd_sequeler_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_alecaddd_sequeler_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_alecaddd_sequeler_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_alecaddd_sequeler_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_alecaddd_sequeler_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_alecaddd_sequeler_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_alecaddd_sequeler_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_alecaddd_sequeler_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_alecaddd_sequeler_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_alecaddd_sequeler_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_alecaddd_sequeler_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M4.857 12.429a.715.715 0 1 1 1.43 0 .715.715 0 0 1-1.43 0Zm-2 0a.715.715 0 1 1 1.43 0 .715.715 0 0 1-1.43 0Zm-2 0a.715.715 0 1 1 1.43 0 .715.715 0 0 1-1.43 0Zm2-5.429a.714.714 0 1 1 1.429 0 .714.714 0 0 1-1.429 0Zm-2 0a.714.714 0 1 1 1.429 0A.714.714 0 0 1 .857 7ZM0 9.209V6.791c0-.752.611-1.362 1.363-1.362h13.274c.752 0 1.363.61 1.363 1.362v2.418c0 .752-.611 1.362-1.363 1.362H1.363C.611 10.571 0 9.961 0 9.209Zm0 5.428V12.22c0-.752.611-1.363 1.363-1.363h13.274c.752 0 1.363.611 1.363 1.363v2.417c0 .752-.611 1.363-1.363 1.363H1.363A1.364 1.364 0 0 1 0 14.637ZM.857 1.571a.714.714 0 1 1 1.429 0 .714.714 0 0 1-1.429 0ZM0 3.78V1.363C0 .611.611 0 1.363 0h13.274C15.389 0 16 .611 16 1.363V3.78c0 .752-.611 1.363-1.363 1.363H1.363A1.364 1.364 0 0 1 0 3.78Z" color="#ececec"/>
+</svg>

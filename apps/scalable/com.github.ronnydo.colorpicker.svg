@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_ronnydo_colorpicker_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_ronnydo_colorpicker_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_ronnydo_colorpicker_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_ronnydo_colorpicker_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_ronnydo_colorpicker_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_ronnydo_colorpicker_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_ronnydo_colorpicker_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_ronnydo_colorpicker_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_ronnydo_colorpicker_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_ronnydo_colorpicker_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_ronnydo_colorpicker_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M15.403.597a2.035 2.035 0 0 0-2.88 0l-2.4 2.4-.662-.663A.892.892 0 0 0 8.2 3.595l.663.663-7.38 7.379c-.362.362-.56.827-.592 1.302a14.04 14.04 0 0 1-.12.941.306.306 0 0 1-.086.174l-.552.553a.45.45 0 0 0 0 .639l.621.621a.452.452 0 0 0 .64 0l.552-.552a.31.31 0 0 1 .174-.086c.389-.058.748-.107.941-.12.474-.032.94-.229 1.302-.592l7.379-7.379.663.663a.892.892 0 0 0 1.261-1.261l-2.198-2.199 1.724 1.347 2.211-2.212a2.034 2.034 0 0 0 0-2.879Zm-4.727 6.114-3.65 3.65a.454.454 0 0 1-.64 0l-.581-.582a.453.453 0 0 0-.64.001l-.11.109-2.618 2.618c-.06.06-.146.071-.192.025-.045-.046-.034-.131.026-.191l4.238-4.238h.001l2.779-2.779a.452.452 0 0 1 .64 0l.747.747a.454.454 0 0 1 0 .64Z" color="#ececec"/>
+</svg>

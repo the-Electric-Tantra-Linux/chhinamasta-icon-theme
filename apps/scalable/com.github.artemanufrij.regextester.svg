@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_artemanufrij_regextester_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_artemanufrij_regextester_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_artemanufrij_regextester_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_artemanufrij_regextester_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_artemanufrij_regextester_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_artemanufrij_regextester_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_artemanufrij_regextester_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_artemanufrij_regextester_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_artemanufrij_regextester_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_artemanufrij_regextester_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_artemanufrij_regextester_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M2.045 3.487 0 10.462h.846l2.026-6.975h-.827Zm4.519 6.975V9.231h1.231v1.231H6.564Zm4.097-6.975-2.046 6.975h.846l2.026-6.975h-.826Zm2.829 2.462c.247 0 .468.073.661.22.197.144.35.355.457.631.108.274.161.817.161 1.198 0 .371-.053.538-.161.809-.107.268-.26.474-.457.618a1.11 1.11 0 0 1-.675.216c-.427 0-.728-.139-.904-.419-.176-.28-.264-.584-.264-1.224 0-.646.094-1.328.282-1.617.188-.288.488-.432.9-.432Zm1.673-.821c-.013.022-.027.25-.04.485-.013.235-.02.4-.02.495h-.01a1.631 1.631 0 0 0-.641-.709 1.833 1.833 0 0 0-.975-.252c-.67 0-1.169.218-1.499.653-.327.431-.491 1.347-.491 2.258 0 .898.152 1.385.456 1.804.307.419.786.628 1.436.628.389 0 .729-.082 1.019-.247.291-.168.519-.417.685-.747h.01v.828c0 .999-.439 1.373-1.317 1.373-.327 0-.592-.064-.794-.194a.867.867 0 0 1-.387-.548l-.887.124c.098.406.318.882.661 1.101.343.222.804.333 1.383.333 1.479 0 2.248-.762 2.248-2.209V5.128h-.837ZM3.698 3.487l2.046 6.975h-.846L2.872 3.487h.826Z" color="#ececec"/>
+</svg>

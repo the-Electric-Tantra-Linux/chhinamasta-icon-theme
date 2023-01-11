@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="calligraauthor_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="calligraauthor_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="calligraauthor_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="calligraauthor_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="calligraauthor_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="calligraauthor_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="calligraauthor_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="calligraauthor_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="calligraauthor_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="calligraauthor_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .calligraauthor_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M1.683 13.805c.422-.868.983-2.244 1.319-3.156.143-.391.56-.768.928-.841l1.546-.655c-.258-.28-.055-.708.608-1.287l-.26-.526c-.38-.065-.61-.204-.693-.416-.082-.212-.016-.498.198-.857a.361.361 0 0 1-.078-.354l-.48-2.019-.008-.291.024-.401-.055-.22.157-.134.086-.133.095-.102-.11-.268-.055-.18.008-.283.141-.354q.381-.516.668-.707c.287-.191.286-.158.448-.228A7.36 7.36 0 0 1 7.223.094q.378-.075.479-.078L7.922 0l.158.039.51.134.488.236.345.369.197.401.086.471.063.236.165.079.15.283.11.039-.016.314.141.425.102.228.197.369v.149l.126.26-.016.251-.094.346.275.118-.063.11q.424.425.338.778c-.116.474-.597.84-.653 1.021q-.122.403-.503.165l.166.755.33.283 1.194.322.644.071.37.07.684.071q.118-.069.188-.047l.181.055.503.291q.539.566.707.95c.169.385.14 1.058.157 1.635.018.577.114 1.403-.118 2.122q-.231.719-.314.731l-.66 1.703c-.431.017-.898.066-1.323.08-3.403.109-6.692.13-9.696-.021-.79-.041-1.425-.086-2.228-.216l.162-.375.441-.794.267-.703" color="#ececec"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="cuyo_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="cuyo_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="cuyo_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="cuyo_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="cuyo_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="cuyo_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="cuyo_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="cuyo_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="cuyo_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="cuyo_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .cuyo_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M12.42 7.151c.614-1.11.792-2.595.7-4.022-.062-2.078-2.244-3.233-4.497-3.122-1.255.002-2.475.084-3.665.67-1.066.46-2.102 1.2-2.1 2.34.001 2.103.639 3.79 1.147 4.983h-.807C1.426 8 0 9.403 0 11.145c0 4.613 7.514 4.843 8.343 4.854.828.012 8.072-.098 7.638-4.854C15.981 9.403 14.555 8 12.783 8h-.864l.093-.156.003-.004c.137-.229.275-.457.404-.689zM8 7.61a3.541 3.541 0 0 0 0-1.277c.186-1.015.807-1.762 1.543-1.762.884 0 1.6 1.075 1.6 2.4 0 1.326-.717 2.4-1.6 2.4-.736 0-1.357-.746-1.543-1.761zm-.057-.639c0 .221.02.435.057.639-.186 1.015-.807 1.761-1.543 1.761-.883 0-1.6-1.074-1.6-2.4 0-1.325.717-2.4 1.6-2.4.736 0 1.357.747 1.543 1.762a3.541 3.541 0 0 0-.057.638zM9.2 8.714c.442 0 .8-.537.8-1.2s-.358-1.2-.8-1.2c-.442 0-.8.538-.8 1.2s.358 1.2.8 1.2zm-1.6-1.2c0 .663-.358 1.2-.8 1.2-.442 0-.8-.537-.8-1.2s.358-1.2.8-1.2c.442 0 .8.538.8 1.2z" clip-rule="evenodd" color="#ececec"/>
+</svg>

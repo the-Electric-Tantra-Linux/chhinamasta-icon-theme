@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="#e9e9e9"
+   height="48"
+   viewBox="0 0 48 48"
+   width="48"
+   version="1.1"
+   id="svg20164"
+   sodipodi:docname="gksu-debian.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20168" />
+  <sodipodi:namedview
+     id="namedview20166"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="12.833333"
+     inkscape:cx="8.4155844"
+     inkscape:cy="24"
+     inkscape:window-width="1600"
+     inkscape:window-height="882"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20164" />
+  <rect
+     fill="#e9e9e9"
+     height="36"
+     rx="4"
+     stroke-width="3"
+     width="40"
+     x="4"
+     y="6"
+     id="rect20156" />
+  <path
+     d="m8 10h32v28h-32z"
+     fill="#000"
+     stroke-width="3"
+     id="path20158"
+     style="fill:#282828;fill-opacity:1" />
+  <text
+     style="fill:#e9e9e9;font-family:Inconsolata;font-size:20;font-weight:bold;letter-spacing:0;word-spacing:0"
+     x="11.62"
+     y="26.540001"
+     id="text20162"><tspan
+       fill="#e9e9e9"
+       font-family="Inconsolata"
+       font-size="20"
+       font-weight="bold"
+       x="11.62"
+       y="26.540001"
+       id="tspan20160">#_</tspan></text>
+</svg>

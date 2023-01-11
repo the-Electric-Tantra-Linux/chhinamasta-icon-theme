@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_googleplaymusicdesktopplayer_GPMDP_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_googleplaymusicdesktopplayer_GPMDP_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_googleplaymusicdesktopplayer_GPMDP_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_googleplaymusicdesktopplayer_GPMDP_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_googleplaymusicdesktopplayer_GPMDP_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_googleplaymusicdesktopplayer_GPMDP_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_googleplaymusicdesktopplayer_GPMDP_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_googleplaymusicdesktopplayer_GPMDP_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_googleplaymusicdesktopplayer_GPMDP_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_googleplaymusicdesktopplayer_GPMDP_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_googleplaymusicdesktopplayer_GPMDP_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M2.17 15.468a1.54 1.54 0 0 1-.227-.08 1.332 1.332 0 0 1-.398-.408c-.151-.295-.145.008-.145-6.983 0-6.997-.006-6.687.146-6.984a1.14 1.14 0 0 1 .534-.46c.2-.07.583-.07.82 0 .103.03.835.43 1.856 1.015l1.685.966.359-.066c2.435-.443 4.898.747 6.103 2.948.126.231.38.827.422.993.015.06.128.138.525.364.386.22.545.33.674.465.245.258.303.403.303.76 0 .254-.01.31-.084.46-.172.352-.194.366-3.353 2.172l-5.61 3.21c-1.492.854-2.765 1.563-2.856 1.591-.243.076-.562.09-.755.037zm4.927-3.1a101.74 101.74 0 0 0 1.07-.618 3.947 3.947 0 0 0-.392-.012 3.353 3.353 0 0 1-1.594-.384 3.653 3.653 0 0 1-1.913-2.562c-.06-.303-.05-1.032.016-1.345a3.633 3.633 0 0 1 1.36-2.155 3.578 3.578 0 0 1 2.477-.717c.982.093 1.824.532 2.441 1.272.562.674.834 1.425.835 2.303.001.75-.202 1.41-.633 2.059l-.058.087.107-.057c.06-.031.549-.31 1.089-.62.688-.394.986-.582.999-.626a5.69 5.69 0 0 0 .054-.453 4.907 4.907 0 0 0-.25-2.012C11.68 3.44 8.103 2.073 5.25 3.678c-.816.458-1.625 1.308-2.046 2.147-1.163 2.319-.433 5.147 1.7 6.593.417.282.946.555 1.082.558.028.001.528-.273 1.111-.608zm.856-2.59c.167-.086.347-.268.416-.419.051-.113.056-.22.057-1.232V7.02h.795v-.886H7.968v1.084c0 .597-.005 1.085-.011 1.085-.006 0-.07-.02-.142-.046a.78.78 0 0 0-.637.049c-.614.306-.608 1.19.01 1.485.132.063.188.072.398.062a.885.885 0 0 0 .367-.075z" color="#ececec"/>
+</svg>

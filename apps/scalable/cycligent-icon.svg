@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="cycligent-icon_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="cycligent-icon_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="cycligent-icon_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="cycligent-icon_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="cycligent-icon_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="cycligent-icon_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="cycligent-icon_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="cycligent-icon_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="cycligent-icon_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="cycligent-icon_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .cycligent-icon_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M10.037 14.687c-2.504-.535-4.961-2.643-5.776-5.094-.21-.632-.284-1.667-.158-2.226.452-2.021 2.749-2.747 5.664-1.792 1.082.354 2.667 1.2 2.667 1.423 0 .113-.2.219-.793.42l-.43.146-.595-.292c-2.302-1.129-4.364-.834-4.826.691-.202.665-.087 1.382.364 2.287.915 1.831 3.102 3.142 4.948 3.056.522-.025.637-.055 1.162-.309.742-.36 1.479-1.051 1.795-1.687.828-1.663.352-3.49-1.37-5.263-2.003-2.063-5.025-3.429-7.577-3.424-1.227.002-1.936.241-2.577.87-.629.617-.872 1.375-.803 2.504.151 2.465 1.594 5.051 3.982 7.135.45.394.819.757.819.807 0 .171-.243.093-.833-.269A12.731 12.731 0 0 1 .984 8.597C.14 6.947-.174 5.347.092 4.067c.204-.978.693-1.721 1.458-2.223 1.675-1.039 4.438-.609 5.931-.178 3.188.946 6.034 2.887 7.531 5.1 1.547 2.169 1.15 5.02-.308 6.522-.729.714-1.209 1.03-1.954 1.285-.74.253-1.842.3-2.713.114Z" color="#ececec"/>
+</svg>

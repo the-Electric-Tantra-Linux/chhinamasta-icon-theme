@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_nick92_tranqil_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_nick92_tranqil_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_nick92_tranqil_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_nick92_tranqil_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_nick92_tranqil_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_nick92_tranqil_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_nick92_tranqil_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_nick92_tranqil_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_nick92_tranqil_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_nick92_tranqil_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_nick92_tranqil_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M7.942 7.366c-.026.004-.053.012-.077.019a.615.615 0 0 0-.48.615v1.846a.617.617 0 0 0 .925.541.619.619 0 0 0 .305-.541V8a.614.614 0 0 0-.673-.634Zm3.712.98a.866.866 0 0 0-.077.019.611.611 0 0 0-.423.308l-.923 1.597a.62.62 0 1 0 1.077.615l.923-1.596a.618.618 0 0 0-.577-.943Zm-7.442.019a.615.615 0 0 0-.443.923l.923 1.597a.62.62 0 0 0 1.077-.615l-.923-1.597a.612.612 0 0 0-.634-.307v-.001Zm10.154 2.693a.393.393 0 0 0-.058.019.594.594 0 0 0-.212.077l-1.596.923a.617.617 0 0 0-.23.846.62.62 0 0 0 .846.231l1.595-.923a.615.615 0 0 0-.346-1.173h.001ZM1.5 11.077a.616.616 0 0 0-.211 1.154l1.596.923a.619.619 0 0 0 .906-.702.616.616 0 0 0-.291-.375l-1.596-.923a.607.607 0 0 0-.404-.077Zm6.5 0c-2.159 0-3.95 1.613-4.25 3.692H0V16h16v-1.231h-3.75c-.3-2.079-2.091-3.692-4.25-3.692Z" color="#ececec"/>
+</svg>

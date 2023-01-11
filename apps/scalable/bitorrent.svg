@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="bitorrent_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="bitorrent_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="bitorrent_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="bitorrent_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="bitorrent_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="bitorrent_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="bitorrent_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="bitorrent_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="bitorrent_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="bitorrent_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .bitorrent_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="m8.213.5-.644.006c-.358 0-.892.06-1.198.12-1.776.38-3.176 1.26-4.485 2.84C.994 4.539.296 6.172.082 7.699c-.293 2.12.196 4.129 1.492 6.115.364.56.443.639.827.839.742.4 1.444.626 2.525.806.11.02.208.029.208.015 0-.013-.163-.154-.37-.307-.587-.453-1.53-1.474-1.953-2.114-1.048-1.567-1.374-2.726-1.302-4.62.026-.767.072-1.08.202-1.513.866-2.9 3.215-4.887 5.806-4.914L8.051 2l.04-.433c.025-.24.056-.573.082-.753Zm.208 1.965c-.5-.013-1.055.001-1.237.028-2.044.34-3.794 1.694-4.685 3.62-.814 1.748-.736 4.001.202 5.888a7.436 7.436 0 0 0 3.208 3.239l.515.26H8.7c2.454 0 2.877-.04 3.854-.373.468-.154.885-.36.527-.26-.313.093-2.884.046-3.613-.06-3.775-.567-6.047-2.86-6.047-6.107 0-.753.02-.895.195-1.415.365-1.087 1.028-1.979 1.894-2.545.853-.56 1.673-.801 2.715-.788.761 0 1.373.128 2.043.408.267.113.496.192.502.186.013-.007.156-.3.319-.64.345-.714.346-.713-.227-.94-.846-.34-1.498-.474-2.442-.5Zm-.218 1.912a5.2 5.2 0 0 0-.79.096c-.573.113-1.531.572-1.954.932-1.022.867-1.523 2.029-1.523 3.495 0 .914.106 1.399.49 2.179.748 1.527 2.323 2.567 4.712 3.094.573.133.905.154 2.812.181l2.167.026.306-.186c.293-.173 1.634-1.468 1.575-1.521a3.75 3.75 0 0 0-.546.034c-.286.027-1.186.086-1.993.126-3.086.147-4.926-.16-6.417-1.08-.436-.273-1.12-.993-1.308-1.393-.67-1.427-.287-3.106.898-3.92 1.4-.953 3.313-.587 4.218.813l.163.248.625-.342c.345-.193.637-.353.65-.367.078-.066-.28-.578-.742-1.058-.43-.453-.625-.6-1.14-.86-.727-.365-1.436-.529-2.203-.497Z" color="#ececec"/>
+</svg>

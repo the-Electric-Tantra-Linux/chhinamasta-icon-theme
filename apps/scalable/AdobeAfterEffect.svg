@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="AdobeAfterEffect_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="AdobeAfterEffect_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="AdobeAfterEffect_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="AdobeAfterEffect_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="AdobeAfterEffect_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="AdobeAfterEffect_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="AdobeAfterEffect_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="AdobeAfterEffect_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="AdobeAfterEffect_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="AdobeAfterEffect_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .AdobeAfterEffect_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M1.778 0A1.78 1.78 0 0 0 0 1.778v12.444C0 15.202.798 16 1.778 16h12.444A1.78 1.78 0 0 0 16 14.222V1.778A1.78 1.78 0 0 0 14.222 0H1.778Zm3.096 4.596-2.097 6.698h1.234l.562-1.897h2.078l.592 1.897h1.282L6.399 4.596H4.874m.399 2.227c.116-.397.215-.865.311-1.254h.019c.096.388.204.844.33 1.254l.514 1.649H4.769l.504-1.649m3.691 2.126c0 1.482.902 2.455 2.435 2.455a4.34 4.34 0 0 0 1.651-.309l-.174-.843c-.36.138-.757.217-1.31.217-.759 0-1.429-.377-1.457-1.251h3.166c.02-.11.038-.289.038-.518 0-1.064-.495-2.355-2.039-2.355-1.514 0-2.31 1.259-2.31 2.599v.005m2.242-1.772c.796 0 .991.734.98 1.182h-2.077c.047-.498.36-1.182 1.097-1.182M4.874 4.596Z" color="#ececec"/>
+</svg>

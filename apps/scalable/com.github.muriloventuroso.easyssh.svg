@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_muriloventuroso_easyssh_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_muriloventuroso_easyssh_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_muriloventuroso_easyssh_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_muriloventuroso_easyssh_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_muriloventuroso_easyssh_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_muriloventuroso_easyssh_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_muriloventuroso_easyssh_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_muriloventuroso_easyssh_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_muriloventuroso_easyssh_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_muriloventuroso_easyssh_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_muriloventuroso_easyssh_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M15.361 11.133c-4.401 2.052-9.123 2.726-13.159 2.373a7.996 7.996 0 0 0 13.159-2.373ZM6.286 8.857h3.428v.857H6.286v-.857ZM9.82 6.34l-.44-.737 2.22-1.332 2.22 1.332-.44.737-1.78-1.069L9.82 6.34ZM8 0a8 8 0 0 0-8 8 7.996 7.996 0 0 0 .933 3.737c4.347.682 10.007.006 14.987-2.673.051-.352.077-.708.08-1.064a8 8 0 0 0-8-8ZM3.857 4.286h.429v.857h-.429a.41.41 0 0 1-.428-.429.41.41 0 0 1 .428-.428ZM5.143 6h.428A.41.41 0 0 1 6 6.429a.41.41 0 0 1-.429.428h-.428V6Zm-.857-3.429v.858h-.429c-.712 0-1.286.573-1.286 1.285C2.571 5.427 3.145 6 3.857 6h.429v.857H2.65c.177.499.646.857 1.207.857h.429v.857h.857v-.857h.428c.713 0 1.286-.573 1.286-1.285 0-.713-.573-1.286-1.286-1.286h-.428v-.857h1.635a1.278 1.278 0 0 0-1.207-.857h-.428v-.858h-.857Z" color="#ececec"/>
+</svg>

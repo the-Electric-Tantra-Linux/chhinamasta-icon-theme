@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="discord-ptb_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="discord-ptb_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="discord-ptb_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="discord-ptb_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="discord-ptb_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="discord-ptb_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="discord-ptb_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="discord-ptb_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="discord-ptb_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="discord-ptb_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .discord-ptb_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M5.792 2.29c-.212 0-1.967.05-3.818 1.426 0 0-1.974 3.55-1.974 7.924 0 0 1.152 1.974 4.182 2.07 0 0 .507-.603.918-1.124-1.741-.52-2.4-1.604-2.4-1.604s.138.096.385.233c.014 0 .027.016.055.028.04.029.082.041.123.069.343.192.686.343 1 .466a10.49 10.49 0 0 0 2.016.59 9.654 9.654 0 0 0 5.54-.574 7.843 7.843 0 0 0 1.576-.809s-.685 1.11-2.482 1.618c.412.507.905 1.097.905 1.097 3.03-.096 4.182-2.07 4.182-2.057 0-4.373-1.974-7.924-1.974-7.924-1.96-1.467-3.84-1.426-3.84-1.426l-.191.22c2.33.698 3.414 1.727 3.414 1.727a11.398 11.398 0 0 0-4.127-1.303 11.563 11.563 0 0 0-2.77.028c-.082 0-.15.016-.233.028-.48.055-1.645.22-3.112.864-.507.22-.809.384-.809.384S3.482 3.158 5.95 2.459l-.137-.165h-.021zm-.349 5.059c.781 0 1.412.672 1.398 1.508 0 .836-.617 1.508-1.398 1.508-.768 0-1.398-.672-1.398-1.508s.617-1.508 1.398-1.508zm5.004 0c.768 0 1.399.672 1.399 1.508s-.617 1.508-1.399 1.508c-.767 0-1.398-.672-1.398-1.508s.617-1.508 1.398-1.508z" color="#ececec"/>
+</svg>

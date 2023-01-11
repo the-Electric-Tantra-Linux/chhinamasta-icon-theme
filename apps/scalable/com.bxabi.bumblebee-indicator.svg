@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_bxabi_bumblebee-indicator_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_bxabi_bumblebee-indicator_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_bxabi_bumblebee-indicator_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_bxabi_bumblebee-indicator_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_bxabi_bumblebee-indicator_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_bxabi_bumblebee-indicator_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_bxabi_bumblebee-indicator_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_bxabi_bumblebee-indicator_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_bxabi_bumblebee-indicator_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_bxabi_bumblebee-indicator_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_bxabi_bumblebee-indicator_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M1.635 7.426S3.08 5.276 5.97 5.053v-.78C2.77 4.532 0 7.26 0 7.26s1.57 4.57 5.97 4.989v-.83c-3.23-.409-4.335-3.994-4.335-3.994ZM5.97 9.772v.76c-2.441-.44-3.118-2.996-3.118-2.996s1.171-1.308 3.118-1.52v.833h-.003c-1.022-.124-1.82.838-1.82.838S4.594 9.305 5.97 9.77m0-6.938v1.44c.094-.008.188-.014.283-.017C9.89 4.132 12.26 7.26 12.26 7.26s-2.722 3.335-5.558 3.335a4.15 4.15 0 0 1-.732-.065v.89c.196.024.398.04.61.04 2.639 0 4.547-1.359 6.395-2.966.306.247 1.56.849 1.818 1.112-1.757 1.482-5.851 2.677-8.173 2.677a6.84 6.84 0 0 1-.65-.034v1.25H16V2.833H5.97Zm0 3.183v-.964c.093-.005.187-.011.283-.014 2.615-.083 4.33 2.264 4.33 2.264s-1.852 2.594-3.84 2.594a2.39 2.39 0 0 1-.773-.125V6.85c1.018.124 1.223.578 1.835 1.606l1.362-1.157s-.994-1.313-2.67-1.313c-.181 0-.356.013-.527.031" color="#ececec"/>
+</svg>

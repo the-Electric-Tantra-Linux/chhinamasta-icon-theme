@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_aleksandar-stefanovic_urmsimulator_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_aleksandar-stefanovic_urmsimulator_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_aleksandar-stefanovic_urmsimulator_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_aleksandar-stefanovic_urmsimulator_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_aleksandar-stefanovic_urmsimulator_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_aleksandar-stefanovic_urmsimulator_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_aleksandar-stefanovic_urmsimulator_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_aleksandar-stefanovic_urmsimulator_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_aleksandar-stefanovic_urmsimulator_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_aleksandar-stefanovic_urmsimulator_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_aleksandar-stefanovic_urmsimulator_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M4.484 5.595v3.591q0 .334-.098.606-.098.272-.348.465-.25.192-.686.301-.435.109-1.11.109t-1.11-.109q-.435-.109-.686-.301-.25-.193-.348-.465Q0 9.52 0 9.186V5.595q0-.138.062-.2.061-.062.199-.062H1.4q.138 0 .2.062t.062.2v3.308q0 .146.109.243.108.098.486.098.384 0 .493-.098.109-.097.109-.243V5.595q0-.138.062-.2.061-.062.199-.062h1.103q.138 0 .2.062.061.062.061.2Zm3.15 1.044h-.545v.929h.545q.188 0 .254-.098.065-.098.065-.243V6.98q0-.145-.065-.243-.066-.098-.254-.098Zm-.806 3.919H5.711q-.138 0-.2-.062t-.062-.199V5.595q0-.138.062-.2t.2-.062h2.416q.813 0 1.121.338.308.337.308.874v.334q0 .305-.09.519-.091.214-.316.308.392.044.635.319.243.276.243.733v1.539q0 .137-.062.199-.061.062-.199.062H8.642q-.138 0-.199-.062-.062-.062-.062-.199V9.186q0-.159-.062-.235-.061-.077-.214-.077H7.089v1.423q0 .137-.061.199-.062.062-.2.062Zm5.355 0h-1.081q-.138 0-.2-.062-.061-.062-.061-.199V5.595q0-.138.061-.2.062-.062.2-.062h1.168q.116 0 .193.051.076.051.141.167l.653 1.183q.036.065.062.094.025.029.069.029h.065q.044 0 .069-.029.025-.029.062-.094l.645-1.183q.066-.116.142-.167.076-.051.192-.051h1.176q.138 0 .199.062.062.062.062.2v4.702q0 .137-.062.199-.061.062-.199.062h-1.118q-.138 0-.199-.062-.062-.062-.062-.199V7.742l-.428.791q-.065.124-.156.178-.091.055-.229.055h-.29q-.138 0-.228-.055-.091-.054-.156-.178l-.429-.791v2.555q0 .137-.061.199-.062.062-.2.062Z" color="#ececec"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="eclipse-jee_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="eclipse-jee_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="eclipse-jee_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="eclipse-jee_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="eclipse-jee_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="eclipse-jee_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="eclipse-jee_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="eclipse-jee_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="eclipse-jee_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="eclipse-jee_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .eclipse-jee_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M6.896 15.001q.242 0 .455-.067.214-.068.416-.216.202-.149.32-.436.118-.286.118-.685v-2.596h-.663v2.562q0 .803-.64.803-.449 0-.685-.455l-.573.276q.174.387.5.601.325.213.752.213Zm3.956-.067a7.475 7.475 0 0 1-2.864.566 7.5 7.5 0 0 1-6.925-4.662l4.966-.852L5.861 9 .74 9.877A7.466 7.466 0 0 1 .514 8.5h5.474v-1H.512c.032-.466.108-.927.226-1.379L5.861 7l.168-.986-4.978-.854A7.5 7.5 0 0 1 7.988.5 7.5 7.5 0 0 1 14.864 11h.188v.635h-.5a7.62 7.62 0 0 0 .314-.634h-2.335v2.969c.234-.178.457-.369.667-.573v.901h1.972v.635h-2.64v-.964c-.26.198-.534.38-.819.543v-.213H9.739V13.22h1.208v-.634H9.739v-.95h1.854v-.635H9.071v3.933h1.781Zm.008-.001h.85v-.418a7.61 7.61 0 0 1-.85.418Zm3.689-3.297a7.49 7.49 0 0 1-.624.948h.481v.635h-1.029c.194-.201.378-.412.549-.633H13.2v-.95h1.349Zm-1.176 1.584a7.096 7.096 0 0 1-.173.174v-.174h.173Z" color="#ececec"/>
+</svg>

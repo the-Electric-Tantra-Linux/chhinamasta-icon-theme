@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="avogadro-icon_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="avogadro-icon_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="avogadro-icon_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="avogadro-icon_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="avogadro-icon_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="avogadro-icon_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="avogadro-icon_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="avogadro-icon_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="avogadro-icon_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="avogadro-icon_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .avogadro-icon_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M3.478 0a2.09 2.09 0 0 0-2.087 2.087v11.971c0 1.071.936 1.942 2.087 1.942h11.131v-.696H3.478c-.754 0-1.391-.57-1.391-1.246 0-.665.611-1.188 1.391-1.188h11.131V0H3.478Zm2.534 3.826h.845L8.696 9.19v.201H8v-.085l-.327-.958H5.197l-.327.958v.085h-.696V9.19l1.838-5.364Zm.423.913-.999 2.913h1.997l-.998-2.913Zm4 .478c.623 0 1.043.489 1.043 1.218v1.913a.35.35 0 0 0 .348.348v.695c-.268 0-.511-.104-.696-.271a1.031 1.031 0 0 1-.695.271h-.348a1.046 1.046 0 0 1-1.044-1.043v-.696c0-.574.469-1.043 1.044-1.043h.348c.122 0 .239.024.348.064v-.238c0-.238-.062-.522-.348-.522-.171 0-.348.041-.348.348h-.696c0-.624.42-1.044 1.044-1.044Zm-.348 2.087a.35.35 0 0 0-.348.348v.696a.35.35 0 0 0 .348.348h.348a.35.35 0 0 0 .348-.348v-.696a.35.35 0 0 0-.348-.348h-.348Z" color="#ececec"/>
+</svg>

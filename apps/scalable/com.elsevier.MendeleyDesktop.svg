@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_elsevier_MendeleyDesktop_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_elsevier_MendeleyDesktop_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_elsevier_MendeleyDesktop_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_elsevier_MendeleyDesktop_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_elsevier_MendeleyDesktop_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_elsevier_MendeleyDesktop_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_elsevier_MendeleyDesktop_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_elsevier_MendeleyDesktop_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_elsevier_MendeleyDesktop_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_elsevier_MendeleyDesktop_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_elsevier_MendeleyDesktop_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M3.761 2.24c-.653.022-1.283.322-1.767.779-.49.464-.842 1.102-.914 1.788-.035.343 0 .694.109 1.02.11.325.294.625.54.857.29.273.653.445.986.659.167.107.327.226.464.37.138.144.254.316.317.509.056.17.069.355.044.534a1.35 1.35 0 0 1-.182.505 1.578 1.578 0 0 1-.814.648c-.382.138-.802.145-1.17.319-.29.138-.535.378-.688.67-.152.291-.212.71-.175 1.04.043.387.223.756.49 1.03.268.273.622.452.993.51.545.087 1.314-.094 1.71-.492.198-.199.348-.448.432-.72.084-.273.102-.642.047-.923-.042-.214-.123-.418-.199-.622a2.36 2.36 0 0 1-.167-.629c-.032-.385-.079-.775.167-1.065.245-.29.59-.667.952-.751.234-.055.477-.068.713-.027.236.042.465.139.656.288.191.15.344.541.43.774.085.233.1.495.031.734-.069.244-.405.455-.556.656-.151.201-.31.403-.4.64a1.407 1.407 0 0 0-.041.83c.068.271.21.52.399.723.207.224.658.391.944.483.287.092.578.109.878.109.299 0 .612-.015.898-.11.286-.09.736-.258.944-.482.188-.203.33-.452.4-.724a1.407 1.407 0 0 0-.042-.829c-.09-.237-.25-.44-.4-.64-.151-.201-.487-.412-.556-.656a1.197 1.197 0 0 1 .032-.734c.085-.233.238-.624.429-.774.191-.15.42-.246.656-.288.236-.043.48-.03.713.027.363.083.707.462.952.751.246.29.2.68.167 1.065a2.36 2.36 0 0 1-.167.63c-.076.203-.157.407-.199.621-.054.28-.037.65.047.922.085.273.235.522.433.721.395.398 1.164.58 1.709.493a1.771 1.771 0 0 0 1.483-1.541c.038-.33-.023-.749-.175-1.04a1.528 1.528 0 0 0-.689-.67c-.367-.174-.787-.18-1.169-.319a1.58 1.58 0 0 1-.814-.648 1.355 1.355 0 0 1-.182-.505 1.191 1.191 0 0 1 .044-.534c.063-.193.179-.365.317-.509a2.54 2.54 0 0 1 .464-.37c.333-.214.696-.386.986-.66a2.1 2.1 0 0 0 .54-.857 2.43 2.43 0 0 0 .109-1.019c-.071-.686-.424-1.324-.914-1.788-.483-.457-1.114-.759-1.767-.78a2.185 2.185 0 0 0-.955.18c-.3.133-.574.338-.782.6-.239.3-.389.663-.526 1.025-.137.362-.267.733-.475 1.056-.342.534-.884.888-1.5.888-.618 0-1.16-.354-1.502-.888-.208-.323-.338-.694-.475-1.056-.137-.361-.287-.725-.526-1.025a2.06 2.06 0 0 0-.782-.6c-.3-.131-.629-.19-.955-.18ZM8 6.737a.75.75 0 1 1 0 1.5.75.75 0 0 1 0-1.5z" color="#ececec"/>
+</svg>

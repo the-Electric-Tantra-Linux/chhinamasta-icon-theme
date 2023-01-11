@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_libresprite_LibreSprite_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_libresprite_LibreSprite_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_libresprite_LibreSprite_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_libresprite_LibreSprite_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_libresprite_LibreSprite_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_libresprite_LibreSprite_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_libresprite_LibreSprite_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_libresprite_LibreSprite_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_libresprite_LibreSprite_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_libresprite_LibreSprite_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_libresprite_LibreSprite_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-opacity=".4" d="M2.188 2.167H13.81c.012 0 .022.01.022.022v9.873c0 .012-.01.022-.022.022l.01 1.243-1.17.477v.539l-9.3-.092-.046-1.109H2.149l.039-1.058a.022.022 0 0 1-.022-.022V2.189c0-.012.01-.022.022-.022Z" class="com_github_libresprite_LibreSprite_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M3.333 13.833H2.167v-1.166H1V3.333h1.167V2.167h1.166V1h9.334v1.167h1.166v1.166H15v9.334h-1.167v1.166h-1.166V15H3.333v-1.167Zm9.334-1.166h1.166V3.333h-1.166V2.167H3.333v1.166H2.167v9.334h1.166v1.166h9.334v-1.166ZM5.083 4.5H6.25v4.083H5.083V4.5Zm4.667 0h1.167v4.083H9.75V4.5Zm7.34-4.59h4.625v3.594H17.09z" class="com_github_libresprite_LibreSprite_svg__ColorScheme-Text"/>
+</svg>

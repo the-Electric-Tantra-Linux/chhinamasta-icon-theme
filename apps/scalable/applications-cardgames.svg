@@ -1,0 +1,55 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="applications-cardgames_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="applications-cardgames_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="applications-cardgames_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="applications-cardgames_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="applications-cardgames_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="applications-cardgames_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="applications-cardgames_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="applications-cardgames_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="applications-cardgames_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="applications-cardgames_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .applications-cardgames_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M1.25.01C.542.168 0 .874 0 1.695v12.58c0 .939.735 1.716 1.594 1.716h7.812c.859 0 1.594-.777 1.594-1.717V1.695C11 .756 10.265.01 9.406.01H1.594c-.108 0-.243-.022-.344 0zm1.062.999h.375L4 4.005h-.594L3 3.006H2l-.375 1H1l1.312-2.997zm.188.624-.406.999h.812zm1.25 3.37c.966 0 1.75.743 1.75 1.686 0-.943.783-1.685 1.75-1.685.966 0 1.75.742 1.75 1.685 0 .449-.18.882-.469 1.186l-.031.032-3 3.09L2.656 8c-.12-.097-.19-.218-.281-.343-.2-.278-.375-.602-.375-.968 0-.943.783-1.685 1.75-1.685zM7 11.996h.625l.375 1h1l.406-1H10l-1.313 2.997h-.375L7 11.995zm1.094 1.374.406.999.406-1z" class="applications-cardgames_svg__ColorScheme-Text"/>
+  <path fill="currentColor" fill-opacity=".34" d="M13 2.009h.375L13 1.853 10.406.76l.125 14.233-1.016.952c.94.16 1.724-.146 2.047-.92L15.875 4.63c.323-.774-.045-1.62-.781-1.903l-1.72-.718m-.374 0v-.156" class="applications-cardgames_svg__ColorScheme-Text"/>
+  <path fill="#bdbdbd" fill-opacity=".35" d="M11 14.992s.004-.121 0-1.007c0 .666-.05.766-.156 1.007z"/>
+  <path fill="currentColor" d="M10.28.41v.53l.032 13.681-1.062.718-.907.594 1.063.062s.239.011.531 0c.293-.01.647-.047.938-.156.474-.177.899-.5 1.093-1l3.906-10.024c.349-.894-.054-1.881-.875-2.248-.007-.003.008-.029 0-.032h-.031l-1.531-.687-.344-.156L10.75.63l-.468-.218zm.688 1.062 1.844.843.344.156 1.531.687h.031c.478.197.729.82.5 1.406l-3.875 10.025c-.046.11-.228.17-.343.28v-.031L10.97 1.47z" class="applications-cardgames_svg__ColorScheme-Text"/>
+</svg>

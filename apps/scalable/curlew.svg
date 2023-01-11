@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="curlew_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="curlew_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="curlew_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="curlew_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="curlew_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="curlew_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="curlew_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="curlew_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="curlew_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="curlew_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .curlew_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M8.57 14.158c.17-.123.405-.566.557-.61.881-.251 1.862-.512 2.661-.968.176-.121 1.445-.081 1.812-.143.21-.036.122-.484.216-.7.256-.584.72-.433 1.156-.682.156-.089.691-.677 1.028-.845l-.012 1.115q.041 2.591-.899 3.672c-.31.236-.562.472-.957.61-.266.06-.639.189-.916.231-2.03.264-4.146.112-5.294.159-.758-.037-3.02.077-4.798-.097-1.221-.15-1.638-.385-1.856-.515a2.27 2.27 0 0 1-.669-.599 2.988 2.988 0 0 1-.425-.883c-.142-.448-.181-.81-.173-.812.649.079 1.117.284 1.566.909 1.111.766 3.068-.33 4.176-.33.292 0 .615.1.947.221-.245-.218-.264-.471-.104-.57.255-.158.109-1.071-.334-2.099-.435-1.011-.441-1.042-.241-1.265.467-.522.443-.551-.389-.47-2.312.223-2.393.605-3.191.937-1.05.436-1.997.587-1.997.465 0-.051.139-.133.309-.18l.309-.087-.328-.066c-.326-.065-.325-.067.337-.504 1.949-1.98 3.731-4.357 6.281-5.696.32-.162.685-.404.763-.575.074-.162.135-.999.135-1.574 0-1.22.196-1.87.934-2.091.575-.075.479-.109.992.21.342.212.778.851 1.152.897 1.488.185 2.877.753 3.111 1.131.042.068-.071.047-.25-.045-.971-.503-3.014-.845-3.734-.504-.589.28-.24.534-.031 1.719.282 1.606.083 2.888-.585 3.764-.16.211-.597.608-.971.882-.373.275-1.139.627-1.22.782-.08.155-.243.406-.362.557-.187.237-.219.474-.229 1.695-.007.895.034 1.475.113 1.57.069.083.094.276.055.428-.078.312.386.775.851.775a.94.94 0 0 1 .484.165l.02.016Zm-1.882-3.279a5.09 5.09 0 0 1 .071-.842c.092-.537-.05-.636-.283-.2-.176.328-.178.852-.006 1.175.174.324.23.289.218-.133Z" color="#ececec"/>
+</svg>

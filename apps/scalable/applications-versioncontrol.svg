@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="applications-versioncontrol_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="applications-versioncontrol_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="applications-versioncontrol_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="applications-versioncontrol_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="applications-versioncontrol_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="applications-versioncontrol_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="applications-versioncontrol_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="applications-versioncontrol_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="applications-versioncontrol_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="applications-versioncontrol_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .applications-versioncontrol_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M1.332.5a.275.275 0 0 0-.275.277V1.89c0 .154.122.279.275.279h1.113a.279.279 0 0 0 .278-.28V.779A.277.277 0 0 0 2.445.5H1.332zm2.734 0c-.127.008-.235.108-.234.213v1.24c-.001.112.125.216.26.215h9.484c.135.001.258-.103.256-.215V.713c.002-.112-.12-.214-.256-.213h-9.51zm-1.62 3.332a.278.278 0 0 0-.278.28v1.11c0 .155.123.278.277.278h1.112a.275.275 0 0 0 .275-.277V4.11a.276.276 0 0 0-.275-.279H2.445zm2.734.002c-.128.007-.237.107-.235.213v1.24c-.002.112.121.214.256.213h9.486c.136.001.258-.1.256-.213v-1.24c.002-.112-.12-.215-.255-.213H5.2a.077.077 0 0 0-.021 0zM1.332 10.5a.275.275 0 0 0-.275.277v1.112c0 .154.122.279.275.279h1.113a.279.279 0 0 0 .278-.28v-1.11a.277.277 0 0 0-.278-.278H1.332zm2.734 0c-.127.008-.235.108-.234.213v1.24c-.001.112.125.216.26.215h9.484c.135.001.258-.103.256-.215v-1.24c.002-.112-.12-.214-.256-.213h-9.51zm-2.734 3.332a.277.277 0 0 0-.275.28v1.11c0 .155.122.278.275.278h1.113a.277.277 0 0 0 .278-.277V14.11a.279.279 0 0 0-.278-.279H1.332zm2.734.002c-.127.007-.235.107-.234.213v1.24c-.001.112.125.214.26.213h9.484c.135.001.258-.1.256-.213v-1.24c.002-.112-.12-.215-.256-.213H4.092a.108.108 0 0 0-.026 0z" class="applications-versioncontrol_svg__ColorScheme-Text"/>
+  <path fill="currentColor" fill-opacity=".4" d="M2.445 7.167h1.111c.154 0 .277.124.277.277v1.112a.276.276 0 0 1-.277.277H2.445a.277.277 0 0 1-.278-.277V7.444c0-.153.124-.277.278-.277Zm2.734 0c-.128.007-.236.107-.234.213v1.24c-.002.112.122.214.257.213h9.485c.135.001.259-.101.257-.213V7.38c.002-.112-.122-.214-.257-.213H5.179Z" class="applications-versioncontrol_svg__ColorScheme-Text"/>
+</svg>

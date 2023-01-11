@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_krillbite_ThePlan_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_krillbite_ThePlan_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_krillbite_ThePlan_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_krillbite_ThePlan_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_krillbite_ThePlan_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_krillbite_ThePlan_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_krillbite_ThePlan_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_krillbite_ThePlan_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_krillbite_ThePlan_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_krillbite_ThePlan_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_krillbite_ThePlan_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-opacity="0" d="M0 0h16v16H0z" class="com_krillbite_ThePlan_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M2.8 0v15.994L5.6 16v-5.725c.18.136.464.419.658.525h4.204c1.668-.912 2.736-3.053 2.738-5.223C13.2 2.497 11.085 0 8.476 0 7.573.002 6.36.31 5.6.887V0H2.8Zm2.69 1.598c.3.008.573.179.893.43a21.04 21.04 0 0 1 1.827 1.61c.355-.057.811-.073 1.427-.039.659-.545 1.247-.413 1.811-.063.176.708-.096.906-.065 1.136l.082.601c-.43.205-.813-.066-1.196-.323l.016.036-.237 1.052c-.059 1.031.1 1.808.562 2.665l-.379.174c-.255-.645-.573-1.259-.608-2.013-.552.628-.128 1.467.087 2.26l-.54.36c-.314-.372-.417-1.543-.503-2.775-.186.416-.367.834-.666 1.193.13.578.13 1.156-.202 1.734l-.514.346-.188-2.184c-.176.486-.298 1.451-.528 1.447-.235-1.213.457-2.098 1.077-3.008l-.15.072-1.069.957c-.836.439-4.257 2.221-1.137-2.064.307-.421.762.054 1.314-.493l.116-.131c-.886-.305-2.219-.854-2.321-1.538 0 0-.031-.753.188-1.021.354-.307.638-.428.903-.421Z" class="com_krillbite_ThePlan_svg__ColorScheme-Text"/>
+</svg>

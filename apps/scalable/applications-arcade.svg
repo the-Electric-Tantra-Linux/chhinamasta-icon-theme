@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="applications-arcade_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="applications-arcade_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="applications-arcade_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="applications-arcade_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="applications-arcade_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="applications-arcade_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="applications-arcade_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="applications-arcade_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="applications-arcade_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="applications-arcade_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .applications-arcade_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M7.467 1.5v.542h1.066V1.5Zm0 1.083v.542h1.066v-.542Zm0 1.084v3.25H3.733a.48.48 0 0 0-.106.01 3.745 3.745 0 0 0-3.5 2.801c-.437 1.655.279 3.41 1.74 4.266 1.449.85 3.28.61 4.475-.576h3.316a3.692 3.692 0 0 0 4.475.576c1.461-.857 2.177-2.61 1.74-4.266a3.745 3.745 0 0 0-3.506-2.802.473.473 0 0 0-.1-.009H8.533v-3.25ZM3.733 8h8.534a2.67 2.67 0 0 1 2.577 2.008 2.723 2.723 0 0 1-1.244 3.047c-.99.58-2.215.446-3.069-.303-.14-.14-.276-.422-.527-.419H5.996c-.25-.003-.42.29-.525.417-.854.75-2.08.886-3.071.305a2.722 2.722 0 0 1-1.242-3.047A2.669 2.669 0 0 1 3.733 8zM3.2 9.084v1.083H2.133v1.084H3.2v1.083h1.067v-1.083h1.066v-1.084H4.267V9.084Zm9.067 0a.538.538 0 0 0-.534.542c0 .299.24.541.534.541a.538.538 0 0 0 .533-.541c0-.3-.239-.542-.533-.542zM11.2 10.167a.538.538 0 0 0-.533.542c0 .3.238.542.533.542a.538.538 0 0 0 .533-.542.537.537 0 0 0-.533-.542zm2.133 0a.538.538 0 0 0-.533.542c0 .3.239.542.533.542a.538.538 0 0 0 .534-.542.539.539 0 0 0-.534-.542zm-1.066 1.084a.538.538 0 0 0-.534.542c0 .299.24.541.534.541a.538.538 0 0 0 .533-.541c0-.3-.239-.542-.533-.542z" color="#ececec"/>
+</svg>

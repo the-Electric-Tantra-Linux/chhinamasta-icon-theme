@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="awn-applet-digital-clock_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="awn-applet-digital-clock_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="awn-applet-digital-clock_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="awn-applet-digital-clock_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="awn-applet-digital-clock_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="awn-applet-digital-clock_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="awn-applet-digital-clock_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="awn-applet-digital-clock_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="awn-applet-digital-clock_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="awn-applet-digital-clock_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .awn-applet-digital-clock_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M17.09-.09h4.625v3.594H17.09zM2.321 7.538h.175l-.007 1.98 5.192-.007-.007-1.973.374.006-.013 1.96 5.13.007-.013-1.973.228.004c.265.005.554.21.646.458l.946 2.545c.092.248-.048.449-.313.45l-13.29.012c-.265.001-.422-.206-.352-.461l.699-2.547a.663.663 0 0 1 .605-.461Z" class="awn-applet-digital-clock_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M3.207 4.993h3.671a.59.59 0 0 1 .589.589v3.081a.59.59 0 0 1-.589.589H3.207a.59.59 0 0 1-.589-.589V5.582a.59.59 0 0 1 .589-.589Zm5.603 0h3.671a.59.59 0 0 1 .589.589v3.081a.59.59 0 0 1-.589.589H8.81a.59.59 0 0 1-.589-.589V5.582a.59.59 0 0 1 .589-.589Z" class="awn-applet-digital-clock_svg__ColorScheme-Text"/>
+</svg>

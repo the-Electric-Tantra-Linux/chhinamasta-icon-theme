@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_donadigo_appeditor_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_donadigo_appeditor_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_donadigo_appeditor_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_donadigo_appeditor_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_donadigo_appeditor_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_donadigo_appeditor_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_donadigo_appeditor_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_donadigo_appeditor_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_donadigo_appeditor_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_donadigo_appeditor_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_donadigo_appeditor_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M6.362.001a.411.411 0 0 0-.35.325l-.337 1.712A6.442 6.442 0 0 0 4 3l-1.662-.562a.413.413 0 0 0-.475.175l-1.6 2.775c-.09.16-.052.38.087.5L1.675 7.05A6.476 6.476 0 0 0 1.6 8c0 .325.029.638.075.95L.35 10.113a.413.413 0 0 0-.087.5l1.6 2.775a.414.414 0 0 0 .475.175L4 13c.5.4 1.069.726 1.675.963l.338 1.712A.412.412 0 0 0 6.4 16h3.2a.412.412 0 0 0 .387-.325l.338-1.712A6.446 6.446 0 0 0 12 13l1.662.563a.414.414 0 0 0 .475-.175l1.6-2.775a.413.413 0 0 0-.087-.5L14.325 8.95c.046-.311.075-.625.075-.95 0-.324-.029-.638-.075-.95l1.325-1.162a.413.413 0 0 0 .087-.5l-1.6-2.775a.413.413 0 0 0-.475-.175L12 3c-.5-.4-1.069-.725-1.675-.962L9.987.325A.413.413 0 0 0 9.6 0H6.363l-.001.001ZM5 8a3.001 3.001 0 0 1 6 0 3.001 3.001 0 0 1-6 0Z" color="#ececec"/>
+</svg>

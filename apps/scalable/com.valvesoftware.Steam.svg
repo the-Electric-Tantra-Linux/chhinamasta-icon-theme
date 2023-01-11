@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_valvesoftware_Steam_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_valvesoftware_Steam_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_valvesoftware_Steam_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_valvesoftware_Steam_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_valvesoftware_Steam_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_valvesoftware_Steam_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_valvesoftware_Steam_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_valvesoftware_Steam_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_valvesoftware_Steam_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_valvesoftware_Steam_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_valvesoftware_Steam_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M12.5 2a3.5 3.5 0 0 0-3.453 2.941L6.568 9.057A3 3 0 0 0 6 9a3 3 0 0 0-1.307.303L.268 6.748A10 10 0 0 0 0 9a10 10 0 0 0 .072 1.1l2.936 1.693A3 3 0 0 0 3 12a3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-.016-.283l4.377-2.83A3.5 3.5 0 0 0 16 5.5 3.5 3.5 0 0 0 12.5 2zm0 1A2.5 2.5 0 0 1 15 5.5 2.5 2.5 0 0 1 12.5 8 2.5 2.5 0 0 1 10 5.5 2.5 2.5 0 0 1 12.5 3Zm0 1A1.5 1.5 0 0 0 11 5.5 1.5 1.5 0 0 0 12.5 7 1.5 1.5 0 0 0 14 5.5 1.5 1.5 0 0 0 12.5 4zM6 10a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-1.959-1.611l.705.408c.72.415 1.633.17 2.049-.549.415-.72.17-1.633-.549-2.049l-.338-.195A2 2 0 0 1 6 10Z" color="#ececec"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_peteruithoven_resizer_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_peteruithoven_resizer_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_peteruithoven_resizer_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_peteruithoven_resizer_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_peteruithoven_resizer_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_peteruithoven_resizer_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_peteruithoven_resizer_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_peteruithoven_resizer_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_peteruithoven_resizer_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_peteruithoven_resizer_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_peteruithoven_resizer_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M.504.002a.615.615 0 0 0-.5.615v.615a.617.617 0 0 0 .925.541.619.619 0 0 0 .305-.541.617.617 0 0 0 .541-.305.624.624 0 0 0 0-.62.62.62 0 0 0-.541-.305H.503h.001Zm3.172 0-.481.25-.096.538.365.404.212.038h1.288l.5-.249.096-.539-.385-.403-.211-.039H3.676Zm3.71 0-.5.25L6.79.79l.385.404.211.038h1.289l.48-.249.096-.539-.365-.403-.211-.039H7.386Zm3.711 0-.5.25-.096.538.384.404.212.038h1.269l.5-.249.096-.539-.384-.403-.213-.039h-1.268Zm3.557 0a.619.619 0 0 0 .115 1.23.62.62 0 0 0 .305.541.619.619 0 0 0 .62 0A.622.622 0 0 0 16 1.232V.617a.617.617 0 0 0-.616-.615h-.73Zm-1.423 2.519-3.807.499c-.185 0-.199.128-.076.251l1.287 1.287-4.076 4.057H1.234V7.327l-.25-.481-.538-.096-.404.366-.038.211v1.288l.115.25a.623.623 0 0 0-.115.365v5.423a.443.443 0 0 0 0 .115v.615a.59.59 0 0 0 .038.192.447.447 0 0 0 .038.096.7.7 0 0 0 .077.115c.01.01.01.029.019.039a.73.73 0 0 0 .116.077c.007.005.012.014.019.019l.019.019a.205.205 0 0 0 .039.02h.019c.005.002.014-.003.019 0a.61.61 0 0 0 .173.038h6.191a.63.63 0 0 0 .308-.077l.039.039.211.038h1.288l.5-.25.096-.538-.385-.404-.211-.038H7.386V9.442l4.057-4.076 1.288 1.288c.123.123.25.046.25-.077l.5-3.806c0-.185-.128-.313-.25-.25ZM.446 3.039l-.404.385-.038.212v1.269l.249.5.539.096.404-.384.038-.213V3.636l-.25-.5-.538-.097Zm14.765.058-.404.366-.038.211v1.288l.25.5.538.096.404-.384.039-.212V3.675l-.25-.481-.539-.097Zm0 3.692-.404.384-.038.212v1.288l.25.481.538.096.404-.366.039-.211V7.385l-.25-.5-.539-.096Zm0 3.71-.404.385-.038.211v1.269l.25.5.538.097.404-.385.039-.212v-1.269l-.25-.5-.539-.096Zm.116 3.634c-.027.005-.053.013-.077.019a.617.617 0 0 0-.481.616.617.617 0 0 0-.541.305.624.624 0 0 0 0 .62c.114.192.32.307.541.305h.615a.617.617 0 0 0 .616-.615v-.615a.616.616 0 0 0-.673-.635Zm-4.287.635-.501.249-.096.539.385.404.211.038h1.288l.481-.25.096-.538-.365-.404-.212-.038H11.04Z" color="#ececec"/>
+</svg>

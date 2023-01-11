@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="eiskaltdcpp_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="eiskaltdcpp_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="eiskaltdcpp_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="eiskaltdcpp_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="eiskaltdcpp_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="eiskaltdcpp_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="eiskaltdcpp_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="eiskaltdcpp_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="eiskaltdcpp_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="eiskaltdcpp_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .eiskaltdcpp_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M15.467 2.667C15.467 1.2 14.267 0 12.8 0a2.675 2.675 0 0 0-2.667 2.667c0 1.466 1.2 2.666 2.667 2.666 1.466 0 2.667-1.2 2.667-2.666zm0 10.666c0-1.466-1.2-2.666-2.667-2.666a2.675 2.675 0 0 0-2.667 2.666c0 1.467 1.2 2.667 2.667 2.667 1.466 0 2.667-1.2 2.667-2.667zM14.4 2.667c0 .89-.71 1.6-1.6 1.6-.89 0-1.6-.71-1.6-1.6 0-.89.71-1.6 1.6-1.6.89 0 1.6.71 1.6 1.6zm0 10.666c0 .89-.71 1.6-1.6 1.6-.89 0-1.6-.71-1.6-1.6 0-.89.71-1.6 1.6-1.6.89 0 1.6.71 1.6 1.6zM9.85 4.917a3.728 3.728 0 0 1-.527-.93l-4.11 2.286a2.653 2.653 0 0 0-2.013-.94A2.675 2.675 0 0 0 .533 8c0 1.466 1.2 2.667 2.667 2.667.806 0 1.522-.37 2.013-.94l4.11 2.285c.13-.337.31-.645.527-.929L5.731 8.796c.08-.253.136-.517.136-.796s-.055-.543-.136-.796zM4.8 8c0 .89-.71 1.6-1.6 1.6-.89 0-1.6-.71-1.6-1.6 0-.89.71-1.6 1.6-1.6.89 0 1.6.71 1.6 1.6z" color="#ececec"/>
+</svg>

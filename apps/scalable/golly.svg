@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <defs>
+        <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#dd9b44;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#ad6c16;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#09d4df;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#9269f4;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0" style="stop-color:#0abdc6;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#ea00d9;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#1ad6ab;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#329db6;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#efefe7;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#8f8f8b;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#00f260;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#0575e6;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#ff8501;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#ffcb01;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#b2ced6;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#6da5b7;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#df5940;stop-opacity:1"/>
+            <stop offset="25%" style="stop-color:#d8d15f;stop-opacity:1"/>
+            <stop offset="50%" style="stop-color:#e9882a;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#279362;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#f618c7;stop-opacity:1"/>
+            <stop offset="20%" style="stop-color:#94ffab;stop-opacity:1"/>
+            <stop offset="50%" style="stop-color:#fbfd54;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#0f83ae;stop-opacity:1"/>
+        </linearGradient>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Highlight{color:#5294e2}
+        </style>
+    </defs>
+    <path fill="currentColor" d="M0 0v1.28h1.28V0H0Zm1.92 0v1.28H3.2V0H1.92Zm1.92 0v1.28h1.28V0H3.84Zm1.92 0v1.28h1.28V0H5.76Zm1.92 0v1.28h1.28V0H7.68ZM9.6 0v1.28h1.28V0H9.6Zm3.2 0v1.28h1.28V0H12.8Zm1.92 0v1.28H16V0h-1.28ZM0 1.92V3.2h1.28V1.92H0Zm1.92 0V3.2H3.2V1.92H1.92Zm1.92 0V3.2h1.28V1.92H3.84Zm1.92 0V3.2h1.28V1.92H5.76Zm1.92 0V3.2h1.28V1.92H7.68Zm1.92 0V3.2h1.28V1.92H9.6Zm3.2 0V3.2h1.28V1.92H12.8Zm1.92 0V3.2H16V1.92h-1.28ZM12.8 3.84v1.28h1.28V3.84H12.8Zm1.92 0v1.28H16V3.84h-1.28ZM0 5.12V6.4h1.28V5.12H0Zm1.92 0V6.4H3.2V5.12H1.92Zm10.88.64v1.28h1.28V5.76H12.8Zm1.92 0v1.28H16V5.76h-1.28ZM0 7.04v1.28h1.28V7.04H0Zm1.92 0v1.28H3.2V7.04H1.92Zm10.88.64v1.28h1.28V7.68H12.8Zm1.92 0v1.28H16V7.68h-1.28ZM0 8.96v1.28h1.28V8.96H0Zm1.92 0v1.28H3.2V8.96H1.92Zm10.88.64v1.28h1.28V9.6H12.8Zm1.92 0v1.28H16V9.6h-1.28ZM0 10.88v1.28h1.28v-1.28H0Zm1.92 0v1.28H3.2v-1.28H1.92ZM0 12.8v1.28h1.28V12.8H0Zm1.92 0v1.28H3.2V12.8H1.92Zm3.2 0v1.28H6.4V12.8H5.12Zm1.92 0v1.28h1.28V12.8H7.04Zm1.92 0v1.28h1.28V12.8H8.96Zm1.92 0v1.28h1.28V12.8h-1.28Zm1.92 0v1.28h1.28V12.8H12.8Zm1.92 0v1.28H16V12.8h-1.28ZM0 14.72V16h1.28v-1.28H0Zm1.92 0V16H3.2v-1.28H1.92Zm3.2 0V16H6.4v-1.28H5.12Zm1.92 0V16h1.28v-1.28H7.04Zm1.92 0V16h1.28v-1.28H8.96Zm1.92 0V16h1.28v-1.28h-1.28Zm1.92 0V16h1.28v-1.28H12.8Zm1.92 0V16H16v-1.28h-1.28Z" style="color:#ececec"/>
+</svg>

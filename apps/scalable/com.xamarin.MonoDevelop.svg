@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_xamarin_MonoDevelop_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_xamarin_MonoDevelop_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_xamarin_MonoDevelop_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_xamarin_MonoDevelop_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_xamarin_MonoDevelop_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_xamarin_MonoDevelop_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_xamarin_MonoDevelop_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_xamarin_MonoDevelop_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_xamarin_MonoDevelop_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_xamarin_MonoDevelop_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_xamarin_MonoDevelop_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M1.883 14.5C1.083 12.435.023 10.615 0 7.241-.024 3.757 2.777 1.501 4.99 1.5c2.68 0 5.038 2.415 5.162 4.416.112 1.806-.49 4.432-3.597 4.413-1.483-.01-3.025-1.387-3.033-3.437-.009-2.212 2.587-2.427 3.241-1.864.255.218.247.651.022.573-1.398-.486-2.261.472-2.197 1.424.087 1.292.805 2.061 2.093 2.127 1.857.094 2.377-1.834 2.33-2.617-.058-.951-.835-2.908-3.253-3.266-1.141-.168-2.087.197-2.778.912-.691.715-1.08 1.455-1.137 2.668-.058 1.254.198 1.99.902 3.637.25.588.952 1.774 1.495 2.962z" class="com_xamarin_MonoDevelop_svg__ColorScheme-Text"/>
+  <path fill="currentColor" fill-rule="evenodd" d="M14.117 1.5c.8 2.065 1.86 3.886 1.883 7.259.024 3.485-2.777 5.74-4.99 5.741-2.68 0-5.038-2.415-5.162-4.416-.112-1.806.49-4.432 3.597-4.412 1.483.009 3.025 1.386 3.033 3.436.009 2.212-2.587 2.428-3.241 1.864-.255-.218-.247-.651-.022-.573 1.398.486 2.261-.472 2.197-1.424-.087-1.292-.805-2.06-2.093-2.126-1.857-.094-2.377 1.834-2.33 2.616.058.951.835 2.908 3.253 3.266 1.141.168 2.087-.197 2.778-.912.691-.715 1.08-1.455 1.137-2.667.058-1.255-.198-1.992-.902-3.638-.25-.588-.952-1.774-1.495-2.962z" class="com_xamarin_MonoDevelop_svg__ColorScheme-Text"/>
+</svg>

@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_shatteredpixel_shatteredpixeldungeon_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_shatteredpixel_shatteredpixeldungeon_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_shatteredpixel_shatteredpixeldungeon_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_shatteredpixel_shatteredpixeldungeon_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_shatteredpixel_shatteredpixeldungeon_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_shatteredpixel_shatteredpixeldungeon_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_shatteredpixel_shatteredpixeldungeon_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_shatteredpixel_shatteredpixeldungeon_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_shatteredpixel_shatteredpixeldungeon_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_shatteredpixel_shatteredpixeldungeon_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_shatteredpixel_shatteredpixeldungeon_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-opacity="0" d="M0 0h16v16H0z" class="com_shatteredpixel_shatteredpixeldungeon_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M14.718 5.76 16 2.4C16 1.04 14.96 0 13.6 0H2.4C1.04 0 0 1.04 0 2.4l1.04 2.882C.4 5.759 0 6.482 0 7.359V16h16V8c0-.882-.482-1.682-1.282-2.24ZM1.6 8v-.64c0-.8 1.2-1.442 2.24-1.12l.8.242.242-.8C5.04 5.2 5.682 4.8 6.4 4.8c.56 0 1.118.24 1.36.64l.4.478.64-.236c.96-.482 2.16 0 2.4.718l.24.8.8-.24c.96-.4 2.16.24 2.16 1.04H1.6Zm7.2 2.4c0 .482-.318.8-.8.8-.482 0-.8-.318-.8-.8 0-.482.318-.8.8-.8.482 0 .8.318.8.8Zm5.76-8-1.2 2.882c-.16 0-.4-.082-.56-.082h-.482c-.559-.8-1.6-1.36-2.718-1.36-.318 0-.64.078-.96.16-.558-.482-1.358-.8-2.24-.8-1.118 0-2.16.56-2.718 1.36H3.2c-.318 0-.56.08-.882.08L1.441 2.4H14.56ZM3.2 14.4c0-.882-.718-1.6-1.6-1.6V9.6h4v1.6c0 .882.718 1.6 1.6 1.6h1.6c.882 0 1.6-.718 1.6-1.6V9.6h4v3.2c-.882 0-1.6.718-1.6 1.6H3.2Z" class="com_shatteredpixel_shatteredpixeldungeon_svg__ColorScheme-Text"/>
+</svg>

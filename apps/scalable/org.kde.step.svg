@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
+    <g transform="translate(-19.082 -17.014) scale(1.14986)">
+        <path style="opacity:1;fill:#f4f4f7;fill-opacity:1;stroke-width:12.77394009" d="M356.778 151.562h12.774v114.965h-12.774z"/>
+        <circle style="opacity:1;fill:#f4f4f7;fill-opacity:1;stroke-width:12.77394009" r="44.709" cy="300.462" cx="363.229"/>
+        <path style="opacity:1;fill:#f4f4f7;fill-opacity:1;stroke-width:12.77394009" d="M267.36 151.562h12.774v114.965H267.36z"/>
+        <circle style="opacity:1;fill:#f4f4f7;fill-opacity:1;stroke-width:12.77394009" r="44.709" cy="300.462" cx="273.811"/>
+        <path style="opacity:1;fill:#f4f4f7;fill-opacity:1;stroke-width:12.77394009" transform="rotate(25)" d="M225.185 58.528h12.774v114.965h-12.774z"/>
+        <circle style="opacity:1;fill:#f4f4f7;fill-opacity:1;stroke-width:12.77394009" transform="rotate(25)" cx="231.572" cy="205.378" r="44.709"/>
+        <path style="opacity:1;fill:#f4f4f7;fill-opacity:1;stroke-width:12.77394009" d="M152.395 128.014h255.479v25.548H152.395z"/>
+    </g>
+</svg>

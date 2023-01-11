@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="dmd-doc_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="dmd-doc_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="dmd-doc_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="dmd-doc_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="dmd-doc_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="dmd-doc_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="dmd-doc_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="dmd-doc_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="dmd-doc_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="dmd-doc_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .dmd-doc_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M12.52 2.822c0 1.248-1.03 2.259-2.3 2.259-.328 0-.64-.068-.922-.189-.811-.349-.376-.971-.376-1.896 0-.434-.878-1.012-.662-1.356A2.308 2.308 0 0 1 10.22.563c1.27 0 2.3 1.012 2.3 2.259ZM12.517.846a.847.847 0 1 1 1.695 0 .847.847 0 0 1-1.695 0Z" class="dmd-doc_svg__ColorScheme-Text"/>
+  <path fill="currentColor" fill-rule="evenodd" d="M16 12.028C15.81 15.464 14.761 16 10.488 16h-4.94C.694 16 0 15.308 0 10.458V9.252c6.291.252 11.625 1.178 16 2.776ZM3.765 1.975h2.146c1.524 0 2.371.77 2.371 2.259 0 1.488-.847 2.258-2.371 2.258H3.765V1.975ZM2.174-.001a.383.383 0 0 0-.385.385v7.7c0 .213.171.385.385.385h3.959c.009 0 .016-.006.025-.007a4.235 4.235 0 0 0 4.101-4.228A4.236 4.236 0 0 0 6.149.003c-.005 0-.01-.004-.016-.004H2.174Z" class="dmd-doc_svg__ColorScheme-Text"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px">
+    <g fill="currentColor">
+        <path d="M7 3C6 3 6 4 6 4v14s0 1 1 1h7v-4H8V6h6v4h2V4s0-1-1-1Zm3.5 13h1s.5 0 .5.5v1s0 .5-.5.5h-1s-.5 0-.5-.5v-1s0-.5.5-.5Z" style="color:#ececec" transform="translate(1 1)"/>
+        <path d="M15 11v4l.25 2h1.5l.25-2v-4Zm0 7v2h2v-2Z" style="color:#e9e9e9" transform="translate(1 1)"/>
+    </g>
+</svg>

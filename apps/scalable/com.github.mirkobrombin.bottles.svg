@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_mirkobrombin_bottles_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_mirkobrombin_bottles_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_mirkobrombin_bottles_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_mirkobrombin_bottles_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_mirkobrombin_bottles_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_mirkobrombin_bottles_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_mirkobrombin_bottles_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_mirkobrombin_bottles_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_mirkobrombin_bottles_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_mirkobrombin_bottles_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_mirkobrombin_bottles_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M7.028 12.473a17.665 17.665 0 0 1-.05-1.361c0-.536.05-1.012.103-1.512H5.437c.101.375.159.845.159 1.437 0 .591-.058 1.061-.159 1.436h1.591Zm-4.624-1.436c0-.592.058-1.062.159-1.437H.919c.053.5.103.976.103 1.512s-.021.971-.05 1.361h1.591c-.101-.375-.159-.845-.159-1.436Zm4.679 2.074h-1.91c-.292.467-.709.638-1.173.638-.464 0-.881-.171-1.173-.638H.917l-.018.178c-.055.558-.107 1.085-.107 1.786 0 .519.4.925.91.925h4.596c.51 0 .91-.406.91-.925 0-.701-.052-1.228-.107-1.786l-.018-.178ZM5.277 1.649H2.723a.346.346 0 0 1-.345-.346V.984c0-.543.441-.984.984-.984h1.276c.543 0 .984.441.984.984v.319a.345.345 0 0 1-.345.346Zm.308 3.245-.259-2.612c-.017.001-.033.005-.049.005H2.723c-.016 0-.032-.004-.048-.005l-.26 2.612c-.378.343-1.623 1.57-1.623 2.84 0 .45.028.849.063 1.228h1.972c.292-.468.709-.638 1.173-.638.464 0 .881.17 1.173.638h1.973c.035-.379.062-.778.062-1.228 0-1.269-1.245-2.496-1.623-2.84Zm9.443 7.579a17.665 17.665 0 0 1-.05-1.361c0-.536.05-1.012.103-1.512h-1.644c.101.375.159.845.159 1.437 0 .591-.058 1.061-.159 1.436h1.591Zm-4.624-1.436c0-.592.058-1.062.159-1.437H8.919c.053.5.103.976.103 1.512s-.021.971-.05 1.361h1.591c-.101-.375-.159-.845-.159-1.436Zm4.679 2.074h-1.91c-.292.467-.709.638-1.173.638-.464 0-.881-.171-1.173-.638h-1.91l-.018.178c-.055.558-.107 1.085-.107 1.786 0 .519.4.925.91.925h4.596c.51 0 .91-.406.91-.925 0-.701-.052-1.228-.107-1.786l-.018-.178ZM13.277 1.649h-2.554a.346.346 0 0 1-.345-.346V.984c0-.543.441-.984.984-.984h1.276c.543 0 .984.441.984.984v.319a.345.345 0 0 1-.345.346Zm.308 3.245-.259-2.612c-.017.001-.033.005-.049.005h-2.554c-.016 0-.032-.004-.048-.005l-.26 2.612c-.378.343-1.623 1.57-1.623 2.84 0 .45.028.849.063 1.228h1.972c.292-.468.709-.638 1.173-.638.464 0 .881.17 1.173.638h1.973c.035-.379.062-.778.062-1.228 0-1.269-1.245-2.496-1.623-2.84Z" color="#ececec"/>
+</svg>

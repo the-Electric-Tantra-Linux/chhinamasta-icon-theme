@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="de_unifreiburg_ellipticcurve_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="de_unifreiburg_ellipticcurve_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="de_unifreiburg_ellipticcurve_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="de_unifreiburg_ellipticcurve_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="de_unifreiburg_ellipticcurve_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="de_unifreiburg_ellipticcurve_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="de_unifreiburg_ellipticcurve_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="de_unifreiburg_ellipticcurve_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="de_unifreiburg_ellipticcurve_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="de_unifreiburg_ellipticcurve_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .de_unifreiburg_ellipticcurve_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M12.36 0a50.4 50.4 0 0 1-1.13 3.025c-.338.82-.712 1.649-1.064 2.276a5.405 5.405 0 0 1-.494.753c-.146.178-.277.251-.267.248-.135.038-.32 0-.596-.167-.277-.167-.604-.446-.95-.75C7.168 4.778 6.41 4.019 5.427 4c-.892-.017-1.6.502-2.019 1.221-.418.719-.612 1.64-.651 2.611-.039.964.051 2.004.408 2.865.357.861 1.072 1.569 2.106 1.589 1.101.021 1.91-.829 2.602-1.559.346-.366.667-.718.951-.959.284-.24.513-.342.652-.339-.05-.001.036.008.168.162.131.154.294.41.457.727.326.633.667 1.509.968 2.386.542 1.579.916 2.996.995 3.296h.887a52.9 52.9 0 0 0-1.072-3.574c-.308-.898-.654-1.799-1.016-2.501a4.643 4.643 0 0 0-.568-.891c-.204-.239-.445-.456-.803-.463-.478-.009-.869.245-1.221.543-.352.298-.684.667-1.021 1.023-.674.712-1.351 1.303-1.963 1.292-.681-.013-1.05-.386-1.33-1.061-.28-.674-.379-1.621-.344-2.502.035-.874.223-1.677.536-2.214.313-.537.684-.806 1.261-.795.485.009 1.187.56 1.883 1.172.349.306.698.613 1.072.839.375.226.814.388 1.272.259.305-.086.5-.288.697-.528.198-.24.388-.538.579-.879.382-.68.765-1.531 1.11-2.369A58.456 58.456 0 0 0 13.252.059L12.36 0Z" color="#ececec"/>
+</svg>

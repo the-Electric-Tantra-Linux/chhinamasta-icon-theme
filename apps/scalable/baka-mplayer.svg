@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="baka-mplayer_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="baka-mplayer_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="baka-mplayer_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="baka-mplayer_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="baka-mplayer_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="baka-mplayer_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="baka-mplayer_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="baka-mplayer_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="baka-mplayer_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="baka-mplayer_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .baka-mplayer_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M9.714 12.098c0 .893-.767 1.616-1.714 1.616s-1.714-.723-1.714-1.616c0-.892 3.428-.892 3.428 0ZM4.571 5.143c.947 0 1.715 1.023 1.715 2.286 0 1.262-.768 2.285-1.715 2.285-.946 0-1.714-1.023-1.714-2.285 0-1.263.768-2.286 1.714-2.286Zm0-1.143C2.994 4 1.714 5.535 1.714 7.429c0 1.893 1.28 3.428 2.857 3.428 1.578 0 2.858-1.535 2.858-3.428C7.429 5.535 6.149 4 4.571 4ZM.64.126C0 .779 0 3.903 0 5.882 0 13.063 4.16 16 8 16s8-2.938 8-10.118c0-1.959 0-5.103-.64-5.756-.64-.652-4.88 1.374-6.16 2.679H6.8C5.52 1.5 1.28-.526.64.126Zm10.789 5.017c.946 0 1.714 1.023 1.714 2.286 0 1.262-.768 2.285-1.714 2.285-.947 0-1.715-1.023-1.715-2.285 0-1.263.768-2.286 1.715-2.286Zm0-1.143C9.851 4 8.571 5.535 8.571 7.429c0 1.893 1.28 3.428 2.858 3.428s2.857-1.535 2.857-3.428C14.286 5.535 13.007 4 11.429 4Z" color="#ececec"/>
+</svg>

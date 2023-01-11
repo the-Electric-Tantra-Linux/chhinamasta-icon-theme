@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_torikulhabib_nino_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_torikulhabib_nino_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_torikulhabib_nino_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_torikulhabib_nino_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_torikulhabib_nino_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_torikulhabib_nino_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_torikulhabib_nino_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_torikulhabib_nino_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_torikulhabib_nino_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_torikulhabib_nino_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_torikulhabib_nino_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M3.804 15.38c.036.003.067.007.103.009.028.001.067 0 .096.002L4 14.897l1.733-1.593v-.531l.8-.796v-.398l.4-.398v-1.062L6.4 9.588H5.333l-.533-.53H3.467l-.534.53v1.328l1.071.933L4 13.039l-.4.398v1.725l.204.218zM6.133 5.077l-.4.398h.4l.134.132H6.4l.133-.132-.4-.398zM11.2 6.934H9.6l-.933.929V9.19l.666.664h.934l.4.398v.398l.266.266v1.592l1.013 1.065 1.672-1.664-.018-1.524 1.333-1.327H14.4l-1.333-1.327V7.2h-1.6l-.267-.266zm4.8.531V6.068c0-.602-.011-1.14-.039-1.62a12.572 12.572 0 0 0-.057-.677 8.29 8.29 0 0 0-.088-.595 5.208 5.208 0 0 0-.124-.519 3.82 3.82 0 0 0-.166-.447c-.04-.088-.089-.163-.136-.242l-.19.189h-.8l-.8.796-.533-.531h-1.6l-.8.797v.663h.8v-.398H12v.531l-.267.265-1.066.018-.4.38h-.534v.531l-.4.398v.796h.8l.534-.53h.533v.265l.533.531H12v-.266l-.533-.53H12l.533.53h.667l-.4-.398.4-.398h.4l.4.398h-.4l-.4.398.393.391.007.406h-.533l1.6 1.592h.266l.267-.265.533-.531-.533-.531h.8zM9.867 4.413v-.398l.4-.398v.796h-.4zM14 12.243v-.832l.533-.495v1.327H14ZM8.533.565H5.535c-.051 0-.087.003-.138.003l-.464.527.8.797v.832l.934 1.025H7.2v-.53l.8-.797v-.53l.533-.531Zm-.666 2.919h.4l.4.398h-.8zm-3.6 4.379h-.4l-.4.399h.8zM.71 1.802c-.007.01-.016.017-.023.027-.079.117-.15.243-.213.381a3.82 3.82 0 0 0-.166.447 5.208 5.208 0 0 0-.124.519 8.29 8.29 0 0 0-.088.595c-.024.212-.043.438-.057.677C.011 4.928 0 5.466 0 6.068v1.397l.533.531h.8l1.334 1.327V7.731l.8-.797H4l.8-.796h.8l-.4-.398.8-.929-.8-.796H4v1.062h-.533l-.534-.531v-.531l.8-.796H4.4v-.531l-.8-.796H2.267v.796H1.6ZM4 .601c-.028.002-.065.001-.093.002-.241.015-.468.033-.681.057a7.818 7.818 0 0 0-.599.087 5.064 5.064 0 0 0-.466.111l.506.503H4Z" class="com_github_torikulhabib_nino_svg__ColorScheme-Text" opacity=".6"/>
+  <path fill="currentColor" fill-rule="evenodd" d="M8.843 7.115v3.226c0 .266.215.482.481.482h1.734a.481.481 0 0 0 .481-.482V7.115h.529a.5.5 0 0 0 .418-.212.382.382 0 0 0 0-.425l-.939-1.429-.938-1.43a.5.5 0 0 0-.418-.212.498.498 0 0 0-.418.212l-.939 1.43-.938 1.429a.385.385 0 0 0 .072.508.514.514 0 0 0 .346.129h.529ZM4.461 9.138V5.911a.48.48 0 0 1 .481-.481h1.734c.265 0 .481.215.481.481v3.227h.529c.172 0 .332.08.418.212a.38.38 0 0 1 0 .424l-.939 1.43-.938 1.429a.5.5 0 0 1-.418.212.498.498 0 0 1-.418-.212l-.939-1.429-.938-1.43a.379.379 0 0 1-.064-.199.4.4 0 0 1 .136-.309.514.514 0 0 1 .346-.128h.529Z" class="com_github_torikulhabib_nino_svg__ColorScheme-Text"/>
+</svg>

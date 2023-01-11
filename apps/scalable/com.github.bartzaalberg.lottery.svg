@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_bartzaalberg_lottery_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_bartzaalberg_lottery_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_bartzaalberg_lottery_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_bartzaalberg_lottery_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_bartzaalberg_lottery_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_bartzaalberg_lottery_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_bartzaalberg_lottery_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_bartzaalberg_lottery_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_bartzaalberg_lottery_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_bartzaalberg_lottery_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_bartzaalberg_lottery_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M7.233 3.734A164.696 164.696 0 0 1 5.288 6.97c-.334.509-.836.832-1.337.832-1.757-.012-1.718-.96-2.465-2.007a.793.793 0 0 0 .198-.532.842.842 0 1 0-.901.84l.047.132c.334 1.301.613 2.716.947 4.187.056.227.223.396.446.396 1.895.227 3.845.34 5.796.34 1.95 0 3.9-.113 5.795-.34.167 0 .334-.169.39-.396.334-1.471.613-2.886.948-4.187l.044-.131a.842.842 0 1 0-.88-.841c0 .241.101.458.27.605-.857.928-1.202 1.873-2.611 1.934-.557 0-1.003-.323-1.337-.832A160.896 160.896 0 0 1 8.72 3.781a1.28 1.28 0 0 0 .543-1.044 1.264 1.264 0 0 0-2.526 0c0 .407.193.77.496.997Zm6.662 8.621c0-.247-.161-.395-.429-.346-1.787.246-3.614.495-5.441.496-1.843.001-3.688-.248-5.491-.496-.214-.049-.429.149-.429.346v1.036c0 .247.161.494.429.543 3.59.79 7.342.79 10.932 0a.603.603 0 0 0 .429-.543v-1.036Z" color="#ececec"/>
+</svg>

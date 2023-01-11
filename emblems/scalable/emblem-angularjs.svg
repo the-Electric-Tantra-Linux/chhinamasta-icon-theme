@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   viewBox="0 0 48 48"
+   width="48"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="emblem-angularjs.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="12.833333"
+     inkscape:cx="24.000001"
+     inkscape:cy="30.233767"
+     inkscape:window-width="788"
+     inkscape:window-height="866"
+     inkscape:window-x="804"
+     inkscape:window-y="8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g12" />
+  <g
+     transform="translate(-284.101549 -940.688847)"
+     id="g12">
+    <path
+       d="m308.041926 944.688847-18.8207 6.622959 2.973912 24.656731 15.865768 8.720309 15.947849-8.837966 2.973117-24.656135-18.939947-6.505899z"
+       fill="#b2b2b2"
+       id="path2" />
+    <path
+       d="m325.105328 952.619843-17.107424-5.834043v35.820405l14.337125-7.934474 2.770299-22.051887z"
+       fill="#e9e9e9"
+       id="path4"
+       style="fill:#b5b5b5;fill-opacity:1" />
+    <path
+       d="m291.333779 952.72488 2.548599 22.052384 14.115426 7.828245v-35.820504z"
+       fill="#e23237"
+       id="path6"
+       style="fill:#8a8a8a;fill-opacity:1" />
+    <path
+       d="m311.963551 964.602443-3.934444-8.215896-3.463519 8.215797zm1.499825 3.454377h-10.42822l-2.33316 5.836031-4.339585.080193 11.635592-25.886462 12.041826 25.885866h-4.02219z"
+       fill="#f2f2f2"
+       id="path8" />
+    <path
+       d="m307.997904 948.086681.031104 8.299866 3.930072 8.222157h-3.952232l-.008943 3.442949 5.465174.005267 2.554562 5.916522 4.152566.077113-12.172301-25.963873z"
+       fill="#b2b2b2"
+       id="path10"
+       style="fill:#f2f2f2;fill-opacity:1" />
+  </g>
+</svg>

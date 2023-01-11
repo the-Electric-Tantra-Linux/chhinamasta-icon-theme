@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="deepin-graphics-driver-manager_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="deepin-graphics-driver-manager_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="deepin-graphics-driver-manager_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="deepin-graphics-driver-manager_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="deepin-graphics-driver-manager_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="deepin-graphics-driver-manager_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="deepin-graphics-driver-manager_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="deepin-graphics-driver-manager_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="deepin-graphics-driver-manager_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="deepin-graphics-driver-manager_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .deepin-graphics-driver-manager_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M4.889 0a.444.444 0 0 0-.445.444v1.473c.284-.074.583-.139.889-.139h.889V.444A.443.443 0 0 0 5.778 0h-.889Zm2.667 0a.443.443 0 0 0-.445.444v1.334h1.778V.444A.443.443 0 0 0 8.444 0h-.888Zm2.666 0a.443.443 0 0 0-.444.444v1.334h.889c.306 0 .605.065.889.139V.444A.444.444 0 0 0 11.111 0h-.889ZM5.333 2.667a2.66 2.66 0 0 0-2.666 2.666v5.334a2.66 2.66 0 0 0 2.666 2.666h5.334a2.66 2.66 0 0 0 2.666-2.666V5.333a2.66 2.66 0 0 0-2.666-2.666H5.333ZM.444 4.444A.444.444 0 0 0 0 4.889v.889c0 .246.198.444.444.444h1.334v-.889c0-.306.065-.605.139-.889H.444Zm4.889 0h5.334c.492 0 .889.397.889.889v5.334a.888.888 0 0 1-.889.889H5.333a.888.888 0 0 1-.889-.889V5.333c0-.492.397-.889.889-.889Zm8.75 0c.074.284.139.583.139.889v.889h1.334A.443.443 0 0 0 16 5.778v-.889a.444.444 0 0 0-.444-.445h-1.473Zm-8.75.889v5.334h5.334V5.333H5.333ZM.444 7.111A.443.443 0 0 0 0 7.556v.888c0 .247.198.445.444.445h1.334V7.111H.444Zm13.778 0v1.778h1.334A.443.443 0 0 0 16 8.444v-.888a.443.443 0 0 0-.444-.445h-1.334ZM.444 9.778a.443.443 0 0 0-.444.444v.889c0 .246.198.445.444.445h1.473a3.541 3.541 0 0 1-.139-.889v-.889H.444Zm13.778 0v.889c0 .306-.065.605-.139.889h1.473a.444.444 0 0 0 .444-.445v-.889a.443.443 0 0 0-.444-.444h-1.334Zm-9.778 4.305v1.473c0 .246.199.444.445.444h.889a.443.443 0 0 0 .444-.444v-1.334h-.889c-.306 0-.605-.065-.889-.139Zm7.112 0a3.541 3.541 0 0 1-.889.139h-.889v1.334c0 .246.198.444.444.444h.889a.444.444 0 0 0 .445-.444v-1.473Zm-4.445.139v1.334c0 .246.198.444.445.444h.888a.443.443 0 0 0 .445-.444v-1.334H7.111Z" color="#ececec"/>
+</svg>

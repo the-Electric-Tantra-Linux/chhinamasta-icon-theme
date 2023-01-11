@@ -1,0 +1,57 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="bluej_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="bluej_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="bluej_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="bluej_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="bluej_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="bluej_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="bluej_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="bluej_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="bluej_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="bluej_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .bluej_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <g fill="currentColor" color="#ececec">
+    <path d="M3.594 6.539c-.43.43-.823.859-1.65 1.236-.552.252-1.156.529-1.654.94-.481.281-.305.737.105.752h3.528c-.283.263-.439-2.537-.329-2.928Z" opacity=".8"/>
+    <path d="m12.134 2.09.007-.027q1.312.39 1.172 1.062c-.141.672-.573.568-1.079.547-.492-.086-.539.832-.289 1.336.25.504.43.748.669 1.02 1.168 1.321 2.255 2.982 3.306 4.523a.64.64 0 0 1-.321.906s-4.562 1.793-7.883 2.52c0 0 1.244-2.2 1.538-3.41a9.24 9.24 0 0 0 .184-1.116 10.124 10.124 0 0 1-2.297 1.815c-.75.312-.985-.391-.297-.828 1.562-1.25 1.461-3.997 2.515-5.875a.441.441 0 0 1 .037-.062c-.374.089-1.596.432-2.646.432-.817 0-2.3-.643-2.3-.643a5.38 5.38 0 0 1 2.214-2.145 7.426 7.426 0 0 1 2.626-.678c.758.006 1.572.188 2.291.403.171.051.357.107.543.171a.236.236 0 0 1 .01.049z"/>
+    <path d="M4.523 4.164c-.299.523-.726 1.352-.821 2.089-.05.124-.103.235-.159.341-.066.792-.021 1.96.255 2.873h.125c.052.218.105.513.163.748.145.603.191 1.103.105 1.568-.003.037-.002.076-.006.113a2.458 2.458 0 0 1-.544 1.314.758.758 0 0 0-.104.188c-.008.02-.013.041-.02.062a1.162 1.162 0 0 0-.051.242l-.001.008c.033.264.156.492.381.539 0 0 1.785.062 2.648-.047.425-.059.83-.137 1.322-.249.336-.617 1.205-2.162 1.438-3.119.108-.445.174-.9.226-1.49-.66.707-2.238 1.804-2.335 1.859-.098.055-.29.09-.329.09-.21 0-.339-.112-.339-.32-.022-.174.238-.43.492-.594 1.84-1.718 1.494-4.424 2.453-5.895-.36.085-1.606.449-2.672.449-.628 0-1.713-.592-2.227-.769Z" opacity=".6"/>
+    <circle cx="6.667" cy="6.533" r=".8" opacity=".8"/>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg width="512" height="512">
+  <text x="729.64" y="231.36" font-family="Gentium Book Basic" font-size="129.23" letter-spacing="0" word-spacing="0">
+    
+  </text>
+  <text x="1310.91" y="151.36" font-family="Gentium Book Basic" font-size="129.23" letter-spacing="0" word-spacing="0">
+    
+  </text>
+  <text x="239.33" y="-29.901" font-family="Gentium Book Basic" font-size="129.23" letter-spacing="0" word-spacing="0">
+    
+  </text>
+  <text x="1337.38" y="-246.37" font-family="Gentium Book Basic" font-size="129.23" letter-spacing="0" word-spacing="0">
+    
+  </text>
+  <text x="1918.65" y="-326.38" font-family="Gentium Book Basic" font-size="129.23" letter-spacing="0" word-spacing="0">
+    
+  </text>
+  <text x="1529.53" y="-798.78" font-family="Gentium Book Basic" font-size="129.23" letter-spacing="0" word-spacing="0">
+    
+  </text>
+  <text x="2110.79" y="-878.78" font-family="Gentium Book Basic" font-size="129.23" letter-spacing="0" word-spacing="0">
+    
+  </text>
+  <text x="277.99" y="535.94" font-family="Gentium Book Basic" font-size="208.33" letter-spacing="0" word-spacing="0">
+    
+  </text>
+  <g fill="#f4f4f7">
+    <path d="M403.434 100.13c-47.461 3.616-94.727 4.794-145.584 50.732l.98 236.836c41.41-37.598 91.017-50.652 144.604-51.711zm-315.16 26.16v231.338c79.016 1.162 131.597 16.84 166.847 42.04.72.23 1.205.041 1.755 0 35.256-25.195 87.83-40.878 166.846-42.04V126.303h-9.182v221.49c-43.151 3.846-77.01-3.54-158.565 46.854-81.536-50.375-115.414-43.008-158.566-46.854v-221.49zM67.34 154.778V381.82c58.384 4.475 126.698 1.204 163.424 22.53 10.613 6.127 14.445 7.794 24.652 7.428h.04c11.126.536 14.773-1.064 25.794-7.429 36.726-21.325 105.031-18.054 163.424-22.529V154.78h-10.162v216.553c-52.834 2.306-105.632 4.726-155.052 23.222-9.514 8.958-13.087 9.143-22.979 9.346-10.963-.226-13.987.004-23.917-9.346-49.426-18.496-102.263-20.91-155.092-23.222V154.778z"/>
+    <path d="M253.162 387.698c-41.41-37.598-91.005-50.63-144.604-51.69V100.14c47.46 3.617 94.726 4.771 145.583 50.708z"/>
+  </g>
+</svg>

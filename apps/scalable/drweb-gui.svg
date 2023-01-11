@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="drweb-gui_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="drweb-gui_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="drweb-gui_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="drweb-gui_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="drweb-gui_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="drweb-gui_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="drweb-gui_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="drweb-gui_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="drweb-gui_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="drweb-gui_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .drweb-gui_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M3.111 1.778 4.889 4l.889-.444-1.334-1.334 1.334-.444H3.111Zm7.111 0 1.334.444-1.334 1.334.889.444 1.778-2.222h-2.667ZM8 2.667c-1.157.003-2.672.635-2.667 2.843L8 4l2.667 1.51C10.672 3.302 9.157 2.67 8 2.667Zm-6.667.889.889 2.666v-.889H4l.444-.889-3.111-.888Zm13.334 0-3.111.888.444.889h1.778v.889l.889-2.666ZM8 4.889l-1.333.8.177 1.245.444-1.156h1.424l.444 1.156.177-1.244L8 4.89v-.001ZM3.556 6.222 0 7.556l1.778.888V8l1.333-.444.445-1.334Zm2.222 0L4 6.934c.011 1.452.825 2.824 1.644 3.491.573.456 1.292.979 1.644 1.13.404.151.18-.748.267-.889h.889c.088.141-.137 1.041.267.889.353-.151 1.071-.673 1.645-1.13.819-.668 1.632-2.038 1.644-3.491l-1.778-.712L9.778 8H8.621L8 6.222 7.379 8H6.222l-.444-1.778Zm6.666 0 .445 1.334L14.222 8v.444L16 7.556l-3.556-1.334ZM3.556 8.889l-2.223.889 3.556 4.444-1.333-5.333Zm8.888 0-1.333 5.333 3.556-4.444-2.223-.889Z" color="#ececec"/>
+</svg>

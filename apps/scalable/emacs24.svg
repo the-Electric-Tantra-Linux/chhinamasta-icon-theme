@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="emacs24_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="emacs24_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="emacs24_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="emacs24_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="emacs24_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="emacs24_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="emacs24_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="emacs24_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="emacs24_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="emacs24_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .emacs24_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M2.656 15.116s.949.446 2.211.603c.512.064 2.457.287 3.948.28 0 0 1.817.002 2.82-.14 1.049-.148 1.643-.339 1.974-.718.009-.09.16-.386-.248-.67-1.043-.728-2.39-.927-5.009-1.548-2.895-.728-3.805-1.425-4.237-1.93-.41-.505.121-1.555 2.454-2.07 1.181-.288 5.336-.437 5.336-.437-1.262-1.002-3.387-2.7-3.871-3.081-.425-.335-1.11-.848-1.183-1.307-.1-.447.604-.662.976-.686 1.2-.083 2.837.234 4.293.524.732.145.86.124.86.124 1.042.05 2.06-.673 2.019-1.823C14.99 1.071 13.617.135 12.327.095 11.02.09 7.927.09 7.927.09c3.491.72 4.25 1.082 4.433 1.503.108.248-.18.495-1.141.446-1.048-.052-3.194-.306-3.194-.306-2.042-.314-3.289-.612-3.91.199-.405.53.059 1.174.24 1.555.811 1.414 2.036 2.385 2.926 3.069.334.257 1.356.827 1.356.827-3.176-.869-5.884-.38-7.489.463C-.696 8.938-.38 10.78 2.546 12.503c1.73 1.017 2.767 1.506 5.597 1.854 1.655.263 1.99.371 1.977.51-.018.193-2.047.267-2.58.303-1.357.094-4.867-.054-4.884-.054z" color="#ececec"/>
+</svg>

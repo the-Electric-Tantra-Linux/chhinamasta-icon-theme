@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="easystroke_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="easystroke_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="easystroke_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="easystroke_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="easystroke_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="easystroke_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="easystroke_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="easystroke_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="easystroke_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="easystroke_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .easystroke_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M2.28 15.16a8.316 8.316 0 0 1-2.083-.427L0 14.664l.009-.056a8.096 8.096 0 0 1 1.582-3.582 8.534 8.534 0 0 1 1.472-1.464 8.323 8.323 0 0 1 1.979-1.117c.109-.042.11-.043.102-.086a8.05 8.05 0 0 1 .151-3.277c.078-.307.248-.821.368-1.11A8.106 8.106 0 0 1 7.492 1.28c.196-.19.493-.452.513-.452.021 0 .318.262.519.458.426.416.773.836 1.104 1.337.21.319.326.522.504.884a8.11 8.11 0 0 1 .756 4.706 3.25 3.25 0 0 0-.024.188c.002.001.087.037.189.078a8.136 8.136 0 0 1 3.726 3.051c.583.878.99 1.879 1.194 2.937.029.148.033.193.02.201a8.336 8.336 0 0 1-2.039.473c-.282.03-.979.042-1.297.021-1.652-.106-3.261-.717-4.514-1.714l-.139-.11-.099.08a8.11 8.11 0 0 1-3.033 1.503c-.432.11-.77.17-1.246.221-.237.025-1.106.037-1.346.018Zm.991-1.493a6.653 6.653 0 0 0 3.527-1.293l.132-.098-.04-.048a10.83 10.83 0 0 1-.496-.673 8.443 8.443 0 0 1-.757-1.437c-.053-.132-.097-.242-.1-.245-.014-.022-.612.265-.868.417a6.675 6.675 0 0 0-2.532 2.654c-.126.242-.301.642-.286.655.014.013.348.054.553.068.242.016.633.016.867 0Zm10.308 0c.116-.009.295-.025.397-.038.215-.027.205-.008.12-.208a6.676 6.676 0 0 0-3.161-3.35c-.203-.1-.43-.2-.452-.199a1.43 1.43 0 0 0-.11.241c-.176.447-.461.99-.755 1.437-.115.175-.399.561-.499.678l-.041.048.146.108a6.665 6.665 0 0 0 4.355 1.283Zm-5.436-2.633c.32-.429.597-.91.803-1.395l.073-.172-.044-.009a6.412 6.412 0 0 0-.25-.034c-.166-.02-.306-.025-.721-.025-.496 0-.656.009-.962.057l-.05.008.056.139c.09.22.34.71.469.919.183.296.458.679.489.679.007 0 .068-.075.137-.167ZM6.775 7.98a8.443 8.443 0 0 1 2.498.007c.068.011.125.018.127.017.001-.002.014-.096.027-.209a9.401 9.401 0 0 0 0-1.424c-.149-1.226-.567-2.284-1.282-3.245a1.612 1.612 0 0 0-.14-.174c-.006 0-.07.078-.142.174a6.637 6.637 0 0 0-1.301 3.477c-.02.257-.008.959.021 1.2.011.094.021.179.021.189 0 .013.012.016.038.011.021-.005.081-.015.133-.023Z" color="#ececec"/>
+</svg>

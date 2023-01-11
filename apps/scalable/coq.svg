@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="coq_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="coq_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="coq_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="coq_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="coq_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="coq_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="coq_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="coq_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="coq_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="coq_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .coq_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M5.885.004C5.14.046 4.377.343 3.883.879c-.635.688-.85 1.675-.509 2.324.146.277.672.841.907.973.098.055.073.11-.173.376-.158.17-.287.344-.287.384 0 .1.2.09.587-.024.37-.112.405-.097.405.173 0 .121.126.361.334.638l.333.443.002.716c.001.62-.023.767-.18 1.106-.228.492-.484.747-1.13 1.131-.705.419-1.06.751-1.06.99 0 .264.26.486 1.057.9.792.412 1.297.843 1.535 1.312.26.515.232.755-.15 1.244-.724.928-.74.968-.74 1.74V16h3.545v-.768c0-.746-.007-.777-.23-1.113-.189-.286-.233-.43-.256-.832-.036-.641.095-.968.633-1.584.47-.536.703-.928.703-1.176 0-.089-.07-.33-.155-.536-.145-.35-.147-.384-.038-.493.298-.298.811.406.742 1.017-.04.355-.234.604-.745.959-.166.115-.284.24-.262.276.06.097.65.08 1.07-.032.945-.252 2.115-1.108 2.469-1.809.358-.709.553-1.488.59-2.353.037-.923-.038-1.402-.31-1.962-.306-.63-1.025-.936-2.206-.938-.816-.001-1.287.16-1.793.616-.436.391-.716.919-.962 1.811-.233.844-.289.976-.413.976-.057 0-.137-.106-.18-.234-.111-.337-.214-1.823-.216-3.12 0-.863-.026-1.169-.11-1.33-.056-.108-.075-.158-.064-.18-.023-.028-.557-.23-.557-.23l2.34-.51c.009-.657-.195-1.309-.622-1.794C7.36.176 6.63-.037 5.886.005z" color="#ececec"/>
+</svg>

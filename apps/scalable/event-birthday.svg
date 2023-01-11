@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16">
+    <defs>
+        <linearGradient id="arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#dd9b44;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#ad6c16;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#09d4df;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#9269f4;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0" style="stop-color:#0abdc6;stop-opacity:1"/>
+            <stop offset="1" style="stop-color:#ea00d9;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#1ad6ab;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#329db6;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#efefe7;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#8f8f8b;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#00f260;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#0575e6;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#ff8501;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#ffcb01;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#b2ced6;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#6da5b7;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#df5940;stop-opacity:1"/>
+            <stop offset="25%" style="stop-color:#d8d15f;stop-opacity:1"/>
+            <stop offset="50%" style="stop-color:#e9882a;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#279362;stop-opacity:1"/>
+        </linearGradient>
+        <linearGradient id="90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+            <stop offset="0%" style="stop-color:#f618c7;stop-opacity:1"/>
+            <stop offset="20%" style="stop-color:#94ffab;stop-opacity:1"/>
+            <stop offset="50%" style="stop-color:#fbfd54;stop-opacity:1"/>
+            <stop offset="100%" style="stop-color:#0f83ae;stop-opacity:1"/>
+        </linearGradient>
+        <style id="current-color-scheme" type="text/css">
+            .ColorScheme-Highlight{color:#5294e2}
+        </style>
+    </defs>
+    <path fill="currentColor" d="M6.059.008a1.548 1.548 0 0 0-.844.312c-.66.511-.852 1.526-.314 2.222.24.31.561.597.972.94.204.17.405.33.656.47l.063.03H1.49a.5.5 0 0 0-.501.5v3.005a.5.5 0 0 0 .5.5h.502V15.5a.5.5 0 0 0 .5.501H13.51a.5.5 0 0 0 .5-.5V7.986h.501a.5.5 0 0 0 .501-.5V4.482a.5.5 0 0 0-.5-.5H9.658c.133-.083.262-.16.375-.251.308-.244.515-.38.751-.688.51-.658.32-1.57-.28-2.034C10.225.793 9.84.717 9.47.76c-.368.04-.743.206-.97.5-.188.241-.276.45-.376.689-.018-.044-.045-.083-.062-.125a8.589 8.589 0 0 0-.313-.69C7.64.928 7.585.794 7.437.603A1.567 1.567 0 0 0 6.372.007c-.1-.011-.21-.007-.312 0zm.126.938a.651.651 0 0 1 .469.25c.205.265.953 1.768.689 1.972-.264.205-1.454-.956-1.659-1.22a.603.603 0 0 1 .126-.845.69.69 0 0 1 .218-.126c.056-.015.1-.034.157-.03zm3.412.782c.103-.012.19.024.281.095.183.14.235.41.094.594-.141.183-.975.955-1.158.814-.183-.142.359-1.163.501-1.346a.426.426 0 0 1 .28-.156zM1.99 4.983h5.007v2.003H1.991Zm7.01 0h5.008v2.003H9.002ZM2.993 7.987h4.006v7.011H2.992zm6.01 0h4.006v7.011H9.002Z" overflow="visible" style="color:#ececec"/>
+</svg>

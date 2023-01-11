@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_labyrinth_team_labyrinth_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_labyrinth_team_labyrinth_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_labyrinth_team_labyrinth_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_labyrinth_team_labyrinth_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_labyrinth_team_labyrinth_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_labyrinth_team_labyrinth_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_labyrinth_team_labyrinth_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_labyrinth_team_labyrinth_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_labyrinth_team_labyrinth_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_labyrinth_team_labyrinth_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_labyrinth_team_labyrinth_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M4.02 8.718 6.89 8l-2.87-.718a2.021 2.021 0 0 0-1.327-1.244c.688-2.567 3.912-2.139 3.912-2.139C3.246 2.706 1.892 5.004 1.23 6.134A2.012 2.012 0 0 0 0 8c0 .812.469 1.516 1.161 1.837.696 1.169 2.151 3.443 5.444 2.274 0 0-3.327.121-3.946-2.135A2.036 2.036 0 0 0 4.02 8.718Zm3.599-5.755c-.278 0-.508.201-.508.444v1.482c0 .244.23.444.508.444h6.095c.279 0 .508-.2.508-.444V3.407c0-.243-.229-.444-.508-.444H7.619Zm1.203 4.148c-.288 0-.526.201-.526.445v.888c0 .244.238.445.526.445h6.653c.288 0 .525-.201.525-.445v-.888c0-.244-.237-.445-.525-.445H8.822Zm-1.203 3.556c-.278 0-.508.2-.508.444v1.482c0 .243.23.444.508.444h6.095c.279 0 .508-.201.508-.444v-1.482c0-.244-.229-.444-.508-.444H7.619Z" color="#ececec"/>
+</svg>

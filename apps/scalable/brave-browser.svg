@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="brave-browser_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="brave-browser_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="brave-browser_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="brave-browser_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="brave-browser_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="brave-browser_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="brave-browser_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="brave-browser_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="brave-browser_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="brave-browser_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .brave-browser_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M7.63 14.755c-.172-.135-.73-.577-1.239-.983-.509-.407-1.06-.842-1.223-.967-.38-.292-.36-.311 1.01-.991 1.406-.698 1.713-.789 2.201-.647.526.153 2.736 1.233 2.736 1.338 0 .046-.33.334-.734.638a33.31 33.31 0 0 0-1.268 1.008c-.674.576-1.03.849-1.108.849-.034 0-.202-.11-.375-.245zm-3.87-3.336c-.436-.4-.735-.937-.738-1.324-.002-.128.098-.5.22-.824.122-.326.222-.664.222-.753 0-.092-.59-.723-1.382-1.476C1.322 6.32.643 5.617.574 5.482c-.183-.353-.04-.774.575-1.685.654-.97 1.764-2.407 1.9-2.458.057-.022.629.055 1.27.17l1.165.209 1.259-.359L8 1l1.254.358 1.254.357 1.2-.213c.98-.174 1.223-.191 1.335-.1.193.162 1.818 2.342 2.156 2.895.185.303.288.592.297.839.016.376.014.378-1.473 1.806-.819.787-1.488 1.48-1.487 1.543 0 .062.1.4.223.75.267.764.277 1.04.052 1.48-.237.464-.926 1.082-1.208 1.082-.124 0-.634-.205-1.134-.456-.67-.336-1.065-.608-1.51-1.037-.332-.32-.603-.65-.603-.73 0-.082.44-.56.978-1.06.602-.562.979-.98.979-1.086 0-.096-.14-.537-.311-.98-.365-.946-.388-1.255-.112-1.53.11-.109.87-.457 1.69-.774s1.49-.603 1.49-.637c0-.095-.757-.186-1.55-.187-.604 0-.844.047-1.508.302-.447.171-.838.38-.901.48-.093.149-.059.419.206 1.63.36 1.644.385 1.543-.427 1.717a4.07 4.07 0 0 1-1.781-.003c-.81-.17-.785-.07-.426-1.714.264-1.21.299-1.482.207-1.63-.066-.105-.472-.314-.99-.51-.795-.3-.94-.327-1.503-.286-1.047.077-1.47.142-1.422.22.025.04.726.34 1.557.665 1.555.61 1.777.76 1.779 1.198 0 .124-.145.612-.323 1.084-.206.545-.305.935-.27 1.068.029.114.474.58.99 1.036.552.488.936.895.936.992 0 .09-.3.445-.668.788-.708.66-2.097 1.44-2.57 1.44-.153 0-.379-.132-.647-.378z" color="#ececec"/>
+</svg>

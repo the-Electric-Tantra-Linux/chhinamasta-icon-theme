@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="ardour5_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="ardour5_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="ardour5_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="ardour5_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="ardour5_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="ardour5_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="ardour5_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="ardour5_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="ardour5_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="ardour5_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .ardour5_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M8 1.072 0 14.928h.138c.274-.006.383-.454.525-.454.093 0 .23.07.323.07.178 0 .23-.94.38-.937.15.003.12.803.403.813.292.01.1-1.844.386-1.844.249 0 .124 1.582.464 1.593.33.01.074-2.741.403-2.768.384-.031.141 2.561.538 2.561.346 0 .117-3.64.423-3.64.307 0 .214 3.517.526 3.487.3 0 .01-4.241.357-4.241.444 0 .217 4.21.52 4.208.343 0 .064-4.621.463-4.621.414 0 .132 4.666.477 4.654.363-.013-.019-4.372.382-4.372.385 0 .123 4.433.46 4.433.355 0-.026-4.376.44-4.345.45.03.155 4.473.477 4.473.307 0 .124-3.882.49-3.862.43.025.18 3.982.476 3.982.275 0 .15-3.159.514-3.159.385 0 .096 3.278.45 3.263.354-.015.196-2.5.54-2.5.33 0 .057 2.71.43 2.71.387 0 .191-1.897.533-1.897.352 0 .13 2.073.4 2.073.262 0 .186-1.306.444-1.306.26 0 .138 1.382.356 1.382.226 0 .133-.797.372-.797.24 0 .154.861.338.871.162.01.142-.543.292-.543.152 0 .088.614.298.613.203 0 .14-.34.285-.34.142 0 .147.4.314.4.12-.003.246-.183.398-.183.2 0 .261.223.773.223H16Z" color="#ececec"/>
+</svg>

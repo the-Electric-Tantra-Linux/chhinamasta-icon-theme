@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="edu_stanford_Almond_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="edu_stanford_Almond_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="edu_stanford_Almond_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="edu_stanford_Almond_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="edu_stanford_Almond_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="edu_stanford_Almond_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="edu_stanford_Almond_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="edu_stanford_Almond_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="edu_stanford_Almond_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="edu_stanford_Almond_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .edu_stanford_Almond_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M7.797 14.266c-.334-.073-.627-.288-.746-.546-.079-.173-.066-.283.041-.347.129-.077.221-.026.354.195.132.221.313.329.554.329.253 0 .428-.109.56-.347.12-.215.209-.26.347-.178.109.065.122.174.041.351-.173.377-.724.637-1.151.543Zm-3.071-1.478c-.05-.127.063-.507.206-.688.447-.569 1.341-.496 1.672.137.125.239.151.62.042.62-.035 0-.064-.015-.064-.033 0-.019-.063-.096-.139-.172a1.025 1.025 0 0 0-1.214-.169 1.155 1.155 0 0 0-.312.249c-.105.142-.151.156-.191.056Zm8.544-1.209C13.042 14.011 10.911 16 8.001 16s-5.021-1.991-5.27-4.421C2.481 9.137 5.011.037 8.001 0c3.01-.037 5.506 9.048 5.269 11.579Zm-1.996 1.209c.05-.127-.063-.507-.206-.688-.447-.569-1.341-.496-1.672.137-.125.239-.151.62-.042.62.035 0 .064-.015.064-.033 0-.019.063-.096.139-.172.319-.318.82-.388 1.214-.169.121.068.262.179.312.249.105.142.151.156.191.056Z" color="#ececec"/>
+</svg>

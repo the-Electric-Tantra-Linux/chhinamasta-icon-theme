@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="45.373199mm"
+   viewBox="0 0 129.367582 160.771179"
+   width="36.510406mm"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="emblem-backbonejs.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.2699856"
+     inkscape:cx="77.166229"
+     inkscape:cy="125.19827"
+     inkscape:window-width="788"
+     inkscape:window-height="866"
+     inkscape:window-x="804"
+     inkscape:window-y="8"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g10" />
+  <g
+     fill="#d8d8d8"
+     fill-rule="evenodd"
+     stroke="#848484"
+     transform="matrix(.17893165 0 0 .17893165 .089466 .15398)"
+     id="g10">
+    <path
+       d="m0 0v485l361 205.78502v-139.88225l-241.50391-137.66728v-216.23549l241.50391 137.66728v-128.88226zm0 0"
+       fill="#002a41"
+       id="path2"
+       style="fill:#e9e9e9;fill-opacity:1" />
+    <path
+       d="m722 0v485l-361 205.78502v-139.88225l241.50391-137.66728v-216.23549l-241.50391 137.66728v-128.88226zm0 0"
+       fill="#0071b5"
+       id="path4"
+       style="fill:#5b5b5b;fill-opacity:1" />
+    <path
+       d="m0 896.78502v-485l361-205.78502v139.88225l-241.50391 137.66728v205.23549l241.50391-137.66727v139.88225zm0 0"
+       fill="#0071b5"
+       id="path6"
+       style="fill:#5b5b5b;fill-opacity:1" />
+    <path
+       d="m722 896.78502v-485l-361-205.78502v139.88225l241.50391 137.66728v205.23549l-241.50391-137.66727v139.88225zm0 0"
+       fill="#002a41"
+       id="path8"
+       style="fill:#e9e9e9;fill-opacity:1" />
+  </g>
+</svg>

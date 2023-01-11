@@ -1,0 +1,56 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="applications-java_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="applications-java_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="applications-java_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="applications-java_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="applications-java_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="applications-java_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="applications-java_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="applications-java_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="applications-java_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="applications-java_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .applications-java_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M7.921 2.996c-.734.517-1.567 1.102-2.013 2.071-.775 1.69 1.585 3.535 1.686 3.613a.13.13 0 0 0 .196-.164c-.009-.016-.856-1.662-.825-2.843.011-.411.587-.878 1.196-1.372.558-.452 1.19-.965 1.561-1.565.813-1.32-.09-2.619-.1-2.632a.13.13 0 0 0-.233.103c.001.009.177.867-.312 1.752-.201.365-.643.677-1.156 1.037Z" class="applications-java_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M11.017 3.578a.13.13 0 0 0-.125-.226c-.125.048-3.056 1.178-3.056 2.543 0 .941.402 1.438.695 1.802.115.142.215.265.248.37.092.303-.127.85-.219 1.035a.13.13 0 0 0 .192.165c.05-.035 1.232-.87 1.02-1.877-.08-.383-.267-.662-.433-.909-.257-.382-.443-.658-.161-1.168.33-.594 1.824-1.724 1.839-1.735Z" class="applications-java_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M3.386 9.312c-.05.15-.027.3.068.431.318.442 1.444.685 3.17.685.234 0 .481-.005.734-.014 2.76-.099 3.784-.959 3.826-.995a.13.13 0 0 0-.12-.225c-.971.266-2.787.36-4.046.36-1.408 0-2.126-.101-2.302-.176.09-.124.646-.345 1.335-.48a.13.13 0 0 0-.025-.259c-.404 0-2.429.033-2.64.673zm9.236-.886c-.57 0-1.11.285-1.132.297a.13.13 0 0 0 .061.246c.012 0 1.214.01 1.323.696.097.593-1.137 1.553-1.62 1.873a.13.13 0 0 0 .098.236c.115-.024 2.808-.618 2.523-2.185-.174-.961-.777-1.163-1.253-1.163Zm-1.847 2.92a.13.13 0 0 0-.053-.13l-.646-.453a.13.13 0 0 0-.108-.019 12.489 12.489 0 0 1-2.923.355c-.98 0-1.62-.115-1.714-.2-.013-.023-.009-.034-.006-.04.017-.047.107-.103.166-.125a.13.13 0 0 0-.076-.25c-.648.157-.964.376-.941.65.04.487 1.169.737 2.123.804.137.009.285.014.44.014h.001c1.586 0 3.62-.498 3.64-.503a.13.13 0 0 0 .097-.103zm-4.868 1.046a.13.13 0 0 0-.075-.24c-.087.003-.85.037-.902.523a.505.505 0 0 0 .123.394c.274.324 1.013.517 2.26.59.147.008.296.012.444.012 1.585 0 2.652-.496 2.696-.517a.13.13 0 0 0 .013-.229l-.816-.498a.131.131 0 0 0-.095-.016c-.005 0-.523.108-1.305.214a4.23 4.23 0 0 1-.55.03c-.782 0-1.65-.127-1.817-.21-.003-.016 0-.036.024-.053z" class="applications-java_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M7.019 15.17c3.629-.004 5.577-.65 5.952-1.055a.45.45 0 0 0 .136-.369c-.028-.218-.227-.352-.25-.367a.132.132 0 0 0-.17.023.129.129 0 0 0 0 .17c.022.03.035.079-.031.146-.15.14-1.663.565-4.182.693-.345.018-.707.027-1.076.027-2.255 0-3.906-.31-4.123-.49.084-.12.668-.31 1.289-.42a.13.13 0 0 0-.04-.257l-.146.01c-1.025.063-2.208.202-2.27.73a.537.537 0 0 0 .142.434c.277.31 1.072.724 4.769.724z" class="applications-java_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M13.684 14.23a.13.13 0 0 0-.15.029c-.006.005-.551.576-2.192.911-.628.126-1.807.19-3.504.19-1.7 0-3.318-.067-3.334-.068a.13.13 0 0 0-.036.257c.017.004 1.713.401 4.03.401 1.113 0 2.195-.09 3.217-.268 1.905-.334 2.039-1.28 2.043-1.32a.13.13 0 0 0-.074-.133z" class="applications-java_svg__ColorScheme-Text"/>
+</svg>

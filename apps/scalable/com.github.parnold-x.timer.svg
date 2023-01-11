@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_parnold-x_timer_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_parnold-x_timer_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_parnold-x_timer_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_parnold-x_timer_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_parnold-x_timer_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_parnold-x_timer_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_parnold-x_timer_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_parnold-x_timer_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_parnold-x_timer_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_parnold-x_timer_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_parnold-x_timer_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M8 .001c-.686 0-1.242.523-1.242 1.125h2.484C9.242.563 8.686 0 8 0v.001ZM3.011.194c-.655.051-1.305.355-1.844.894C.092 2.164-.124 3.72.953 4.794L4.856.893C4.316.355 3.665.143 3.01.194h.001Zm9.493 0c-.486.066-.957.297-1.36.699l3.903 3.902c1.077-1.075.861-2.63-.214-3.707-.672-.673-1.522-1.004-2.329-.894ZM8 1.864A6.716 6.716 0 0 0 1.283 8.58a6.715 6.715 0 0 0 2.757 5.417l-.485 1.436a.425.425 0 0 0 .252.524c.284.124.5-.051.563-.174l.641-1.185c.929.461 1.952.7 2.989.699a6.725 6.725 0 0 0 2.99-.698l.64 1.184a.432.432 0 0 0 .563.175.428.428 0 0 0 .252-.525l-.485-1.436a6.708 6.708 0 0 0 2.757-5.416A6.717 6.717 0 0 0 8 1.864Zm-.621 1.63v.428c0 .213.112.41.291.524a.481.481 0 0 0-.077.213l-.156 3.126a.976.976 0 0 0-.407.795c0 .539.431.971.97.971.034 0 .063-.017.097-.019L10 11.221c.106.094.375.167.601-.059a.444.444 0 0 0 .058-.601L8.971 8.62v-.04a.967.967 0 0 0-.447-.815l-.117-3.106a.465.465 0 0 0-.077-.213.622.622 0 0 0 .291-.524v-.428a5.15 5.15 0 0 1 4.465 4.388h-.427a.699.699 0 1 0 0 1.397h.427a5.16 5.16 0 0 1-4.387 4.388v-.428a.696.696 0 0 0-.854-.698.695.695 0 0 0-.544.698v.428a5.16 5.16 0 0 1-4.387-4.388h.427a.7.7 0 0 0 0-1.397h-.427a5.15 5.15 0 0 1 4.465-4.388Z" color="#ececec"/>
+</svg>

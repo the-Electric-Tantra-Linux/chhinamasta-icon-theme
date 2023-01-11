@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="application-vnd_iccprofile_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="application-vnd_iccprofile_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="application-vnd_iccprofile_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="application-vnd_iccprofile_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="application-vnd_iccprofile_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="application-vnd_iccprofile_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="application-vnd_iccprofile_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="application-vnd_iccprofile_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="application-vnd_iccprofile_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="application-vnd_iccprofile_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .application-vnd_iccprofile_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M.364 0A.364.364 0 0 0 0 .364v15.272c0 .201.163.364.364.364h4c.2 0 .363-.163.363-.364V.364A.364.364 0 0 0 4.364 0h-4Zm7.302.891a.365.365 0 0 0-.359.176L5.455 4.212v4.592l1.416.815-.371.625-1.045-.602v3.888l5.926-10.064a.367.367 0 0 0-.131-.5L7.804.937a.37.37 0 0 0-.138-.046ZM6.058 4.567l2.845 1.637-.371.625-2.847-1.638.373-.624Zm6.665.164a.387.387 0 0 0-.134.049l-1.777 1.083-.896 1.519 1.649 2.706-.62.378-1.446-2.373-1.884 3.2.534.877-.621.377-.331-.543-1.465 2.49 9.318-5.678a.363.363 0 0 0 .121-.498l-2.082-3.417a.363.363 0 0 0-.366-.17Zm-.306 6.542-1.144.7L8 13.976v1.297h-.727v-.853l-1.818 1.114V16h10.181a.364.364 0 0 0 .364-.364v-4c0-.2-.163-.363-.364-.363h-3.219ZM11.273 12H12v3.273h-.727V12Zm-8.909 1.091a.545.545 0 1 1 0 1.09.545.545 0 0 1 0-1.09Z" color="#ececec"/>
+</svg>

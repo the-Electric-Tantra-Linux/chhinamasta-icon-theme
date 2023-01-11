@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="clamav_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="clamav_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="clamav_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="clamav_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="clamav_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="clamav_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="clamav_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="clamav_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="clamav_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="clamav_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .clamav_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M10.07 11.896a2.287 2.287 0 0 1-1.499-1.039l1.445-.778c.294.6.346 1.24.054 1.817Zm.027.006a2.43 2.43 0 0 0 1.821-.209c1.171-.631 1.573-2.028.896-3.122l-1.988 1.072v.071c.122.624-.115 1.369-.729 2.188Zm-4.167-.006a2.285 2.285 0 0 0 1.498-1.039l-1.444-.778c-.294.6-.347 1.24-.054 1.817Zm-.027.006a2.43 2.43 0 0 1-1.821-.209c-1.171-.631-1.573-2.028-.896-3.122l1.988 1.072v.071c-.122.624.115 1.369.729 2.188ZM13.631 0a5.905 5.905 0 0 1-1.845 3.422A6.837 6.837 0 0 0 8 2.286a6.834 6.834 0 0 0-3.788 1.137A5.9 5.9 0 0 1 2.369.038a6.025 6.025 0 0 0-.083.958 5.96 5.96 0 0 0 .944 3.219 6.833 6.833 0 0 0-2.087 4.928A6.842 6.842 0 0 0 8 16a6.842 6.842 0 0 0 6.857-6.857c0-1.94-.8-3.681-2.086-4.926A5.968 5.968 0 0 0 13.631 0Z" color="#ececec"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="deepin-image-viewer_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="deepin-image-viewer_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="deepin-image-viewer_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="deepin-image-viewer_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="deepin-image-viewer_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="deepin-image-viewer_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="deepin-image-viewer_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="deepin-image-viewer_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="deepin-image-viewer_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="deepin-image-viewer_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .deepin-image-viewer_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M.459 0v15.08h5.105a6.506 6.506 0 0 1-2.548-3.23H1.537V1.078h12.926v5.104a6.378 6.378 0 0 1 1.055 3.513c.021 0 .023-1.351.023-9.695H.459zm11.31 2.154c-.75 0-1.374.514-1.556 1.207a6.418 6.418 0 0 1 2.89 1.32 1.616 1.616 0 0 0-1.333-2.527zM9.077 4.31a5.395 5.395 0 0 0-5.385 5.386 5.393 5.393 0 0 0 5.385 5.385c1.29 0 2.46-.476 3.389-1.236L14.62 16l.762-.762-2.156-2.156c.76-.929 1.236-2.097 1.236-3.387A5.396 5.396 0 0 0 9.076 4.31zM8.97 5.43a4.26 4.26 0 0 1 .107 0 4.26 4.26 0 0 1 4.266 4.266 4.26 4.26 0 0 1-4.266 4.264 4.26 4.26 0 0 1-4.264-4.264A4.26 4.26 0 0 1 8.97 5.43zm-.11 1.077a3.235 3.235 0 0 0-.816.16l-.584.875-.268-.447a3.184 3.184 0 0 0-1.326 2.601c0 .382.077.74.196 1.076h5.17L8.86 6.506zm-6.154 4.096-.094.17h.121a6.37 6.37 0 0 1-.027-.17zm3.992 1.248a3.183 3.183 0 0 0 2.377 1.054c.953 0 1.794-.408 2.38-1.054H6.698z" color="#ececec"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="boswars_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="boswars_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="boswars_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="boswars_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="boswars_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="boswars_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="boswars_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="boswars_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="boswars_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="boswars_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .boswars_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M5.538 3.077a1.23 1.23 0 0 0-1.23 1.231v1.846h6.769l-.923-2.308a1.22 1.22 0 0 0-1.135-.769H5.538Zm9.231.308v.307h-4.058l.501 1.231h3.557v.308H16V3.385h-1.231ZM1.884 6.769c-.41 0-.79.214-1.019.558L0 8.615v.616h.039c-.029.281.018.567.192.827l1.173 1.769a2.444 2.444 0 0 0 2.038 1.096h9.116c.822 0 1.581-.411 2.038-1.096l1.173-1.769c.161-.244.229-.537.193-.827H16v-.616l-.865-1.288a1.23 1.23 0 0 0-1.02-.558H1.884Zm-.557 2.462h13.346c.109 0 .137.063.077.154l-1.173 1.75v.019a1.21 1.21 0 0 1-1.019.538H3.442a1.223 1.223 0 0 1-1.019-.557L1.25 9.385c-.059-.091-.033-.154.077-.154Zm10.673 0a.923.923 0 1 0 0 1.845.923.923 0 0 0 0-1.845Zm-2.462 0a.923.923 0 1 0 0 1.847.923.923 0 0 0 0-1.847Zm-3.076 0a.924.924 0 1 0 0 1.847.924.924 0 0 0 0-1.847ZM4 9.231a.923.923 0 1 0 0 1.845.923.923 0 0 0 0-1.845Z" color="#ececec"/>
+</svg>

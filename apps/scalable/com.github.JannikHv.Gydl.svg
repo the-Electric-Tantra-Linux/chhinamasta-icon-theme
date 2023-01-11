@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_JannikHv_Gydl_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_JannikHv_Gydl_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_JannikHv_Gydl_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_JannikHv_Gydl_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_JannikHv_Gydl_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_JannikHv_Gydl_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_JannikHv_Gydl_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_JannikHv_Gydl_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_JannikHv_Gydl_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_JannikHv_Gydl_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_JannikHv_Gydl_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M7.998 1.693s-3.135 0-5.262.159h-.011l-.012.002c-.208.025-1.106.063-1.799.812-.333.352-.478.789-.58 1.148-.102.362-.145.66-.145.66v.01S.04 5.757.037 7.05L.033 8.945a24.038 24.038 0 0 0 .153 2.569v.004l.002.003s.04.3.142.66c.102.36.25.798.582 1.15.72.776 1.738.777 1.914.812l.024.003.023.002c1.29.129 5.121.159 5.121.159H8s3.136-.008 5.26-.162l.013-.002h.012c.208-.026 1.108-.064 1.8-.813.334-.351.479-.788.581-1.148.102-.361.145-.66.145-.66v-.01s.15-1.273.152-2.565l.004-1.898c.002-1.294-.153-2.567-.153-2.567V4.48l-.002-.004s-.04-.3-.142-.66c-.102-.36-.25-.797-.582-1.149-.693-.75-1.592-.787-1.799-.812l-.012-.002h-.011c-2.127-.16-5.26-.159-5.26-.159h-.008zm0 1h.006s3.113.002 5.166.155c.375.046.747.02 1.187.498l.002.002.004.004c.113.117.262.445.344.734.08.285.112.509.113.516 0 0 .149 1.235.147 2.447l-.004 1.896a24.6 24.6 0 0 1-.145 2.44s-.03.234-.113.523c-.082.29-.233.619-.346.737l-.004.001-.001.004c-.441.479-.814.45-1.188.496-2.052.148-5.153.16-5.162.16 0 0-3.872-.042-5-.15-.483-.091-.949-.057-1.361-.506l-.002-.004-.004-.001c-.112-.118-.262-.447-.344-.737a4.207 4.207 0 0 1-.113-.515s-.149-1.233-.147-2.446l.004-1.898c.002-1.21.144-2.43.145-2.44 0 0 .03-.234.113-.523.082-.29.233-.617.346-.734l.004-.004.001-.002c.442-.479.812-.453 1.186-.498 2.053-.153 5.166-.155 5.166-.155zM5.012 3.746v8.506l6.379-4.238-6.38-4.268zm1 1.873 3.576 2.393-3.576 2.375V5.619z" color="#ececec"/>
+</svg>

@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_cassidyjames_clairvoyant_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_cassidyjames_clairvoyant_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_cassidyjames_clairvoyant_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_cassidyjames_clairvoyant_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_cassidyjames_clairvoyant_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_cassidyjames_clairvoyant_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_cassidyjames_clairvoyant_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_cassidyjames_clairvoyant_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_cassidyjames_clairvoyant_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_cassidyjames_clairvoyant_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_cassidyjames_clairvoyant_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M.924 8c0-3.863 3.17-7 7.076-7 3.906 0 7.076 3.137 7.076 7S11.906 15 8 15C4.094 15 .924 11.863.924 8Zm1.701 0c0-2.935 2.408-5.317 5.375-5.317S13.375 5.065 13.375 8 10.967 13.317 8 13.317 2.625 10.935 2.625 8Zm5.363 4.424q-1.359 0-2.187-.728-.829-.727-.829-1.895 0-.715.4-1.263.399-.548 1.09-.835-.5-.238-.822-.685-.322-.447-.322-1.031 0-.965.733-1.579t1.937-.614q1.216 0 1.955.614.739.614.739 1.579 0 .584-.328 1.031-.328.447-.84.674.691.286 1.102.846.411.56.411 1.263 0 1.168-.834 1.895-.834.728-2.205.728ZM7.07 6.827q.346.292.918.292.572 0 .93-.292.357-.292.357-.733 0-.464-.357-.751-.358-.286-.93-.286-.572 0-.918.286-.345.287-.345.751 0 .441.345.733Zm-.232 3.934q.447.387 1.15.387.703 0 1.156-.387.453-.388.453-1.007 0-.596-.453-.99-.453-.393-1.156-.393-.703 0-1.15.393-.447.394-.447.99 0 .619.447 1.007Z" color="#ececec"/>
+</svg>

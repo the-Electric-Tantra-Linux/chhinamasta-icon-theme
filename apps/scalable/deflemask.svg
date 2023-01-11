@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="deflemask_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="deflemask_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="deflemask_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="deflemask_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="deflemask_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="deflemask_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="deflemask_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="deflemask_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="deflemask_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="deflemask_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .deflemask_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M9.24.052c-.106.009-.215.04-.325.075v-.05l-.1.024-7.661 1.972a.66.66 0 0 0-.075.025C.356 2.388-.128 3.168.03 3.97v.05l1.448 5.414v.026c.455 1.55 1.685 2.492 2.92 3.045a8.218 8.218 0 0 0 1.322 1.597 12.182 12.182 0 0 0 2.371 1.747c.15.088.327.121.499.1 0 0 .35-.063.874-.2a12.866 12.866 0 0 0 1.946-.674c.546-.243 1.139-.549 1.672-.948a5.77 5.77 0 0 0 .499-.425c.655-.611 1.173-1.4 1.348-2.396l1.023-5.59.025-.024a1.637 1.637 0 0 0-1.273-1.872h-.025l-3.269-.599-.549-1.971c-.003-.019-.019-.032-.024-.051-.104-.43-.388-.742-.725-.948a1.415 1.415 0 0 0-.873-.199h.001ZM5.496 2.596v.026a1.972 1.972 0 0 0-.823 1.022c-.01.032-.019.066-.026.1l-.273 1.647a.958.958 0 0 0-.225.025c-.639.16-.948 1.099-.948 1.099s.418.367.899.473l-.4 2.347a4.156 4.156 0 0 0-.05.748 2.753 2.753 0 0 1-.623-1.048l-1.448-5.39c0 .003 0-.02.075-.051l3.842-.998ZM6.27 3.97c.022-.019.04-.007.075 0l4.043.723-1.198 6.464-2.396-.399.075.15c.315.942 1.086 1.671 2.021 1.846l-.274 1.522c-.2-.111-.927-.517-1.797-1.347-.858-.818-1.55-1.825-1.573-2.87-.005-.15.003-.301.026-.45l.923-5.464c.034-.099.053-.156.075-.175Zm1.398 2.77c-.565.031-1.123.574-1.123.574s.408.966 1.048 1.048c.639.16 1.348-.549 1.348-.549s-.384-.967-1.024-1.048a.95.95 0 0 0-.249-.025Zm4.866.874a.926.926 0 0 1 .25.024c.586.071.963.864 1.023.998v.025l-.025.051c-.106.09-.74.595-1.323.524-.639-.082-1.024-1.023-1.024-1.023s.534-.568 1.099-.599Z" color="#ececec"/>
+</svg>

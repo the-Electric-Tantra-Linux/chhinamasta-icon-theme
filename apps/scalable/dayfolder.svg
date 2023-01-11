@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="dayfolder_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="dayfolder_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="dayfolder_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="dayfolder_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="dayfolder_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="dayfolder_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="dayfolder_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="dayfolder_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="dayfolder_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="dayfolder_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .dayfolder_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M5.863 0 4.797.267v.8h1.066zm0 1.067v1.066H4.797V1.067c-1.342.016-2.324-.032-3.128.41-.4.221-.72.598-.896 1.065-.175.467-.236 1.024-.236 1.725V12.8c0 .702.061 1.258.237 1.725.175.468.494.841.896 1.062.803.444 1.785.397 3.127.413H8v-1.067H4.797c-1.344-.016-2.226-.064-2.617-.28-.195-.106-.31-.225-.413-.503-.104-.277-.17-.719-.17-1.35V7.467c0-.632.067-1.073.17-1.35.105-.278.218-.396.413-.504.392-.217 1.275-.264 2.623-.28h6.394c1.344.016 2.226.064 2.616.28.197.106.31.226.413.503.105.278.17 1.35.17 1.35V9.6h.007v3.2c0 .631-.066 1.073-.17 1.35-.105.278-.218.396-.413.504-.39.215-1.273.263-2.617.28h-3.2V16h3.2c1.342-.016 2.324.03 3.127-.413.402-.22.72-.594.896-1.062.176-.467.237-1.024.237-1.725V4.267c0-.702-.064-1.258-.24-1.725a2.005 2.005 0 0 0-.892-1.065c-.804-.443-1.786-.394-3.128-.41v1.066h-1.066V1.067h1.06V0L10.13.267v.8Z" color="#ececec"/>
+</svg>

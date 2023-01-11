@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="dk_tangramgames_mrrescue_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="dk_tangramgames_mrrescue_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="dk_tangramgames_mrrescue_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="dk_tangramgames_mrrescue_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="dk_tangramgames_mrrescue_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="dk_tangramgames_mrrescue_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="dk_tangramgames_mrrescue_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="dk_tangramgames_mrrescue_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="dk_tangramgames_mrrescue_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="dk_tangramgames_mrrescue_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .dk_tangramgames_mrrescue_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" fill-rule="evenodd" d="M6.823 11.863c.002.105-.003.258-.026.367a4.84 4.84 0 0 0-.621.074c-.301.081-.683.02-.683.664s-.041 1.77-.041 2.011c0 .242-.12.463.201.624C5.975 15.764 6.914 16 8 16s2.025-.236 2.347-.397c.321-.161.201-.382.201-.624 0-.241-.041-1.367-.041-2.011 0-.644-.382-.583-.683-.664a4.743 4.743 0 0 0-.627-.074 1.915 1.915 0 0 1-.025-.367c.215-.002.424-.007.598-.015.644-.026.483-.348.563-.697.081-.349.188-.51.456-.617.268-.107 1.556-.751 2.145-1.448.591-.697 1.073-3.701 1.181-5.095.107-1.395-.456-2.736-1.019-3.38-.564-.643-1.69-.643-2.226-.59-.537.054-2.441.322-2.87.322-.429 0-2.333-.268-2.87-.322-.536-.053-1.662-.053-2.225.59-.564.644-1.127 1.985-1.02 3.38.108 1.394.59 4.397 1.181 5.095.589.697 1.877 1.341 2.145 1.448.268.107.375.268.456.617.08.349-.081.671.563.697.172.008.38.012.593.015Zm-.358-4.476c-.91.99-1.615 1.115-2.097.932-1.249-.416-1.332-1.432-1.748-3.696-.417-2.264 2.064-.76 2.696-.516C8.08 5.173 6.698 7.12 6.465 7.387Zm6.828-2.764c-.416 2.264-.5 3.28-1.748 3.696-.483.183-1.188.058-2.098-.932-.233-.267-1.614-2.214 1.149-3.28.632-.244 3.113-1.748 2.697.516Z" color="#ececec"/>
+</svg>

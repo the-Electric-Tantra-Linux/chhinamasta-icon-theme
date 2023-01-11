@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_bitseater_weather_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_bitseater_weather_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_bitseater_weather_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_bitseater_weather_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_bitseater_weather_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_bitseater_weather_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_bitseater_weather_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_bitseater_weather_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_bitseater_weather_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_bitseater_weather_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_bitseater_weather_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M11.377 5.745c-1.351.001-2.483.83-3.06 1.989l.058-.005c-.026.001-.046.017-.072.019-.013.027-.043.04-.056.067l.028-.059C6.996 7.905 6 9.013 6 10.357 6 11.801 7.137 13 8.552 13h5.462C15.116 13 16 12.065 16 10.948c0-.807-.481-1.476-1.152-1.807l.005.056v.008c-.001-.026-.016-.048-.018-.074-.029-.014-.044-.049-.074-.062l.066.029c-.139-1.855-1.607-3.35-3.447-3.351h.02l-.012-.001-.011-.001Zm.436.679c1.34.221 2.386 1.353 2.452 2.807v.004l.019.27.245.106c.518.219.883.725.883 1.338 0 .379-.158.71-.384.97.226-.261.383-.594.38-.972a1.448 1.448 0 0 0-.881-1.336l-.247-.105-.017-.265v-.002l-.001-.007c-.066-1.452-1.11-2.585-2.448-2.807l-.001-.001Zm-.436.499h.006c1.228.004 2.232 1.013 2.292 2.334v.002l.042.647.581.245a.84.84 0 0 1 .523.797v.002c.005.504-.37.873-.806.873H8.553c-.749 0-1.375-.633-1.375-1.466 0-.794.581-1.404 1.282-1.455l.597-.043.26-.554c.387-.834 1.153-1.382 2.06-1.383v.001ZM8.753 8.124l-.082.174H8.67l.083-.174Zm-1.631.833c-.33.366-.533.859-.533 1.401a2.128 2.128 0 0 0-.001 0c0-.544.204-1.035.534-1.401Zm.043 2.853Zm7.838.171c-.199.209-.487.285-.775.338.288-.053.576-.129.775-.338Z" class="com_github_bitseater_weather_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M6.17 1.17 5.113 3H3v2.113L1.17 6.17 2.227 8 1.17 9.83 3 10.887V13h2.113l1.057 1.83L8 13.773l1.83 1.057L10.887 13H13v-1.105c-1.09.053-2.204.009-3.303.013-.667-.069-1.446.154-2.008-.32-.935-.667-.705-2.387.446-2.676.292-.138.729-.014.922-.258.364-.884 1.118-1.787 2.156-1.775.243 0 .491-.01.73.045 1.19.294 1.878 1.55 1.836 2.719-.121.365.436.223.469.509-.009.013-.023.021-.033.034l.615-.356L13.773 8l1.057-1.83L13 5.113V3h-2.113L9.83 1.17 8 2.227 6.17 1.17Z" class="com_github_bitseater_weather_svg__ColorScheme-Text"/>
+</svg>

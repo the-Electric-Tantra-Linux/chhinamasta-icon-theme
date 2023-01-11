@@ -1,0 +1,55 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="electron_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="electron_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="electron_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="electron_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="electron_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="electron_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="electron_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="electron_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="electron_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="electron_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .electron_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M11.46 1.264c-.875.034-1.872.604-2.927 1.522-1.055.917-2.157 2.202-3.148 3.728-1.175 1.81-1.975 3.619-2.319 5.114-.172.747-.231 1.415-.154 1.98.077.565.304 1.045.725 1.318.399.26.9.285 1.416.15.516-.133 1.067-.422 1.644-.833a.306.306 0 1 0-.353-.498c-.536.382-1.034.634-1.444.74-.41.106-.71.072-.93-.07-.23-.15-.39-.434-.453-.889-.062-.455-.016-1.063.145-1.762.321-1.397 1.094-3.159 2.236-4.918.964-1.484 2.036-2.727 3.037-3.597 1.001-.87 1.941-1.35 2.55-1.373.224-.009.4.037.544.13.217.141.369.398.44.807.07.41.048.955-.077 1.588a.306.306 0 1 0 .6.117c.134-.682.17-1.293.08-1.81-.09-.518-.316-.96-.71-1.215a1.533 1.533 0 0 0-.901-.229Z" class="electron_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M6.975 5.067c-1.88.006-3.556.264-4.8.713-.62.224-1.136.495-1.517.824-.38.33-.632.734-.656 1.188-.023.432.165.843.48 1.197.315.354.76.666 1.305.947a.306.306 0 1 0 .28-.543c-.5-.257-.885-.538-1.128-.81C.697 8.31.6 8.06.611 7.823c.013-.25.15-.498.447-.756.298-.257.751-.506 1.325-.713 1.146-.414 2.768-.67 4.592-.676.379 0 .765.007 1.156.03l.002.002c2.094.11 3.974.52 5.293 1.082.66.28 1.176.6 1.507.918.332.318.468.613.454.888-.013.238-.136.474-.407.721-.27.247-.683.488-1.209.691a.306.306 0 1 0 .221.57c.574-.222 1.05-.488 1.4-.808.352-.32.583-.71.606-1.142.026-.501-.23-.967-.64-1.362-.412-.394-.989-.739-1.694-1.039-1.41-.6-3.344-1.018-5.498-1.13h-.002a20.954 20.954 0 0 0-1.19-.032Z" class="electron_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M4.9.924c-.186.014-.37.063-.537.149-.447.228-.721.682-.857 1.236-.136.554-.147 1.225-.055 1.987.185 1.523.79 3.41 1.77 5.332.98 1.922 2.148 3.519 3.271 4.564.562.523 1.11.91 1.639 1.125.528.215 1.057.259 1.504.031.43-.219.703-.65.843-1.174.14-.523.162-1.157.088-1.876-.147-1.439-.684-3.221-1.57-5.063a.306.306 0 1 0-.55.266c.86 1.79 1.376 3.52 1.513 4.859.068.67.04 1.239-.072 1.656-.112.418-.294.667-.53.787-.245.125-.57.121-.996-.052-.426-.174-.928-.518-1.453-1.006-1.05-.977-2.19-2.526-3.142-4.395-.953-1.868-1.535-3.703-1.708-5.127-.086-.712-.068-1.322.041-1.77.11-.446.298-.71.543-.835a.77.77 0 0 1 .303-.082c.429-.032 1.087.249 1.809.847a.306.306 0 1 0 .39-.47C6.361 1.263 5.606.872 4.9.924Z" class="electron_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M8.966 8.32a.917.917 0 0 1-1.834 0 .917.917 0 1 1 1.834 0z" class="electron_svg__ColorScheme-Text"/>
+</svg>

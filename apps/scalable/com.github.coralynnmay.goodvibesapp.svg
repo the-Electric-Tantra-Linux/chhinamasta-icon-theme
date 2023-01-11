@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_coralynnmay_goodvibesapp_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_coralynnmay_goodvibesapp_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_coralynnmay_goodvibesapp_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_coralynnmay_goodvibesapp_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_coralynnmay_goodvibesapp_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_coralynnmay_goodvibesapp_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_coralynnmay_goodvibesapp_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_coralynnmay_goodvibesapp_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_coralynnmay_goodvibesapp_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_coralynnmay_goodvibesapp_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_coralynnmay_goodvibesapp_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M8.909 3.636c-.019 0-.037.004-.055.006H8c-.044 0-1.958-.008-2.415-.001.066.002.055.003-.272.001C2.501 3.629.642 5.17.116 7.948c-.432 2.282.352 3.783 2.249 4.302.69.189 2.827.098 3.734-.159 1.592-.451 1.496-.6 1.803-2.15C8.147 8.703 8.136 8 7.636 8c-.147-.003-.41.013-.545 0H5.636a.544.544 0 0 0-.545.545c0 .303.243.546.545.546h.498c-.015.19-.066.463-.149.891-.222 1.144-.237 1.388-.744 1.593-1.891.761-3.064-.172-2.973-2.363.131-3.117 1.386-5.014 3.319-5.014 1.701 0 2.327.788 2.903 3.651.951 4.729.803 4.475 1.518 4.501.761.028.41.332 3.119-4.378 1.114-1.936 1.623-2.818 1.914-3.245h.414A.544.544 0 0 0 16 4.182l-.001-.014.001-.014a.506.506 0 0 0-.43-.505.548.548 0 0 0-.115-.013H14a.545.545 0 1 0 0 1.091h.232c-.575 1.104-2.715 4.856-2.919 5.088-.185.21-.24.024-.775-2.6-.294-1.438-.436-2.131-.456-2.488h.282a.544.544 0 0 0 .478-.286.526.526 0 0 0 .085-.287.505.505 0 0 0-.5-.512h-.008c-.018-.002-.036-.006-.055-.006H8.909Zm-3.596.006.272-.001c-.141-.003-.748-.009-.272.001Z" color="#ececec"/>
+</svg>

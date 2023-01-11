@@ -1,0 +1,52 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="dbeaver_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="dbeaver_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="dbeaver_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="dbeaver_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="dbeaver_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="dbeaver_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="dbeaver_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="dbeaver_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="dbeaver_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="dbeaver_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .dbeaver_svg__ColorScheme-Highlight{color:#5294e2}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M2.972 0c-.941 0-.677 1.427-1.333 2.084-.219.218-.5.388-.5.888 0 .472.215 1.021.889 1.25C1.67 5.264 1.281 6.42.694 7.694.382 8.372-.004 9.035 0 9.611.007 11.34 2.941 16 8 16s7.993-4.66 8-6.389c.004-.576-.382-1.239-.694-1.917-.587-1.274-.976-2.43-1.334-3.472.674-.229.889-.778.889-1.25 0-.5-.281-.67-.5-.888C13.705 1.427 13.969 0 13.028 0c-.431 0-.816.323-1.112.667C11.316.246 10.548 0 9.444 0 8.802 0 8.378.195 8 .195 7.621.195 7.209 0 6.556 0 5.455 0 4.68.246 4.084.667 3.788.323 3.403 0 2.972 0Zm1.806 2.084a.47.47 0 0 1 .278 0c.332.118.447.666.249 1.222-.197.555-.638.923-.972.805-.333-.118-.448-.667-.249-1.222.149-.417.423-.729.694-.805Zm6.167 0c.332-.119.773.249.971.805.199.555.084 1.104-.249 1.222-.334.118-.775-.25-.973-.805-.197-.556-.083-1.104.25-1.222h.001ZM8 3.556c1.785 0 2.667 1.472 2.667 1.916 0 .191-.285.486-.639.778-.094-.243-.281-.417-.5-.417-.316 0-.583.358-.583.779 0 .11.024.211.055.304a.694.694 0 0 1-.25.056h-1.5A.62.62 0 0 1 7 6.916a.956.956 0 0 0 .056-.305c0-.42-.268-.777-.584-.777-.219 0-.403.177-.5.416-.358-.292-.639-.601-.639-.778 0-.413.882-1.916 2.667-1.916Zm-.444 5.056v4.36a.851.851 0 0 1-.417.112H5.861c-.475 0-1.278-2.313-1.278-3.417 1.351 0 2.41-.438 2.973-1.056v.001Zm.888 0c.563.617 1.622 1.055 2.973 1.055 0 1.104-.803 3.417-1.278 3.417H8.862a.849.849 0 0 1-.417-.112l-.001-4.36Z" color="#ececec"/>
+</svg>

@@ -1,0 +1,53 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_alcadica_develop_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_alcadica_develop_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_alcadica_develop_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_alcadica_develop_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_alcadica_develop_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_alcadica_develop_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_alcadica_develop_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_alcadica_develop_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_alcadica_develop_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_alcadica_develop_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_alcadica_develop_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M9.314.059 6.682.453v.809a6.99 6.99 0 0 0-2.104.761L3.93 1.25 1.924 2.955l.637.76a6.99 6.99 0 0 0-.635.92 6.97 6.97 0 0 0-.475 1.023L.447 5.48l-.44 2.594.995.176c.014.748.145 1.486.39 2.19l-.892.517 1.33 2.272.883-.51a6.98 6.98 0 0 0 1.701 1.426l-.353.976 2.48.883.35-.961c.741.119 1.49.123 2.218.006l.354.97 2.469-.914-.348-.955a6.92 6.92 0 0 0 1.705-1.427l.893.513 1.302-2.287-.879-.508a6.942 6.942 0 0 0 .383-2.189l1.02-.18-.475-2.59-1.002.176a7.013 7.013 0 0 0-1.113-1.922l.668-.795-2.03-1.68-.648.774a6.98 6.98 0 0 0-2.094-.767V.058zm-1.322 2.08a6 6 0 0 1 6 6 6 6 0 0 1-6 6 6 6 0 0 1-6-6 6 6 0 0 1 6-6z" class="com_github_alcadica_develop_svg__ColorScheme-Text"/>
+  <path fill="currentColor" d="M7.64 3.152a4.989 4.989 0 0 0-3.98 2.483 5.013 5.013 0 0 0 1.836 6.834 5.002 5.002 0 0 0 6.83-1.826 5.01 5.01 0 0 0-1.836-6.832 4.976 4.976 0 0 0-2.849-.658zm.353.986a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4z" class="com_github_alcadica_develop_svg__ColorScheme-Text" opacity=".8"/>
+</svg>

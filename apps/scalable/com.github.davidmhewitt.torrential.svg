@@ -1,0 +1,54 @@
+<svg width="16" height="16">
+  <defs>
+    <linearGradient id="com_github_davidmhewitt_torrential_svg__arrongin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#dd9b44"/>
+      <stop offset="100%" stop-color="#ad6c16"/>
+    </linearGradient>
+    <linearGradient id="com_github_davidmhewitt_torrential_svg__aurora" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#09d4df"/>
+      <stop offset="100%" stop-color="#9269f4"/>
+    </linearGradient>
+    <linearGradient id="com_github_davidmhewitt_torrential_svg__cyberneon" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0" stop-color="#0abdc6"/>
+      <stop offset="1" stop-color="#ea00d9"/>
+    </linearGradient>
+    <linearGradient id="com_github_davidmhewitt_torrential_svg__fitdance" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1ad6ab"/>
+      <stop offset="100%" stop-color="#329db6"/>
+    </linearGradient>
+    <linearGradient id="com_github_davidmhewitt_torrential_svg__oomox" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#efefe7"/>
+      <stop offset="100%" stop-color="#8f8f8b"/>
+    </linearGradient>
+    <linearGradient id="com_github_davidmhewitt_torrential_svg__rainblue" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f260"/>
+      <stop offset="100%" stop-color="#0575e6"/>
+    </linearGradient>
+    <linearGradient id="com_github_davidmhewitt_torrential_svg__sunrise" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8501"/>
+      <stop offset="100%" stop-color="#ffcb01"/>
+    </linearGradient>
+    <linearGradient id="com_github_davidmhewitt_torrential_svg__telinkrin" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#b2ced6"/>
+      <stop offset="100%" stop-color="#6da5b7"/>
+    </linearGradient>
+    <linearGradient id="com_github_davidmhewitt_torrential_svg__60spsycho" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#df5940"/>
+      <stop offset="25%" stop-color="#d8d15f"/>
+      <stop offset="50%" stop-color="#e9882a"/>
+      <stop offset="100%" stop-color="#279362"/>
+    </linearGradient>
+    <linearGradient id="com_github_davidmhewitt_torrential_svg__90ssummer" x1="0%" x2="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f618c7"/>
+      <stop offset="20%" stop-color="#94ffab"/>
+      <stop offset="50%" stop-color="#fbfd54"/>
+      <stop offset="100%" stop-color="#0f83ae"/>
+    </linearGradient>
+    <style id="current-color-scheme" type="text/css">
+      .com_github_davidmhewitt_torrential_svg__ColorScheme-Text{color:#ececec}
+    </style>
+  </defs>
+  <path fill="currentColor" d="M8 0s-.8 0-.8.8-.8.8-.8.8-.8.001-.8-.8V12h4.8V.8c0 .8-.8.8-.8.8s-.8 0-.8-.8S8 0 8 0Z" class="com_github_davidmhewitt_torrential_svg__ColorScheme-Text" opacity=".2"/>
+  <path fill="currentColor" d="M6.4 3.2s-.8-.001-.8.8v4.8h4.8V4c0-.8-.8-.8-.8-.8s-.8 0-.8.8-.8.8-.8.8-.8 0-.8-.8-.8-.8-.8-.8Z" class="com_github_davidmhewitt_torrential_svg__ColorScheme-Text" opacity=".5"/>
+  <path fill="currentColor" d="M2.4 9.6 8 16l5.6-6.4-3.2.001V7.199C10.4 8 9.6 8 9.6 8s-.8 0-.8-.8-.8-.8-.8-.8-.8 0-.8.8-.8.8-.8.8-.8 0-.8-.8v2.4Z" class="com_github_davidmhewitt_torrential_svg__ColorScheme-Text"/>
+</svg>
